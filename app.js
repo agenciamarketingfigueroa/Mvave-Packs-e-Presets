@@ -1,4 +1,5 @@
 import { CATALOG_ITEMS, FIRMWARE_ITEMS, PACK_BRANDS, SOFTWARE_ITEMS } from "./catalog-data.js";
+import { CONTENT_ARTICLES, CONTENT_TOPICS } from "./content-data.js";
 
 const ROOT = "/";
 const CHECKOUTS = {
@@ -143,7 +144,7 @@ function header(active, solid) {
     ["home", "/", "Início"],
     ["packs", "/#packs", "Packs"],
     ["compatibilidade", "/compatibilidade/", "Compatibilidade"],
-    ["novidades", "/novidades/", "Novidades"],
+    ["conteudos", "/conteudos/", "Central do Timbre"],
     ["presets", "/presets/", "Presets"]
   ];
   const productActive = ["completo", "guitarra", "baixo", "violao"].includes(active);
@@ -168,7 +169,7 @@ function footer() {
       "<div class='footer-grid'>" +
         "<div class='footer-brand'><img src='/assets/img/Logo%20Home/Logo%20Site%20Mvave%20Amarela%20e%20Branca.png' alt='M-Vave BR'><p>IRs, conteúdo e ferramentas para você tirar mais som do equipamento que já tem.</p></div>" +
         "<div class='footer-col'><h4>Packs</h4><a href='/completo/'>Pack completo</a><a href='/guitar/'>Guitarra</a><a href='/bass/'>Baixo</a><a href='/violao/'>Violão</a></div>" +
-        "<div class='footer-col'><h4>Conteúdo</h4><a href='/catalogo/completo/'>Catálogo de IRs</a><a href='/compatibilidade/'>Compatibilidade</a><a href='/atualizacoes/'>Softwares e atualizações</a><a href='/novidades/'>Novidades</a><a href='/presets/'>Presets</a><a href='/sobre/'>Sobre nós</a></div>" +
+        "<div class='footer-col'><h4>Conteúdo</h4><a href='/conteudos/'>Central do Timbre</a><a href='/catalogo/completo/'>Catálogo de IRs</a><a href='/compatibilidade/'>Compatibilidade</a><a href='/atualizacoes/'>Softwares e atualizações</a><a href='/presets/'>Presets</a><a href='/sobre/'>Sobre nós</a></div>" +
         "<div class='footer-col'><h4>Atendimento</h4><a href='/contato/'>Contato</a><a href='" + WHATSAPP + "' target='_blank' rel='noopener'>WhatsApp</a><a href='mailto:contato@mvave.com.br'>E-mail</a></div>" +
       "</div>" +
       "<div class='independence-notice'><span class='independence-mark'>i</span><p><strong>Somos um projeto independente.</strong> Não temos vínculo, representação ou afiliação com a fabricante M-Vave. M-Vave e as demais marcas citadas pertencem aos seus respectivos titulares e aparecem apenas para indicar possíveis equipamentos compatíveis.</p></div>" +
@@ -379,7 +380,7 @@ function journalCards() {
     ["Lançamento 2026", "6 min", "MINI", "Quad Cortex mini: 2.048 espaços para User IRs.", "O novo formato compacto preserva a capacidade de IRs do flagship em um corpo mais de 50% menor.", "quad-cortex-mini"]
   ];
   return "<div class='journal-grid'>" + items.map(function(item, index) {
-    return "<a class='journal-card " + (index === 0 ? "journal-featured " : "") + "reveal' href='/novidades/#" + item[5] + "'><div class='journal-meta'><span>" + item[0] + "</span><span>Leitura · " + item[1] + "</span></div><div class='journal-visual'><span>" + item[2] + "</span><i></i><i></i><i></i><i></i><i></i></div><div class='journal-copy'><h3>" + item[3] + "</h3><p>" + item[4] + "</p><span class='text-link'>Abrir matéria</span></div></a>";
+    return "<a class='journal-card " + (index === 0 ? "journal-featured " : "") + "reveal' href='/conteudos/#" + item[5] + "'><div class='journal-meta'><span>" + item[0] + "</span><span>Leitura · " + item[1] + "</span></div><div class='journal-visual'><span>" + item[2] + "</span><i></i><i></i><i></i><i></i><i></i></div><div class='journal-copy'><h3>" + item[3] + "</h3><p>" + item[4] + "</p><span class='text-link'>Abrir matéria</span></div></a>";
   }).join("") + "</div>";
 }
 
@@ -505,10 +506,10 @@ function homePage() {
     "<main id='conteudo'>" +
       "<section class='hero'><div class='container'><div class='hero-content'><span class='eyebrow'>Curadoria independente de IRs</span><h1>Seu equipamento pode soar <span>muito melhor.</span></h1><p class='hero-copy'>Impulse Responses testados para guitarra, baixo e violão — prontos para M-Vave, Quad Cortex, Fractal, Kemper, TONEX, Line 6 e outros equipamentos que carregam IRs.</p><div class='button-row'>" + button("Escolher meu pack", "#packs", "", false) + button("Entender os IRs", "#como-funciona", "btn-outline", false) + "</div>" + urgencyNotice(true) + "</div>" + proofStrip() + "</div></section>" +
       "<section class='section' id='packs'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Escolha seu caminho</span><h2>O pack certo para o som que você busca.</h2></div><p>Comece pelo seu instrumento ou leve a biblioteca completa com mais de 13 mil possibilidades.</p></div>" + urgencyNotice(false) + packCards() + catalogQuickLinks() + "</div></section>" +
-      "<section class='section section-dark' id='como-funciona'><div class='container split'><div class='signal-panel reveal' aria-label='Representação visual de um Impulse Response'><div class='wave'>" + [1,2,3,5,8,4,7,10,5,3,7,4,2,8,5,3,2,1,4,2,1].map(function(n){ return "<i style='--n:" + n + "'></i>"; }).join("") + "</div><div class='signal-label'><span>Som de entrada</span><span>Resposta do gabinete</span></div></div><div><span class='eyebrow'>O detalhe que muda tudo</span><h2>O arquivo certo.<br><span class='display-accent'>A configuração certa.</span></h2><p class='text-muted'>O IR reproduz a resposta sonora de um gabinete, amplificador ou instrumento. Mas um bom arquivo sozinho não resolve: ganho, níveis e instalação fazem parte do resultado.</p><ul class='check-list'><li>Mais naturalidade e definição no som em linha</li><li>Menos tempo caçando arquivos sem contexto</li><li>Configuração explicada passo a passo</li></ul>" + button("Ver como começar", "/novidades/#o-que-e-ir", "btn-light", false) + "</div></div></section>" +
+      "<section class='section section-dark' id='como-funciona'><div class='container split'><div class='signal-panel reveal' aria-label='Representação visual de um Impulse Response'><div class='wave'>" + [1,2,3,5,8,4,7,10,5,3,7,4,2,8,5,3,2,1,4,2,1].map(function(n){ return "<i style='--n:" + n + "'></i>"; }).join("") + "</div><div class='signal-label'><span>Som de entrada</span><span>Resposta do gabinete</span></div></div><div><span class='eyebrow'>O detalhe que muda tudo</span><h2>O arquivo certo.<br><span class='display-accent'>A configuração certa.</span></h2><p class='text-muted'>O IR reproduz a resposta sonora de um gabinete, amplificador ou instrumento. Mas um bom arquivo sozinho não resolve: ganho, níveis e instalação fazem parte do resultado.</p><ul class='check-list'><li>Mais naturalidade e definição no som em linha</li><li>Menos tempo caçando arquivos sem contexto</li><li>Configuração explicada passo a passo</li></ul>" + button("Ver como começar", "/conteudos/#o-que-e-ir", "btn-light", false) + "</div></div></section>" +
       "<section class='section section-dark' style='padding-top:0'><div class='container'>" + benefits() + "</div></section>" +
       "<section class='section'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Histórias reais</span><h2>Mais som. Menos frustração.</h2></div><p>Alguns relatos de quem decidiu entender o pedal e construir o próprio timbre.</p></div>" + testimonials() + "</div></section>" +
-      "<section class='section' style='background:#e8e6de'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Novidades & Guias</span><h2>Conteúdo para tirar mais som do que você já tem.</h2></div><a class='text-link' href='/novidades/'>Ver todos</a></div>" + journalCards() + "</div></section>" +
+      "<section class='section' style='background:#e8e6de'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Central do Timbre</span><h2>Conteúdo para tirar mais som do que você já tem.</h2></div><a class='text-link' href='/conteudos/'>Explorar a central</a></div>" + journalCards() + "</div></section>" +
       "<section class='section'><div class='container faq-wrap'><div><span class='eyebrow'>Sem letras miúdas</span><h2>Dúvidas frequentes.</h2><p>Se não encontrar sua resposta, fale com a gente pelo WhatsApp.</p>" + button("Falar com a gente", WHATSAPP, "btn-dark", true) + "</div>" + faqs(true) + "</div></section>" +
       "<section class='cta-band'><div class='container cta-inner'><h2>Seu equipamento já tem potencial. Falta desbloquear o timbre.</h2>" + button("Escolher meu pack", "#packs", "btn-light", false) + "</div></section>" +
     "</main>" + footer();
@@ -630,6 +631,40 @@ function newsPage() {
     "<section class='cta-band'><div class='container cta-inner'><h2>Pronto para colocar isso em prática?</h2>" + button("Explorar os packs", "/#packs", "btn-light", false) + "</div></section></main>" + footer();
 }
 
+function contentArticleCard(article, index) {
+  const topics = article.topics.map(function(topic) {
+    return "<span>" + topic + "</span>";
+  }).join("");
+  const takeaways = article.takeaways.map(function(item) {
+    return "<li><strong>" + item[0] + "</strong>" + item[1] + "</li>";
+  }).join("");
+  const external = article.source && article.source.indexOf("http") === 0;
+  const source = article.source
+    ? "<a class='article-source' href='" + article.source + "'" + (external ? " target='_blank' rel='noopener'" : "") + ">" + (external ? "Consultar fonte oficial" : "Ver catálogo relacionado") + iconArrow() + "</a>"
+    : "";
+
+  return "<article class='knowledge-card reveal" + (index === 0 ? " knowledge-featured" : "") + "' id='" + article.id + "' data-article data-topics='" + article.topics.join("|") + "'>" +
+    "<div class='knowledge-visual'><span>" + article.visual + "</span><div class='knowledge-wave' aria-hidden='true'><i></i><i></i><i></i><i></i><i></i></div><small>" + String(index + 1).padStart(2, "0") + "</small></div>" +
+    "<div class='knowledge-summary'><div class='knowledge-meta'><div class='knowledge-topics'>" + topics + "</div><small>" + article.minutes + "</small></div><p class='knowledge-label'>" + article.label + "</p><h2>" + article.title + "</h2><p class='knowledge-lead'>" + article.lead + "</p><button class='knowledge-toggle' type='button' aria-expanded='false' aria-controls='texto-" + article.id + "'><span class='toggle-label'>Continuar lendo</span>" + iconArrow() + "</button></div>" +
+    "<div class='knowledge-body' id='texto-" + article.id + "' hidden><p>" + article.body + "</p><div class='knowledge-callout'><span>Guarde isto</span><strong>" + article.callout + "</strong></div><ul class='knowledge-takeaways'>" + takeaways + "</ul>" + source + "</div>" +
+  "</article>";
+}
+
+function contentHubPage() {
+  document.title = "Central do Timbre — Guias, dicas e novidades | M-Vave BR";
+  const filters = ["Todos"].concat(CONTENT_TOPICS).map(function(topic, index) {
+    return "<button class='content-topic-chip" + (index === 0 ? " active" : "") + "' type='button' data-content-topic='" + topic + "' aria-pressed='" + (index === 0 ? "true" : "false") + "'>" + topic + "</button>";
+  }).join("");
+  const cards = CONTENT_ARTICLES.map(contentArticleCard).join("");
+
+  return header("conteudos", false) +
+    "<main id='conteudo' class='content-hub'><section class='content-hub-hero'><div class='container content-hub-hero-inner'><div><span class='eyebrow'>Guias · descobertas · equipamento</span><h1>Central do<br><span class='display-accent'>Timbre.</span></h1><p>Um lugar para entender IRs, configurar melhor seu equipamento e acompanhar o que realmente importa — sem transformar música em manual técnico.</p></div><div class='content-hub-seal'><span>Biblioteca</span><strong>" + CONTENT_ARTICLES.length + "</strong><small>matérias para tocar melhor</small></div></div></section>" +
+    "<section class='content-library'><div class='container'><div class='content-finder'><label for='content-search'><span>Encontre um assunto, marca ou equipamento</span><div class='content-search'><svg viewBox='0 0 24 24' aria-hidden='true'><circle cx='11' cy='11' r='7'></circle><path d='m16 16 5 5'></path></svg><input id='content-search' type='search' autocomplete='off' placeholder='Ex.: Cube Baby, microfone, som rachando…'><kbd>/</kbd></div></label><div class='content-topic-block'><span>Filtrar por tema</span><div class='content-topic-row' role='group' aria-label='Temas da Central do Timbre'>" + filters + "</div></div></div>" +
+    "<div class='content-results-head'><div><span class='eyebrow'>Biblioteca prática</span><h2 id='content-count'>" + CONTENT_ARTICLES.length + " matérias para explorar</h2></div><p>Abra apenas o que interessa. Todo o conteúdo fica nesta página para você comparar ideias sem se perder em dezenas de abas.</p></div>" +
+    "<div class='knowledge-grid' id='content-grid'>" + cards + "</div><div class='content-empty' id='content-empty' hidden><strong>Nenhuma matéria encontrada.</strong><p>Tente um termo mais curto ou escolha outro tema.</p></div><div class='content-more-wrap'><button class='btn btn-dark' id='content-more' type='button'>Mostrar todas as " + CONTENT_ARTICLES.length + " matérias" + iconArrow() + "</button></div></div></section>" +
+    "<section class='cta-band'><div class='container cta-inner'><h2>Leu, entendeu.<br>Agora ouça a diferença.</h2>" + button("Explorar os packs", "/#packs", "btn-light", false) + "</div></section></main>" + footer();
+}
+
 function presetsPage() {
   document.title = "Presets — Em breve | M-Vave BR";
   return header("presets", false) +
@@ -683,13 +718,127 @@ function render() {
   else if (route === "compatibilidade") html = compatibilityPage();
   else if (route === "catalogo") html = catalogPage(parts[1] || "completo");
   else if (route === "atualizacoes") html = updatesPage();
-  else if (route === "novidades") html = newsPage();
+  else if (route === "novidades" || route === "conteudos") html = contentHubPage();
   else if (route === "presets") html = presetsPage();
   else if (route === "sobre") html = aboutPage();
   else if (route === "contato") html = contactPage();
   else if (route === "politica-privacidade") html = privacyPage();
   else html = notFoundPage();
   document.querySelector("#app").innerHTML = html;
+}
+
+function bindContentHub() {
+  const grid = document.querySelector("#content-grid");
+  if (!grid) return;
+
+  const search = document.querySelector("#content-search");
+  const count = document.querySelector("#content-count");
+  const empty = document.querySelector("#content-empty");
+  const more = document.querySelector("#content-more");
+  const topicButtons = Array.from(document.querySelectorAll("[data-content-topic]"));
+  const cards = Array.from(document.querySelectorAll("[data-article]"));
+  let activeTopic = "Todos";
+  let showAll = false;
+
+  function closeArticle(card) {
+    const toggle = card.querySelector(".knowledge-toggle");
+    const body = card.querySelector(".knowledge-body");
+    card.classList.remove("open");
+    toggle.setAttribute("aria-expanded", "false");
+    toggle.querySelector(".toggle-label").textContent = "Continuar lendo";
+    body.hidden = true;
+  }
+
+  function openArticle(card, updateHash) {
+    cards.forEach(function(other) {
+      if (other !== card && other.classList.contains("open")) closeArticle(other);
+    });
+    const toggle = card.querySelector(".knowledge-toggle");
+    const body = card.querySelector(".knowledge-body");
+    card.classList.add("open", "visible");
+    card.hidden = false;
+    toggle.setAttribute("aria-expanded", "true");
+    toggle.querySelector(".toggle-label").textContent = "Fechar matéria";
+    body.hidden = false;
+    if (updateHash && window.history && window.history.replaceState) {
+      window.history.replaceState(null, "", window.location.pathname + "#" + card.id);
+    }
+  }
+
+  function applyFilters() {
+    const query = normalizeSearch(search.value.trim());
+    let matched = 0;
+    let displayed = 0;
+
+    cards.forEach(function(card) {
+      const topics = card.dataset.topics.split("|");
+      const topicMatch = activeTopic === "Todos" || topics.indexOf(activeTopic) !== -1;
+      const queryMatch = !query || normalizeSearch(card.textContent).indexOf(query) !== -1;
+      const matches = topicMatch && queryMatch;
+      if (matches) matched += 1;
+      const visible = matches && (showAll || Boolean(query) || activeTopic !== "Todos" || displayed < 8);
+      card.hidden = !visible;
+      if (visible) displayed += 1;
+      if (!matches && card.classList.contains("open")) closeArticle(card);
+    });
+
+    count.textContent = matched + (matched === 1 ? " matéria encontrada" : " matérias para explorar");
+    empty.hidden = matched !== 0;
+    more.hidden = showAll || Boolean(query) || activeTopic !== "Todos" || matched <= 8;
+  }
+
+  topicButtons.forEach(function(button) {
+    button.addEventListener("click", function() {
+      activeTopic = button.dataset.contentTopic;
+      topicButtons.forEach(function(item) {
+        const selected = item === button;
+        item.classList.toggle("active", selected);
+        item.setAttribute("aria-pressed", String(selected));
+      });
+      applyFilters();
+    });
+  });
+
+  search.addEventListener("input", applyFilters);
+  document.addEventListener("keydown", function(event) {
+    const isTyping = /INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName);
+    if (event.key === "/" && !isTyping) {
+      event.preventDefault();
+      search.focus();
+    }
+  });
+
+  more.addEventListener("click", function() {
+    showAll = true;
+    applyFilters();
+  });
+
+  cards.forEach(function(card) {
+    card.querySelector(".knowledge-toggle").addEventListener("click", function() {
+      if (card.classList.contains("open")) {
+        closeArticle(card);
+        if (window.history && window.history.replaceState) window.history.replaceState(null, "", window.location.pathname);
+      } else {
+        openArticle(card, true);
+        window.setTimeout(function() {
+          card.scrollIntoView({ behavior: "smooth", block: "start" });
+        }, 80);
+      }
+    });
+  });
+
+  applyFilters();
+
+  const requestedId = decodeURIComponent(window.location.hash.slice(1));
+  const requested = requestedId ? document.getElementById(requestedId) : null;
+  if (requested && requested.matches("[data-article]")) {
+    showAll = true;
+    applyFilters();
+    openArticle(requested, false);
+    window.setTimeout(function() {
+      requested.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 120);
+  }
 }
 
 function bindInteractions() {
@@ -726,6 +875,7 @@ function bindInteractions() {
   }
   bindCompatibilityChecker();
   bindCatalog();
+  bindContentHub();
 }
 
 render();
