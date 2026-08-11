@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mvave.com.br/sitemap.xml
+
