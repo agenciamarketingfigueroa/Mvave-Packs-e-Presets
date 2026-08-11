@@ -1,5 +1,6 @@
 import { CATALOG_ITEMS, FIRMWARE_ITEMS, PACK_BRANDS, SOFTWARE_ITEMS } from "./catalog-data.js";
 import { CONTENT_ARTICLES, CONTENT_TOPICS } from "./content-data.js";
+import { SUPPORT_ENTRIES } from "./support-data.js";
 
 const ROOT = "/";
 const CHECKOUTS = {
@@ -66,6 +67,218 @@ const products = {
   }
 };
 
+const SEO_BASE = "https://mvave.com.br";
+const SEO_IMAGE = SEO_BASE + "/assets/img/banner-principal-completo.webp";
+const SEO_DEFAULT_ROBOTS = "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1";
+const ARTICLE_SEO_TITLES = {
+  "o-que-e-ir": "O que é IR e Como Ele Muda o Timbre | M-Vave BR",
+  "como-escolher-ir": "Como Escolher um IR em 5 Minutos | M-Vave BR",
+  "som-rachando": "Som Rachando: Ajuste Ganho e IR | M-Vave BR",
+  "mvave-ir-box": "M-Vave IR Box: Como Usar IRs | M-Vave BR",
+  "mvave-mk300": "M-Vave MK-300: Como Carregar IRs | M-Vave BR",
+  "annblack-box": "ANNBLACK BOX: Como Organizar 20 IRs | M-Vave BR",
+  "cube-baby-familia": "Cube Baby, Bass e AC: Qual Escolher? | M-Vave BR",
+  "quad-cortex-mini": "Quad Cortex Mini: 2.048 User IRs | M-Vave BR",
+  "line6-helix-ir": "Line 6 Helix e HX: Como Importar IRs | M-Vave BR",
+  "fractal-kemper-ir": "Fractal e Kemper: Como Usar IRs | M-Vave BR",
+  "tonex-e-ir": "TONEX e IR: Entenda as Diferenças | M-Vave BR",
+  "plugins-ir-loader": "Plugins para Carregar IR na DAW | M-Vave BR",
+  "formato-de-ir": "IR em 44,1 ou 48 kHz? 1.024 ou 2.048? | M-Vave BR",
+  "tank-g-b-firmware": "Firmware TANK-G V97 e TANK-B V99 | M-Vave BR",
+  "cube-baby-nove-slots": "Cube Baby: Como Organizar os 9 Slots de IR | M-Vave BR",
+  "darkglass-dg410c": "Darkglass DG410C: Como Escolher um IR | M-Vave BR",
+  "marshall-1960a": "Marshall 1960A G12M: Guia de IRs | M-Vave BR",
+  "posicao-do-microfone": "Cap, Cone, Edge e Off-Axis em IRs | M-Vave BR",
+  "ir-mono-ou-stereo": "IR Mono ou Stereo: Qual Usar? | M-Vave BR",
+  "headrush-prime-ir": "HeadRush Prime: Como Carregar IRs | M-Vave BR",
+  "ampero-ii-ir": "Ampero II: Como Carregar IRs Próprios | M-Vave BR",
+  "boss-ir200-loader": "BOSS IR-200: 128 IRs Mono ou 64 Stereo | M-Vave BR",
+  "palco-frfr-fone": "Fone, FRFR ou PA: Onde Ajustar o Timbre? | M-Vave BR"
+};
+
+function upsertMeta(attribute, key, content) {
+  let node = document.head.querySelector("meta[" + attribute + "='" + key + "']");
+  if (!node) {
+    node = document.createElement("meta");
+    node.setAttribute(attribute, key);
+    document.head.appendChild(node);
+  }
+  node.setAttribute("content", content);
+}
+
+function upsertCanonical(url) {
+  let node = document.head.querySelector("link[rel='canonical']");
+  if (!node) {
+    node = document.createElement("link");
+    node.setAttribute("rel", "canonical");
+    document.head.appendChild(node);
+  }
+  node.setAttribute("href", url);
+}
+
+function breadcrumbSchema(items) {
+  return {
+    "@type": "BreadcrumbList",
+    itemListElement: items.map(function(item, index) {
+      return { "@type": "ListItem", position: index + 1, name: item[0], item: SEO_BASE + item[1] };
+    })
+  };
+}
+
+function productSchema(product, canonical) {
+  return {
+    "@type": "Product",
+    name: product.key === "completo" ? "Pack Completo de Impulse Responses" : "Pack de Impulse Responses para " + product.label,
+    description: product.description + " Inclui acesso imediato, materiais de configuração e garantia de 7 dias.",
+    image: [SEO_IMAGE],
+    category: "Impulse Responses para instrumentos musicais",
+    sku: "IR-" + product.key.toUpperCase(),
+    offers: {
+      "@type": "Offer",
+      url: canonical,
+      priceCurrency: "BRL",
+      price: product.price.replace(",", "."),
+      availability: "https://schema.org/InStock",
+      itemCondition: "https://schema.org/NewCondition",
+      seller: { "@id": SEO_BASE + "/#organization" }
+    }
+  };
+}
+
+function seoConfig(route, parts, productRoute) {
+  const configs = {
+    home: ["Packs de IR para Guitarra, Baixo e Violão | M-Vave BR", "Packs de Impulse Responses testados para guitarra, baixo e violão. Compatíveis com M-Vave, Quad Cortex, Fractal, Kemper, TONEX, Line 6 e outros.", "/"],
+    compatibilidade: ["Meu Equipamento Aceita IR? Teste a Compatibilidade", "Pesquise pedaleiras, processadores e plugins compatíveis com Impulse Responses e descubra qual pack de IR é indicado para seu instrumento.", "/compatibilidade/"],
+    atualizacoes: ["Softwares e Firmwares M-Vave: Downloads Oficiais", "Encontre CubeSuite, M-EFCS, CubeSugar e firmwares M-Vave com links oficiais e orientações para atualizar seu equipamento com segurança.", "/atualizacoes/"],
+    conteudos: ["Central do Timbre: Guias de IR e Configuração", "Guias práticos sobre Impulse Responses, timbre, microfonação, equipamentos, tecnologia e configuração para guitarra, baixo e violão.", "/conteudos/"],
+    suporte: ["Central de Suporte para Packs de IR | M-Vave BR", "Encontre respostas sobre packs de IR, instalação, downloads, acesso, compatibilidade e orientações independentes para equipamentos M-Vave.", "/suporte/"],
+    presets: ["Presets para M-Vave — Em breve | M-Vave BR", "Novos presets para equipamentos M-Vave estão em desenvolvimento. Enquanto isso, conheça os packs de IR para guitarra, baixo e violão.", "/presets/"],
+    sobre: ["Sobre a M-Vave BR: Curadoria Independente de IRs", "Conheça o projeto independente M-Vave BR, responsável por curadorias de Impulse Responses para músicos, sem vínculo com a fabricante M-Vave.", "/sobre/"],
+    contato: ["Contato e Suporte | M-Vave BR", "Fale com a M-Vave BR para tirar dúvidas sobre packs de IR, instalação, acesso, compatibilidade, suporte e parcerias.", "/contato/"],
+    "politica-privacidade": ["Política de Privacidade | M-Vave BR", "Saiba como a M-Vave BR trata informações de contato, dados relacionados às compras, cookies e solicitações de privacidade.", "/politica-privacidade/"]
+  };
+
+  if (products[productRoute]) {
+    const p = products[productRoute];
+    const titles = {
+      guitarra: "Pack de IR para Guitarra: 7.000+ Arquivos | M-Vave BR",
+      baixo: "Pack de IR para Baixo: 2.100+ Arquivos | M-Vave BR",
+      violao: "Pack de IR para Violão de Aço e Nylon | M-Vave BR",
+      completo: "Pack Completo de IR: Guitarra, Baixo e Violão | M-Vave BR"
+    };
+    const descriptions = {
+      guitarra: "Mais de 7.000 IRs de amplificadores e gabinetes para guitarra. Arquivos organizados, aulas de instalação, acesso imediato e garantia de 7 dias.",
+      baixo: "Mais de 2.100 Impulse Responses para baixo, com opções Ampeg, Hartke, GK, Markbass e outras. Acesso imediato e aulas de configuração.",
+      violao: "Mais de 220 IRs para violão de aço e nylon, com opções Gibson, Martin, Taylor e Collings para mais naturalidade no som em linha.",
+      completo: "Mais de 13.000 IRs para guitarra, baixo e violão em um único pack, com aulas de configuração, acesso imediato e garantia de 7 dias."
+    };
+    return { title: titles[p.key], description: descriptions[p.key], path: productUrl(p.key), type: "product", product: p };
+  }
+
+  if (route === "catalogo") {
+    const scope = ["completo", "guitarra", "baixo", "violao"].includes(parts[1]) ? parts[1] : "completo";
+    const label = products[scope].label;
+    return {
+      title: "Catálogo de IRs do Pack " + label + " | M-Vave BR",
+      description: "Consulte marcas, modelos, gabinetes, microfones, formatos e frequências disponíveis no catálogo de Impulse Responses do Pack " + label + ".",
+      path: "/catalogo/" + scope + "/",
+      type: "website"
+    };
+  }
+
+  const entry = configs[route] || ["Página não encontrada | M-Vave BR", "O endereço informado não foi encontrado. Acesse a página inicial para conhecer os packs de Impulse Responses.", window.location.pathname];
+  return { title: entry[0], description: entry[1], path: entry[2], type: route === "home" ? "website" : "article", noindex: route === "presets" || !configs[route] };
+}
+
+function applySeo(config, article) {
+  const canonical = SEO_BASE + config.path;
+  document.title = config.title;
+  upsertCanonical(canonical);
+  upsertMeta("name", "description", config.description);
+  upsertMeta("name", "robots", config.noindex ? "noindex,follow" : SEO_DEFAULT_ROBOTS);
+  upsertMeta("property", "og:locale", "pt_BR");
+  upsertMeta("property", "og:site_name", "M-Vave BR");
+  upsertMeta("property", "og:type", article ? "article" : config.type === "product" ? "product" : "website");
+  upsertMeta("property", "og:title", config.title);
+  upsertMeta("property", "og:description", config.description);
+  upsertMeta("property", "og:url", canonical);
+  upsertMeta("property", "og:image", SEO_IMAGE);
+  upsertMeta("property", "og:image:width", "1672");
+  upsertMeta("property", "og:image:height", "941");
+  upsertMeta("property", "og:image:alt", "Equipamentos compatíveis com os packs de Impulse Responses da M-Vave BR");
+  upsertMeta("name", "twitter:card", "summary_large_image");
+  upsertMeta("name", "twitter:title", config.title);
+  upsertMeta("name", "twitter:description", config.description);
+  upsertMeta("name", "twitter:image", SEO_IMAGE);
+
+  const graph = [
+    {
+      "@type": "Organization",
+      "@id": SEO_BASE + "/#organization",
+      name: "M-Vave BR",
+      alternateName: "M-Vave BR — Packs de IRs",
+      url: SEO_BASE + "/",
+      logo: { "@type": "ImageObject", url: SEO_BASE + "/assets/img/Logo%20Home/Logo%20Site%20Mvave%20Amarela%20e%20Preta.png" },
+      email: "contato@mvave.com.br",
+      description: "Projeto independente de curadoria de Impulse Responses, sem vínculo com a fabricante M-Vave."
+    }
+  ];
+
+  if (config.path === "/") {
+    graph.push({ "@type": "WebSite", "@id": SEO_BASE + "/#website", url: SEO_BASE + "/", name: "M-Vave BR", alternateName: "M-Vave BR — Packs de IRs", inLanguage: "pt-BR", publisher: { "@id": SEO_BASE + "/#organization" } });
+  } else {
+    const crumbs = [["Início", "/"]];
+    if (article) crumbs.push(["Central do Timbre", "/conteudos/"]);
+    crumbs.push([article ? article.title : config.title.replace(/ \|.*$/, ""), config.path]);
+    graph.push(breadcrumbSchema(crumbs));
+  }
+
+  if (config.product) graph.push(productSchema(config.product, canonical));
+  if (config.path === "/conteudos/" && !article) {
+    graph.push({
+      "@type": "CollectionPage",
+      "@id": canonical + "#collection",
+      name: config.title,
+      description: config.description,
+      url: canonical,
+      inLanguage: "pt-BR",
+      mainEntity: {
+        "@type": "ItemList",
+        numberOfItems: CONTENT_ARTICLES.length,
+        itemListElement: CONTENT_ARTICLES.map(function(item, index) {
+          return { "@type": "ListItem", position: index + 1, url: SEO_BASE + "/conteudos/" + item.id + "/", name: item.title };
+        })
+      }
+    });
+  }
+  if (article) {
+    graph.push({
+      "@type": "Article",
+      "@id": canonical + "#article",
+      headline: article.title,
+      description: article.lead,
+      image: [SEO_IMAGE],
+      datePublished: "2026-08-11T09:00:00-03:00",
+      dateModified: "2026-08-11T09:00:00-03:00",
+      inLanguage: "pt-BR",
+      articleSection: article.topics,
+      keywords: article.topics.join(", "),
+      mainEntityOfPage: canonical,
+      author: { "@id": SEO_BASE + "/#organization" },
+      publisher: { "@id": SEO_BASE + "/#organization" }
+    });
+  }
+
+  let schema = document.querySelector("#seo-schema");
+  if (!schema) {
+    schema = document.createElement("script");
+    schema.type = "application/ld+json";
+    schema.id = "seo-schema";
+    document.head.appendChild(schema);
+  }
+  schema.textContent = JSON.stringify({ "@context": "https://schema.org", "@graph": graph });
+}
+
 const COMPATIBILITY_ITEMS = [
   ["M-Vave", "CUBE BABY", "hardware", ["guitarra"], "IR CAB · CubeSuite", "Processador compacto para guitarra com seção de IR.", ["cube baby", "cubebaby", "cuvave cube baby"], "https://www.m-vave.com/product?id=cube-baby"],
   ["M-Vave", "CUBE BABY BASS", "hardware", ["baixo"], "8 slots de IR", "Versão dedicada ao baixo com slots para IRs de gabinete.", ["cubebaby bass", "cube bass", "cuvave bass"], "https://www.m-vave.com/product?id=cube-baby-bass"],
@@ -119,6 +332,12 @@ function button(label, href, variant, external) {
   return "<a class='btn " + (variant || "") + "' href='" + href + "'" + (external ? " target='_blank' rel='noopener'" : "") + ">" + label + iconArrow() + "</a>";
 }
 
+function escapeHtml(value) {
+  return String(value || "").replace(/[&<>"']/g, function(character) {
+    return { "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#039;" }[character];
+  });
+}
+
 function productUrl(key) {
   return PRODUCT_URLS[key] || "/#packs";
 }
@@ -145,13 +364,13 @@ function header(active, solid) {
     ["packs", "/#packs", "Packs"],
     ["compatibilidade", "/compatibilidade/", "Compatibilidade"],
     ["conteudos", "/conteudos/", "Central do Timbre"],
-    ["presets", "/presets/", "Presets"]
+    ["suporte", "/suporte/", "Suporte"]
   ];
   const productActive = ["completo", "guitarra", "baixo", "violao"].includes(active);
   return announcement() +
     "<header class='site-header " + (solid ? "is-solid" : "") + "'>" +
       "<div class='container nav-wrap'>" +
-        "<a class='brand' href='/' aria-label='M-Vave BR - início'><img src='/assets/img/Logo%20Home/Logo%20Site%20Mvave%20Amarela%20e%20Branca.png' alt='M-Vave BR — Pack de IR e Presets'></a>" +
+        "<a class='brand' href='/' aria-label='M-Vave BR - início'><img src='/assets/img/Logo%20Home/Logo%20Site%20Mvave%20Amarela%20e%20Branca.png' width='300' height='70' decoding='async' alt='M-Vave BR — Pack de IR e Presets'></a>" +
         "<button class='menu-toggle' aria-label='Abrir menu' aria-expanded='false'><span>☰</span></button>" +
         "<nav class='nav-links' aria-label='Navegação principal'>" +
           nav.map(function(item) {
@@ -167,10 +386,10 @@ function footer() {
   return "<footer class='site-footer'>" +
     "<div class='container'>" +
       "<div class='footer-grid'>" +
-        "<div class='footer-brand'><img src='/assets/img/Logo%20Home/Logo%20Site%20Mvave%20Amarela%20e%20Branca.png' alt='M-Vave BR'><p>IRs, conteúdo e ferramentas para você tirar mais som do equipamento que já tem.</p></div>" +
+        "<div class='footer-brand'><img src='/assets/img/Logo%20Home/Logo%20Site%20Mvave%20Amarela%20e%20Branca.png' width='300' height='70' loading='lazy' decoding='async' alt='M-Vave BR'><p>IRs, conteúdo e ferramentas para você tirar mais som do equipamento que já tem.</p></div>" +
         "<div class='footer-col'><h4>Packs</h4><a href='/completo/'>Pack completo</a><a href='/guitar/'>Guitarra</a><a href='/bass/'>Baixo</a><a href='/violao/'>Violão</a></div>" +
         "<div class='footer-col'><h4>Conteúdo</h4><a href='/conteudos/'>Central do Timbre</a><a href='/catalogo/completo/'>Catálogo de IRs</a><a href='/compatibilidade/'>Compatibilidade</a><a href='/atualizacoes/'>Softwares e atualizações</a><a href='/presets/'>Presets</a><a href='/sobre/'>Sobre nós</a></div>" +
-        "<div class='footer-col'><h4>Atendimento</h4><a href='/contato/'>Contato</a><a href='" + WHATSAPP + "' target='_blank' rel='noopener'>WhatsApp</a><a href='mailto:contato@mvave.com.br'>E-mail</a></div>" +
+        "<div class='footer-col'><h4>Atendimento</h4><a href='/suporte/'>Central de Suporte</a><a href='/contato/'>Contato</a><a href='" + WHATSAPP + "' target='_blank' rel='noopener'>WhatsApp</a><a href='mailto:contato@mvave.com.br'>E-mail</a></div>" +
       "</div>" +
       "<div class='independence-notice'><span class='independence-mark'>i</span><p><strong>Somos um projeto independente.</strong> Não temos vínculo, representação ou afiliação com a fabricante M-Vave. M-Vave e as demais marcas citadas pertencem aos seus respectivos titulares e aparecem apenas para indicar possíveis equipamentos compatíveis.</p></div>" +
       "<div class='footer-bottom'><span>© <span data-year></span> M-Vave BR. Todos os direitos reservados.</span><span><a href='/politica-privacidade/'>Política de privacidade</a></span></div>" +
@@ -297,7 +516,7 @@ function bindCompatibilityChecker() {
     resultTitle.textContent = query ? (approximate ? "Encontramos por aproximação" : "Equipamentos encontrados") : "Compatíveis em destaque";
     count.textContent = items.length + (items.length === 1 ? " resultado" : " resultados");
     if (!items.length) {
-      results.innerHTML = "<div class='compat-empty'><span>?</span><h3>Ainda não encontramos esse modelo.</h3><p>Isso não significa que ele seja incompatível. Procure no manual por “IR loader”, “cab IR” ou “user IR” e, se quiser, envie o modelo para nossa equipe verificar.</p>" + button("Pedir uma verificação", WHATSAPP, "btn-dark", true) + "</div>";
+      results.innerHTML = "<div class='compat-empty'><span>?</span><h3>Ainda não encontramos esse modelo.</h3><p>Isso não significa que ele seja incompatível. Procure no manual por “IR loader”, “cab IR” ou “user IR” e, se quiser, envie o modelo para nossa Central de Suporte verificar.</p>" + button("Pedir uma verificação", "/suporte/?q=" + encodeURIComponent(query || "compatibilidade do meu equipamento"), "btn-dark", false) + "</div>";
       return;
     }
     results.innerHTML = items.map(function(item, index) { return resultCard(item, approximate && index === 0); }).join("");
@@ -337,7 +556,7 @@ function packCards() {
   return "<div class='pack-grid'>" +
     "<a class='pack-card featured reveal' href='" + productUrl("completo") + "'>" +
       "<div class='pack-content'><span class='pack-count'>A coleção definitiva</span><h3>" + p.count + " IRs.<br>Um só acesso.</h3><p>Guitarra, baixo, violão de aço e nylon, mais 8 aulas para instalar e configurar tudo no seu pedal.</p>" + packBrandLine("completo", 7) + "<div class='pack-meta'><span class='pack-price-stack'><s>R$ " + p.oldPrice + "</s><span class='price'>R$ " + p.price + " <small>à vista</small></span><em>Economize " + discountFor(p) + "%</em></span><span class='btn btn-light'>Conhecer o pack " + iconArrow() + "</span></div></div>" +
-      "<img class='pedals' src='/assets/img/3%20Pedais%20Mvave%20(cubebay).png' alt='Pedais M-Vave e CubeBaby'>" +
+      "<img class='pedals' src='/assets/img/3%20Pedais%20Mvave%20(cubebay).png' width='540' height='540' loading='lazy' decoding='async' alt='Pedais M-Vave e CubeBaby'>" +
     "</a>" + small + "</div>";
 }
 
@@ -359,7 +578,7 @@ function benefits() {
 
 function compatibilitySection() {
   const compatibleBrands = ["M-Vave", "Quad Cortex", "Fractal Audio", "Kemper", "TONEX", "Line 6", "e outros IR loaders"];
-  return "<section class='section compatibility-section' id='compatibilidade'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Muito além da M-Vave</span><h2>Um pack.<br>Muitos equipamentos.</h2></div><p>Nossos IRs não são exclusivos dos pedais M-Vave. Eles podem ser usados em pedaleiras, plugins e processadores que oferecem importação de Impulse Responses.</p></div><div class='compatibility-brands' aria-label='Exemplos de equipamentos compatíveis'>" + compatibleBrands.map(function(brand){ return "<span>" + brand + "</span>"; }).join("") + "</div><a class='compatibility-media reveal' href='/assets/img/Banner%20Principal.svg' target='_blank' rel='noopener' aria-label='Abrir imagem de equipamentos compatíveis em tamanho completo'><img src='/assets/img/banner-principal.webp' alt='Exemplos de pedaleiras e pedais que carregam Impulse Responses'><span class='compatibility-expand'>Ver em tamanho completo ↗</span></a><div class='compatibility-note'><strong>Seu equipamento funciona?</strong><span>Pesquise por marca e modelo. A ferramenta aceita abreviações e tenta corrigir nomes digitados incorretamente.</span>" + button("Testar compatibilidade", "/compatibilidade/", "btn-dark", false) + "</div></div></section>";
+  return "<section class='section compatibility-section' id='compatibilidade'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Muito além da M-Vave</span><h2>Um pack.<br>Muitos equipamentos.</h2></div><p>Nossos IRs não são exclusivos dos pedais M-Vave. Eles podem ser usados em pedaleiras, plugins e processadores que oferecem importação de Impulse Responses.</p></div><div class='compatibility-brands' aria-label='Exemplos de equipamentos compatíveis'>" + compatibleBrands.map(function(brand){ return "<span>" + brand + "</span>"; }).join("") + "</div><a class='compatibility-media reveal' href='/assets/img/banner-principal-completo.png' target='_blank' rel='noopener' aria-label='Abrir imagem completa de equipamentos compatíveis'><img src='/assets/img/banner-principal-completo.webp' width='1672' height='941' loading='lazy' decoding='async' alt='Pedaleiras e pedais completos que carregam Impulse Responses'><span class='compatibility-expand'>Ver em tamanho completo ↗</span></a><div class='compatibility-note'><strong>Seu equipamento funciona?</strong><span>Pesquise por marca e modelo. A ferramenta aceita abreviações e tenta corrigir nomes digitados incorretamente.</span>" + button("Testar compatibilidade", "/compatibilidade/", "btn-dark", false) + "</div></div></section>";
 }
 
 function testimonials() {
@@ -380,7 +599,7 @@ function journalCards() {
     ["Lançamento 2026", "6 min", "MINI", "Quad Cortex mini: 2.048 espaços para User IRs.", "O novo formato compacto preserva a capacidade de IRs do flagship em um corpo mais de 50% menor.", "quad-cortex-mini"]
   ];
   return "<div class='journal-grid'>" + items.map(function(item, index) {
-    return "<a class='journal-card " + (index === 0 ? "journal-featured " : "") + "reveal' href='/conteudos/#" + item[5] + "'><div class='journal-meta'><span>" + item[0] + "</span><span>Leitura · " + item[1] + "</span></div><div class='journal-visual'><span>" + item[2] + "</span><i></i><i></i><i></i><i></i><i></i></div><div class='journal-copy'><h3>" + item[3] + "</h3><p>" + item[4] + "</p><span class='text-link'>Abrir matéria</span></div></a>";
+    return "<a class='journal-card " + (index === 0 ? "journal-featured " : "") + "reveal' href='/conteudos/" + item[5] + "/'><div class='journal-meta'><span>" + item[0] + "</span><span>Leitura · " + item[1] + "</span></div><div class='journal-visual'><span>" + item[2] + "</span><i></i><i></i><i></i><i></i><i></i></div><div class='journal-copy'><h3>" + item[3] + "</h3><p>" + item[4] + "</p><span class='text-link'>Abrir matéria</span></div></a>";
   }).join("") + "</div>";
 }
 
@@ -490,7 +709,7 @@ function faqs(extraNylon) {
     ["As aulas funcionam para os três pedais?", "As aulas foram gravadas com o modelo de guitarra. A instalação via computador — a parte mais importante — segue a mesma lógica nas versões de guitarra, baixo e violão."],
     ["E se eu não souber instalar os IRs?", "Há uma aula com a tela do computador mostrando o processo completo de instalação e configuração dentro do pedal."],
     ["O acesso é vitalício mesmo?", "Sim. Enquanto a plataforma estiver disponível, seu conteúdo continuará na sua conta para acessar e baixar novamente."],
-    ["Como funciona o suporte?", "As dúvidas são respondidas dentro da plataforma de forma organizada. Se precisar, você também pode falar diretamente pelo WhatsApp."]
+    ["Como funciona o suporte?", "A Central de Suporte responde dúvidas sobre os packs, instalação, acesso e problemas comuns. Se a resposta não resolver, ela prepara o encaminhamento para o WhatsApp."]
   ];
   if (extraNylon) {
     items.push(["Tem IR para violão de nylon?", "Sim. O pack inclui aproximadamente 20 IRs de nylon, selecionados entre os que entregaram os melhores resultados. Novos arquivos encontrados serão adicionados gratuitamente."]);
@@ -510,7 +729,7 @@ function homePage() {
       "<section class='section section-dark' style='padding-top:0'><div class='container'>" + benefits() + "</div></section>" +
       "<section class='section'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Histórias reais</span><h2>Mais som. Menos frustração.</h2></div><p>Alguns relatos de quem decidiu entender o pedal e construir o próprio timbre.</p></div>" + testimonials() + "</div></section>" +
       "<section class='section' style='background:#e8e6de'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Central do Timbre</span><h2>Conteúdo para tirar mais som do que você já tem.</h2></div><a class='text-link' href='/conteudos/'>Explorar a central</a></div>" + journalCards() + "</div></section>" +
-      "<section class='section'><div class='container faq-wrap'><div><span class='eyebrow'>Sem letras miúdas</span><h2>Dúvidas frequentes.</h2><p>Se não encontrar sua resposta, fale com a gente pelo WhatsApp.</p>" + button("Falar com a gente", WHATSAPP, "btn-dark", true) + "</div>" + faqs(true) + "</div></section>" +
+      "<section class='section'><div class='container faq-wrap'><div><span class='eyebrow'>Sem letras miúdas</span><h2>Dúvidas frequentes.</h2><p>Pesquise sua dúvida e receba uma orientação imediata.</p>" + button("Abrir Central de Suporte", "/suporte/", "btn-dark", false) + "</div>" + faqs(true) + "</div></section>" +
       "<section class='cta-band'><div class='container cta-inner'><h2>Seu equipamento já tem potencial. Falta desbloquear o timbre.</h2>" + button("Escolher meu pack", "#packs", "btn-light", false) + "</div></section>" +
     "</main>" + footer();
 }
@@ -606,14 +825,14 @@ function productPage(product) {
     : "<div class='offer-grid'>" + offerCard(product, false) + offerCard(complete, true) + "</div>";
   return header(product.key, false) +
     "<main id='conteudo'>" +
-      "<section class='page-hero'><div class='container page-hero-content'><span class='eyebrow'>" + product.countLong + "</span><h1>" + product.hero + "</h1><p>" + product.intro + "</p><div class='button-row'>" + button("Quero acessar agora", "#oferta", "", false) + button("Ver o que está incluso", "#incluso", "btn-outline", false) + "</div>" + urgencyNotice(true) + "<div class='brand-row'>" + product.brands.map(function(brand){ return "<span class='brand-chip'>" + brand + "</span>"; }).join("") + "</div></div><img class='hero-pedal' src='/assets/img/3%20Pedais%20Mvave%20(cubebay).png' alt='Pedais M-Vave compatíveis com os IRs'></section>" +
+      "<section class='page-hero'><div class='container page-hero-content'><span class='eyebrow'>" + product.countLong + "</span><h1>" + product.hero + "</h1><p>" + product.intro + "</p><div class='button-row'>" + button("Quero acessar agora", "#oferta", "", false) + button("Ver o que está incluso", "#incluso", "btn-outline", false) + "</div>" + urgencyNotice(true) + "<div class='brand-row'>" + product.brands.map(function(brand){ return "<span class='brand-chip'>" + brand + "</span>"; }).join("") + "</div></div><img class='hero-pedal' src='/assets/img/3%20Pedais%20Mvave%20(cubebay).png' width='540' height='540' fetchpriority='high' decoding='async' alt='Pedais M-Vave compatíveis com os IRs'></section>" +
       "<section class='section' id='incluso'><div class='container split'><div><span class='eyebrow'>Curadoria, não só quantidade</span><h2>Testados, organizados e prontos para tocar.</h2><p>Você não precisa gastar horas baixando arquivos aleatórios que não entregam resultado. A coleção reúne IRs usados e validados ao longo de anos, com opções para explorar diferentes caixas, microfonações e assinaturas sonoras.</p><ul class='check-list'><li>Materiais de instalação e configuração</li><li>" + product.countLong + " para explorar</li><li>8 aulas mostrando a configuração pelo computador</li><li>Acesso vitalício ao pack adquirido</li></ul></div><div class='signal-panel reveal'><div class='wave'>" + [1,3,6,9,4,7,10,6,3,8,5,2,7,4,2,1].map(function(n){ return "<i style='--n:" + n + "'></i>"; }).join("") + "</div><div class='signal-label'><span>" + product.label + "</span><span>Seu timbre</span></div></div></div></section>" +
       packContentsSection(product) +
       compatibilitySection() +
       "<section class='section section-dark'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Você recebe hoje</span><h2>Mais do que uma pasta cheia de arquivos.</h2></div><p>O pack combina biblioteca, orientação e acesso contínuo para você não ficar travado na instalação.</p></div>" + benefits() + "</div></section>" +
       "<section class='section'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Quem já destravou o som</span><h2>O pedal é pequeno.<br>O resultado não precisa ser.</h2></div></div>" + testimonials() + "</div></section>" +
       "<section class='section pricing-section' id='oferta'><div class='container'><div class='pricing-head'><div><span class='eyebrow'>Acesso imediato</span><h2>" + (isComplete ? "Todo o acervo.<br>Uma única escolha." : "Escolha o tamanho<br>do seu próximo som.") + "</h2></div><div class='pricing-security'><span>✓</span><p><strong>Compra segura</strong>Pagamento processado pela Hotmart</p></div></div>" + urgencyNotice(false) + offers + "<div class='guarantee'><div class='guarantee-mark'>7d</div><div><h3>Você tem 7 dias para decidir com o pack nas mãos.</h3><p>Se o conteúdo não for o que você esperava, solicite o reembolso integral dentro do prazo. Sem complicação e sem letras miúdas.</p></div></div></div></section>" +
-      "<section class='section'><div class='container faq-wrap'><div><span class='eyebrow'>Antes de comprar</span><h2>Dúvidas frequentes.</h2>" + button("Ainda tenho dúvidas", WHATSAPP, "btn-dark", true) + "</div>" + faqs(product.key === "violao" || product.key === "completo") + "</div></section>" +
+      "<section class='section'><div class='container faq-wrap'><div><span class='eyebrow'>Antes de comprar</span><h2>Dúvidas frequentes.</h2>" + button("Abrir Central de Suporte", "/suporte/", "btn-dark", false) + "</div>" + faqs(product.key === "violao" || product.key === "completo") + "</div></section>" +
       "<section class='cta-band'><div class='container cta-inner'><h2>O próximo timbre que você procura pode estar a um IR de distância.</h2>" + button("Acessar o pack", product.checkout, "btn-light", true) + "</div></section>" +
     "</main><div class='mobile-buy'>" + button("Comprar por R$ " + product.price, product.checkout, "btn-amber", true) + "</div>" + footer();
 }
@@ -645,7 +864,7 @@ function contentArticleCard(article, index) {
 
   return "<article class='knowledge-card reveal" + (index === 0 ? " knowledge-featured" : "") + "' id='" + article.id + "' data-article data-topics='" + article.topics.join("|") + "'>" +
     "<div class='knowledge-visual'><span>" + article.visual + "</span><div class='knowledge-wave' aria-hidden='true'><i></i><i></i><i></i><i></i><i></i></div><small>" + String(index + 1).padStart(2, "0") + "</small></div>" +
-    "<div class='knowledge-summary'><div class='knowledge-meta'><div class='knowledge-topics'>" + topics + "</div><small>" + article.minutes + "</small></div><p class='knowledge-label'>" + article.label + "</p><h2>" + article.title + "</h2><p class='knowledge-lead'>" + article.lead + "</p><button class='knowledge-toggle' type='button' aria-expanded='false' aria-controls='texto-" + article.id + "'><span class='toggle-label'>Continuar lendo</span>" + iconArrow() + "</button></div>" +
+    "<div class='knowledge-summary'><div class='knowledge-meta'><div class='knowledge-topics'>" + topics + "</div><small>" + article.minutes + "</small></div><p class='knowledge-label'>" + article.label + "</p><h2><a href='/conteudos/" + article.id + "/'>" + article.title + "</a></h2><p class='knowledge-lead'>" + article.lead + "</p><div class='knowledge-actions'><button class='knowledge-toggle' type='button' aria-expanded='false' aria-controls='texto-" + article.id + "'><span class='toggle-label'>Continuar lendo</span>" + iconArrow() + "</button><a class='knowledge-permalink' href='/conteudos/" + article.id + "/'>Página completa ↗</a></div></div>" +
     "<div class='knowledge-body' id='texto-" + article.id + "' hidden><p>" + article.body + "</p><div class='knowledge-callout'><span>Guarde isto</span><strong>" + article.callout + "</strong></div><ul class='knowledge-takeaways'>" + takeaways + "</ul>" + source + "</div>" +
   "</article>";
 }
@@ -663,6 +882,22 @@ function contentHubPage() {
     "<div class='content-results-head'><div><span class='eyebrow'>Biblioteca prática</span><h2 id='content-count'>" + CONTENT_ARTICLES.length + " matérias para explorar</h2></div><p>Abra apenas o que interessa. Todo o conteúdo fica nesta página para você comparar ideias sem se perder em dezenas de abas.</p></div>" +
     "<div class='knowledge-grid' id='content-grid'>" + cards + "</div><div class='content-empty' id='content-empty' hidden><strong>Nenhuma matéria encontrada.</strong><p>Tente um termo mais curto ou escolha outro tema.</p></div><div class='content-more-wrap'><button class='btn btn-dark' id='content-more' type='button'>Mostrar todas as " + CONTENT_ARTICLES.length + " matérias" + iconArrow() + "</button></div></div></section>" +
     "<section class='cta-band'><div class='container cta-inner'><h2>Leu, entendeu.<br>Agora ouça a diferença.</h2>" + button("Explorar os packs", "/#packs", "btn-light", false) + "</div></section></main>" + footer();
+}
+
+function contentArticlePage(article) {
+  const sourceIsExternal = article.source && article.source.indexOf("http") === 0;
+  const source = article.source
+    ? "<a class='btn btn-dark' href='" + article.source + "'" + (sourceIsExternal ? " target='_blank' rel='noopener'" : "") + ">" + (sourceIsExternal ? "Consultar fonte oficial" : "Ver catálogo relacionado") + iconArrow() + "</a>"
+    : "";
+  const related = CONTENT_ARTICLES.filter(function(item) {
+    return item.id !== article.id && item.topics.some(function(topic) { return article.topics.includes(topic); });
+  }).slice(0, 3);
+
+  return header("conteudos", true) +
+    "<main id='conteudo' class='editorial-page'><article><header class='editorial-hero'><div class='container'><nav class='breadcrumbs' aria-label='Navegação estrutural'><a href='/'>Início</a><span>›</span><a href='/conteudos/'>Central do Timbre</a><span>›</span><span aria-current='page'>" + article.label + "</span></nav><div class='editorial-meta'><span>" + article.label + "</span><span>" + article.minutes + " de leitura</span><span>Atualizado em 11 ago. 2026</span></div><h1>" + article.title + "</h1><p>" + article.lead + "</p><div class='editorial-topics'>" + article.topics.map(function(topic) { return "<a href='/conteudos/?tema=" + encodeURIComponent(topic) + "'>" + topic + "</a>"; }).join("") + "</div></div></header>" +
+    "<div class='container editorial-layout'><div class='editorial-content'><p class='editorial-opening'>" + article.body + "</p><aside class='editorial-callout'><span>Guarde isto</span><strong>" + article.callout + "</strong></aside><section><span class='eyebrow'>Aplicação prática</span><h2>Como levar isso para o seu equipamento.</h2><p>Faça mudanças pequenas e controladas. Mantenha o restante da cadeia igual, ajuste os arquivos para o mesmo volume percebido e compare usando uma passagem que você conhece bem.</p><ol class='editorial-steps'>" + article.takeaways.map(function(item, index) { return "<li><span>0" + (index + 1) + "</span><div><strong>" + item[0] + "</strong><p>" + item[1] + "</p></div></li>"; }).join("") + "</ol></section><section><span class='eyebrow'>Decisão consciente</span><h2>Ouça no contexto, não apenas sozinho.</h2><p>Um timbre impressionante no fone pode ocupar espaço demais quando entram bateria, baixo, voz ou outros instrumentos. Teste no sistema em que você realmente vai tocar e salve uma referência antes de mudar outra variável. Assim você consegue voltar rapidamente ao ponto que já funcionava.</p></section>" + (source ? "<div class='editorial-source'><p>Quando esta matéria cita especificações de um equipamento, priorizamos a documentação publicada pela própria fabricante.</p>" + source + "</div>" : "") + "<div class='editorial-author'><span class='independence-mark'>i</span><p><strong>Conteúdo independente.</strong> A M-Vave BR produz curadorias e materiais educativos sobre IRs. Não temos vínculo, representação ou afiliação com as fabricantes citadas.</p></div></div>" +
+    "<aside class='editorial-aside'><div><span class='kicker text-blue'>Nesta matéria</span><a href='#conteudo'>Conceito principal</a><span>Aplicação prática</span><span>Decisão consciente</span></div><div><span class='kicker text-blue'>Próximo passo</span><p>Descubra se seu equipamento carrega arquivos de Impulse Response.</p><a class='text-link' href='/compatibilidade/'>Testar compatibilidade</a></div></aside></div></article>" +
+    "<section class='section editorial-related'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Continue explorando</span><h2>Mais da Central do Timbre.</h2></div><a class='text-link' href='/conteudos/'>Ver todas as matérias</a></div><div class='editorial-related-grid'>" + related.map(function(item) { return "<a href='/conteudos/" + item.id + "/'><span>" + item.label + " · " + item.minutes + "</span><h3>" + item.title + "</h3><strong>Ler matéria " + iconArrow() + "</strong></a>"; }).join("") + "</div></div></section><section class='cta-band'><div class='container cta-inner'><h2>Transforme informação<br>em timbre.</h2>" + button("Conhecer os packs", "/#packs", "btn-light", false) + "</div></section></main>" + footer();
 }
 
 function presetsPage() {
@@ -685,6 +920,111 @@ function contactPage() {
   return header("contato", false) +
     "<main id='conteudo'><section class='page-hero'><div class='container page-hero-content'><span class='eyebrow'>Atendimento</span><h1>Vamos conversar.</h1><p>Dúvidas sobre os packs, instalação, acesso ou parcerias? Escolha o canal mais fácil para você.</p></div></section>" +
     "<section class='section'><div class='container contact-grid'><article class='contact-card'><div><span class='kicker'>Resposta mais rápida</span><h2>WhatsApp</h2><p>Fale diretamente com a equipe sobre produto, compra ou suporte.</p></div><a class='text-link' href='" + WHATSAPP + "' target='_blank' rel='noopener'>Iniciar conversa</a></article><article class='contact-card'><div><span class='kicker text-blue'>E-mail</span><h2>contato@<br>mvave.com.br</h2><p>Para dúvidas, suporte ou oportunidades de parceria.</p></div><a class='text-link' href='mailto:contato@mvave.com.br'>Enviar e-mail</a></article></div></section></main>" + footer();
+}
+
+function supportPage() {
+  document.title = "Central de Suporte — M-Vave BR";
+  return header("suporte", true) +
+    "<main id='conteudo' class='support-page' data-support><section class='support-hero'><div class='container support-shell'><span class='eyebrow'>Central de Suporte</span><h1>Como podemos ajudar?</h1><p>Descreva a sua dúvida do jeito que você falaria com a gente.</p><form class='support-search' role='search'><label class='sr-only' for='support-search'>Buscar uma resposta</label><svg viewBox='0 0 24 24' aria-hidden='true'><circle cx='11' cy='11' r='7'></circle><path d='m16 16 5 5'></path></svg><input id='support-search' type='search' enterkeyhint='search' autocomplete='off' placeholder='Ex.: como instalar IR na Cube Baby?'><kbd>/</kbd></form><small>A busca entende frases, abreviações e pequenos erros de digitação.</small></div></section><section class='support-results-section'><div class='container support-results-wrap'><div id='support-start' class='support-start' aria-hidden='true'><span>↳</span><p>Digite acima para encontrar uma orientação.</p></div><div id='support-results' aria-live='polite' hidden></div></div></section></main>" + footer();
+}
+
+function normalizeSupportText(value) {
+  return String(value || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+}
+
+function supportTokens(value) {
+  const ignored = new Set(["a", "ao", "aos", "as", "da", "das", "de", "do", "dos", "e", "em", "eu", "me", "meu", "minha", "o", "os", "para", "por", "que", "um", "uma"]);
+  return normalizeSupportText(value).split(/\s+/).filter(function(token) {
+    return token && !ignored.has(token) && (token === "ir" || token.length > 2);
+  });
+}
+
+function supportScore(entry, query) {
+  const phrase = normalizeSupportText(query);
+  const title = normalizeSupportText(entry.title);
+  const keywords = normalizeSupportText(entry.keywords);
+  const answer = normalizeSupportText(entry.answer);
+  const keywordTokens = keywords.split(" ");
+  const titleTokens = title.split(" ");
+  let score = 0;
+  if (title.includes(phrase)) score += 80;
+  if (keywords.includes(phrase)) score += 65;
+  supportTokens(query).forEach(function(token) {
+    if (titleTokens.includes(token)) score += 20;
+    if (keywordTokens.includes(token)) score += 15;
+    else if (keywords.includes(token)) score += 9;
+    if (answer.includes(token)) score += 4;
+    if (token.length >= 4 && keywordTokens.some(function(candidate) {
+      return Math.abs(candidate.length - token.length) <= 1 && levenshtein(candidate, token) <= 1;
+    })) score += 7;
+  });
+  return score;
+}
+
+function supportWhatsapp(query) {
+  const message = "Olá! Procurei na Central de Suporte por: “" + query + "”, mas ainda preciso de ajuda.";
+  return WHATSAPP + "&text=" + encodeURIComponent(message);
+}
+
+function supportLink(link, query) {
+  const label = escapeHtml(link[0]);
+  const original = link[1];
+  const href = original === "whatsapp" ? supportWhatsapp(query) : original;
+  const external = href.indexOf("http") === 0;
+  return "<a href='" + href + "'" + (external ? " target='_blank' rel='noopener'" : "") + ">" + label + iconArrow() + "</a>";
+}
+
+function supportResult(entry, query, primary) {
+  const steps = entry.steps && entry.steps.length
+    ? "<ol class='support-steps'>" + entry.steps.map(function(step) { return "<li>" + escapeHtml(step) + "</li>"; }).join("") + "</ol>"
+    : "";
+  const notice = entry.notice ? "<div class='support-notice'><span>i</span><p>" + escapeHtml(entry.notice) + "</p></div>" : "";
+  const independent = entry.type === "Equipamento eletrônico"
+    ? "<div class='support-boundary'><strong>Orientação independente</strong><p>Não somos a fabricante M-Vave, assistência técnica ou loja de equipamentos. As verificações abaixo são sugestões externas e seguras; garantia, troca, devolução e reparo devem ser tratados com o vendedor ou com o suporte oficial.</p></div>"
+    : "";
+  const links = entry.links && entry.links.length
+    ? "<div class='support-links'>" + entry.links.map(function(link) { return supportLink(link, query); }).join("") + "</div>"
+    : "";
+  return "<article class='support-answer " + (primary ? "support-answer-primary" : "") + "'><div class='support-answer-head'><span>" + escapeHtml(entry.type) + "</span><small>" + (primary ? "Melhor resposta" : "Também pode ajudar") + "</small></div><h2>" + escapeHtml(entry.title) + "</h2>" + independent + "<p class='support-answer-copy'>" + escapeHtml(entry.answer) + "</p>" + steps + notice + links + "</article>";
+}
+
+function bindSupport() {
+  const page = document.querySelector("[data-support]");
+  if (!page) return;
+  const form = page.querySelector(".support-search");
+  const input = page.querySelector("#support-search");
+  const start = page.querySelector("#support-start");
+  const results = page.querySelector("#support-results");
+  let timer;
+
+  function renderSupport() {
+    const query = input.value.trim();
+    if (query.length < 2) {
+      start.hidden = false;
+      results.hidden = true;
+      results.innerHTML = "";
+      return;
+    }
+    const matches = SUPPORT_ENTRIES.map(function(entry) {
+      return { entry: entry, score: supportScore(entry, query) };
+    }).filter(function(match) { return match.score >= 12; }).sort(function(a, b) { return b.score - a.score; }).slice(0, 3);
+    const hardwareWords = /pedal|equipamento|defeito|quebrad|garantia|troca|devolu|reparo|assistencia|nao liga|usb|bluetooth|firmware|bateria|carrega|chiado|ruido/i.test(normalizeSupportText(query));
+    start.hidden = true;
+    results.hidden = false;
+    if (!matches.length) {
+      results.innerHTML = "<article class='support-answer support-answer-primary'><div class='support-answer-head'><span>Atendimento</span><small>Busca concluída</small></div><h2>Não encontramos uma resposta exata.</h2>" + (hardwareWords ? "<div class='support-boundary'><strong>Somos uma curadoria independente</strong><p>Não fabricamos nem vendemos equipamentos M-Vave e não podemos autorizar assistência, troca, devolução ou garantia. Evite abrir o aparelho; reúna comprovante e modelo exato e procure a loja ou o suporte oficial.</p></div><div class='support-links'><a href='https://www.m-vave.com/contact' target='_blank' rel='noopener'>Suporte oficial M-Vave" + iconArrow() + "</a><a href='https://www.m-vave.com/download' target='_blank' rel='noopener'>Downloads oficiais" + iconArrow() + "</a></div>" : "<p class='support-answer-copy'>Conte um pouco mais sobre o pack, equipamento ou etapa em que a dúvida apareceu. Se preferir, envie a pergunta diretamente para a gente.</p>") + "<div class='support-escalation'><div><strong>Ainda precisa de ajuda?</strong><p>A busca será incluída na mensagem para você não ter que repetir tudo.</p></div>" + button("Continuar no WhatsApp", supportWhatsapp(query), "btn-dark", true) + "</div></article>";
+      return;
+    }
+    results.innerHTML = matches.map(function(match, index) { return supportResult(match.entry, query, index === 0); }).join("") + "<div class='support-escalation'><div><strong>A orientação não resolveu?</strong><p>Envie a dúvida para a gente com o assunto já preenchido.</p></div>" + button("Continuar no WhatsApp", supportWhatsapp(query), "btn-dark", true) + "</div>";
+  }
+
+  form.addEventListener("submit", function(event) { event.preventDefault(); window.clearTimeout(timer); renderSupport(); });
+  input.addEventListener("input", function() { window.clearTimeout(timer); timer = window.setTimeout(renderSupport, 140); });
+  document.addEventListener("keydown", function(event) {
+    if (event.key === "/" && document.activeElement !== input) { event.preventDefault(); input.focus(); }
+  });
+  const requested = new URLSearchParams(window.location.search).get("q");
+  if (requested) { input.value = requested; renderSupport(); }
 }
 
 function privacyPage() {
@@ -712,19 +1052,42 @@ function render() {
   const parts = routeParts();
   const aliases = { guitar: "guitarra", bass: "baixo" };
   const productRoute = aliases[route] || route;
+  let currentArticle = null;
+  let seo;
   let html;
   if (route === "home") html = homePage();
   else if (products[productRoute]) html = productPage(products[productRoute]);
   else if (route === "compatibilidade") html = compatibilityPage();
   else if (route === "catalogo") html = catalogPage(parts[1] || "completo");
   else if (route === "atualizacoes") html = updatesPage();
+  else if (route === "conteudos" && parts[1]) {
+    currentArticle = CONTENT_ARTICLES.find(function(article) { return article.id === parts[1]; }) || null;
+    html = currentArticle ? contentArticlePage(currentArticle) : notFoundPage();
+  }
   else if (route === "novidades" || route === "conteudos") html = contentHubPage();
+  else if (route === "suporte") html = supportPage();
   else if (route === "presets") html = presetsPage();
   else if (route === "sobre") html = aboutPage();
   else if (route === "contato") html = contactPage();
   else if (route === "politica-privacidade") html = privacyPage();
   else html = notFoundPage();
   document.querySelector("#app").innerHTML = html;
+
+  if (currentArticle) {
+    seo = {
+      title: ARTICLE_SEO_TITLES[currentArticle.id] || currentArticle.title.replace(/[.!?]+$/, "") + " | M-Vave BR",
+      description: currentArticle.lead,
+      path: "/conteudos/" + currentArticle.id + "/",
+      type: "article"
+    };
+  } else if (route === "conteudos" && parts[1]) {
+    seo = { title: "Página não encontrada | M-Vave BR", description: "A matéria informada não foi encontrada na Central do Timbre.", path: window.location.pathname, type: "website", noindex: true };
+  } else if (route === "novidades") {
+    seo = seoConfig("conteudos", [], productRoute);
+  } else {
+    seo = seoConfig(route, parts, productRoute);
+  }
+  applySeo(seo, currentArticle);
 }
 
 function bindContentHub() {
@@ -827,6 +1190,17 @@ function bindContentHub() {
     });
   });
 
+  const requestedTopic = new URLSearchParams(window.location.search).get("tema");
+  const requestedTopicButton = topicButtons.find(function(button) { return button.dataset.contentTopic === requestedTopic; });
+  if (requestedTopicButton) {
+    activeTopic = requestedTopic;
+    topicButtons.forEach(function(button) {
+      const selected = button === requestedTopicButton;
+      button.classList.toggle("active", selected);
+      button.setAttribute("aria-pressed", String(selected));
+    });
+  }
+
   applyFilters();
 
   const requestedId = decodeURIComponent(window.location.hash.slice(1));
@@ -876,6 +1250,7 @@ function bindInteractions() {
   bindCompatibilityChecker();
   bindCatalog();
   bindContentHub();
+  bindSupport();
 }
 
 render();
