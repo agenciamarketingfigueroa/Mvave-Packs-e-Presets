@@ -1,0 +1,32 @@
+numero,data,hora,arquivo,tema,formato
+01,2026-08-12,19:00,posts-individuais/01-2026-08-12-o-que-e-ir.png,O que é IR,Imagem única 4:5
+02,2026-08-13,19:00,posts-individuais/02-2026-08-13-ir-nao-e-efeito.png,IR não é efeito,Imagem única 4:5
+03,2026-08-14,19:00,posts-individuais/03-2026-08-14-ordem-da-cadeia.png,Ordem da cadeia,Imagem única 4:5
+04,2026-08-15,19:00,posts-individuais/04-2026-08-15-mesmo-volume.png,Comparação no mesmo volume,Imagem única 4:5
+05,2026-08-16,19:00,posts-individuais/05-2026-08-16-metodo-cinco-irs.png,Método dos cinco IRs,Imagem única 4:5
+06,2026-08-17,19:00,posts-individuais/06-2026-08-17-som-rachando.png,Ganho e clipping,Imagem única 4:5
+07,2026-08-18,19:00,posts-individuais/07-2026-08-18-posicao-microfone.png,Posição do microfone,Imagem única 4:5
+08,2026-08-19,19:00,posts-individuais/08-2026-08-19-centro-ou-borda.png,Centro ou borda do falante,Imagem única 4:5
+09,2026-08-20,19:00,posts-individuais/09-2026-08-20-441-ou-48khz.png,Taxa de amostragem,Imagem única 4:5
+10,2026-08-21,19:00,posts-individuais/10-2026-08-21-1024-ou-2048.png,Tamanho do IR,Imagem única 4:5
+11,2026-08-22,19:00,posts-individuais/11-2026-08-22-mono-ou-stereo.png,IR mono ou estéreo,Imagem única 4:5
+12,2026-08-23,19:00,posts-individuais/12-2026-08-23-ir-guitarra.png,IR para guitarra,Imagem única 4:5
+13,2026-08-24,19:00,posts-individuais/13-2026-08-24-ir-baixo.png,IR para baixo,Imagem única 4:5
+14,2026-08-25,19:00,posts-individuais/14-2026-08-25-ir-violao.png,IR para violão,Imagem única 4:5
+15,2026-08-26,19:00,posts-individuais/15-2026-08-26-piezo.png,Som de piezo,Imagem única 4:5
+16,2026-08-27,19:00,posts-individuais/16-2026-08-27-cube-baby-versoes.png,Versões do Cube Baby,Imagem única 4:5
+17,2026-08-28,19:00,posts-individuais/17-2026-08-28-nove-slots.png,Organização de nove slots,Imagem única 4:5
+18,2026-08-29,19:00,posts-individuais/18-2026-08-29-clean-base-solo.png,Clean base e solo,Imagem única 4:5
+19,2026-08-30,19:00,posts-individuais/19-2026-08-30-fone-frfr-pa.png,Fone FRFR e PA,Imagem única 4:5
+20,2026-08-31,19:00,posts-individuais/20-2026-08-31-teste-no-contexto.png,Teste no contexto,Imagem única 4:5
+21,2026-09-01,19:00,posts-individuais/21-2026-09-01-backup-firmware.png,Backup antes do firmware,Imagem única 4:5
+22,2026-09-02,19:00,posts-individuais/22-2026-09-02-nomes-curtos.png,Nomes curtos,Imagem única 4:5
+23,2026-09-03,19:00,posts-individuais/23-2026-09-03-uma-mudanca-por-vez.png,Uma mudança por vez,Imagem única 4:5
+24,2026-09-04,19:00,posts-individuais/24-2026-09-04-trilha-di-loop.png,Trilha DI em loop,Imagem única 4:5
+25,2026-09-05,19:00,posts-individuais/25-2026-09-05-daw-laboratorio.png,DAW como laboratório,Imagem única 4:5
+26,2026-09-06,19:00,posts-individuais/26-2026-09-06-fase-ao-misturar.png,Fase ao misturar IRs,Imagem única 4:5
+27,2026-09-07,19:00,posts-individuais/27-2026-09-07-ir-na-mix.png,IR dentro da mix,Imagem única 4:5
+28,2026-09-08,19:00,posts-individuais/28-2026-09-08-preset-referencia.png,Preset de referência,Imagem única 4:5
+29,2026-09-09,19:00,posts-individuais/29-2026-09-09-biblioteca-enxuta.png,Biblioteca enxuta,Imagem única 4:5
+30,2026-09-10,19:00,posts-individuais/30-2026-09-10-salve-antes-trocar.png,Salvar antes de trocar,Imagem única 4:5
+
