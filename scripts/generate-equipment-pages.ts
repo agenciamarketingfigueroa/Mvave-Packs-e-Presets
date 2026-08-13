@@ -45,7 +45,7 @@ function html(path: string, title: string, description: string, listed = true) {
 
 const routes: StaticRoute[] = general.map(function(route) { return [route[0], route[1], route[2], true]; });
 if (STORE_ENABLED) routes.push(["loja", "Loja de Equipamentos Musicais — Prévia", "Prévia não listada da loja-curadoria de pedaleiras, controladores, IR loaders e acessórios.", STORE_LISTED]);
-if (TONE_RECIPES_ENABLED) routes.push(["preview", "Preview de IRs — Ouça Antes de Escolher", "Ouça testes A/B de Impulse Responses em situações reais e compare os timbres antes de escolher seu pack de IR.", TONE_RECIPES_LISTED]);
+if (TONE_RECIPES_ENABLED) routes.push(["preview", "Preview de IRs — Ouça Antes de Escolher", "Ouça 50 previews curtos de guitarra, baixo e violão com o som clean e a entrada do IR no mesmo áudio.", TONE_RECIPES_LISTED]);
 EQUIPMENT_ITEMS.forEach(function(product) {
   routes.push(["equipamentos/" + product.id, product.name + ": Guia, Software e Ofertas", product.summary + " Veja indicação, limitações, software, alternativas e ofertas.", true]);
 });
@@ -58,11 +58,19 @@ for (const [path, title, description, listed] of routes) {
 
 const sitemapUrl = new URL("sitemap.xml", root);
 let sitemap = await Deno.readTextFile(sitemapUrl);
+const sitemapBefore = sitemap;
+routes.filter(function(route) { return route[3] === false; }).forEach(function(route) {
+  const url = base + "/" + route[0] + "/";
+  const escaped = url.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  sitemap = sitemap.replace(new RegExp("\\s*<url>\\s*<loc>" + escaped + "<\\/loc>[\\s\\S]*?<\\/url>"), "");
+});
 const block = routes.filter(function(route) { return route[3] !== false && !sitemap.includes(base + "/" + route[0] + "/"); }).map(function(route) {
   return `  <url>\n    <loc>${base}/${route[0]}/</loc>\n    <lastmod>2026-08-13</lastmod>\n  </url>`;
 }).join("\n");
 if (block) {
   sitemap = sitemap.replace("</urlset>", block + "\n</urlset>");
+}
+if (sitemap !== sitemapBefore) {
   await Deno.writeTextFile(sitemapUrl, sitemap);
 }
 

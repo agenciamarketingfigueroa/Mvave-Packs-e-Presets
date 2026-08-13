@@ -385,7 +385,7 @@ function header(active, solid) {
     ["loja", "/loja/", "Loja"],
     ["conteudos", "/conteudos/", "Central do Timbre"],
     ["suporte", "/suporte/", "Suporte"]
-  ];
+  ].filter(function(item) { return item[0] !== "loja" || STORE_LISTED; });
   const productActive = ["completo", "guitarra", "baixo", "violao"].includes(active);
   return announcement() +
     "<header class='site-header " + (solid ? "is-solid" : "") + "'>" +
@@ -408,7 +408,7 @@ function footer() {
       "<div class='footer-grid'>" +
         "<div class='footer-brand'><img src='/assets/img/Logo%20Home/Logo%20Site%20Mvave%20Amarela%20e%20Branca.png' width='300' height='70' loading='lazy' decoding='async' alt='M-Vave BR'><p>IRs, conteúdo e ferramentas para você tirar mais som do equipamento que já tem.</p></div>" +
         "<div class='footer-col'><h4>Packs</h4><a href='/completo/'>Pack completo</a><a href='/guitar/'>Guitarra</a><a href='/bass/'>Baixo</a><a href='/violao/'>Violão</a></div>" +
-        "<div class='footer-col'><h4>Equipamentos</h4><a href='/loja/'>Loja e ofertas</a><a href='/equipamentos/'>Central de equipamentos</a><a href='/encontre-seu-setup/'>Encontrar meu setup</a><a href='/comparar/'>Comparador</a><a href='/ferramentas/'>Software e diagnóstico</a><a href='/compatibilidade/'>Compatibilidade com IR</a></div>" +
+        "<div class='footer-col'><h4>Equipamentos</h4>" + (STORE_LISTED ? "<a href='/loja/'>Loja e ofertas</a>" : "") + "<a href='/equipamentos/'>Central de equipamentos</a><a href='/encontre-seu-setup/'>Encontrar meu setup</a><a href='/comparar/'>Comparador</a><a href='/ferramentas/'>Software e diagnóstico</a><a href='/compatibilidade/'>Compatibilidade com IR</a></div>" +
         "<div class='footer-col'><h4>Conteúdo</h4><a href='/conteudos/'>Central do Timbre</a><a href='/catalogo/completo/'>Catálogo de IRs</a><a href='/atualizacoes/'>Softwares e atualizações</a><a href='/presets/'>Presets</a><a href='/sobre/'>Sobre nós</a></div>" +
         "<div class='footer-col'><h4>Atendimento</h4><a href='/suporte/'>Central de Suporte</a><a href='/contato/'>Contato</a><a href='mailto:contato@mvave.com.br'>E-mail</a></div>" +
       "</div>" +
@@ -607,7 +607,7 @@ function equipmentHubPage() {
 function storePage() {
   const categories = STORE_CATEGORIES.filter(function(entry) { return entry[0] !== "todos"; });
   return header("loja", true) +
-    "<main id='conteudo' class='store-page'><section class='store-hero'><div class='container'><aside class='store-curation-card'><span class='store-curation-mark'>CURADORIA INDEPENDENTE</span><div><h2>Preço pesquisado. Escolha mais rápida. Música em movimento.</h2><p>Nossa equipe seleciona produtos e acompanha oportunidades na Amazon e no Mercado Livre para acelerar a vida dos músicos. Não somos a fabricante dos equipamentos: somos uma curadoria independente.</p><p>Nosso trabalho de curadoria é remunerado apenas pela comissão das lojas parceiras quando uma compra é feita por nossos links. <strong>Você não paga nada a mais por isso</strong> e ainda contribui diretamente para manter nossa estrutura, conteúdo e trabalho funcionando.</p></div></aside><span class='eyebrow'>Loja-curadoria</span><h1>Equipamentos para tocar, controlar e criar.</h1><p>Reunimos equipamentos relevantes e links selecionados para você comparar menos e tocar mais. Antes de comprar, confira vendedor, frete, prazo e a revisão exata do produto.</p></div></section>" +
+    "<main id='conteudo' class='store-page'><section class='store-hero'><div class='container'>" + (!STORE_LISTED ? "<span class='unlisted-badge'>Prévia não listada</span>" : "") + "<aside class='store-curation-card'><span class='store-curation-mark'>CURADORIA INDEPENDENTE</span><div><h2>Preço pesquisado. Escolha mais rápida. Música em movimento.</h2><p>Nossa equipe seleciona produtos e acompanha oportunidades na Amazon e no Mercado Livre para acelerar a vida dos músicos. Não somos a fabricante dos equipamentos: somos uma curadoria independente.</p><p>Nosso trabalho de curadoria é remunerado apenas pela comissão das lojas parceiras quando uma compra é feita por nossos links. <strong>Você não paga nada a mais por isso</strong> e ainda contribui diretamente para manter nossa estrutura, conteúdo e trabalho funcionando.</p></div></aside><span class='eyebrow'>Loja-curadoria</span><h1>Equipamentos para tocar, controlar e criar.</h1><p>Reunimos equipamentos relevantes e links selecionados para você comparar menos e tocar mais. Antes de comprar, confira vendedor, frete, prazo e a revisão exata do produto.</p></div></section>" +
     "<section class='section store-catalog' id='catalogo' data-store><div class='container'><div class='store-toolbar'><label class='store-search'><span>Buscar equipamento</span><input id='store-search' type='search' placeholder='Ex.: Chocolate, baixo, IR loader…' autocomplete='off'></label><label><span>Categoria</span><select id='store-category'><option value='todos'>Todas as categorias</option>" + categories.map(function(entry) { return "<option value='" + entry[0] + "'>" + entry[1] + "</option>"; }).join("") + "</select></label><label><span>Marca</span><select id='store-brand'><option value='todos'>Todas as marcas</option>" + Array.from(new Set(EQUIPMENT_ITEMS.map(function(product) { return product.brand; }))).sort().map(function(brand) { return "<option value='" + escapeHtml(brand) + "'>" + escapeHtml(brand) + "</option>"; }).join("") + "</select></label></div><div class='store-results-head'><h2 id='store-count'>" + EQUIPMENT_ITEMS.length + " equipamentos</h2><span>Ofertas selecionadas na Amazon e no Mercado Livre</span></div><p class='store-price-note'>Preços consultados em 13/08/2026. Valores, estoque, frete e condições podem mudar; confirme tudo na página da loja parceira antes de concluir a compra.</p><div class='equipment-grid store-grid'>" + EQUIPMENT_ITEMS.map(function(product) { return equipmentCard(product, true); }).join("") + "</div><div id='store-empty' class='store-empty' hidden><strong>Nenhum equipamento encontrado.</strong><p>Tente pesquisar pela marca, categoria ou tipo de uso.</p></div></div></section>" +
     "<section class='section section-dark'><div class='container store-help'><div><span class='eyebrow'>Ainda em dúvida?</span><h2>Não compre só porque está barato.</h2><p>Use o recomendador para filtrar por instrumento, finalidade e prioridade. Depois compare os finalistas.</p></div><div class='button-row'>" + button("Encontrar meu setup", "/encontre-seu-setup/", "btn-amber", false) + button("Comparar modelos", "/comparar/", "btn-outline", false) + "</div></div></section></main>" + footer();
 }
@@ -661,7 +661,50 @@ function toolsPage() {
 }
 
 function toneRecipesPage() {
-  return header("conteudos", true) + "<main id='conteudo'><section class='section tone-recipes-preview' style='padding-top:170px'><div class='container'><span class='unlisted-badge unlisted-badge-dark'>Prévia não listada</span><span class='eyebrow'>Preview de IRs</span><h1>Ouça antes de escolher.</h1><p class='tone-recipes-intro'>Compare o som dos IRs em situações reais e descubra qual combina mais com o timbre que você procura. Os players serão liberados conforme os testes forem gravados.</p><div class='equipment-grid'>" + TONE_RECIPES.map(function(recipe) { return "<article class='equipment-card'><div class='equipment-card-body'><span class='kicker text-blue'>" + recipe.instrument + "</span><h2>" + recipe.name + "</h2><p>" + recipe.irFamily + "</p><ol>" + recipe.order.map(function(step) { return "<li>" + step + "</li>"; }).join("") + "</ol><p class='recipe-audio-placeholder'>Testes A/B em preparação</p></div></article>"; }).join("") + "</div></div></section></main>" + footer();
+  const instrumentNames = { guitarra: "Guitarra", baixo: "Baixo", violao: "Violão" };
+  const cards = TONE_RECIPES.map(function(recipe, index) {
+    const player = recipe.audio
+      ? "<audio class='recipe-audio' controls preload='none' src='" + escapeHtml(recipe.audio) + "'><a href='" + escapeHtml(recipe.audio) + "'>Baixar áudio</a></audio>"
+      : "<div class='recipe-audio-placeholder'><span>Áudio em preparação</span><small>Arquivo: " + escapeHtml(recipe.fileName) + "</small></div>";
+    return "<article class='recipe-card' data-tone-card data-instrument='" + recipe.instrument + "'>" +
+      "<div class='recipe-card-top'><span class='recipe-number'>" + String(index + 1).padStart(2, "0") + "</span><span class='kicker text-blue'>" + instrumentNames[recipe.instrument] + "</span>" + (recipe.featured ? "<span class='recipe-famous'>Mais conhecido</span>" : "") + "</div>" +
+      "<h2>" + escapeHtml(recipe.brand + " " + recipe.name) + "</h2><p class='recipe-mic'>" + escapeHtml(recipe.microphone) + "</p>" +
+      "<div class='recipe-timeline' aria-label='Roteiro do áudio'><span><b>0:00</b> Clean</span><i aria-hidden='true'></i><span><b>" + recipe.switchAt + "</b> IR ligado</span></div>" +
+      player + "<p class='recipe-duration'>" + recipe.duration + " · mesma frase · volume igualado</p></article>";
+  }).join("");
+  return header("conteudos", true) +
+    "<main id='conteudo'><section class='section tone-recipes-preview' data-tone-recipes style='padding-top:170px'><div class='container'>" +
+      "<span class='unlisted-badge unlisted-badge-dark'>Prévia não listada</span><span class='eyebrow'>50 previews de IR</span><h1>Clean primeiro.<br>IR no mesmo áudio.</h1>" +
+      "<p class='tone-recipes-intro'>Cada player terá uma execução curta e direta: oito segundos com o gabinete ou captação desligado, uma virada discreta e a mesma frase com o IR ligado. Sem reverb, delay ou maquiagem.</p>" +
+      "<aside class='recipe-recording-note'><strong>Padrão de gravação</strong><span>16–20 segundos</span><span>−14 LUFS como referência</span><span>Sem silêncio longo</span><span>Mesmo ganho antes e depois</span></aside>" +
+      "<div class='recipe-toolbar' role='group' aria-label='Filtrar previews por instrumento'><button class='active' type='button' data-tone-filter='todos' aria-pressed='true'>Todos <small>50</small></button><button type='button' data-tone-filter='guitarra' aria-pressed='false'>Guitarra <small>20</small></button><button type='button' data-tone-filter='baixo' aria-pressed='false'>Baixo <small>16</small></button><button type='button' data-tone-filter='violao' aria-pressed='false'>Violão <small>14</small></button></div>" +
+      "<div class='recipe-results-head'><span id='tone-count'>50 previews</span><span>Os mais conhecidos aparecem primeiro.</span></div><div class='recipe-grid'>" + cards + "</div>" +
+    "</div></section></main>" + footer();
+}
+
+function bindToneRecipes() {
+  const root = document.querySelector("[data-tone-recipes]");
+  if (!root) return;
+  const buttons = Array.from(root.querySelectorAll("[data-tone-filter]"));
+  const cards = Array.from(root.querySelectorAll("[data-tone-card]"));
+  const count = root.querySelector("#tone-count");
+  buttons.forEach(function(buttonNode) {
+    buttonNode.addEventListener("click", function() {
+      const selected = buttonNode.dataset.toneFilter;
+      let visible = 0;
+      buttons.forEach(function(button) {
+        const active = button === buttonNode;
+        button.classList.toggle("active", active);
+        button.setAttribute("aria-pressed", String(active));
+      });
+      cards.forEach(function(card) {
+        const show = selected === "todos" || card.dataset.instrument === selected;
+        card.hidden = !show;
+        if (show) visible += 1;
+      });
+      count.textContent = visible + (visible === 1 ? " preview" : " previews");
+    });
+  });
 }
 
 function bindStore() {
@@ -1519,7 +1562,7 @@ function render() {
   } else if (route === "preview" && TONE_RECIPES_ENABLED) {
     seo = {
       title: "Preview de IRs — Ouça Antes de Escolher | M-Vave BR",
-      description: "Ouça testes A/B de Impulse Responses em situações reais e compare os timbres antes de escolher seu pack de IR.",
+      description: "Ouça 50 previews curtos de guitarra, baixo e violão com o som clean e a entrada do IR no mesmo áudio.",
       path: "/preview/",
       type: "website",
       noindex: !TONE_RECIPES_LISTED,
@@ -1726,6 +1769,7 @@ function bindInteractions() {
   bindDownloads();
   bindFirmwareGuide();
   bindStore();
+  bindToneRecipes();
   bindEquipmentTabs();
   bindSetupFinder();
   bindCompare();

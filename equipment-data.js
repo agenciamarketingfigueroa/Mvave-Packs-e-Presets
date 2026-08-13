@@ -32,7 +32,7 @@ export const STORE_CATEGORIES = [
 ];
 
 export const EQUIPMENT_ITEMS = [
-  item({ id: "cube-baby", name: "Cube Baby", category: "multiefeitos", instruments: ["guitarra"], ir: true, software: "CubeSuite", summary: "Pedaleira ultracompacta para guitarra com efeitos, bateria recarregável e carregamento de IR.", bestFor: "Primeiro setup para tocar em fones, gravar e sair em linha gastando pouco.", avoidIf: "Você precisa de muitos footswitches ou edição profunda durante o show.", pros: ["Compacta e recarregável", "Carrega IR de terceiros", "Boa porta de entrada"], cons: ["Poucos controles físicos", "Fluxo depende do editor"], specs: [["Perfil", "Guitarra"], ["IR", "Loader integrado"], ["Editor", "CubeSuite"], ["Uso", "Fone, linha e gravação"]], affiliateUrl: "https://link.amazon/B0hCFzUvH", offerPrice: "R$ 130,00", referencePrice: "R$ 230,00", amazonQuery: "M-VAVE Cube Baby pedaleira guitarra", featured: true, related: ["tank-g", "tank-mini", "ir-box"] }),
+  item({ id: "cube-baby", name: "Cube Baby", category: "multiefeitos", instruments: ["guitarra"], ir: true, software: "CubeSuite", summary: "Pedaleira ultracompacta para guitarra com efeitos, bateria recarregável e carregamento de IR.", bestFor: "Primeiro setup para tocar em fones, gravar e sair em linha gastando pouco.", avoidIf: "Você precisa de muitos footswitches ou edição profunda durante o show.", pros: ["Compacta e recarregável", "Carrega IR de terceiros", "Boa porta de entrada"], cons: ["Poucos controles físicos", "Fluxo depende do editor"], specs: [["Perfil", "Guitarra"], ["IR", "Loader integrado"], ["Editor", "CubeSuite"], ["Uso", "Fone, linha e gravação"]], affiliateUrl: "https://link.amazon/B0hCFzUvH", offerPrice: "R$ 130,30", referencePrice: "R$ 230,00", amazonQuery: "M-VAVE Cube Baby pedaleira guitarra", featured: true, related: ["tank-g", "tank-mini", "ir-box"] }),
   item({ id: "cube-baby-bass", name: "Cube Baby Bass", category: "multiefeitos", instruments: ["baixo"], ir: true, software: "CubeSuite", summary: "Versão da Cube Baby dedicada ao baixo, com efeitos e oito posições de CAB IR.", bestFor: "Baixistas que querem um rig pequeno para fone, gravação e mesa.", avoidIf: "Você precisa de roteamento avançado ou muitos efeitos simultâneos.", pros: ["Foco em baixo", "Oito CAB IR", "Portátil"], cons: ["Controles compactos", "Pouca navegação no pedal"], specs: [["Perfil", "Baixo"], ["IR", "8 CAB IR"], ["Editor", "CubeSuite"], ["Energia", "Bateria recarregável"]], affiliateUrl: "https://link.amazon/B05EUTFAD", offerPrice: "R$ 131,16", referencePrice: "R$ 210,00", amazonQuery: "M-VAVE Cube Baby Bass pedaleira", featured: true, related: ["tank-b", "annblack-box", "ir-box"] }),
   item({ id: "cube-baby-ac", name: "Cube Baby AC", category: "multiefeitos", instruments: ["violao"], ir: true, software: "CubeSuite", summary: "Processador compacto para violão eletroacústico, pensado para recuperar naturalidade no som em linha.", bestFor: "Violão em igreja, palco pequeno, gravação direta ou estudo com fones.", avoidIf: "Você precisa de entradas de microfone ou mixagem completa de voz e instrumento.", pros: ["Voltada ao violão", "Aceita IR", "Cabe no bag"], cons: ["Interface compacta", "Exige ajuste cuidadoso de ganho"], specs: [["Perfil", "Violão"], ["IR", "Loader integrado"], ["Editor", "CubeSuite"], ["Uso", "Linha e fones"]], affiliateUrl: "https://link.amazon/B0dqPW9Yt", offerPrice: "R$ 153,51", referencePrice: "R$ 210,00", amazonQuery: "M-VAVE Cube Baby AC violão", featured: true, related: ["ir-box", "annblack-box", "mk-300"] }),
   item({ id: "tank-g", name: "TANK-G", category: "multiefeitos", instruments: ["guitarra"], ir: true, software: "M-EFCS", summary: "Pedaleira para guitarra com 36 presets, modelos de amplificador, oito CAB IR e controle por aplicativo.", bestFor: "Quem quer mais controle ao vivo que a Cube Baby sem partir para uma pedaleira grande.", avoidIf: "Você quer tela ampla, cadeia muito flexível ou muitas conexões profissionais.", pros: ["36 presets", "Oito CAB IR", "App e editor"], cons: ["Revisões de hardware exigem atenção", "Edição avançada fica no app"], specs: [["Perfil", "Guitarra"], ["Presets", "36"], ["CAB IR", "8"], ["Editor", "M-EFCS"]], affiliateUrl: "https://link.amazon/B0akO0SQ5", offerPrice: "R$ 289,77", referencePrice: "R$ 360,00", amazonQuery: "M-VAVE TANK-G pedaleira", featured: true, related: ["tank-mini", "mk-20", "cube-baby"] }),
@@ -46,7 +46,7 @@ export const EQUIPMENT_ITEMS = [
   item({ id: "pocket-amp", name: "POCKET AMP", category: "pratica", instruments: ["guitarra"], software: "M-EFCS", summary: "Simulador de amplificador de bolso com saída para fones, feito para prática silenciosa.", bestFor: "Estudar guitarra com fones e carregar o setup no bolso.", avoidIf: "Seu foco é controlar presets com os pés no palco.", pros: ["Muito portátil", "Saída de fones", "Editor oficial"], cons: ["Não substitui pedaleira de palco", "Poucos controles físicos"], specs: [["Uso", "Prática silenciosa"], ["Saída", "Fones"], ["Editor", "M-EFCS"], ["Formato", "Bolso"]], affiliateUrl: "https://link.amazon/B06PdaIiO", offerPrice: "R$ 290,00", amazonQuery: "M-VAVE Pocket Amp guitarra", related: ["mini-x", "nux-mighty-plug-pro", "cube-baby"] }),
   item({ id: "mini-x", name: "MINI-X", category: "pratica", instruments: ["guitarra"], summary: "Amplificador de fones com nove timbres, streaming sem fio e bateria recarregável.", bestFor: "Prática rápida, playback e estudo sem montar pedalboard.", avoidIf: "Você precisa carregar IR próprio ou montar cadeias complexas.", pros: ["Nove timbres", "Streaming sem fio", "Bateria"], cons: ["Uso focado em estudo", "Sem footswitch"], specs: [["Uso", "Fones"], ["Timbres", "9 amps"], ["Bateria", "cerca de 5 h"], ["Áudio", "Streaming sem fio"]], affiliateUrl: "https://link.amazon/B06AuHnBc", offerPrice: "R$ 209,94", referencePrice: "R$ 221,00", amazonQuery: "M-VAVE MINI-X headphone amp", related: ["pocket-amp", "nux-mighty-plug-pro", "cube-baby"] }),
   item({ id: "ir-box", name: "IR BOX", category: "ir-loader", ir: true, software: "CubeSuite / MidiSuite", summary: "Carregador dedicado de IR com saída balanceada XLR para integrar preamps e pedais ao PA.", bestFor: "Quem já gosta dos próprios pedais e só precisa de gabinete/IR e saída direta.", avoidIf: "Você procura uma pedaleira com amps, drives e modulações completos.", pros: ["Função dedicada", "Saída XLR", "Carrega WAV"], cons: ["Precisa de preamp/amp sim antes", "Não substitui multiefeitos"], specs: [["Função", "IR loader"], ["Formato", "WAV 44,1 kHz / 24-bit / 2048"], ["Saída", "XLR balanceada"], ["Editor", "CubeSuite"]], affiliateUrl: "https://link.amazon/B01UDhVOZ", offerPrice: "R$ 130,30", referencePrice: "R$ 210,00", amazonQuery: "M-VAVE IR BOX pedal impulse response", featured: true, related: ["boss-ir2", "cube-baby", "annblack-box"] }),
-  item({ id: "looper-drum", name: "LOOPER DRUM", category: "pedais", instruments: ["guitarra", "baixo", "violao"], software: "CubeSuite", summary: "Looper com bateria eletrônica para estudo, composição e apresentações solo.", bestFor: "Praticar tempo, criar bases e tocar sozinho com acompanhamento.", avoidIf: "Você precisa de múltiplas trilhas independentes ou sincronismo profissional avançado.", pros: ["Looper e bateria", "Bom para estudo", "Editor CubeSuite"], cons: ["Fluxo exige prática", "Limites variam por revisão"], specs: [["Função", "Looper + bateria"], ["Editor", "CubeSuite"], ["Instrumentos", "Uso geral"], ["Uso", "Estudo e performance"]], affiliateUrl: "https://meli.la/2DRr1yo", offerPrice: "R$ 223,32", referencePrice: "R$ 319,00", amazonQuery: "M-VAVE Looper Drum pedal", related: ["looper-pro", "chocolate-plus", "cube-turner-plus"] }),
+  item({ id: "looper-drum", name: "LOOPER DRUM", category: "pedais", instruments: ["guitarra", "baixo", "violao"], software: "CubeSuite", summary: "Looper com bateria eletrônica para estudo, composição e apresentações solo.", bestFor: "Praticar tempo, criar bases e tocar sozinho com acompanhamento.", avoidIf: "Você precisa de múltiplas trilhas independentes ou sincronismo profissional avançado.", pros: ["Looper e bateria", "Bom para estudo", "Editor CubeSuite"], cons: ["Fluxo exige prática", "Limites variam por revisão"], specs: [["Função", "Looper + bateria"], ["Editor", "CubeSuite"], ["Instrumentos", "Uso geral"], ["Uso", "Estudo e performance"]], affiliateUrl: "https://meli.la/2DRr1yo", offerPrice: "R$ 218,58", referencePrice: "R$ 339,99", amazonQuery: "M-VAVE Looper Drum pedal", related: ["looper-pro", "chocolate-plus", "cube-turner-plus"] }),
   item({ id: "looper-pro", name: "LOOPER PRO", category: "pedais", software: "CubeSuite", summary: "Looper de chão para construir camadas e controlar gravações com os pés.", bestFor: "Músicos que querem bases próprias sem levar computador.", avoidIf: "Você precisa de uma estação multitrilha completa.", pros: ["Controle de pé", "Editor oficial", "Uso com vários instrumentos"], cons: ["Requer domínio do tempo", "Confira a revisão do produto"], specs: [["Função", "Looper"], ["Editor", "CubeSuite"], ["Conexão", "USB"], ["Uso", "Palco e estudo"]], affiliateUrl: "https://link.amazon/B05ANPOzi", offerPrice: "R$ 192,88", referencePrice: "R$ 300,00", amazonQuery: "M-VAVE Looper Pro pedal", related: ["looper-drum", "chocolate", "cube-turner-plus"] }),
   item({ id: "mini-universe", name: "MINI-UNIVERSE", category: "pedais", instruments: ["guitarra"], summary: "Pedal compacto de reverb ambiente para texturas, ambiência e sons espaciais.", bestFor: "Ambient, worship e quem quer reverbs criativos em pouco espaço.", avoidIf: "Você procura um reverb básico com muitos presets salvos.", pros: ["Compacto", "Texturas ambientes", "Operação direta"], cons: ["Sem editor", "Recursos focados em ambiência"], specs: [["Efeito", "Reverb"], ["Perfil", "Ambient"], ["Formato", "Mini pedal"], ["Controle", "Painel físico"]], affiliateUrl: "https://link.amazon/B0g4EThz4", offerPrice: "R$ 116,01", referencePrice: "R$ 169,99", amazonQuery: "M-VAVE Mini Universe reverb", related: ["elemental", "galaxia", "mini-efx"] }),
   item({ id: "elemental", name: "ELEMENTAL", category: "pedais", instruments: ["guitarra"], summary: "Delay digital compacto para repetições, ambiência e bases rítmicas.", bestFor: "Adicionar delay a um setup simples sem ocupar muito espaço.", avoidIf: "Você precisa de presets, MIDI ou edição em software.", pros: ["Simples", "Compacto", "Bom custo de entrada"], cons: ["Sem presets", "Sem MIDI"], specs: [["Efeito", "Delay"], ["Formato", "Mini pedal"], ["Controle", "Painel físico"], ["Uso", "Pedalboard"]], affiliateUrl: "https://link.amazon/B06tTPmvd", offerPrice: "R$ 190,00", referencePrice: "R$ 250,00", amazonQuery: "M-VAVE Elemental delay", related: ["mini-universe", "galaxia", "classic-delay"] }),
@@ -91,14 +91,80 @@ export const SOFTWARE_MATRIX = [
 export const TONE_RECIPES_ENABLED = true;
 export const TONE_RECIPES_LISTED = false;
 export const STORE_ENABLED = true;
-export const STORE_LISTED = true;
+export const STORE_LISTED = false;
 
+// Fila editorial de previews: um único áudio curto por IR, com a mesma frase antes e
+// depois da virada. Os nomes dos arquivos são estáveis para facilitar a publicação.
+// Adicione o id nesta lista somente depois de colocar o MP3 em assets/audio/previews/.
+const PUBLISHED_TONE_PREVIEWS = [];
 export const TONE_RECIPES = [
-  { id: "clean-americano", name: "Clean americano aberto", instrument: "guitarra", equipment: ["cube-baby", "tank-g", "mk-300"], irFamily: "Fender / open back", audioBefore: null, audioAfter: null, order: ["Amp clean com ganho baixo", "IR open back", "Low cut suave", "Reverb curto"], note: "Gravar acordes abertos e fraseado, sem mudar a execução entre antes/depois." },
-  { id: "crunch-britanico", name: "Crunch britânico definido", instrument: "guitarra", equipment: ["tank-g", "annblack-box", "line6-hx-stomp"], irFamily: "Marshall 4x12", audioBefore: null, audioAfter: null, order: ["Amp britânico em crunch", "IR 4x12", "Corte de graves", "Delay opcional"], note: "Gravar palhetada leve e forte para mostrar dinâmica." },
-  { id: "baixo-mix", name: "Baixo presente na mix", instrument: "baixo", equipment: ["cube-baby-bass", "tank-b", "mk-300"], irFamily: "Ampeg / 8x10", audioBefore: null, audioAfter: null, order: ["Compressor leve", "Preamp", "IR de baixo", "Ajuste de nível"], note: "Gravar solo e junto de bateria para revelar o encaixe." },
-  { id: "violao-natural", name: "Violão em linha mais natural", instrument: "violao", equipment: ["cube-baby-ac", "ir-box", "annblack-box"], irFamily: "Taylor / Martin", audioBefore: null, audioAfter: null, order: ["Entrada sem clip", "IR de violão", "EQ corretiva mínima", "Ambiência curta"], note: "Gravar dedilhado e batida com o mesmo ganho." }
-];
+  ["marshall-1960a-sm57", "guitarra", "Marshall", "1960A G12M", "SM57 · cap edge"],
+  ["marshall-1960a-r121", "guitarra", "Marshall", "1960A G12M", "R121 · cone"],
+  ["marshall-plexi-t75", "guitarra", "Marshall", "Plexi 1960A T75", "SM57 · cap edge"],
+  ["marshall-jcm900", "guitarra", "Marshall", "JCM900", "Mix selecionado"],
+  ["marshall-jcm2000", "guitarra", "Marshall", "JCM2000 4x12", "Captação próxima"],
+  ["mesa-rectifier-v30", "guitarra", "Mesa/Boogie", "Rectifier V30", "Mix selecionado"],
+  ["fender-twin-1973", "guitarra", "Fender", "Twin 1973", "Open back · edge"],
+  ["vox-ac30-bright", "guitarra", "Vox", "AC30 Bright", "SM57 · cap edge"],
+  ["vox-ac30-normal", "guitarra", "Vox", "AC30 Normal", "U67 · cone"],
+  ["soldano-412b", "guitarra", "Soldano", "4x12B", "Mix selecionado"],
+  ["bogner-212", "guitarra", "Bogner", "2x12", "Speaker 1 · posição 2"],
+  ["diezel-412", "guitarra", "Diezel", "4x12", "Speaker 1 · posição 2"],
+  ["peavey-410", "guitarra", "Peavey", "4x10", "Mix selecionado"],
+  ["randall-cab", "guitarra", "Randall", "High-gain cabinet", "Mix selecionado"],
+  ["line6-vetta", "guitarra", "Line 6", "Vetta Cabinet", "Mix selecionado"],
+  ["allure-tweed-p10n", "guitarra", "Allure", "'59 Tweed P10N", "Captação próxima"],
+  ["gods-cab-sm57", "guitarra", "God's Cab", "Biblioteca multicaptação", "SM57"],
+  ["gods-cab-u87", "guitarra", "God's Cab", "Biblioteca multicaptação", "U87"],
+  ["fair-modern-rock", "guitarra", "faIR", "Modern Rock", "Mix selecionado"],
+  ["fair-post-grunge", "guitarra", "faIR", "Post Grunge", "Mix selecionado"],
+
+  ["darkglass-dg410c", "baixo", "Darkglass", "DG410C 4x10", "Beta52A · cap edge"],
+  ["hartke-45xl", "baixo", "Hartke", "45XL 4x10", "SM7 · cap edge"],
+  ["ampeg-svt810", "baixo", "Ampeg", "SVT 810", "Cap edge · próxima"],
+  ["ampeg-v4b-custom", "baixo", "Ampeg", "V4B Custom 4x12", "Mix selecionado"],
+  ["ampeg-svtii", "baixo", "Ampeg", "SVT II", "Mix selecionado"],
+  ["markbass-collection", "baixo", "Markbass", "Markbass Collection", "Mix selecionado"],
+  ["gk-250ml", "baixo", "Gallien-Krueger", "GK 250ML", "Captação próxima"],
+  ["eden-410", "baixo", "Eden", "Eden 4x10", "Mix selecionado"],
+  ["nemesis-410", "baixo", "Eden", "Nemesis 4x10", "Mix selecionado"],
+  ["peavey-115bx", "baixo", "Peavey", "115BX 1x15", "Mix selecionado"],
+  ["ashdown-abm", "baixo", "Ashdown", "ABM BP150", "Mix selecionado"],
+  ["mesa-powerhouse", "baixo", "Mesa/Boogie", "PowerHouse", "Mix selecionado"],
+  ["orange-bass", "baixo", "Orange", "Bass Setup", "Mix selecionado"],
+  ["swr-15", "baixo", "SWR", "SWR 15", "Captação próxima"],
+  ["trace-elliot", "baixo", "Trace Elliot", "V4B + Trace Elliot", "Mix selecionado"],
+  ["science-amps", "baixo", "Science Amplification", "Science Amps", "Mix selecionado"],
+
+  ["gibson-j200", "violao", "Gibson", "J-200 Jumbo", "Stereo selecionado"],
+  ["gibson-j45", "violao", "Gibson", "J-45", "DPA 4011"],
+  ["gibson-hummingbird", "violao", "Gibson", "Hummingbird", "DPA 4011"],
+  ["martin-hd28", "violao", "Martin", "HD-28", "U47"],
+  ["taylor-314ce", "violao", "Taylor", "314ce", "Variação selecionada"],
+  ["taylor-814", "violao", "Taylor", "814", "KM84"],
+  ["collings-d2h", "violao", "Collings", "D2H / OM2HA", "DPA 4011"],
+  ["alvarez-abt60", "violao", "Alvarez", "ABT-60 Baritone", "Versão Match"],
+  ["lava-nylon", "violao", "LAVA", "LAVA Nylon", "Stereo selecionado"],
+  ["classical-ambu2f", "violao", "Classical", "AmBu2F", "Neumann M147"],
+  ["dtar-dread", "violao", "D-TAR", "Acoustic Shapes · Dread", "Perfil selecionado"],
+  ["dtar-jumbo", "violao", "D-TAR", "Acoustic Shapes · Jumbo", "Perfil selecionado"],
+  ["acoustic-impulses", "violao", "Coleção independente", "Acoustic Impulses", "Corpo selecionado"],
+  ["nylon-essentials", "violao", "Nylon", "Nylon Essentials", "Perfil selecionado"]
+].map(function(recipe, index) {
+  const fileName = String(index + 1).padStart(2, "0") + "-" + recipe[0] + ".mp3";
+  return {
+    id: recipe[0],
+    instrument: recipe[1],
+    brand: recipe[2],
+    name: recipe[3],
+    microphone: recipe[4],
+    featured: index < 10 || [20, 22, 36, 39, 40, 41].includes(index),
+    audio: PUBLISHED_TONE_PREVIEWS.includes(recipe[0]) ? "/assets/audio/previews/" + fileName : null,
+    fileName: fileName,
+    switchAt: "0:08",
+    duration: "16–20 s"
+  };
+});
 
 export function equipmentById(id) {
   return EQUIPMENT_ITEMS.find(function(product) { return product.id === id; });
