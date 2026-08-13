@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /downloads/arquivos/
+Disallow: /downloads/download-data.json
 
 Sitemap: https://mvave.com.br/sitemap.xml
-

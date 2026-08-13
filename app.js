@@ -11,6 +11,7 @@ const CHECKOUTS = {
 };
 
 const WHATSAPP = "https://api.whatsapp.com/send?phone=5531999427901";
+const DOWNLOAD_FILES_BASE = "/downloads/arquivos/";
 const PRODUCT_URLS = { guitarra: "/guitar/", baixo: "/bass/", violao: "/violao/", completo: "/completo/" };
 const products = {
   guitarra: {
@@ -158,6 +159,19 @@ function seoConfig(route, parts, productRoute) {
     "politica-privacidade": ["Política de Privacidade | M-Vave BR", "Saiba como a M-Vave BR trata informações de contato, dados relacionados às compras, cookies e solicitações de privacidade.", "/politica-privacidade/"]
   };
 
+  if (route === "downloads") {
+    const scope = ["completo", "guitarra", "baixo", "violao"].includes(parts[1]) ? parts[1] : "";
+    const label = scope ? products[scope].label : "Central de Downloads";
+    return {
+      title: (scope ? "Downloads do Pack " + label : "Central de Downloads") + " | M-Vave BR",
+      description: "Área reservada para baixar os packs de IR da M-Vave BR por instrumento, marca e modelo.",
+      path: "/downloads/" + (scope ? scope + "/" : ""),
+      type: "website",
+      noindex: true,
+      robots: "noindex,nofollow,noarchive"
+    };
+  }
+
   if (products[productRoute]) {
     const p = products[productRoute];
     const titles = {
@@ -195,7 +209,7 @@ function applySeo(config, article) {
   document.title = config.title;
   upsertCanonical(canonical);
   upsertMeta("name", "description", config.description);
-  upsertMeta("name", "robots", config.noindex ? "noindex,follow" : SEO_DEFAULT_ROBOTS);
+  upsertMeta("name", "robots", config.robots || (config.noindex ? "noindex,follow" : SEO_DEFAULT_ROBOTS));
   upsertMeta("property", "og:locale", "pt_BR");
   upsertMeta("property", "og:site_name", "M-Vave BR");
   upsertMeta("property", "og:type", article ? "article" : config.type === "product" ? "product" : "website");
@@ -363,6 +377,7 @@ function header(active, solid) {
     ["home", "/", "Início"],
     ["packs", "/#packs", "Packs"],
     ["compatibilidade", "/compatibilidade/", "Compatibilidade"],
+    ["atualizacoes", "/atualizacoes/", "Softwares e atualizações"],
     ["conteudos", "/conteudos/", "Central do Timbre"],
     ["suporte", "/suporte/", "Suporte"]
   ];
@@ -810,9 +825,127 @@ function updatesPage() {
   document.title = "Softwares e atualizações M-Vave — M-Vave BR";
   return header("atualizacoes", true) +
     "<main id='conteudo' class='updates-page'><section class='updates-hero'><div class='container'><span class='eyebrow'>Central independente de orientação</span><h1>Software certo.<br><span class='display-accent'>Firmware certo.</span></h1><p>Atalhos para os canais oficiais da fabricante e uma regra simples: confira o modelo exato antes de atualizar.</p>" + button("Abrir downloads oficiais", "https://www.m-vave.com/download", "btn-amber", true) + "</div></section>" +
-    "<section class='section'><div class='container'><div class='update-warning'><span>!</span><div><strong>O pack enviado contém CubeSuite 2.7.2 e instaladores ainda mais antigos.</strong><p>Essas cópias podem ajudar em casos legados, mas não devem ser tratadas como a versão atual. Prefira o centro oficial e só faça downgrade quando houver orientação específica para o seu aparelho.</p></div></div><div class='section-heading'><div><span class='eyebrow'>Editores e utilitários</span><h2>Qual programa usar?</h2></div><p>Os downloads diretos abaixo são servidos pela própria M-Vave. O link “Todos” abre o centro oficial.</p></div><div class='software-grid'>" + SOFTWARE_ITEMS.map(function(item) { return "<article class='software-card'><div><span class='kicker text-blue'>" + item.kind + "</span><h3>" + item.name + "</h3><p>" + item.note + "</p></div><dl><div><dt>Equipamentos</dt><dd>" + item.devices + "</dd></div><div><dt>Sistemas</dt><dd>" + item.systems + "</dd></div></dl><div class='software-downloads'>" + item.downloads.map(function(download) { return "<a class='btn btn-dark' href='" + download[1] + "' target='_blank' rel='noopener'>" + download[0] + iconArrow() + "</a>"; }).join("") + "<a class='source-link' href='" + item.url + "' target='_blank' rel='noopener'>Todos ↗</a></div></article>"; }).join("") + "</div></div></section>" +
+    "<section class='section'><div class='container'><div class='update-warning'><span>!</span><div><strong>Baixe sempre a versão indicada para o modelo e a revisão exatos do seu equipamento.</strong><p>Instaladores e firmwares salvos há muito tempo podem estar desatualizados. Prefira os canais oficiais abaixo e só faça downgrade quando houver orientação específica para o seu aparelho.</p></div></div><div class='section-heading'><div><span class='eyebrow'>Editores e utilitários</span><h2>Qual programa usar?</h2></div><p>Os downloads diretos abaixo são servidos pela própria M-Vave. O link “Todos” abre o centro oficial.</p></div><div class='software-grid'>" + SOFTWARE_ITEMS.map(function(item) { return "<article class='software-card'><div><span class='kicker text-blue'>" + item.kind + "</span><h3>" + item.name + "</h3><p>" + item.note + "</p></div><dl><div><dt>Equipamentos</dt><dd>" + item.devices + "</dd></div><div><dt>Sistemas</dt><dd>" + item.systems + "</dd></div></dl><div class='software-downloads'>" + item.downloads.map(function(download) { return "<a class='btn btn-dark' href='" + download[1] + "' target='_blank' rel='noopener'>" + download[0] + iconArrow() + "</a>"; }).join("") + "<a class='source-link' href='" + item.url + "' target='_blank' rel='noopener'>Todos ↗</a></div></article>"; }).join("") + "</div></div></section>" +
     "<section class='section section-dark'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Consulta em 11/08/2026</span><h2>Firmwares recentes.</h2></div><p>Versões publicadas no centro oficial no momento da revisão desta página.</p></div><div class='firmware-table-wrap'><table class='firmware-table'><thead><tr><th>Equipamento</th><th>Versão</th><th>Data</th><th>Editor</th><th></th></tr></thead><tbody>" + FIRMWARE_ITEMS.map(function(item) { return "<tr><td><strong>" + item.device + "</strong></td><td>" + item.version + "</td><td>" + item.date + "</td><td>" + item.tool + "</td><td><a href='" + item.url + "' target='_blank' rel='noopener'>Download ↗</a></td></tr>"; }).join("") + "</tbody></table></div></div></section>" +
     "<section class='section'><div class='container update-steps'><div><span class='eyebrow'>Antes de atualizar</span><h2>Quatro cuidados que evitam dor de cabeça.</h2></div><ol><li><span>01</span><div><strong>Confirme o nome e a revisão</strong><p>TANK-G, TANK-G V2 e versões semelhantes podem usar arquivos diferentes.</p></div></li><li><span>02</span><div><strong>Exporte seus presets</strong><p>Salve uma cópia antes de atualizar ou restaurar configurações.</p></div></li><li><span>03</span><div><strong>Garanta energia e cabo estáveis</strong><p>Não desconecte USB nem interrompa a alimentação durante o processo.</p></div></li><li><span>04</span><div><strong>Leia a release note</strong><p>Nem toda versão é necessária para todo usuário; veja o que realmente mudou.</p></div></li></ol></div></section></main>" + footer();
+}
+
+const DOWNLOAD_SCOPES = {
+  completo: {
+    label: "Pack Completo",
+    instrument: "",
+    title: "Todos os packs. Um acesso simples.",
+    description: "Baixe a coleção completa, um instrumento inteiro ou somente as famílias que deseja usar agora."
+  },
+  guitarra: {
+    label: "Pack Guitarra",
+    instrument: "Guitarra",
+    title: "Sua biblioteca de guitarra, organizada.",
+    description: "Baixe o pack de guitarra completo ou escolha apenas uma marca e família específica."
+  },
+  baixo: {
+    label: "Pack Baixo",
+    instrument: "Baixo",
+    title: "Grave organizado para baixar sem esforço.",
+    description: "Baixe o pack de baixo completo ou somente os modelos que deseja testar."
+  },
+  violao: {
+    label: "Pack Violão",
+    instrument: "Violão",
+    title: "IRs acústicos no lugar certo.",
+    description: "Baixe o pack de violão completo ou escolha uma família de instrumento específica."
+  }
+};
+
+function downloadHubPage() {
+  const cards = ["completo", "guitarra", "baixo", "violao"].map(function(key) {
+    const item = DOWNLOAD_SCOPES[key];
+    const details = key === "completo" ? "Todos os instrumentos e famílias" : "Pack completo e downloads por modelo";
+    return "<a class='download-hub-card' href='/downloads/" + key + "/'><span>" + escapeHtml(item.label) + "</span><h2>" + escapeHtml(item.title) + "</h2><p>" + details + "</p><strong>Abrir downloads " + iconArrow() + "</strong></a>";
+  }).join("");
+  return header("", true) +
+    "<main id='conteudo' class='downloads-page'><section class='downloads-hero'><div class='container'><span class='eyebrow'>Área reservada · acesso pelo link</span><h1>Central de<br><span class='display-accent'>downloads.</span></h1><p>Escolha um pack para baixar a coleção inteira ou somente os modelos que você precisa.</p></div></section><section class='section'><div class='container'><div class='private-page-note'><span>i</span><p><strong>Esta página não aparece no menu ou sitemap e foi configurada para não ser indexada.</strong> Ela não exige senha: qualquer pessoa que receber o endereço poderá acessar.</p></div><div class='download-hub-grid'>" + cards + "</div></div></section></main>" + footer();
+}
+
+function downloadPackPage(scopeKey) {
+  const scope = DOWNLOAD_SCOPES[scopeKey];
+  return header("", true) +
+    "<main id='conteudo' class='downloads-page' data-downloads data-download-scope='" + scopeKey + "'><section class='downloads-hero'><div class='container'><nav class='breadcrumbs' aria-label='Navegação estrutural'><a href='/downloads/'>Downloads</a><span>›</span><span aria-current='page'>" + escapeHtml(scope.label) + "</span></nav><span class='eyebrow'>Área reservada · acesso pelo link</span><h1>" + escapeHtml(scope.title) + "</h1><p>" + escapeHtml(scope.description) + "</p></div></section>" +
+    "<section class='download-main-section'><div class='container'><div class='private-page-note'><span>i</span><p><strong>Salve esta página nos favoritos.</strong> Ela não aparece no menu e foi configurada para não ser indexada, mas qualquer pessoa que receber o endereço poderá acessar.</p></div><div id='download-primary' class='download-primary' aria-live='polite'><p>Preparando o download…</p></div><div id='download-alternatives'></div></div></section>" +
+    "<section class='download-library-section'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Downloads individuais</span><h2>Escolha por marca e modelo.</h2></div><p>Use os filtros para encontrar uma família. Cada botão baixa somente o ZIP selecionado.</p></div><div class='download-toolbar'><label class='download-search-label'><span>Buscar</span><input id='download-search' type='search' placeholder='Ex.: Marshall, Ampeg, Taylor…' autocomplete='off'></label>" + (scopeKey === "completo" ? "<label><span>Instrumento</span><select id='download-instrument'><option value=''>Todos</option><option>Guitarra</option><option>Baixo</option><option>Violão</option></select></label>" : "") + "<label><span>Marca</span><select id='download-brand'><option value=''>Todas</option></select></label></div><div class='download-results-head'><strong id='download-count'>Carregando…</strong><a href='/downloads/'>Trocar de pack</a></div><div id='download-models' class='download-model-grid' aria-live='polite'></div><div id='download-empty' class='download-empty' hidden><strong>Nenhum download encontrado.</strong><p>Tente remover um filtro ou pesquisar por outro termo.</p></div></div></section></main>" + footer();
+}
+
+function downloadFileUrl(path) {
+  return DOWNLOAD_FILES_BASE + path.split("/").map(function(segment) { return encodeURIComponent(segment); }).join("/");
+}
+
+function formatDownloadSize(bytes) {
+  if (bytes < 1024 * 1024) return Math.max(1, Math.round(bytes / 1024)) + " KB";
+  return (bytes / (1024 * 1024)).toFixed(bytes >= 10 * 1024 * 1024 ? 0 : 1).replace(".", ",") + " MB";
+}
+
+function downloadButton(item, label, variant) {
+  return "<a class='btn " + (variant || "btn-dark") + "' href='" + escapeHtml(downloadFileUrl(item.arquivo)) + "' download>" + label + " · " + formatDownloadSize(item.tamanho_bytes) + iconArrow() + "</a>";
+}
+
+function bindDownloads() {
+  const page = document.querySelector("[data-downloads]");
+  if (!page) return;
+  const scopeKey = page.dataset.downloadScope;
+  const scope = DOWNLOAD_SCOPES[scopeKey];
+  const primary = page.querySelector("#download-primary");
+  const alternatives = page.querySelector("#download-alternatives");
+  const modelsRoot = page.querySelector("#download-models");
+  const search = page.querySelector("#download-search");
+  const instrument = page.querySelector("#download-instrument");
+  const brand = page.querySelector("#download-brand");
+  const count = page.querySelector("#download-count");
+  const empty = page.querySelector("#download-empty");
+
+  fetch("/downloads/download-data.json", { cache: "no-cache" }).then(function(response) {
+    if (!response.ok) throw new Error("Manifesto indisponível");
+    return response.json();
+  }).then(function(items) {
+    const pack = items.find(function(item) {
+      return scopeKey === "completo" ? item.tipo === "pack_completo" : item.tipo === "pack_instrumento" && item.instrumento === scope.instrument;
+    });
+    const modelItems = items.filter(function(item) {
+      return item.tipo === "modelo" && (!scope.instrument || item.instrumento === scope.instrument);
+    });
+
+    primary.innerHTML = "<div><span class='kicker'>Download principal</span><h2>" + escapeHtml(scope.label) + "</h2><p>Arquivo ZIP organizado, com instruções e acesso à página de softwares e atualizações.</p><small>SHA-256: " + escapeHtml(pack.sha256.slice(0, 16)) + "…</small></div>" + downloadButton(pack, "Baixar pack", "btn-amber");
+
+    if (scopeKey === "completo") {
+      const instrumentPacks = items.filter(function(item) { return item.tipo === "pack_instrumento"; });
+      alternatives.innerHTML = "<div class='download-alternatives'><div><span class='kicker text-blue'>Prefere baixar em partes?</span><h3>O completo também está separado por instrumento.</h3></div><div>" + instrumentPacks.map(function(item) { return downloadButton(item, "Baixar " + item.instrumento, "btn-dark"); }).join("") + "</div></div>";
+    }
+
+    const brands = Array.from(new Set(modelItems.map(function(item) { return item.marca; }))).sort(function(a, b) { return a.localeCompare(b, "pt-BR"); });
+    brand.innerHTML = "<option value=''>Todas</option>" + brands.map(function(name) { return "<option value='" + escapeHtml(name) + "'>" + escapeHtml(name) + "</option>"; }).join("");
+
+    function renderModels() {
+      const query = normalizeSearch(search.value);
+      const filtered = modelItems.filter(function(item) {
+        const text = normalizeSearch([item.instrumento, item.marca, item.modelo].join(" "));
+        return (!query || text.includes(query)) && (!instrument || !instrument.value || item.instrumento === instrument.value) && (!brand.value || item.marca === brand.value);
+      });
+      modelsRoot.innerHTML = filtered.map(function(item) {
+        return "<article class='download-model-card'><div><span>" + escapeHtml(item.instrumento) + " · " + escapeHtml(item.marca) + "</span><h3>" + escapeHtml(item.modelo) + "</h3><small>" + formatDownloadSize(item.tamanho_bytes) + " · ZIP</small></div>" + downloadButton(item, "Baixar", "btn-dark") + "</article>";
+      }).join("");
+      count.textContent = filtered.length + (filtered.length === 1 ? " modelo disponível" : " modelos disponíveis");
+      modelsRoot.hidden = filtered.length === 0;
+      empty.hidden = filtered.length !== 0;
+    }
+
+    search.addEventListener("input", renderModels);
+    brand.addEventListener("change", renderModels);
+    if (instrument) instrument.addEventListener("change", renderModels);
+    renderModels();
+  }).catch(function() {
+    primary.innerHTML = "<div class='download-load-error'><strong>Não foi possível carregar os downloads.</strong><p>Atualize a página. Se o problema continuar, fale com nosso suporte.</p><a class='btn btn-dark' href='/suporte/'>Abrir suporte</a></div>";
+    modelsRoot.hidden = true;
+    count.textContent = "Downloads indisponíveis";
+  });
 }
 
 function productPage(product) {
@@ -1060,6 +1193,8 @@ function render() {
   else if (route === "compatibilidade") html = compatibilityPage();
   else if (route === "catalogo") html = catalogPage(parts[1] || "completo");
   else if (route === "atualizacoes") html = updatesPage();
+  else if (route === "downloads" && !parts[1]) html = downloadHubPage();
+  else if (route === "downloads" && DOWNLOAD_SCOPES[parts[1]]) html = downloadPackPage(parts[1]);
   else if (route === "conteudos" && parts[1]) {
     currentArticle = CONTENT_ARTICLES.find(function(article) { return article.id === parts[1]; }) || null;
     html = currentArticle ? contentArticlePage(currentArticle) : notFoundPage();
@@ -1251,6 +1386,7 @@ function bindInteractions() {
   bindCatalog();
   bindContentHub();
   bindSupport();
+  bindDownloads();
 }
 
 render();

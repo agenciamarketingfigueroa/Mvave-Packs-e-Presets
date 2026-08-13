@@ -23,6 +23,11 @@ Depois acesse `http://localhost:4173`.
 - Pastas como `guitarra/`, `baixo/` e `novidades/`: URLs estáticas e indexáveis.
 - `SEO.md`: mapa de buscas, implementação e checklist pós-publicação.
 - `suporte/`: página clean de busca para dúvidas sobre packs e equipamentos.
+- `downloads/`: central reservada, não indexada, com páginas por pack e downloads por modelo.
+
+## Downloads dos packs
+
+As páginas em `/downloads/` usam o manifesto `downloads/download-data.json` e esperam os ZIPs em `/downloads/arquivos/`. Veja `downloads/README.md` para publicar os arquivos em um storage permanente sem adicionar o Pack Completo de 112 MB ao repositório Git.
 
 ## Antes de publicar
 

@@ -1,0 +1,974 @@
+[
+  {
+    "tipo": "pack_completo",
+    "instrumento": "",
+    "marca": "",
+    "modelo": "",
+    "arquivo": "Pack-Completo-M-Vave-BR.zip",
+    "tamanho_bytes": 116926227,
+    "sha256": "b0cb01942e0a496dab677410f10e1b65243cef3e3a248eb931b872cfee4b99a1"
+  },
+  {
+    "tipo": "pack_instrumento",
+    "instrumento": "Guitarra",
+    "marca": "",
+    "modelo": "",
+    "arquivo": "Pack-Guitarra-M-Vave-BR.zip",
+    "tamanho_bytes": 65744819,
+    "sha256": "676410d185dbdbd7333d5e6d0bb1d6f15a6aee43b85d676ea412bfd3385893fb"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Allure",
+    "modelo": "'59 Tweed e coleção Allure",
+    "arquivo": "Por modelo/Guitarra/Allure/'59 Tweed e coleção Allure.zip",
+    "tamanho_bytes": 40561,
+    "sha256": "c0d761a0c82d61d33467b92152291de5a1b68f385cb7d730103513f7c4b73910"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Bogner",
+    "modelo": "Bogner 2x12",
+    "arquivo": "Por modelo/Guitarra/Bogner/Bogner 2x12.zip",
+    "tamanho_bytes": 699285,
+    "sha256": "3244048bb4fdbd783f0e1118b326712e602804804c1e04a774c10cc4f5ff65ca"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Coleção independente",
+    "modelo": "God's Cab 1.4",
+    "arquivo": "Por modelo/Guitarra/Coleção independente/God's Cab 1.4.zip",
+    "tamanho_bytes": 22185213,
+    "sha256": "75f3fdb4132e7b01faacaeb5572d87853e83b7356b3a994861de2f4382bdddc3"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Diezel",
+    "modelo": "Diezel 4x12",
+    "arquivo": "Por modelo/Guitarra/Diezel/Diezel 4x12.zip",
+    "tamanho_bytes": 473910,
+    "sha256": "3d25d6419201a324884555c3fad617af1df19c8859e8750d44514c330eb1cdc4"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Fender",
+    "modelo": "Combos e gabinetes Fender",
+    "arquivo": "Por modelo/Guitarra/Fender/Combos e gabinetes Fender.zip",
+    "tamanho_bytes": 2046795,
+    "sha256": "2e0a1f490d233422c0b8dea519ca1ab52c5431d19498c2e0255ae095e0ea2b34"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Line 6",
+    "modelo": "Vetta Cabinet",
+    "arquivo": "Por modelo/Guitarra/Line 6/Vetta Cabinet.zip",
+    "tamanho_bytes": 909081,
+    "sha256": "ee06b22f1a06e34c18a6502458c8e5771ebca334ef6e71068b426e51c92e2283"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Marshall",
+    "modelo": "1960A G12M - Fractal",
+    "arquivo": "Por modelo/Guitarra/Marshall/1960A G12M - Fractal.zip",
+    "tamanho_bytes": 4571556,
+    "sha256": "f60aec3a64b3d53546170f86ed72fea240fb66d0ea471d6d2903a175a0c76d2d"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Marshall",
+    "modelo": "JCM2000",
+    "arquivo": "Por modelo/Guitarra/Marshall/JCM2000.zip",
+    "tamanho_bytes": 73291,
+    "sha256": "566794afda84c44ac690284a95894a15c3b7655d9931c38eec413d6b4e8b535c"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Marshall",
+    "modelo": "JCM900",
+    "arquivo": "Por modelo/Guitarra/Marshall/JCM900.zip",
+    "tamanho_bytes": 107781,
+    "sha256": "45a6372c3051a466b929a4b9af17b0926b134973e68502f4eed000b6c4015b3e"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Marshall",
+    "modelo": "Outras coleções 1960A",
+    "arquivo": "Por modelo/Guitarra/Marshall/Outras coleções 1960A.zip",
+    "tamanho_bytes": 7017607,
+    "sha256": "e12dc78cbc3d28b808c85c71700ebfb8e244af6dab3f8c99ad117165cf1e3e5e"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Marshall",
+    "modelo": "Plexi 1960A T75",
+    "arquivo": "Por modelo/Guitarra/Marshall/Plexi 1960A T75.zip",
+    "tamanho_bytes": 1651244,
+    "sha256": "e5b0203b7a9d32f52bf4b9948ef893eba5502cf808e1db3e4a7c4e94cde6c19c"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Mesa-Boogie",
+    "modelo": "Rectifier e V30",
+    "arquivo": "Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30.zip",
+    "tamanho_bytes": 3718613,
+    "sha256": "7deb31630e4342d2d70a697e30fa0381c0199a19640ac22136c6856916108483"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "1- Top 8 IR Pack",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/1- Top 8 IR Pack.zip",
+    "tamanho_bytes": 55062,
+    "sha256": "6df26b0f8d7f6dd1e2cab647649ba234f4e3bd9762b3dccb8711933ec845fec9"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "2- Top 7 IR Pack",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/2- Top 7 IR Pack.zip",
+    "tamanho_bytes": 24015,
+    "sha256": "daac595b4fd4ff08127e4d77495a654c9a6ad715ef7192e9c0e85932c7642eeb"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "AEmpulses_v1",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/AEmpulses_v1.zip",
+    "tamanho_bytes": 4489030,
+    "sha256": "0990b19adb285bd48c7653cf8fc9ba11847ce473a1fe45ddd820878eba216b85"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Allston",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Allston.zip",
+    "tamanho_bytes": 13358,
+    "sha256": "fae486d008be92b3d20b1ee2ba20aef25b04d94f1beadaeaaad261258adc787d"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Bachatta IR",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Bachatta IR.zip",
+    "tamanho_bytes": 175090,
+    "sha256": "6c157404add3eef2c59a25be1c93eb5da5362797c510edd3592f7f899f81dbab"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Behringer Ultra-G",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Behringer Ultra-G.zip",
+    "tamanho_bytes": 726749,
+    "sha256": "0d5d16e267269f5550008f6cb491193496cdb981b8a718f46285247dbc2b39bc"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "BestpluginsIRPack3",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/BestpluginsIRPack3.zip",
+    "tamanho_bytes": 230496,
+    "sha256": "557e621984da058d49438f329a9ebf234f7856f6fefce33d85925c0f7324a8bd"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "BestpluginsIRPack4",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/BestpluginsIRPack4.zip",
+    "tamanho_bytes": 461114,
+    "sha256": "c4c1b7107d11a065d368f38f97a5325854e6145a402bedeb6d6a46a3c4b9d517"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "BestpluginsIRPack5",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/BestpluginsIRPack5.zip",
+    "tamanho_bytes": 402197,
+    "sha256": "8eceaef9bd095c683ae5870c8f02a884bae95e47b0c8ac36875809b341c57016"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "BestpluginsIrPack1",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1.zip",
+    "tamanho_bytes": 328956,
+    "sha256": "a6a7b4cc7a1610f54851b52024969d24ef1055534e4c22bd6490d4ef69d43a97"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "BestpluginsIrPack2",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/BestpluginsIrPack2.zip",
+    "tamanho_bytes": 167169,
+    "sha256": "76a7271348fed526a830367774b0e13e441f8351081bd31fe7c8ec0cae7c021e"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Boxboro",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Boxboro.zip",
+    "tamanho_bytes": 10508,
+    "sha256": "3206c6a1c5c8fa76f9676572b1349515cff4ca66244fc7d4d213a67028bce535"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Brighton",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Brighton.zip",
+    "tamanho_bytes": 2135,
+    "sha256": "60c69e1fcc29458aa7507c9d62d805658ca7ab642e7bae5fed2dbe5e862c9f8e"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Brockton",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Brockton.zip",
+    "tamanho_bytes": 8192,
+    "sha256": "2d4cf1b9aca245f8b7cea1a83221d65ae3c1afa42cfe4525daaa29d4654779da"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Cambridge",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Cambridge.zip",
+    "tamanho_bytes": 8045,
+    "sha256": "859b8f4389721b93b624b1d73886706ce7d80775eea70d402d14b10e626ffe68"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Canton",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Canton.zip",
+    "tamanho_bytes": 4463,
+    "sha256": "5b9234818672457e1f4b05ec97114e59710fbf0549a0cf8fa8065bc8333f29fe"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Catharsis Fredman Impulses",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Catharsis Fredman Impulses.zip",
+    "tamanho_bytes": 28492,
+    "sha256": "2aaab87beeb4603b6f6675c52948b18ed444c3102f623ebfa0183d307dc81f0d"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Chelsea",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Chelsea.zip",
+    "tamanho_bytes": 8646,
+    "sha256": "c42cdebdf25785e8bb2afda97f7c905c2cf3503b47887ed13623c28da4e9b369"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Electrovoice 12",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Electrovoice 12.zip",
+    "tamanho_bytes": 100525,
+    "sha256": "8d0dc3ba73548504804aaf805455be3b3c6db4cf77d42fb5adf2eb23693b5005"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Electrovoice 4x12",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Electrovoice 4x12.zip",
+    "tamanho_bytes": 40516,
+    "sha256": "a8b4716b5b1fd7784b6a0915e587342ab9dedc1a599ce2f842bc216c12905a4a"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Fearcomplexmusic Impulses",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Fearcomplexmusic Impulses.zip",
+    "tamanho_bytes": 195178,
+    "sha256": "c01ff41dc1397eb8bb74f7c693e1228931e677f7b3f1784184eae657de74db55"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Fredman-Impulses",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Fredman-Impulses.zip",
+    "tamanho_bytes": 414077,
+    "sha256": "38c512a9d2e6ed2b385caeee90271cf3338ea495c8db2eb658306c17dbcc951b"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Grafton",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Grafton.zip",
+    "tamanho_bytes": 15046,
+    "sha256": "514e6372e7012da1a799c43a2a831bd0604cf4bd331c97b2ce4d05067abb070b"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "GuitarHacksImpulses",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/GuitarHacksImpulses.zip",
+    "tamanho_bytes": 810478,
+    "sha256": "eebb675f1d5796219836200680fde08dbc479df385c34cbb0d80f0817dd82b24"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Guitarhack Impulses",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Guitarhack Impulses.zip",
+    "tamanho_bytes": 360925,
+    "sha256": "137f38fed5906bc5d43059f76aa7088df94d4541e03b299f2d7aea39dc193487"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Hannover",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Hannover.zip",
+    "tamanho_bytes": 8887,
+    "sha256": "c8d4abdcc8f54be4a867299ff4bef2bad5f16e55254407e42d0dffdfe1e5cd07"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Harvard",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Harvard.zip",
+    "tamanho_bytes": 9105,
+    "sha256": "d54878383dd0459cc3f550ba809f9d72773253332519ccb5e52bd8d4fbff1ed0"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "IR Clean forró",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/IR Clean forró.zip",
+    "tamanho_bytes": 14565,
+    "sha256": "6ae3d195558f1196e5fc5c16bec439f3f81cfaf35915c6aac25f73f3e90e0ded"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Jensen 10 inch",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Jensen 10 inch.zip",
+    "tamanho_bytes": 166430,
+    "sha256": "5a3315fd9e903833c979596898a55d70bf66a65314631266aa882baa521f17bb"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Kalthallen IRs",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Kalthallen IRs.zip",
+    "tamanho_bytes": 1291944,
+    "sha256": "2ebc9e57d3f44b8607206943472b6dfa255dd52f2652f0db46ffc97ca0663e9b"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Leicester",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Leicester.zip",
+    "tamanho_bytes": 11902,
+    "sha256": "ce8284d56e3638eeb4341011d4c4f5820649a14293e2995e8c6d06181c31ca2e"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Lincoln",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Lincoln.zip",
+    "tamanho_bytes": 5593,
+    "sha256": "8cfb3ef3acf6e6778207d228f667047cccb7a58c31eb2ce58fb979f14308429e"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Mansfield",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Mansfield.zip",
+    "tamanho_bytes": 12943,
+    "sha256": "1fb3f0b0b915f0a630e4c5241002285318596b9a8c94abb7af19ed6f0a2d3418"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Marshall 4x12",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Marshall 4x12.zip",
+    "tamanho_bytes": 444167,
+    "sha256": "f05e535db57d17d7cf26411377d8058396e0e15c582450500a1bb1c874448a30"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Marshall G15R",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Marshall G15R.zip",
+    "tamanho_bytes": 90925,
+    "sha256": "1bb1b05ece25491812289c69543c30ad898a3cc0bccd9ea42f67c805ba4d32e9"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Northbridge",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Northbridge.zip",
+    "tamanho_bytes": 8522,
+    "sha256": "9ce945b456335f77ee49b53a71ec487d73edeb79b7f08cbd916c0e979a4187cc"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Oakdale",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Oakdale.zip",
+    "tamanho_bytes": 15860,
+    "sha256": "4b23eabdf990ea228dfa97b87725a5d523015fae45ce6d6b60993a97ae82a3d5"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Oxford",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Oxford.zip",
+    "tamanho_bytes": 9475,
+    "sha256": "404e4f1b422a1743dd14717e1f8ec976429be6942cb2c1d0925296200ec7a30d"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "POD",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/POD.zip",
+    "tamanho_bytes": 10828,
+    "sha256": "a44fe17a94c6f0c66363c1a9bd2404bdd01e8e23acf0ae0ae65f770280e0094b"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Rockport",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Rockport.zip",
+    "tamanho_bytes": 9805,
+    "sha256": "b9d84403caca8a3362e14d000b78148e81c9e955fb4529d82ec88ed64c861cef"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Roslindale",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Roslindale.zip",
+    "tamanho_bytes": 8493,
+    "sha256": "275f15443420d69c913182870b35600adabe34833e2c6813d5064271042296e7"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Rutland",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Rutland.zip",
+    "tamanho_bytes": 2167,
+    "sha256": "ab4c45ceb70f56d80ac6e818ac55ee1ae411aa91514b045213321eb03eb03ade"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Sterling",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Sterling.zip",
+    "tamanho_bytes": 6541,
+    "sha256": "6a68f7f39262c3eb582319f2b9b983d5d3c6926f143ee4b2d7f17fcc04c694f9"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Supermart",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Supermart.zip",
+    "tamanho_bytes": 3463,
+    "sha256": "80b874f9949025e94e1cd911fe82f63fd6bf9fb9eab79e7a1a220f40c0825fd1"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Waltham",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Waltham.zip",
+    "tamanho_bytes": 8655,
+    "sha256": "55a0bb3e122bba1d013e371957933cd8b7c652b251362609e55672c330a6f97e"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "Worcester",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/Worcester.zip",
+    "tamanho_bytes": 21691,
+    "sha256": "048e60df0a2129c0f793ffb4bd0c16df7f1296376e358d703dcf2461cb203b4f"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Outras coleções",
+    "modelo": "ZETA IR PACK",
+    "arquivo": "Por modelo/Guitarra/Outras coleções/ZETA IR PACK.zip",
+    "tamanho_bytes": 196588,
+    "sha256": "ff2c76cfd62c4dd340d0b18c49aa8390f45d2795707fe721e56c935840e9013d"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Peavey",
+    "modelo": "Peavey 4x10",
+    "arquivo": "Por modelo/Guitarra/Peavey/Peavey 4x10.zip",
+    "tamanho_bytes": 107484,
+    "sha256": "f85b460851e4bf02892c379f611c0ec042f851666163402df1bfd668a3ac37e0"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Randall",
+    "modelo": "Randall Cabinet",
+    "arquivo": "Por modelo/Guitarra/Randall/Randall Cabinet.zip",
+    "tamanho_bytes": 398961,
+    "sha256": "09d572de8d0ffad9620f9a1f855079d121de385e63e62a5a30ea94c0ddfbf9cd"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Soldano",
+    "modelo": "4x12B",
+    "arquivo": "Por modelo/Guitarra/Soldano/4x12B.zip",
+    "tamanho_bytes": 186702,
+    "sha256": "d2a6fa831f9469a022c40611d10bc2735eff85cb9c2e0015c236df90b8b5826f"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Vox",
+    "modelo": "AC30",
+    "arquivo": "Por modelo/Guitarra/Vox/AC30.zip",
+    "tamanho_bytes": 120197,
+    "sha256": "4474f7027bc7c7d27cb133e1a889219f9aec7db97b7b98a8cee020d521cd7595"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Vox",
+    "modelo": "AC30 Bright Channel",
+    "arquivo": "Por modelo/Guitarra/Vox/AC30 Bright Channel.zip",
+    "tamanho_bytes": 733542,
+    "sha256": "66ec1ccfd05f7177186b572f8d60eeadaac43a99ee2d03f0ca50e99c365a0d02"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "Vox",
+    "modelo": "AC30 Normal Channel",
+    "arquivo": "Por modelo/Guitarra/Vox/AC30 Normal Channel.zip",
+    "tamanho_bytes": 1170455,
+    "sha256": "eee93ac2f105885e1de9a9ea6891487ba89ff29505a0b8a693e6af3bd4d7b45b"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "faIR",
+    "modelo": "Modern Rock",
+    "arquivo": "Por modelo/Guitarra/faIR/Modern Rock.zip",
+    "tamanho_bytes": 242330,
+    "sha256": "af10400228ff7cc3b632e2f77a59a1a1241e5d5c881d7dd4447f560937d50e8a"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Guitarra",
+    "marca": "faIR",
+    "modelo": "Post Grunge",
+    "arquivo": "Por modelo/Guitarra/faIR/Post Grunge.zip",
+    "tamanho_bytes": 1806036,
+    "sha256": "a2ddf5e94a8707bfdfbab6ceb6255f3fb38197e41a64875b259cffae184f2ac7"
+  },
+  {
+    "tipo": "pack_instrumento",
+    "instrumento": "Baixo",
+    "marca": "",
+    "modelo": "",
+    "arquivo": "Pack-Baixo-M-Vave-BR.zip",
+    "tamanho_bytes": 49147668,
+    "sha256": "fc9034962f84a149fd33101d33737906ac3b55384874b3c8998864c06ecfe081"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Ampeg",
+    "modelo": "Outros modelos Ampeg",
+    "arquivo": "Por modelo/Baixo/Ampeg/Outros modelos Ampeg.zip",
+    "tamanho_bytes": 2926651,
+    "sha256": "e96f6ef7650ff25acb6b95c8d2c9399cf3eb307615e5407b8e37d96164478dcc"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Ampeg",
+    "modelo": "SVT 810",
+    "arquivo": "Por modelo/Baixo/Ampeg/SVT 810.zip",
+    "tamanho_bytes": 5771270,
+    "sha256": "c6bd13821793fde1cbec5db7d67081acb8307150e754f309eb158dbcfe5b2750"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Ampeg",
+    "modelo": "V4B Custom",
+    "arquivo": "Por modelo/Baixo/Ampeg/V4B Custom.zip",
+    "tamanho_bytes": 23278,
+    "sha256": "7fa05de5a430e483f2d26516f3d7520f4de862c547a6248bd54cbb8e2ab0e3da"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Ashdown",
+    "modelo": "ABM BP150",
+    "arquivo": "Por modelo/Baixo/Ashdown/ABM BP150.zip",
+    "tamanho_bytes": 377764,
+    "sha256": "56b8a79c95d8605facf97deae9cd833e2251bdb6d6d6f3ecc6c919fdf05dfe11"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Darkglass",
+    "modelo": "DG410C",
+    "arquivo": "Por modelo/Baixo/Darkglass/DG410C.zip",
+    "tamanho_bytes": 14177249,
+    "sha256": "397794b59b5d4f06cd2b597c8d74c41aa89ffeeca05f7c7542b010b73087b610"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Eden",
+    "modelo": "Eden e Nemesis 4x10",
+    "arquivo": "Por modelo/Baixo/Eden/Eden e Nemesis 4x10.zip",
+    "tamanho_bytes": 1113681,
+    "sha256": "05bb91c462e3709e7900451dca11028c652bde646c08e9845e3f656e1e2cac6c"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Gallien-Krueger",
+    "modelo": "GK Collection",
+    "arquivo": "Por modelo/Baixo/Gallien-Krueger/GK Collection.zip",
+    "tamanho_bytes": 509525,
+    "sha256": "c0c02ddc4d96b1297acfe1e78d3dec37f8a86e31ec69e9113f80797d5992be4a"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Hartke",
+    "modelo": "45XL",
+    "arquivo": "Por modelo/Baixo/Hartke/45XL.zip",
+    "tamanho_bytes": 8937308,
+    "sha256": "9c96e01cb2a0702fbc564bcb2313539270eddcb13362eeb0c41bf4a998b0714b"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Markbass",
+    "modelo": "Markbass Collection",
+    "arquivo": "Por modelo/Baixo/Markbass/Markbass Collection.zip",
+    "tamanho_bytes": 1054639,
+    "sha256": "24f5ecac2f1483bb9fcea79a765a48a2b22109f47576efb6c632d5e55594c701"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Mesa-Boogie",
+    "modelo": "PowerHouse",
+    "arquivo": "Por modelo/Baixo/Mesa-Boogie/PowerHouse.zip",
+    "tamanho_bytes": 406140,
+    "sha256": "d3dafa82499d506279ddb62182b5a6a9944173b2605dbe21a4f95d529a8919a0"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Orange",
+    "modelo": "Orange Bass Setup",
+    "arquivo": "Por modelo/Baixo/Orange/Orange Bass Setup.zip",
+    "tamanho_bytes": 38375,
+    "sha256": "b8ddd46174b67896115b02bcc087da46379281b02cc72f1145cad21838000f46"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Outras coleções",
+    "modelo": "AFX",
+    "arquivo": "Por modelo/Baixo/Outras coleções/AFX.zip",
+    "tamanho_bytes": 17585,
+    "sha256": "3ee9614579cb3cc109f59123a1253a6411cd028e0ff9e199336795a88b40a836"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Outras coleções",
+    "modelo": "Bass Classics",
+    "arquivo": "Por modelo/Baixo/Outras coleções/Bass Classics.zip",
+    "tamanho_bytes": 3041,
+    "sha256": "24db2a6153dc631cb7f7d4d413737b7e70c6a0d2e80b65d698debf70c00dbdc7"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Outras coleções",
+    "modelo": "Bass Grafton",
+    "arquivo": "Por modelo/Baixo/Outras coleções/Bass Grafton.zip",
+    "tamanho_bytes": 15086,
+    "sha256": "8d87e20cad432ce556175a7d49f2bcdf0c32cc23b7cbaf29a20c1812b9ad4a63"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Outras coleções",
+    "modelo": "Bass Hannover",
+    "arquivo": "Por modelo/Baixo/Outras coleções/Bass Hannover.zip",
+    "tamanho_bytes": 8917,
+    "sha256": "a6870f56131315b624971378fa1811a70afa510dde233cb27d235f6adeb82d10"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Outras coleções",
+    "modelo": "Bass Oakdale 2x12",
+    "arquivo": "Por modelo/Baixo/Outras coleções/Bass Oakdale 2x12.zip",
+    "tamanho_bytes": 15960,
+    "sha256": "9b3145b99286f5cf011617f5558fb2769a7966fb24131e733ade9af8e76613bd"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Outras coleções",
+    "modelo": "Bass Peavey 4x10",
+    "arquivo": "Por modelo/Baixo/Outras coleções/Bass Peavey 4x10.zip",
+    "tamanho_bytes": 107514,
+    "sha256": "01cf6e40a89de560a7866c4f2a9872032d1437714041a2177eef52a77d78da28"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Outras coleções",
+    "modelo": "Bass Setup_Zuhause_Hiwatt",
+    "arquivo": "Por modelo/Baixo/Outras coleções/Bass Setup_Zuhause_Hiwatt.zip",
+    "tamanho_bytes": 31622,
+    "sha256": "56a14b4e82481f751bca046a6eb73cbe7b2b943d23fa726601fe60bd6121cea1"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Outras coleções",
+    "modelo": "Bass Setup_dr_norton",
+    "arquivo": "Por modelo/Baixo/Outras coleções/Bass Setup_dr_norton.zip",
+    "tamanho_bytes": 10147,
+    "sha256": "485fa39b050fc9dfae3205a5e5633801397d0c10e4977f3f174dc1c0d3db82f8"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Outras coleções",
+    "modelo": "Laney LV412A",
+    "arquivo": "Por modelo/Baixo/Outras coleções/Laney LV412A.zip",
+    "tamanho_bytes": 164226,
+    "sha256": "35c3d9fecef2a69ec41219b58911d5f2952c54fb8bd1e0793fa03cdce364aac0"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Peavey",
+    "modelo": "115BX",
+    "arquivo": "Por modelo/Baixo/Peavey/115BX.zip",
+    "tamanho_bytes": 375631,
+    "sha256": "5f54bfd015088f51ba0225b6b8351f85e769b9b180e84a27fdfe5dea0c90e322"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "SWR",
+    "modelo": "SWR 15",
+    "arquivo": "Por modelo/Baixo/SWR/SWR 15.zip",
+    "tamanho_bytes": 152382,
+    "sha256": "1a7ce77d84ab427c61235a354368cd347208c250e2871b9da68c97dcd0940ce5"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Science Amplification",
+    "modelo": "Science Amps",
+    "arquivo": "Por modelo/Baixo/Science Amplification/Science Amps.zip",
+    "tamanho_bytes": 7126659,
+    "sha256": "bdea4aac2d97b910ae61d8102eb0a13977c531088ef46a56371ac45370652a82"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Baixo",
+    "marca": "Vox",
+    "modelo": "T-25",
+    "arquivo": "Por modelo/Baixo/Vox/T-25.zip",
+    "tamanho_bytes": 370587,
+    "sha256": "76e8bdfcc94b080190266af2a6a6d19d6a54dc1aac5c9417619ef546fe88b04f"
+  },
+  {
+    "tipo": "pack_instrumento",
+    "instrumento": "Violão",
+    "marca": "",
+    "modelo": "",
+    "arquivo": "Pack-Violão-M-Vave-BR.zip",
+    "tamanho_bytes": 832022,
+    "sha256": "1c125494b0671fdbe49b9366a81d00b3708612a861e17c99d43adee84694443b"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Violão",
+    "marca": "Alvarez",
+    "modelo": "ABT-60 Baritone",
+    "arquivo": "Por modelo/Violão/Alvarez/ABT-60 Baritone.zip",
+    "tamanho_bytes": 35335,
+    "sha256": "6b2754ddec0537ae6dc97252e1a99ebe2429c41842642d15932a55f4538694a2"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Violão",
+    "marca": "Coleção D-TAR",
+    "modelo": "Acoustic Shapes",
+    "arquivo": "Por modelo/Violão/Coleção D-TAR/Acoustic Shapes.zip",
+    "tamanho_bytes": 97121,
+    "sha256": "db89b2c46c64453581ae6e7916505e7228692eead04d00ee58570f76cab6d0f1"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Violão",
+    "marca": "Collings",
+    "modelo": "D2H e OM2HA",
+    "arquivo": "Por modelo/Violão/Collings/D2H e OM2HA.zip",
+    "tamanho_bytes": 35792,
+    "sha256": "bc9d8e9df2fe9df9cd5881cb1150239758870d8892a2af21a15b902142d42b19"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Violão",
+    "marca": "Gibson",
+    "modelo": "Hummingbird",
+    "arquivo": "Por modelo/Violão/Gibson/Hummingbird.zip",
+    "tamanho_bytes": 19263,
+    "sha256": "51bccaadb90019fcc7e8dfa83c06da13d92aca043cb88000bad9a9542475129e"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Violão",
+    "marca": "Gibson",
+    "modelo": "J-200 Jumbo",
+    "arquivo": "Por modelo/Violão/Gibson/J-200 Jumbo.zip",
+    "tamanho_bytes": 173768,
+    "sha256": "e2916d0092a3ef81c573bf83f66e43548e79e24b72cdb4eb75c9e78889dc45dc"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Violão",
+    "marca": "Gibson",
+    "modelo": "J-45",
+    "arquivo": "Por modelo/Violão/Gibson/J-45.zip",
+    "tamanho_bytes": 12169,
+    "sha256": "d892bb9048a86040a9f72391bef34035c66d588865c352b535cb4859377ba960"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Violão",
+    "marca": "Gibson",
+    "modelo": "Wayne Benson Mandolin",
+    "arquivo": "Por modelo/Violão/Gibson/Wayne Benson Mandolin.zip",
+    "tamanho_bytes": 12537,
+    "sha256": "8d7834b70df36a0ed44ac3c5d8dc5c604c445b790e497f9c2c7ae0c545224235"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Violão",
+    "marca": "LAVA",
+    "modelo": "LAVA Nylon",
+    "arquivo": "Por modelo/Violão/LAVA/LAVA Nylon.zip",
+    "tamanho_bytes": 68812,
+    "sha256": "03ebcbe1f873076191bb4f570c3039f71b22c2376bc0302a4e078df8e8a846c1"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Violão",
+    "marca": "Martin",
+    "modelo": "HD-28",
+    "arquivo": "Por modelo/Violão/Martin/HD-28.zip",
+    "tamanho_bytes": 21138,
+    "sha256": "020bab8192d74cd754b94a73136833eea7256abbf4a142edae9d4903ae59ef54"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Violão",
+    "marca": "Nylon",
+    "modelo": "Violão clássico e Nylon Essentials",
+    "arquivo": "Por modelo/Violão/Nylon/Violão clássico e Nylon Essentials.zip",
+    "tamanho_bytes": 19652,
+    "sha256": "3dda97c5a671dd5cb4ea92b0fc0b636b498bf2f96d326f42a8248876c21b1e6d"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Violão",
+    "marca": "Samick",
+    "modelo": "JZ4",
+    "arquivo": "Por modelo/Violão/Samick/JZ4.zip",
+    "tamanho_bytes": 288895,
+    "sha256": "7de6d44c1efca16518c087ea3d7f43034db819e9982d21d7eb2c3b336a7c26c9"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Violão",
+    "marca": "Taylor",
+    "modelo": "314ce",
+    "arquivo": "Por modelo/Violão/Taylor/314ce.zip",
+    "tamanho_bytes": 24137,
+    "sha256": "0ded0c1cc4e5b3e5d6d49c36340f90b8a6b20a1f2dfe10686a1517d82e2e5177"
+  },
+  {
+    "tipo": "modelo",
+    "instrumento": "Violão",
+    "marca": "Taylor",
+    "modelo": "814",
+    "arquivo": "Por modelo/Violão/Taylor/814.zip",
+    "tamanho_bytes": 15530,
+    "sha256": "4e2c50c87d8180cca33fcbfd3beb4e58423cdaf78573f6c9ed028deeb4380527"
+  }
+]
