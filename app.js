@@ -17,8 +17,8 @@ const products = {
   guitarra: {
     key: "guitarra",
     label: "Guitarra",
-    count: "7.000+",
-    countLong: "Mais de 7 mil arquivos",
+    count: "11.658",
+    countLong: "11.658 arquivos de IR (7.450 WAV + 4.208 SYX)",
     description: "IRs de amplificadores e gabinetes clássicos para timbres limpos, crunch e alto ganho.",
     hero: "Pare de procurar IRs. Comece a encontrar o seu som.",
     intro: "Uma biblioteca ampla para guitarra, testada e organizada para você chegar mais rápido a timbres que funcionam.",
@@ -30,8 +30,8 @@ const products = {
   baixo: {
     key: "baixo",
     label: "Baixo",
-    count: "2.100+",
-    countLong: "Mais de 2.100 arquivos WAV",
+    count: "2.179",
+    countLong: "2.179 arquivos WAV",
     description: "Graves definidos, médios presentes e opções para diferentes estilos e contextos.",
     hero: "Grave com peso. Definição sem esforço.",
     intro: "IRs selecionados para baixo com foco em corpo, clareza e resposta que se encaixa na mix.",
@@ -43,8 +43,8 @@ const products = {
   violao: {
     key: "violao",
     label: "Violão",
-    count: "220+",
-    countLong: "200 aço + 20 nylon",
+    count: "227",
+    countLong: "227 arquivos WAV",
     description: "Mais naturalidade para violões de aço e nylon, no palco, na igreja ou em casa.",
     hero: "Seu violão com madeira, corpo e naturalidade.",
     intro: "Impulse Responses para recuperar a sensação acústica que normalmente se perde quando o violão é ligado em linha.",
@@ -56,8 +56,8 @@ const products = {
   completo: {
     key: "completo",
     label: "Pack Completo",
-    count: "13.000+",
-    countLong: "Mais de 13 mil IRs",
+    count: "14.064",
+    countLong: "14.064 arquivos de IR (9.856 WAV + 4.208 SYX)",
     description: "A biblioteca completa para guitarra, baixo e violão, com todos os bônus.",
     hero: "Todo timbre começa aqui.",
     intro: "A coleção completa para quem toca mais de um instrumento, grava, produz ou simplesmente quer todas as possibilidades.",
@@ -180,16 +180,16 @@ function seoConfig(route, parts, productRoute) {
   if (products[productRoute]) {
     const p = products[productRoute];
     const titles = {
-      guitarra: "Pack de IR para Guitarra: 7.000+ Arquivos | M-Vave BR",
-      baixo: "Pack de IR para Baixo: 2.100+ Arquivos | M-Vave BR",
-      violao: "Pack de IR para Violão de Aço e Nylon | M-Vave BR",
-      completo: "Pack Completo de IR: Guitarra, Baixo e Violão | M-Vave BR"
+      guitarra: "Pack de IR para Guitarra: 11.658 Arquivos | M-Vave BR",
+      baixo: "Pack de IR para Baixo: 2.179 Arquivos | M-Vave BR",
+      violao: "Pack de IR para Violão: 227 Arquivos | M-Vave BR",
+      completo: "Pack Completo de IR: 14.064 Arquivos | M-Vave BR"
     };
     const descriptions = {
-      guitarra: "Mais de 7.000 IRs de amplificadores e gabinetes para guitarra. Arquivos organizados, aulas de instalação, acesso imediato e garantia de 7 dias.",
-      baixo: "Mais de 2.100 Impulse Responses para baixo, com opções Ampeg, Hartke, GK, Markbass e outras. Acesso imediato e aulas de configuração.",
-      violao: "Mais de 220 IRs para violão de aço e nylon, com opções Gibson, Martin, Taylor e Collings para mais naturalidade no som em linha.",
-      completo: "Mais de 13.000 IRs para guitarra, baixo e violão em um único pack, com aulas de configuração, acesso imediato e garantia de 7 dias."
+      guitarra: "11.658 arquivos de IR para guitarra: 7.450 WAV e 4.208 SYX, com amplificadores e gabinetes variados, aulas e acesso imediato.",
+      baixo: "2.179 arquivos WAV de Impulse Responses para baixo, com opções Ampeg, Hartke, GK, Markbass e outras. Acesso imediato e aulas de configuração.",
+      violao: "227 arquivos WAV de IR para violão de aço e nylon, com opções Gibson, Martin, Taylor e Collings para mais naturalidade no som em linha.",
+      completo: "14.064 arquivos de IR para guitarra, baixo e violão: 9.856 WAV e 4.208 SYX, com aulas de configuração e acesso imediato."
     };
     return { title: titles[p.key], description: descriptions[p.key], path: productUrl(p.key), type: "product", product: p };
   }
@@ -420,7 +420,7 @@ function footer() {
 
 function proofStrip() {
   return "<div class='hero-proof'>" +
-    "<div class='proof-item'><strong>13.000+</strong><span>Impulse Responses</span></div>" +
+    "<div class='proof-item'><strong>14.064</strong><span>arquivos de IR</span></div>" +
     "<div class='proof-item'><strong>1.200+</strong><span>músicos atendidos</span></div>" +
     "<div class='proof-item'><strong>8 aulas</strong><span>configuração passo a passo</span></div>" +
     "<div class='proof-item'><strong>Vitalício</strong><span>baixe quando precisar</span></div>" +
@@ -959,7 +959,7 @@ function homePage() {
   return header("home", false) +
     "<main id='conteudo'>" +
       "<section class='hero'><div class='container'><div class='hero-content'><span class='eyebrow'>Curadoria independente de IRs</span><h1>Seu equipamento pode soar <span>muito melhor.</span></h1><p class='hero-copy'>Impulse Responses testados para guitarra, baixo e violão — prontos para M-Vave, Quad Cortex, Fractal, Kemper, TONEX, Line 6 e outros equipamentos que carregam IRs.</p><div class='button-row'>" + button("Escolher meu pack", "#packs", "", false) + button("Entender os IRs", "#como-funciona", "btn-outline", false) + "</div>" + urgencyNotice(true) + "</div>" + proofStrip() + "</div></section>" +
-      "<section class='section' id='packs'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Escolha seu caminho</span><h2>O pack certo para o som que você busca.</h2></div><p>Comece pelo seu instrumento ou leve a biblioteca completa com mais de 13 mil possibilidades.</p></div>" + urgencyNotice(false) + packCards() + catalogQuickLinks() + "</div></section>" +
+      "<section class='section' id='packs'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Escolha seu caminho</span><h2>O pack certo para o som que você busca.</h2></div><p>Comece pelo seu instrumento ou leve a biblioteca completa com 14.064 arquivos de IR.</p></div>" + urgencyNotice(false) + packCards() + catalogQuickLinks() + "</div></section>" +
       "<section class='section home-equipment-section'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Novo: central de equipamentos</span><h2>Já tem um pedal ou ainda está escolhendo?</h2></div><p>Guias por modelo, recomendador, comparador, softwares e firmware em um só lugar.</p></div><div class='home-equipment-grid'><a href='/equipamentos/'><span>01</span><h3>Central por equipamento</h3><p>Comece pelo modelo e encontre tudo que serve para ele.</p></a><a href='/encontre-seu-setup/'><span>02</span><h3>Recomendador</h3><p>Quatro perguntas para chegar a três boas opções.</p></a><a href='/comparar/'><span>03</span><h3>Comparador</h3><p>Coloque até três equipamentos lado a lado.</p></a></div></div></section>" +
       "<section class='section section-dark' id='como-funciona'><div class='container split'><div class='signal-panel reveal' aria-label='Representação visual de um Impulse Response'><div class='wave'>" + [1,2,3,5,8,4,7,10,5,3,7,4,2,8,5,3,2,1,4,2,1].map(function(n){ return "<i style='--n:" + n + "'></i>"; }).join("") + "</div><div class='signal-label'><span>Som de entrada</span><span>Resposta do gabinete</span></div></div><div><span class='eyebrow'>O detalhe que muda tudo</span><h2>O arquivo certo.<br><span class='display-accent'>A configuração certa.</span></h2><p class='text-muted'>O IR reproduz a resposta sonora de um gabinete, amplificador ou instrumento. Mas um bom arquivo sozinho não resolve: ganho, níveis e instalação fazem parte do resultado.</p><ul class='check-list'><li>Mais naturalidade e definição no som em linha</li><li>Menos tempo caçando arquivos sem contexto</li><li>Configuração explicada passo a passo</li></ul>" + button("Ver como começar", "/conteudos/#o-que-e-ir", "btn-light", false) + "</div></div></section>" +
       "<section class='section section-dark' style='padding-top:0'><div class='container'>" + benefits() + "</div></section>" +
@@ -1326,7 +1326,7 @@ function aboutPage() {
   document.title = "Sobre nós — M-Vave BR";
   return header("sobre", false) +
     "<main id='conteudo'><section class='page-hero'><div class='container page-hero-content'><span class='eyebrow'>Sobre a M-Vave BR</span><h1>Menos promessa.<br><span class='display-accent'>Mais som.</span></h1><p>Uma biblioteca construída para ajudar músicos a tirar mais resultado do equipamento que já têm.</p></div></section>" +
-    "<section class='section'><div class='container split'><div><span class='eyebrow'>Nossa história</span><h2>Uma curadoria independente, nascida do uso real.</h2></div><div><div class='standalone-notice'><strong>Importante:</strong> não somos a fabricante M-Vave e não temos vínculo, representação ou afiliação com ela.</div><p>A M-Vave BR é um projeto independente dedicado a aprimorar timbres de guitarra, baixo e violão. Nossa coleção reúne aproximadamente 13 mil Impulse Responses pesquisados e organizados para uso em diferentes equipamentos.</p><p>A seleção nasceu de anos usando, comparando e entendendo o que realmente funciona. Os arquivos não são exclusivos dos pedais M-Vave: podem ser utilizados em equipamentos que carregam IRs, como Quad Cortex, Fractal Audio, Kemper, TONEX, Line 6 e outros.</p><p>Não queremos vender apenas arquivos. Queremos ser parte da sua jornada musical, com conteúdo, atualizações e ferramentas que ajudem sua música a falar por si.</p></div></div></section>" +
+    "<section class='section'><div class='container split'><div><span class='eyebrow'>Nossa história</span><h2>Uma curadoria independente, nascida do uso real.</h2></div><div><div class='standalone-notice'><strong>Importante:</strong> não somos a fabricante M-Vave e não temos vínculo, representação ou afiliação com ela.</div><p>A M-Vave BR é um projeto independente dedicado a aprimorar timbres de guitarra, baixo e violão. Nossa coleção reúne 14.064 arquivos de IR pesquisados e organizados para uso em diferentes equipamentos: 9.856 WAV e 4.208 SYX.</p><p>A seleção nasceu de anos usando, comparando e entendendo o que realmente funciona. Os arquivos não são exclusivos dos pedais M-Vave: podem ser utilizados em equipamentos que carregam IRs, como Quad Cortex, Fractal Audio, Kemper, TONEX, Line 6 e outros.</p><p>Não queremos vender apenas arquivos. Queremos ser parte da sua jornada musical, com conteúdo, atualizações e ferramentas que ajudem sua música a falar por si.</p></div></div></section>" +
     "<section class='section section-dark'><div class='container'>" + benefits() + "</div></section>" +
     "<section class='cta-band'><div class='container cta-inner'><h2>Descubra o som que já existe no seu equipamento.</h2>" + button("Conhecer os packs", "/#packs", "btn-light", false) + "</div></section></main>" + footer();
 }

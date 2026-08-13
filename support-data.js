@@ -16,25 +16,25 @@ export const SUPPORT_ENTRIES = [
   {
     id: "pack-guitarra", type: "Packs de IR", title: "O que vem no pack de guitarra?",
     keywords: "pack guitarra conteudo arquivos quantidade 7000 marshall mesa orange bogner vox laney",
-    answer: "O pack de guitarra reúne mais de 7.000 arquivos WAV, além de bibliotecas SYX encontradas no acervo, com famílias de amplificadores, gabinetes, falantes, microfones e posições variadas. O acesso inclui também as aulas de instalação e configuração.",
+    answer: "O pack de guitarra reúne 11.658 arquivos de IR: 7.450 WAV e 4.208 SYX. O acervo inclui famílias de amplificadores, gabinetes, falantes, microfones e posições variadas, além das aulas de instalação e configuração.",
     links: [["Conhecer o pack de guitarra", "/guitar/"], ["Abrir o catálogo", "/catalogo/guitarra/"]]
   },
   {
     id: "pack-baixo", type: "Packs de IR", title: "O que vem no pack de baixo?",
     keywords: "pack baixo bass conteudo arquivos quantidade 2100 ampeg hartke gk markbass darkglass",
-    answer: "O pack de baixo reúne mais de 2.100 arquivos WAV, com diferentes caixas, microfones e cadeias para buscar grave definido, corpo e presença. O catálogo inclui famílias como Ampeg, Hartke, GK, Markbass e Darkglass.",
+    answer: "O pack de baixo reúne 2.179 arquivos WAV, com diferentes caixas, microfones e cadeias para buscar grave definido, corpo e presença. O catálogo inclui famílias como Ampeg, Hartke, GK, Markbass e Darkglass.",
     links: [["Conhecer o pack de baixo", "/bass/"], ["Abrir o catálogo", "/catalogo/baixo/"]]
   },
   {
     id: "pack-violao", type: "Packs de IR", title: "O que vem no pack de violão?",
-    keywords: "pack violao acoustic aco nylon conteudo arquivos quantidade 220 martin taylor gibson collings piezo",
-    answer: "O pack reúne mais de 220 IRs para violão de aço e nylon. A proposta é reduzir o caráter artificial do captador piezo e aproximar o sinal em linha da sensação acústica do instrumento.",
+    keywords: "pack violao acoustic aco nylon conteudo arquivos quantidade 227 martin taylor gibson collings piezo",
+    answer: "O pack reúne 227 arquivos WAV de IR para violão de aço e nylon. A proposta é reduzir o caráter artificial do captador piezo e aproximar o sinal em linha da sensação acústica do instrumento.",
     links: [["Conhecer o pack de violão", "/violao/"], ["Abrir o catálogo", "/catalogo/violao/"]]
   },
   {
     id: "pack-completo", type: "Packs de IR", title: "O que está incluído no Pack Completo?",
     keywords: "pack completo 13000 todos guitarra baixo violao bonus aulas biblioteca",
-    answer: "O Pack Completo reúne as coleções de guitarra, baixo e violão em um único acesso, totalizando mais de 13.000 IRs e arquivos relacionados no acervo, além das oito aulas de configuração.",
+    answer: "O Pack Completo reúne as coleções de guitarra, baixo e violão em um único acesso, totalizando 14.064 arquivos de IR: 9.856 WAV e 4.208 SYX, além das oito aulas de configuração.",
     links: [["Conhecer o Pack Completo", "/completo/"], ["Ver catálogo completo", "/catalogo/completo/"]]
   },
   {
