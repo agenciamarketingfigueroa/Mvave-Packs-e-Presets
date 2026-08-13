@@ -91,7 +91,7 @@ export const SOFTWARE_MATRIX = [
 export const TONE_RECIPES_ENABLED = true;
 export const TONE_RECIPES_LISTED = false;
 export const STORE_ENABLED = true;
-export const STORE_LISTED = false;
+export const STORE_LISTED = true;
 
 // Fila editorial de previews: um único áudio curto por IR, com a mesma frase antes e
 // depois da virada. Os nomes dos arquivos são estáveis para facilitar a publicação.

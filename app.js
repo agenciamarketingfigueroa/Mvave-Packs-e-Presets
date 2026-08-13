@@ -730,6 +730,9 @@ function bindStore() {
   search.addEventListener("input", filter);
   category.addEventListener("change", filter);
   brand.addEventListener("change", filter);
+  if (window.location.hash === "#catalogo") {
+    window.setTimeout(function() { root.scrollIntoView({ block: "start" }); }, 80);
+  }
 }
 
 function bindEquipmentTabs() {
@@ -1746,7 +1749,10 @@ function bindInteractions() {
     node.textContent = String(new Date().getFullYear());
   });
   document.querySelectorAll("img[data-product-image]").forEach(function(image) {
-    image.addEventListener("error", function() { image.hidden = true; });
+    function markLoaded() { image.parentElement.classList.add("image-loaded"); }
+    image.addEventListener("load", markLoaded);
+    image.addEventListener("error", function() { image.hidden = true; image.parentElement.classList.remove("image-loaded"); });
+    if (image.complete && image.naturalWidth) markLoaded();
   });
   const reveals = document.querySelectorAll(".reveal");
   if ("IntersectionObserver" in window) {

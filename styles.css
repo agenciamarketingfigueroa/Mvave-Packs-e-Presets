@@ -18,7 +18,7 @@
 }
 
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
+html { overflow-x: hidden; scroll-behavior: smooth; }
 body {
   margin: 0;
   overflow-x: hidden;
@@ -911,7 +911,7 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
 }
 
 @media (max-width: 620px) {
-  :root { --container: min(100% - 28px, 1180px); --radius: 18px; }
+  :root { --container: min(1180px, calc(100% - 28px)); --radius: 18px; }
   .announcement { min-height: 48px; gap: 7px; padding: 7px 12px; font-size: 8px; line-height: 1.35; }
   .announcement strong { flex: 0 0 auto; font-size: 7px; }
   .announcement span { min-width: 0; }
@@ -1129,6 +1129,7 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
 .equipment-image-wrap { position:absolute; inset:26px 18px 13px; display:grid; place-items:center; }
 .equipment-image-wrap>img { position:relative; z-index:2; width:100%; height:100%; object-fit:contain; filter:drop-shadow(0 14px 17px rgba(8,10,15,.2)); }
 .equipment-image-wrap>.equipment-monogram { position:absolute; z-index:1; }
+.equipment-image-wrap.image-loaded>.equipment-monogram { display:none; }
 .has-product-image .equipment-brand { color:#4e5765; }
 .has-product-image .equipment-ir { border-color:rgba(54,119,255,.3); background:rgba(255,255,255,.72); color:#245ed3; }
 .equipment-monogram { position:relative; width:132px; height:132px; display:flex; align-items:center; justify-content:center; gap:4px; border:1px solid rgba(255,255,255,.25); border-radius:28px; background:linear-gradient(145deg,#25365e,#090c13); box-shadow:0 22px 40px rgba(0,0,0,.4); transform:perspective(500px) rotateX(8deg) rotateZ(-5deg); }
@@ -1310,12 +1311,29 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
 }
 @media (max-width:620px) {
   .footer-grid { grid-template-columns:1fr; }
+  .store-page { width:100%; max-width:100%; overflow:hidden; }
+  .store-page .container { width:calc(100% - 28px); max-width:1180px; min-width:0; }
+  .store-page .container>*,.store-curation-card>* { min-width:0; max-width:100%; }
+  .store-curation-card h2,.store-curation-card p,.store-hero h1,.store-hero>.container>p { max-width:100%; overflow-wrap:anywhere; }
   .equipment-hero,.store-hero,.finder-hero,.compare-hero,.tools-hero,.equipment-detail-hero { padding:150px 0 72px; }
   .equipment-hero h1,.store-hero h1,.finder-hero h1,.compare-hero h1,.tools-hero h1 { font-size:clamp(3rem,14vw,4.25rem); overflow-wrap:anywhere; }
   .equipment-hero-grid,.equipment-detail-grid { display:block; }
   .equipment-orbit,.equipment-image-detail { display:none; }
   .path-grid,.equipment-grid,.equipment-grid-three,.feature-tool-grid,.home-equipment-grid,.software-matrix { grid-template-columns:1fr; }
   .path-card { min-height:275px; padding:26px 22px; }
+  .store-grid { gap:18px; }
+  .store-grid .equipment-card { opacity:1; transform:none; }
+  .store-grid .equipment-card-visual { min-height:270px; padding:20px; }
+  .store-grid .equipment-image-wrap { inset:38px 12px 18px; }
+  .store-grid .equipment-image-wrap>img { width:100%; height:100%; object-fit:contain; filter:drop-shadow(0 12px 14px rgba(8,10,15,.18)); }
+  .store-grid .equipment-card-body { min-height:0; padding:22px 19px 20px; }
+  .store-grid .equipment-card h2 { font-size:1.75rem; }
+  .store-grid .equipment-card-body>p { font-size:12px; line-height:1.6; }
+  .store-grid .equipment-mini-specs { margin-top:18px; }
+  .store-grid .equipment-offer { margin-top:2px; padding:14px; }
+  .store-grid .equipment-offer strong { font-size:23px; }
+  .store-grid .equipment-card-actions { display:grid; grid-template-columns:1fr 1fr; gap:9px; }
+  .store-grid .equipment-card-actions .btn { min-width:0; min-height:48px; padding:0 10px; }
   .equipment-card-body { min-height:330px; }
   .equipment-card-actions,.store-help,.detail-actions { align-items:stretch; flex-direction:column; }
   .equipment-card-actions .btn,.store-help .btn,.detail-actions .btn { width:100%; }
@@ -1334,4 +1352,7 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
   .software-matrix article { min-height:350px; padding:23px; }
   .diagnostic-grid { gap:32px; }
   .diagnostic-result { min-height:0; padding:25px 20px; }
+}
+@media (max-width:380px) {
+  .store-grid .equipment-card-actions { grid-template-columns:1fr; }
 }
