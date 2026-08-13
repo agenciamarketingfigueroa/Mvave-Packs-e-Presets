@@ -150,7 +150,7 @@ function seoConfig(route, parts, productRoute) {
   const configs = {
     home: ["Packs de IR para Guitarra, Baixo e Violão | M-Vave BR", "Packs de Impulse Responses testados para guitarra, baixo e violão. Compatíveis com M-Vave, Quad Cortex, Fractal, Kemper, TONEX, Line 6 e outros.", "/"],
     equipamentos: ["Equipamentos para Músicos: Guias e Comparador | M-Vave BR", "Conheça pedaleiras, controladores MIDI, viradores de página e IR loaders. Compare recursos e encontre o equipamento certo para seu uso.", "/equipamentos/"],
-    loja: ["Loja de Equipamentos Musicais e Ofertas | M-Vave BR", "Encontre pedaleiras, controladores MIDI, page turners, IR loaders e acessórios com buscas da Amazon ordenadas por menor preço.", "/loja/"],
+    loja: ["Loja de Equipamentos Musicais e Ofertas | M-Vave BR", "Encontre pedaleiras, controladores MIDI, page turners, IR loaders e acessórios selecionados pela nossa curadoria de preço.", "/loja/"],
     comparar: ["Comparador de Pedaleiras e Controladores | M-Vave BR", "Compare lado a lado pedaleiras, controladores MIDI, IR loaders e acessórios para escolher com mais segurança.", "/comparar/"],
     ferramentas: ["Ferramentas para Pedais M-VAVE | M-Vave BR", "Descubra o software correto, diagnostique problemas comuns e encontre guias independentes para seu equipamento M-VAVE.", "/ferramentas/"],
     "encontre-seu-setup": ["Qual Pedaleira ou Controlador Escolher? | M-Vave BR", "Responda quatro perguntas e receba sugestões de pedaleiras, IR loaders, controladores MIDI ou equipamentos para estudo.", "/encontre-seu-setup/"],
@@ -382,6 +382,7 @@ function header(active, solid) {
     ["home", "/", "Início"],
     ["packs", "/#packs", "Packs"],
     ["equipamentos", "/equipamentos/", "Equipamentos"],
+    ["loja", "/loja/", "Loja"],
     ["conteudos", "/conteudos/", "Central do Timbre"],
     ["suporte", "/suporte/", "Suporte"]
   ];
@@ -407,7 +408,7 @@ function footer() {
       "<div class='footer-grid'>" +
         "<div class='footer-brand'><img src='/assets/img/Logo%20Home/Logo%20Site%20Mvave%20Amarela%20e%20Branca.png' width='300' height='70' loading='lazy' decoding='async' alt='M-Vave BR'><p>IRs, conteúdo e ferramentas para você tirar mais som do equipamento que já tem.</p></div>" +
         "<div class='footer-col'><h4>Packs</h4><a href='/completo/'>Pack completo</a><a href='/guitar/'>Guitarra</a><a href='/bass/'>Baixo</a><a href='/violao/'>Violão</a></div>" +
-        "<div class='footer-col'><h4>Equipamentos</h4><a href='/equipamentos/'>Central de equipamentos</a><a href='/encontre-seu-setup/'>Encontrar meu setup</a><a href='/comparar/'>Comparador</a><a href='/ferramentas/'>Software e diagnóstico</a><a href='/compatibilidade/'>Compatibilidade com IR</a></div>" +
+        "<div class='footer-col'><h4>Equipamentos</h4><a href='/loja/'>Loja e ofertas</a><a href='/equipamentos/'>Central de equipamentos</a><a href='/encontre-seu-setup/'>Encontrar meu setup</a><a href='/comparar/'>Comparador</a><a href='/ferramentas/'>Software e diagnóstico</a><a href='/compatibilidade/'>Compatibilidade com IR</a></div>" +
         "<div class='footer-col'><h4>Conteúdo</h4><a href='/conteudos/'>Central do Timbre</a><a href='/catalogo/completo/'>Catálogo de IRs</a><a href='/atualizacoes/'>Softwares e atualizações</a><a href='/presets/'>Presets</a><a href='/sobre/'>Sobre nós</a></div>" +
         "<div class='footer-col'><h4>Atendimento</h4><a href='/suporte/'>Central de Suporte</a><a href='/contato/'>Contato</a><a href='mailto:contato@mvave.com.br'>E-mail</a></div>" +
       "</div>" +
@@ -579,11 +580,14 @@ function equipmentImage(product, detail) {
 }
 
 function equipmentCard(product, storeMode) {
-  const pack = product.instruments && product.instruments.length === 1 ? products[product.instruments[0]] : null;
+  const retailer = product.affiliateUrl && product.affiliateUrl.indexOf("link.amazon") !== -1 ? "Amazon" : "Mercado Livre";
+  const offer = storeMode && product.offerPrice
+    ? "<div class='equipment-offer'><span>Oferta na " + retailer + "</span><div>" + (product.referencePrice ? "<del>De " + escapeHtml(product.referencePrice) + "</del>" : "") + "<strong>" + escapeHtml(product.offerPrice) + "</strong></div>" + (product.offerNote ? "<small>" + escapeHtml(product.offerNote) + "</small>" : "") + "</div>"
+    : "";
   return "<article class='equipment-card reveal' data-equipment-card data-search='" + escapeHtml([product.brand, product.name, product.category, product.summary, product.instruments.join(" ")].join(" ")) + "' data-category='" + product.category + "' data-brand='" + escapeHtml(product.brand) + "'>" +
     "<div class='equipment-card-visual has-product-image'>" + equipmentImage(product, false) + "<span class='equipment-brand'>" + escapeHtml(product.brand) + "</span>" + (product.ir ? "<span class='equipment-ir'>Aceita IR</span>" : "") + "</div>" +
-    "<div class='equipment-card-body'><span class='kicker text-blue'>" + escapeHtml(categoryLabel(product.category)) + "</span><h2>" + escapeHtml(product.name) + "</h2><p>" + escapeHtml(product.summary) + "</p><div class='equipment-mini-specs'><span>" + escapeHtml(product.software) + "</span>" + (product.instruments.length ? "<span>" + product.instruments.map(function(value) { return value === "violao" ? "Violão" : value[0].toUpperCase() + value.slice(1); }).join(" · ") + "</span>" : "<span>MIDI / controle</span>") + "</div>" +
-    "<div class='equipment-card-actions'>" + button("Ver guia", "/equipamentos/" + product.id + "/", "btn-dark", false) + (storeMode ? button("Ver menores preços", amazonSearchUrl(product.amazonQuery), "btn-market", true) : "<a class='text-link' href='/comparar/?a=" + product.id + "'>Comparar</a>") + "</div></div></article>";
+    "<div class='equipment-card-body'><span class='kicker text-blue'>" + escapeHtml(categoryLabel(product.category)) + "</span><h2>" + escapeHtml(product.name) + "</h2><p>" + escapeHtml(product.summary) + "</p><div class='equipment-mini-specs'><span>" + escapeHtml(product.software) + "</span>" + (product.instruments.length ? "<span>" + product.instruments.map(function(value) { return value === "violao" ? "Violão" : value[0].toUpperCase() + value.slice(1); }).join(" · ") + "</span>" : "<span>MIDI / controle</span>") + "</div>" + offer +
+    "<div class='equipment-card-actions'>" + button("Ver guia", "/equipamentos/" + product.id + "/", "btn-dark", false) + (storeMode ? button("Ver oferta", product.affiliateUrl || amazonSearchUrl(product.amazonQuery), "btn-market", true) : "<a class='text-link' href='/comparar/?a=" + product.id + "'>Comparar</a>") + "</div></div></article>";
 }
 
 function equipmentHubPage() {
@@ -603,8 +607,8 @@ function equipmentHubPage() {
 function storePage() {
   const categories = STORE_CATEGORIES.filter(function(entry) { return entry[0] !== "todos"; });
   return header("loja", true) +
-    "<main id='conteudo' class='store-page'><section class='store-hero'><div class='container'><span class='unlisted-badge'>Prévia não listada</span><span class='eyebrow'>Loja-curadoria</span><h1>Equipamentos para tocar, controlar e criar.</h1><p>Links de pesquisa da Amazon organizados para mostrar primeiro os menores preços disponíveis. Confira vendedor, frete, impostos, prazo e revisão do produto antes de comprar.</p><div class='store-disclosure'><span>i</span><p><strong>Transparência:</strong> hoje os links são pesquisas comuns. Quando o programa de afiliados for ativado, esta página será identificada e os links poderão gerar comissão sem aumentar o preço para você.</p></div></div></section>" +
-    "<section class='section store-catalog' id='catalogo' data-store><div class='container'><div class='store-toolbar'><label class='store-search'><span>Buscar equipamento</span><input id='store-search' type='search' placeholder='Ex.: Chocolate, baixo, IR loader…' autocomplete='off'></label><label><span>Categoria</span><select id='store-category'><option value='todos'>Todas as categorias</option>" + categories.map(function(entry) { return "<option value='" + entry[0] + "'>" + entry[1] + "</option>"; }).join("") + "</select></label><label><span>Marca</span><select id='store-brand'><option value='todos'>Todas as marcas</option>" + Array.from(new Set(EQUIPMENT_ITEMS.map(function(product) { return product.brand; }))).sort().map(function(brand) { return "<option value='" + escapeHtml(brand) + "'>" + escapeHtml(brand) + "</option>"; }).join("") + "</select></label></div><div class='store-results-head'><h2 id='store-count'>" + EQUIPMENT_ITEMS.length + " equipamentos</h2><span>Amazon: ordenação por preço crescente</span></div><div class='equipment-grid store-grid'>" + EQUIPMENT_ITEMS.map(function(product) { return equipmentCard(product, true); }).join("") + "</div><div id='store-empty' class='store-empty' hidden><strong>Nenhum equipamento encontrado.</strong><p>Tente pesquisar pela marca, categoria ou tipo de uso.</p></div></div></section>" +
+    "<main id='conteudo' class='store-page'><section class='store-hero'><div class='container'><aside class='store-curation-card'><span class='store-curation-mark'>CURADORIA INDEPENDENTE</span><div><h2>Preço pesquisado. Escolha mais rápida. Música em movimento.</h2><p>Nossa equipe seleciona produtos e acompanha oportunidades na Amazon e no Mercado Livre para acelerar a vida dos músicos. Não somos a fabricante dos equipamentos: somos uma curadoria independente.</p><p>Nosso trabalho de curadoria é remunerado apenas pela comissão das lojas parceiras quando uma compra é feita por nossos links. <strong>Você não paga nada a mais por isso</strong> e ainda contribui diretamente para manter nossa estrutura, conteúdo e trabalho funcionando.</p></div></aside><span class='eyebrow'>Loja-curadoria</span><h1>Equipamentos para tocar, controlar e criar.</h1><p>Reunimos equipamentos relevantes e links selecionados para você comparar menos e tocar mais. Antes de comprar, confira vendedor, frete, prazo e a revisão exata do produto.</p></div></section>" +
+    "<section class='section store-catalog' id='catalogo' data-store><div class='container'><div class='store-toolbar'><label class='store-search'><span>Buscar equipamento</span><input id='store-search' type='search' placeholder='Ex.: Chocolate, baixo, IR loader…' autocomplete='off'></label><label><span>Categoria</span><select id='store-category'><option value='todos'>Todas as categorias</option>" + categories.map(function(entry) { return "<option value='" + entry[0] + "'>" + entry[1] + "</option>"; }).join("") + "</select></label><label><span>Marca</span><select id='store-brand'><option value='todos'>Todas as marcas</option>" + Array.from(new Set(EQUIPMENT_ITEMS.map(function(product) { return product.brand; }))).sort().map(function(brand) { return "<option value='" + escapeHtml(brand) + "'>" + escapeHtml(brand) + "</option>"; }).join("") + "</select></label></div><div class='store-results-head'><h2 id='store-count'>" + EQUIPMENT_ITEMS.length + " equipamentos</h2><span>Ofertas selecionadas na Amazon e no Mercado Livre</span></div><p class='store-price-note'>Preços consultados em 13/08/2026. Valores, estoque, frete e condições podem mudar; confirme tudo na página da loja parceira antes de concluir a compra.</p><div class='equipment-grid store-grid'>" + EQUIPMENT_ITEMS.map(function(product) { return equipmentCard(product, true); }).join("") + "</div><div id='store-empty' class='store-empty' hidden><strong>Nenhum equipamento encontrado.</strong><p>Tente pesquisar pela marca, categoria ou tipo de uso.</p></div></div></section>" +
     "<section class='section section-dark'><div class='container store-help'><div><span class='eyebrow'>Ainda em dúvida?</span><h2>Não compre só porque está barato.</h2><p>Use o recomendador para filtrar por instrumento, finalidade e prioridade. Depois compare os finalistas.</p></div><div class='button-row'>" + button("Encontrar meu setup", "/encontre-seu-setup/", "btn-amber", false) + button("Comparar modelos", "/comparar/", "btn-outline", false) + "</div></div></section></main>" + footer();
 }
 
@@ -1505,8 +1509,8 @@ function render() {
 
   if (route === "loja" && STORE_ENABLED) {
     seo = {
-      title: "Loja de Equipamentos Musicais — Prévia | M-Vave BR",
-      description: "Prévia não listada da loja-curadoria de pedaleiras, controladores MIDI, IR loaders e acessórios.",
+      title: "Loja de Equipamentos Musicais e Ofertas | M-Vave BR",
+      description: "Curadoria independente de pedaleiras, controladores MIDI, IR loaders e acessórios com ofertas selecionadas na Amazon e no Mercado Livre.",
       path: "/loja/",
       type: "website",
       noindex: !STORE_LISTED,
