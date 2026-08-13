@@ -834,24 +834,32 @@ const DOWNLOAD_SCOPES = {
   completo: {
     label: "Pack Completo",
     instrument: "",
+    code: "ALL",
+    count: 104,
     title: "Todos os packs. Um acesso simples.",
     description: "Baixe a coleção completa, um instrumento inteiro ou somente as famílias que deseja usar agora."
   },
   guitarra: {
     label: "Pack Guitarra",
     instrument: "Guitarra",
+    code: "GTR",
+    count: 67,
     title: "Sua biblioteca de guitarra, organizada.",
     description: "Baixe o pack de guitarra completo ou escolha apenas uma marca e família específica."
   },
   baixo: {
     label: "Pack Baixo",
     instrument: "Baixo",
+    code: "BASS",
+    count: 24,
     title: "Grave organizado para baixar sem esforço.",
     description: "Baixe o pack de baixo completo ou somente os modelos que deseja testar."
   },
   violao: {
     label: "Pack Violão",
     instrument: "Violão",
+    code: "AC",
+    count: 13,
     title: "IRs acústicos no lugar certo.",
     description: "Baixe o pack de violão completo ou escolha uma família de instrumento específica."
   }
@@ -860,19 +868,19 @@ const DOWNLOAD_SCOPES = {
 function downloadHubPage() {
   const cards = ["completo", "guitarra", "baixo", "violao"].map(function(key) {
     const item = DOWNLOAD_SCOPES[key];
-    const details = key === "completo" ? "Todos os instrumentos e famílias" : "Pack completo e downloads por modelo";
-    return "<a class='download-hub-card' href='/downloads/" + key + "/'><span>" + escapeHtml(item.label) + "</span><h2>" + escapeHtml(item.title) + "</h2><p>" + details + "</p><strong>Abrir downloads " + iconArrow() + "</strong></a>";
+    const details = key === "completo" ? "3 instrumentos · coleção completa" : item.count + " famílias organizadas";
+    return "<a class='download-hub-card download-hub-" + key + "' href='/downloads/" + key + "/'><div class='download-card-top'><span class='download-card-code'>" + item.code + "</span><span>" + details + "</span></div><div class='download-card-wave' aria-hidden='true'><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><div class='download-card-copy'><p>" + escapeHtml(item.label) + "</p><h2>" + escapeHtml(item.title) + "</h2></div><div class='download-card-action'><span>Acessar biblioteca</span>" + iconArrow() + "</div></a>";
   }).join("");
   return header("", true) +
-    "<main id='conteudo' class='downloads-page'><section class='downloads-hero'><div class='container'><span class='eyebrow'>Área reservada · acesso pelo link</span><h1>Central de<br><span class='display-accent'>downloads.</span></h1><p>Escolha um pack para baixar a coleção inteira ou somente os modelos que você precisa.</p></div></section><section class='section'><div class='container'><div class='private-page-note'><span>i</span><p><strong>Esta página não aparece no menu ou sitemap e foi configurada para não ser indexada.</strong> Ela não exige senha: qualquer pessoa que receber o endereço poderá acessar.</p></div><div class='download-hub-grid'>" + cards + "</div></div></section></main>" + footer();
+    "<main id='conteudo' class='downloads-page'><section class='downloads-hero downloads-hub-hero'><div class='container downloads-hero-grid'><div class='downloads-hero-copy'><span class='eyebrow'>Biblioteca digital · acesso reservado</span><h1>Seu som.<br><span class='display-accent'>Bem organizado.</span></h1><p>Uma central simples para baixar a coleção inteira ou chegar direto à marca e ao modelo que você procura.</p><div class='download-hero-pills'><span>108 arquivos ZIP</span><span>104 famílias</span><span>3 instrumentos</span></div></div><div class='download-system-card' aria-hidden='true'><div class='download-system-head'><span><i></i><i></i><i></i></span><strong>MVAVE / LIBRARY</strong><small>ONLINE</small></div><div class='download-system-body'><div><span>01</span><strong>GUITARRA</strong><small>67 FAMÍLIAS</small></div><div><span>02</span><strong>BAIXO</strong><small>24 FAMÍLIAS</small></div><div><span>03</span><strong>VIOLÃO</strong><small>13 FAMÍLIAS</small></div></div><div class='download-system-foot'><span>WAV</span><span>SYX</span><span>ZIP</span><strong>READY ↓</strong></div></div></div></section><section class='download-hub-section'><div class='container'><div class='download-private-badge'><span>ACESSO POR LINK</span><p>Esta área não aparece no menu ou no sitemap e foi configurada para não ser indexada.</p></div><div class='download-hub-heading'><div><span class='eyebrow'>Escolha sua biblioteca</span><h2>O que você quer baixar?</h2></div><p>Abra somente o pack correspondente ao acesso que deseja utilizar.</p></div><div class='download-hub-grid'>" + cards + "</div></div></section></main>" + footer();
 }
 
 function downloadPackPage(scopeKey) {
   const scope = DOWNLOAD_SCOPES[scopeKey];
   return header("", true) +
-    "<main id='conteudo' class='downloads-page' data-downloads data-download-scope='" + scopeKey + "'><section class='downloads-hero'><div class='container'><nav class='breadcrumbs' aria-label='Navegação estrutural'><a href='/downloads/'>Downloads</a><span>›</span><span aria-current='page'>" + escapeHtml(scope.label) + "</span></nav><span class='eyebrow'>Área reservada · acesso pelo link</span><h1>" + escapeHtml(scope.title) + "</h1><p>" + escapeHtml(scope.description) + "</p></div></section>" +
-    "<section class='download-main-section'><div class='container'><div class='private-page-note'><span>i</span><p><strong>Salve esta página nos favoritos.</strong> Ela não aparece no menu e foi configurada para não ser indexada, mas qualquer pessoa que receber o endereço poderá acessar.</p></div><div id='download-primary' class='download-primary' aria-live='polite'><p>Preparando o download…</p></div><div id='download-alternatives'></div></div></section>" +
-    "<section class='download-library-section'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Downloads individuais</span><h2>Escolha por marca e modelo.</h2></div><p>Use os filtros para encontrar uma família. Cada botão baixa somente o ZIP selecionado.</p></div><div class='download-toolbar'><label class='download-search-label'><span>Buscar</span><input id='download-search' type='search' placeholder='Ex.: Marshall, Ampeg, Taylor…' autocomplete='off'></label>" + (scopeKey === "completo" ? "<label><span>Instrumento</span><select id='download-instrument'><option value=''>Todos</option><option>Guitarra</option><option>Baixo</option><option>Violão</option></select></label>" : "") + "<label><span>Marca</span><select id='download-brand'><option value=''>Todas</option></select></label></div><div class='download-results-head'><strong id='download-count'>Carregando…</strong><a href='/downloads/'>Trocar de pack</a></div><div id='download-models' class='download-model-grid' aria-live='polite'></div><div id='download-empty' class='download-empty' hidden><strong>Nenhum download encontrado.</strong><p>Tente remover um filtro ou pesquisar por outro termo.</p></div></div></section></main>" + footer();
+    "<main id='conteudo' class='downloads-page' data-downloads data-download-scope='" + scopeKey + "'><section class='downloads-hero downloads-pack-hero'><div class='container downloads-hero-grid'><div class='downloads-hero-copy'><span class='eyebrow'>Sua área de downloads · " + escapeHtml(scope.label) + "</span><h1>" + escapeHtml(scope.title) + "</h1><p>" + escapeHtml(scope.description) + "</p><div class='download-hero-pills'><span>" + scope.count + " famílias</span><span>ZIP organizado</span><span>Acesso vitalício</span></div></div><div class='download-pack-display' aria-hidden='true'><div class='download-pack-display-top'><span>PACK / " + scope.code + "</span><i>READY</i></div><strong>" + scope.code + "</strong><div class='download-pack-eq'><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><div class='download-pack-display-foot'><span>" + String(scope.count).padStart(3, "0") + " FAMÍLIAS</span><span>48 / 44.1 kHz</span></div></div></div></section>" +
+    "<section class='download-main-section'><div class='container'><div class='download-access-note'><span>✓</span><p><strong>Acesso correspondente a " + escapeHtml(scope.label) + ".</strong> Salve esta página nos favoritos para baixar novamente quando precisar.</p></div><div id='download-primary' class='download-primary' aria-live='polite'><p>Preparando o download…</p></div><div id='download-alternatives'></div></div></section>" +
+    "<section class='download-library-section'><div class='container'><div class='download-library-heading'><div><span class='eyebrow'>Downloads individuais</span><h2>Encontre o timbre certo.</h2></div><p>Pesquise por marca ou modelo e baixe somente a família que você quer testar agora.</p></div><div class='download-toolbar'><label class='download-search-label'><span>Buscar na biblioteca</span><input id='download-search' type='search' placeholder='Ex.: Marshall, Ampeg, Taylor…' autocomplete='off'></label>" + (scopeKey === "completo" ? "<label><span>Instrumento</span><select id='download-instrument'><option value=''>Todos</option><option>Guitarra</option><option>Baixo</option><option>Violão</option></select></label>" : "") + "<label><span>Marca</span><select id='download-brand'><option value=''>Todas</option></select></label></div><div class='download-results-head'><span class='download-live-dot'></span><strong id='download-count'>Carregando…</strong></div><div id='download-models' class='download-model-grid' aria-live='polite'></div><div id='download-empty' class='download-empty' hidden><strong>Nenhum download encontrado.</strong><p>Tente remover um filtro ou pesquisar por outro termo.</p></div></div></section></main>" + footer();
 }
 
 function downloadFileUrl(path) {
@@ -885,7 +893,9 @@ function formatDownloadSize(bytes) {
 }
 
 function downloadButton(item, label, variant) {
-  return "<a class='btn " + (variant || "btn-dark") + "' href='" + escapeHtml(downloadFileUrl(item.arquivo)) + "' download>" + label + " · " + formatDownloadSize(item.tamanho_bytes) + iconArrow() + "</a>";
+  const external = Boolean(item.url);
+  const href = external ? item.url : downloadFileUrl(item.arquivo);
+  return "<a class='btn " + (variant || "btn-dark") + "' href='" + escapeHtml(href) + "'" + (external ? " target='_blank' rel='noopener'" : " download") + ">" + label + " · " + formatDownloadSize(item.tamanho_bytes) + iconArrow() + "</a>";
 }
 
 function bindDownloads() {
@@ -913,11 +923,11 @@ function bindDownloads() {
       return item.tipo === "modelo" && (!scope.instrument || item.instrumento === scope.instrument);
     });
 
-    primary.innerHTML = "<div><span class='kicker'>Download principal</span><h2>" + escapeHtml(scope.label) + "</h2><p>Arquivo ZIP organizado, com instruções e acesso à página de softwares e atualizações.</p><small>SHA-256: " + escapeHtml(pack.sha256.slice(0, 16)) + "…</small></div>" + downloadButton(pack, "Baixar pack", "btn-amber");
+    primary.innerHTML = "<div class='download-primary-icon' aria-hidden='true'><span>↓</span></div><div class='download-primary-copy'><span class='kicker'>Download principal</span><h2>" + escapeHtml(scope.label) + "</h2><p>Abra a pasta permanente no Google Drive para baixar o arquivo ZIP completo e organizado.</p><small>Integridade SHA-256 · " + escapeHtml(pack.sha256.slice(0, 16)) + "…</small></div><div class='download-primary-action'>" + downloadButton(pack, "Abrir pasta no Drive", "btn-amber") + "<small>Abre em uma nova aba</small></div>";
 
     if (scopeKey === "completo") {
       const instrumentPacks = items.filter(function(item) { return item.tipo === "pack_instrumento"; });
-      alternatives.innerHTML = "<div class='download-alternatives'><div><span class='kicker text-blue'>Prefere baixar em partes?</span><h3>O completo também está separado por instrumento.</h3></div><div>" + instrumentPacks.map(function(item) { return downloadButton(item, "Baixar " + item.instrumento, "btn-dark"); }).join("") + "</div></div>";
+      alternatives.innerHTML = "<div class='download-alternatives'><div><span class='kicker text-blue'>Prefere baixar em partes?</span><h3>O completo também está separado por instrumento.</h3></div><div>" + instrumentPacks.map(function(item) { return downloadButton(item, "Abrir " + item.instrumento, "btn-dark"); }).join("") + "</div></div>";
     }
 
     const brands = Array.from(new Set(modelItems.map(function(item) { return item.marca; }))).sort(function(a, b) { return a.localeCompare(b, "pt-BR"); });
@@ -930,7 +940,9 @@ function bindDownloads() {
         return (!query || text.includes(query)) && (!instrument || !instrument.value || item.instrumento === instrument.value) && (!brand.value || item.marca === brand.value);
       });
       modelsRoot.innerHTML = filtered.map(function(item) {
-        return "<article class='download-model-card'><div><span>" + escapeHtml(item.instrumento) + " · " + escapeHtml(item.marca) + "</span><h3>" + escapeHtml(item.modelo) + "</h3><small>" + formatDownloadSize(item.tamanho_bytes) + " · ZIP</small></div>" + downloadButton(item, "Baixar", "btn-dark") + "</article>";
+        const initials = item.marca.replace(/[^A-Za-zÀ-ÿ0-9 ]/g, "").split(/\s+/).filter(Boolean).slice(0, 2).map(function(word) { return word.charAt(0); }).join("").toUpperCase();
+        const instrumentClass = normalizeSearch(item.instrumento);
+        return "<article class='download-model-card download-model-" + instrumentClass + "'><div class='download-model-top'><span class='download-model-monogram'>" + escapeHtml(initials || "IR") + "</span><span class='download-model-instrument'>" + escapeHtml(item.instrumento) + "</span></div><div class='download-model-copy'><p>" + escapeHtml(item.marca) + "</p><h3>" + escapeHtml(item.modelo) + "</h3></div><div class='download-model-foot'><small>" + formatDownloadSize(item.tamanho_bytes) + " · ZIP</small>" + downloadButton(item, "Baixar", "download-model-action") + "</div></article>";
       }).join("");
       count.textContent = filtered.length + (filtered.length === 1 ? " modelo disponível" : " modelos disponíveis");
       modelsRoot.hidden = filtered.length === 0;

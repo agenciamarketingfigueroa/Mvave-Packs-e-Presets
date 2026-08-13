@@ -578,56 +578,120 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
 .update-steps li strong { font-family: "Manrope", sans-serif; }
 .update-steps li p { margin: 5px 0 0; color: var(--muted-dark); font-size: 13px; }
 
-.downloads-page { min-height: 100vh; background: #e8ebf1; }
-.downloads-hero { position: relative; overflow: hidden; padding: 150px 0 84px; background: var(--ink); color: var(--white); }
-.downloads-hero::after { content: "↓"; position: absolute; right: 3vw; bottom: -11vw; color: rgba(116,160,255,.08); font: 800 clamp(16rem, 34vw, 34rem)/1 "Manrope", sans-serif; }
-.downloads-hero .container { position: relative; z-index: 1; }
-.downloads-hero h1 { max-width: 940px; font-size: clamp(3.4rem, 7.5vw, 7rem); }
-.downloads-hero p { max-width: 740px; color: var(--muted); font-size: 1.14rem; }
-.downloads-hero .breadcrumbs { margin-bottom: 42px; }
-.private-page-note { display: grid; grid-template-columns: auto 1fr; gap: 14px; align-items: start; margin-bottom: 30px; padding: 18px 20px; border: 1px solid #cdd4e1; border-radius: 14px; background: rgba(255,255,255,.58); }
-.private-page-note > span { width: 27px; height: 27px; display: grid; place-items: center; border: 1px solid var(--blue); border-radius: 50%; color: var(--blue); font: 800 12px "Manrope", sans-serif; }
-.private-page-note p { margin: 0; color: var(--muted-dark); font-size: 13px; }
-.private-page-note strong { color: var(--ink); }
-.download-hub-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
-.download-hub-card { min-height: 330px; display: flex; flex-direction: column; align-items: flex-start; padding: 32px; border: 1px solid var(--line-dark); border-radius: var(--radius); background: var(--white); transition: transform .2s, box-shadow .2s; }
-.download-hub-card:first-child { grid-column: 1 / -1; min-height: 370px; background: var(--ink); color: var(--white); }
-.download-hub-card:hover { transform: translateY(-4px); box-shadow: var(--shadow); }
-.download-hub-card > span { color: var(--blue); font: 800 11px "Manrope", sans-serif; letter-spacing: .13em; text-transform: uppercase; }
-.download-hub-card:first-child > span { color: var(--amber); }
-.download-hub-card h2 { max-width: 700px; margin: auto 0 16px; font-size: clamp(2rem, 4vw, 3.5rem); }
-.download-hub-card p { color: var(--muted-dark); }
-.download-hub-card:first-child p { color: var(--muted); }
-.download-hub-card > strong { display: inline-flex; align-items: center; gap: 8px; color: var(--blue); font-size: 13px; }
-.download-hub-card:first-child > strong { color: var(--amber); }
-.download-hub-card svg { width: 18px; }
-.download-main-section { padding: 42px 0 80px; }
-.download-primary { min-height: 260px; display: flex; align-items: center; justify-content: space-between; gap: 40px; padding: 42px; border-radius: var(--radius); background: var(--blue); color: var(--white); box-shadow: 0 24px 70px rgba(32,82,190,.22); }
-.download-primary h2 { margin: 14px 0; font-size: clamp(2.4rem, 5vw, 4.4rem); }
-.download-primary p { max-width: 650px; color: #e1e9ff; }
-.download-primary small { display: block; color: #bbccf4; font-size: 10px; overflow-wrap: anywhere; }
-.download-primary > .btn { flex: 0 0 auto; }
-.download-load-error p { color: #e1e9ff; }
-.download-alternatives { display: grid; grid-template-columns: .8fr 1.2fr; gap: 40px; align-items: center; margin-top: 16px; padding: 28px 32px; border: 1px solid var(--line-dark); border-radius: 18px; background: rgba(255,255,255,.55); }
+.downloads-page { min-height: 100vh; background: #e9edf4; }
+.downloads-hero { position: relative; overflow: hidden; padding: 150px 0 92px; background: radial-gradient(circle at 78% 45%, rgba(54,119,255,.2), transparent 27%), #080a0f; color: var(--white); }
+.downloads-hero::before { content: ""; position: absolute; inset: 0; opacity: .24; background-image: linear-gradient(rgba(255,255,255,.045) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.045) 1px, transparent 1px); background-size: 48px 48px; mask-image: linear-gradient(90deg, transparent, #000 45%, #000); }
+.downloads-hero::after { content: ""; position: absolute; width: 430px; height: 430px; right: -190px; bottom: -260px; border: 70px solid rgba(116,160,255,.08); border-radius: 50%; }
+.downloads-hero-grid { position: relative; z-index: 1; display: grid; grid-template-columns: 1.1fr .9fr; align-items: center; gap: clamp(45px, 8vw, 100px); }
+.downloads-hero-copy h1 { max-width: 790px; margin-bottom: 24px; font-size: clamp(3.7rem, 7vw, 7rem); letter-spacing: -.07em; }
+.downloads-hero-copy > p { max-width: 680px; color: #aeb5c1; font-size: 1.12rem; }
+.download-hero-pills { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 31px; }
+.download-hero-pills span { padding: 8px 12px; border: 1px solid rgba(255,255,255,.13); border-radius: 999px; background: rgba(255,255,255,.035); color: #cbd1db; font: 700 10px "Manrope", sans-serif; letter-spacing: .04em; text-transform: uppercase; }
+.download-system-card, .download-pack-display { position: relative; overflow: hidden; border: 1px solid rgba(255,255,255,.14); border-radius: 24px; background: linear-gradient(145deg, rgba(28,34,47,.97), rgba(11,14,21,.97)); box-shadow: 0 35px 90px rgba(0,0,0,.45); }
+.download-system-card::after, .download-pack-display::after { content: ""; position: absolute; inset: 0; pointer-events: none; background: linear-gradient(120deg, rgba(255,255,255,.07), transparent 32%); }
+.download-system-head { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; padding: 16px 18px; border-bottom: 1px solid rgba(255,255,255,.1); }
+.download-system-head > span { display: flex; gap: 5px; }
+.download-system-head i { width: 7px; height: 7px; border-radius: 50%; background: #3e4653; }
+.download-system-head i:first-child { background: var(--amber); }
+.download-system-head strong, .download-system-head small { font: 800 8px "Manrope", sans-serif; letter-spacing: .14em; }
+.download-system-head strong { color: #c8ced8; }
+.download-system-head small { justify-self: end; color: #6fe0a1; }
+.download-system-body { padding: 22px; }
+.download-system-body > div { display: grid; grid-template-columns: 35px 1fr auto; align-items: center; min-height: 65px; border-bottom: 1px solid rgba(255,255,255,.08); }
+.download-system-body > div:last-child { border: 0; }
+.download-system-body span { color: var(--blue-bright); font: 800 9px "Manrope", sans-serif; }
+.download-system-body strong { font: 800 14px "Manrope", sans-serif; letter-spacing: .05em; }
+.download-system-body small { color: #737d8c; font: 700 8px "Manrope", sans-serif; letter-spacing: .1em; }
+.download-system-foot { display: flex; align-items: center; gap: 7px; padding: 15px 18px; border-top: 1px solid rgba(255,255,255,.1); }
+.download-system-foot span { padding: 4px 7px; border-radius: 5px; background: rgba(255,255,255,.07); color: #8993a2; font: 800 7px "Manrope", sans-serif; }
+.download-system-foot strong { margin-left: auto; color: var(--amber); font: 800 8px "Manrope", sans-serif; letter-spacing: .1em; }
+.download-pack-display { min-height: 330px; display: flex; flex-direction: column; justify-content: space-between; padding: 25px; }
+.download-pack-display-top, .download-pack-display-foot { display: flex; justify-content: space-between; color: #77808e; font: 800 8px "Manrope", sans-serif; letter-spacing: .12em; }
+.download-pack-display-top i { color: #6fe0a1; font-style: normal; }
+.download-pack-display > strong { color: rgba(116,160,255,.94); font: 800 clamp(5.5rem, 10vw, 8.5rem)/1 "Manrope", sans-serif; letter-spacing: -.1em; }
+.download-pack-eq { height: 52px; display: flex; align-items: end; gap: 7px; }
+.download-pack-eq i { width: 8px; height: 25%; border-radius: 4px; background: var(--amber); }
+.download-pack-eq i:nth-child(2), .download-pack-eq i:nth-child(8) { height: 52%; }
+.download-pack-eq i:nth-child(3), .download-pack-eq i:nth-child(7) { height: 80%; }
+.download-pack-eq i:nth-child(4), .download-pack-eq i:nth-child(6) { height: 38%; }
+.download-pack-eq i:nth-child(5) { height: 100%; }
+.download-hub-section { padding: 42px 0 118px; background: #e9edf4; }
+.download-private-badge, .download-access-note { display: flex; align-items: center; gap: 14px; border: 1px solid #d0d7e2; border-radius: 14px; background: rgba(255,255,255,.62); }
+.download-private-badge { justify-content: center; margin-bottom: 88px; padding: 15px 20px; text-align: center; }
+.download-private-badge span { padding: 5px 8px; border-radius: 6px; background: var(--ink); color: var(--white); font: 800 8px "Manrope", sans-serif; letter-spacing: .1em; }
+.download-private-badge p, .download-access-note p { margin: 0; color: #687180; font-size: 12px; }
+.download-hub-heading, .download-library-heading { display: flex; align-items: end; justify-content: space-between; gap: 35px; margin-bottom: 40px; }
+.download-hub-heading h2, .download-library-heading h2 { margin: 0; }
+.download-hub-heading > p, .download-library-heading > p { max-width: 430px; margin: 0; color: var(--muted-dark); }
+.download-hub-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 14px; }
+.download-hub-card { position: relative; min-height: 370px; display: flex; flex-direction: column; overflow: hidden; padding: 29px; border: 1px solid rgba(8,10,15,.1); border-radius: 24px; background: #fff; transition: transform .25s, box-shadow .25s, border-color .25s; }
+.download-hub-card::before { content: ""; position: absolute; width: 240px; height: 240px; right: -150px; top: -150px; border: 45px solid rgba(54,119,255,.08); border-radius: 50%; transition: transform .3s; }
+.download-hub-card:hover { z-index: 1; transform: translateY(-5px); border-color: rgba(54,119,255,.35); box-shadow: 0 28px 75px rgba(24,39,65,.14); }
+.download-hub-card:hover::before { transform: scale(1.25); }
+.download-hub-completo { grid-column: 1 / -1; min-height: 420px; background: linear-gradient(135deg, #101722, #080a0f); color: #fff; }
+.download-card-top { display: flex; align-items: center; justify-content: space-between; gap: 18px; color: #8b94a2; font: 800 8px "Manrope", sans-serif; letter-spacing: .1em; text-transform: uppercase; }
+.download-card-code { width: 51px; height: 51px; display: grid; place-items: center; border: 1px solid #dbe1e9; border-radius: 50%; background: #f1f4f8; color: var(--blue); font-size: 10px; }
+.download-hub-completo .download-card-code { border-color: rgba(255,255,255,.16); background: rgba(255,255,255,.06); color: var(--amber); }
+.download-card-wave { height: 72px; display: flex; align-items: center; gap: 7px; margin: 28px 0; }
+.download-card-wave i { width: 5px; height: 25%; border-radius: 4px; background: var(--blue); }
+.download-card-wave i:nth-child(2), .download-card-wave i:nth-child(6) { height: 55%; }
+.download-card-wave i:nth-child(3), .download-card-wave i:nth-child(5) { height: 88%; }
+.download-card-wave i:nth-child(4) { height: 100%; }
+.download-hub-completo .download-card-wave i { background: var(--amber); }
+.download-card-copy { margin-top: auto; }
+.download-card-copy p { margin-bottom: 9px; color: var(--blue); font: 800 10px "Manrope", sans-serif; letter-spacing: .12em; text-transform: uppercase; }
+.download-hub-completo .download-card-copy p { color: var(--amber); }
+.download-card-copy h2 { max-width: 740px; margin: 0; font-size: clamp(2rem, 4vw, 3.65rem); }
+.download-card-action { display: flex; align-items: center; justify-content: space-between; gap: 20px; margin-top: 28px; padding-top: 18px; border-top: 1px solid rgba(8,10,15,.1); color: #536071; font: 800 11px "Manrope", sans-serif; }
+.download-hub-completo .download-card-action { border-color: rgba(255,255,255,.12); color: #c2c8d2; }
+.download-card-action svg { width: 19px; transition: transform .2s; }
+.download-hub-card:hover .download-card-action svg { transform: translateX(5px); }
+.download-main-section { padding: 40px 0 85px; background: #e9edf4; }
+.download-access-note { margin-bottom: 20px; padding: 15px 18px; }
+.download-access-note > span { width: 27px; height: 27px; display: grid; place-items: center; flex: 0 0 auto; border-radius: 50%; background: #dff6e8; color: #20874b; font: 900 11px "Manrope", sans-serif; }
+.download-access-note strong { color: var(--ink); }
+.download-primary { min-height: 285px; display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 30px; padding: 38px; border-radius: 25px; background: linear-gradient(125deg, #2f6ff6, #174bc1); color: #fff; box-shadow: 0 28px 75px rgba(32,82,190,.25); }
+.download-primary-icon { width: 92px; height: 92px; display: grid; place-items: center; border: 1px solid rgba(255,255,255,.25); border-radius: 23px; background: rgba(255,255,255,.1); }
+.download-primary-icon span { font: 500 52px/1 "Manrope", sans-serif; transform: translateY(-4px); }
+.download-primary-copy h2 { margin: 12px 0 11px; font-size: clamp(2.4rem, 4.5vw, 4rem); }
+.download-primary-copy p { max-width: 590px; margin-bottom: 14px; color: #dce7ff; }
+.download-primary-copy > small { color: #aebfe8; font-size: 9px; overflow-wrap: anywhere; }
+.download-primary-action { display: grid; justify-items: center; gap: 9px; }
+.download-primary-action > small { color: #b5c8f3; font-size: 9px; }
+.download-load-error p { color: #dce7ff; }
+.download-alternatives { display: grid; grid-template-columns: .8fr 1.2fr; gap: 40px; align-items: center; margin-top: 15px; padding: 27px 31px; border: 1px solid #d0d7e2; border-radius: 18px; background: rgba(255,255,255,.7); }
 .download-alternatives h3 { margin: 10px 0 0; }
 .download-alternatives > div:last-child { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 8px; }
 .download-alternatives .btn { min-height: 44px; padding: 0 15px; font-size: 11px; }
-.download-library-section { padding: 90px 0 115px; background: var(--paper); }
-.download-toolbar { display: grid; grid-template-columns: 1.5fr .65fr .65fr; gap: 12px; padding: 18px; border: 1px solid var(--line-dark); border-radius: 18px; background: var(--white); box-shadow: 0 18px 60px rgba(30,43,67,.07); }
-.download-toolbar label { display: grid; gap: 8px; }
-.download-toolbar label > span { color: var(--muted-dark); font: 800 9px "Manrope", sans-serif; letter-spacing: .1em; text-transform: uppercase; }
-.download-toolbar input, .download-toolbar select { width: 100%; min-width: 0; height: 48px; padding: 0 14px; border: 1px solid var(--line-dark); border-radius: 10px; outline: 0; background: #fbfaf7; color: var(--ink); font-size: 13px; font-weight: 700; }
-.download-toolbar input:focus, .download-toolbar select:focus { border-color: var(--blue); box-shadow: 0 0 0 4px rgba(54,119,255,.1); }
-.download-results-head { display: flex; align-items: center; justify-content: space-between; gap: 20px; margin: 40px 0 20px; }
-.download-results-head strong { font-family: "Manrope", sans-serif; }
-.download-results-head a { color: var(--blue); font-size: 12px; font-weight: 800; }
+.download-library-section { padding: 104px 0 120px; background: #f4f2ec; }
+.download-toolbar { position: sticky; z-index: 5; top: 96px; display: grid; grid-template-columns: 1.5fr .65fr .65fr; gap: 10px; padding: 12px; border: 1px solid rgba(8,10,15,.12); border-radius: 17px; background: rgba(255,255,255,.9); box-shadow: 0 18px 55px rgba(27,40,62,.1); backdrop-filter: blur(18px); }
+.download-toolbar label { display: grid; gap: 7px; }
+.download-toolbar label > span { padding-left: 5px; color: #7c8490; font: 800 8px "Manrope", sans-serif; letter-spacing: .11em; text-transform: uppercase; }
+.download-toolbar input, .download-toolbar select { width: 100%; min-width: 0; height: 51px; padding: 0 15px; border: 1px solid #dde1e6; border-radius: 11px; outline: 0; background: #f7f8fa; color: var(--ink); font-size: 13px; font-weight: 700; }
+.download-toolbar input:focus, .download-toolbar select:focus { border-color: var(--blue); background: #fff; box-shadow: 0 0 0 4px rgba(54,119,255,.1); }
+.download-results-head { display: flex; align-items: center; gap: 9px; margin: 38px 0 20px; }
+.download-results-head strong { font: 800 12px "Manrope", sans-serif; color: #3d4653; }
+.download-live-dot { width: 8px; height: 8px; border-radius: 50%; background: #45bc77; box-shadow: 0 0 0 5px rgba(69,188,119,.12); }
 .download-model-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 12px; }
-.download-model-card { min-height: 240px; display: flex; flex-direction: column; align-items: stretch; justify-content: space-between; padding: 24px; border: 1px solid var(--line-dark); border-radius: 18px; background: var(--white); }
-.download-model-card span { color: var(--blue); font: 800 9px "Manrope", sans-serif; letter-spacing: .08em; text-transform: uppercase; }
-.download-model-card h3 { margin: 18px 0 10px; overflow-wrap: anywhere; }
-.download-model-card small { color: var(--muted-dark); font-weight: 700; }
-.download-model-card .btn { width: 100%; margin-top: 25px; min-height: 44px; }
-.download-empty { padding: 65px 25px; border: 1px dashed var(--line-dark); border-radius: 18px; text-align: center; }
+.download-model-card { position: relative; min-height: 275px; display: flex; flex-direction: column; justify-content: space-between; overflow: hidden; padding: 22px; border: 1px solid rgba(8,10,15,.1); border-radius: 19px; background: #fff; transition: transform .2s, border-color .2s, box-shadow .2s; }
+.download-model-card::after { content: ""; position: absolute; width: 120px; height: 120px; right: -75px; top: -75px; border: 24px solid rgba(54,119,255,.06); border-radius: 50%; }
+.download-model-card:hover { transform: translateY(-3px); border-color: rgba(54,119,255,.28); box-shadow: 0 18px 48px rgba(25,39,62,.1); }
+.download-model-top { display: flex; align-items: center; justify-content: space-between; gap: 15px; }
+.download-model-monogram { width: 43px; height: 43px; display: grid; place-items: center; border-radius: 12px; background: #e8efff; color: var(--blue); font: 900 10px "Manrope", sans-serif; letter-spacing: .04em; }
+.download-model-baixo .download-model-monogram { background: #e6f5ee; color: #258357; }
+.download-model-violao .download-model-monogram { background: #fff1d1; color: #986b08; }
+.download-model-instrument { color: #939aa5; font: 800 8px "Manrope", sans-serif; letter-spacing: .1em; text-transform: uppercase; }
+.download-model-copy { margin: 30px 0 auto; }
+.download-model-copy p { margin-bottom: 8px; color: var(--blue); font: 800 9px "Manrope", sans-serif; letter-spacing: .1em; text-transform: uppercase; }
+.download-model-baixo .download-model-copy p { color: #258357; }
+.download-model-violao .download-model-copy p { color: #986b08; }
+.download-model-copy h3 { margin: 0; font-size: 1.4rem; overflow-wrap: anywhere; }
+.download-model-foot { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-top: 28px; padding-top: 17px; border-top: 1px solid #e8e9ec; }
+.download-model-foot > small { color: #8c939d; font-size: 9px; font-weight: 800; }
+.download-model-action { min-height: 38px; padding: 0 13px; border-color: #dce0e6; background: #f1f3f6; color: #1a2230; font-size: 10px; }
+.download-model-action:hover { border-color: var(--blue); background: var(--blue); color: #fff; }
+.download-model-action svg { width: 13px; }
+.download-empty { padding: 65px 25px; border: 1px dashed #c9ced6; border-radius: 18px; text-align: center; }
 .download-empty p { margin: 7px 0 0; color: var(--muted-dark); }
 
 .coming { position: relative; min-height: calc(100vh - 36px); display: grid; place-items: center; overflow: hidden; padding: 190px 0 100px; background: var(--ink); color: var(--white); text-align: center; }
@@ -774,8 +838,12 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
   .catalog-buy-band { align-items: start; flex-direction: column; }
   .software-grid { grid-template-columns: 1fr; }
   .update-steps { grid-template-columns: 1fr; gap: 30px; }
+  .downloads-hero-grid { grid-template-columns: 1fr; }
+  .download-system-card, .download-pack-display { width: min(100%, 560px); }
+  .download-hub-heading, .download-library-heading { align-items: flex-start; flex-direction: column; }
   .download-model-grid { grid-template-columns: 1fr 1fr; }
-  .download-primary { align-items: flex-start; flex-direction: column; }
+  .download-primary { grid-template-columns: auto 1fr; }
+  .download-primary-action { grid-column: 1 / -1; justify-items: start; }
   .download-alternatives { grid-template-columns: 1fr; }
   .download-alternatives > div:last-child { justify-content: flex-start; }
   .footer-grid { grid-template-columns: 1fr 1fr; }
@@ -893,18 +961,31 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
   .catalog-buy-band .btn { width: 100%; }
   .update-warning { grid-template-columns: 1fr; }
   .software-card { min-height: 360px; padding: 25px; }
-  .downloads-hero { padding: 140px 0 65px; }
-  .downloads-hero h1 { font-size: clamp(3rem, 14vw, 4.2rem); overflow-wrap: anywhere; }
+  .downloads-hero { padding: 140px 0 68px; }
+  .downloads-hero-copy h1 { font-size: clamp(3rem, 14vw, 4.2rem); overflow-wrap: anywhere; }
+  .download-system-card { border-radius: 18px; }
+  .download-system-body { padding: 15px 18px; }
+  .download-system-body > div { grid-template-columns: 30px 1fr; }
+  .download-system-body small { display: none; }
+  .download-pack-display { min-height: 270px; padding: 21px; }
+  .download-pack-display > strong { font-size: 5.4rem; }
+  .download-private-badge { align-items: flex-start; flex-direction: column; margin-bottom: 65px; text-align: left; }
   .download-hub-grid { grid-template-columns: 1fr; }
   .download-hub-card:first-child { grid-column: auto; }
-  .download-hub-card { min-height: 310px; padding: 25px; }
-  .download-primary { padding: 28px 22px; }
-  .download-primary > .btn { width: 100%; }
+  .download-hub-card { min-height: 345px; padding: 24px; }
+  .download-main-section { padding-top: 25px; }
+  .download-access-note { align-items: flex-start; }
+  .download-primary { grid-template-columns: 1fr; padding: 28px 22px; }
+  .download-primary-icon { width: 70px; height: 70px; border-radius: 18px; }
+  .download-primary-icon span { font-size: 41px; }
+  .download-primary-action { grid-column: auto; justify-items: stretch; }
+  .download-primary-action .btn { width: 100%; }
   .download-alternatives { padding: 24px 20px; }
   .download-alternatives > div:last-child { display: grid; }
-  .download-toolbar { grid-template-columns: 1fr; }
+  .download-library-section { padding: 80px 0; }
+  .download-toolbar { position: static; grid-template-columns: 1fr; }
   .download-model-grid { grid-template-columns: 1fr; }
-  .download-results-head { align-items: flex-start; flex-direction: column; }
+  .download-model-card { min-height: 255px; }
   .contact-grid { grid-template-columns: 1fr; }
   .support-hero { min-height: 520px; padding: 160px 0 72px; }
   .support-shell h1 { font-size: clamp(3.05rem, 15vw, 4.2rem); }
