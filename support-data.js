@@ -48,7 +48,7 @@ export const SUPPORT_ENTRIES = [
     id: "equipamento-nao-listado", type: "Compatibilidade", title: "Meu equipamento não aparece na busca de compatibilidade.",
     keywords: "equipamento nao aparece lista nao encontrei modelo desconhecido compativel aceita ir loader user ir cab ir",
     answer: "A ausência na lista não confirma incompatibilidade. Procure no manual por termos como “IR loader”, “user IR”, “cab IR”, “custom IR” ou “third-party IR”. Se o equipamento importa arquivos WAV de resposta de impulso, existe uma boa chance de funcionamento.",
-    links: [["Abrir busca de compatibilidade", "/compatibilidade/"], ["Falar no WhatsApp", "whatsapp"]]
+    links: [["Abrir busca de compatibilidade", "/compatibilidade/"]]
   },
   {
     id: "teclado", type: "Compatibilidade", title: "Existe um pack específico para teclado?",
@@ -102,14 +102,14 @@ export const SUPPORT_ENTRIES = [
     keywords: "perdi acesso nao aparece conta compra hotmart email senha login produto sumiu",
     answer: "O caso mais comum é entrar com um e-mail diferente do usado no checkout ou escolher outra conta Google/Apple. Abra “Minhas compras” com o endereço exato da compra e use “Esqueci minha senha” se necessário.",
     steps: ["Pesquise o comprovante da Hotmart no e-mail.", "Confirme qual endereço aparece no comprovante.", "Entre novamente usando esse endereço."],
-    links: [["Acessar minhas compras", "https://consumer.hotmart.com"], ["Ainda não encontrei — WhatsApp", "whatsapp"]]
+    links: [["Acessar minhas compras", "https://consumer.hotmart.com"]]
   },
   {
     id: "zip-download", type: "Download", title: "O ZIP não abre ou o download veio incompleto.",
     keywords: "zip nao abre corrompido download incompleto extrair arquivo erro pasta compactada winrar 7zip",
     answer: "Normalmente isso acontece quando o download foi interrompido ou o descompactador não conseguiu lidar com o tamanho do arquivo. Exclua apenas a cópia incompleta, baixe novamente em uma conexão estável e extraia o ZIP antes de tentar importar qualquer IR.",
     steps: ["Confira se há espaço livre no disco.", "Evite abrir o ZIP diretamente da pasta de downloads.", "No Windows, tente 7-Zip; no macOS, use o Utilitário de Arquivo ou uma ferramenta atualizada."],
-    links: [["Continua falhando — WhatsApp", "whatsapp"]]
+    links: [["Abrir orientações de download", "/suporte/?q=download+incompleto"]]
   },
   {
     id: "instalar-cube-baby", type: "Instalação", title: "Como instalar IR na Cube Baby, Cube Baby Bass ou AC?",
@@ -197,7 +197,7 @@ export const SUPPORT_ENTRIES = [
     answer: "Nós não somos assistência da M-Vave, mas você pode fazer verificações externas seguras: use o cabo e a alimentação especificados no manual, teste outra porta ou carregador compatível e deixe a bateria carregar antes de tentar ligar novamente.",
     steps: ["Remova cabos de áudio e periféricos.", "Teste outro cabo USB conhecido e uma fonte dentro da especificação do manual.", "Se houver cheiro, aquecimento anormal, líquido ou dano físico, desconecte imediatamente."],
     notice: "Não abra o aparelho e não use tensão diferente da indicada. Se continuar sem ligar, acione loja/vendedor ou suporte oficial.",
-    links: [["Contato oficial M-Vave", "https://www.m-vave.com/contact"], ["Falar conosco", "whatsapp"]]
+    links: [["Contato oficial M-Vave", "https://www.m-vave.com/contact"]]
   },
   {
     id: "usb-nao-reconhece", type: "Equipamento eletrônico", title: "O computador ou editor não reconhece o pedal por USB.",

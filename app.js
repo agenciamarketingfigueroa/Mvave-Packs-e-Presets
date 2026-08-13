@@ -10,7 +10,6 @@ const CHECKOUTS = {
   completo: "https://pay.hotmart.com/J76211442I?checkoutMode=10&off=kb7vzng1"
 };
 
-const WHATSAPP = "https://api.whatsapp.com/send?phone=5531999427901";
 const DOWNLOAD_FILES_BASE = "/downloads/arquivos/";
 const PRODUCT_URLS = { guitarra: "/guitar/", baixo: "/bass/", violao: "/violao/", completo: "/completo/" };
 const products = {
@@ -404,7 +403,7 @@ function footer() {
         "<div class='footer-brand'><img src='/assets/img/Logo%20Home/Logo%20Site%20Mvave%20Amarela%20e%20Branca.png' width='300' height='70' loading='lazy' decoding='async' alt='M-Vave BR'><p>IRs, conteúdo e ferramentas para você tirar mais som do equipamento que já tem.</p></div>" +
         "<div class='footer-col'><h4>Packs</h4><a href='/completo/'>Pack completo</a><a href='/guitar/'>Guitarra</a><a href='/bass/'>Baixo</a><a href='/violao/'>Violão</a></div>" +
         "<div class='footer-col'><h4>Conteúdo</h4><a href='/conteudos/'>Central do Timbre</a><a href='/catalogo/completo/'>Catálogo de IRs</a><a href='/compatibilidade/'>Compatibilidade</a><a href='/atualizacoes/'>Softwares e atualizações</a><a href='/presets/'>Presets</a><a href='/sobre/'>Sobre nós</a></div>" +
-        "<div class='footer-col'><h4>Atendimento</h4><a href='/suporte/'>Central de Suporte</a><a href='/contato/'>Contato</a><a href='" + WHATSAPP + "' target='_blank' rel='noopener'>WhatsApp</a><a href='mailto:contato@mvave.com.br'>E-mail</a></div>" +
+        "<div class='footer-col'><h4>Atendimento</h4><a href='/suporte/'>Central de Suporte</a><a href='/contato/'>Contato</a><a href='mailto:contato@mvave.com.br'>E-mail</a></div>" +
       "</div>" +
       "<div class='independence-notice'><span class='independence-mark'>i</span><p><strong>Somos um projeto independente.</strong> Não temos vínculo, representação ou afiliação com a fabricante M-Vave. M-Vave e as demais marcas citadas pertencem aos seus respectivos titulares e aparecem apenas para indicar possíveis equipamentos compatíveis.</p></div>" +
       "<div class='footer-bottom'><span>© <span data-year></span> M-Vave BR. Todos os direitos reservados.</span><span><a href='/politica-privacidade/'>Política de privacidade</a></span></div>" +
@@ -724,7 +723,7 @@ function faqs(extraNylon) {
     ["As aulas funcionam para os três pedais?", "As aulas foram gravadas com o modelo de guitarra. A instalação via computador — a parte mais importante — segue a mesma lógica nas versões de guitarra, baixo e violão."],
     ["E se eu não souber instalar os IRs?", "Há uma aula com a tela do computador mostrando o processo completo de instalação e configuração dentro do pedal."],
     ["O acesso é vitalício mesmo?", "Sim. Enquanto a plataforma estiver disponível, seu conteúdo continuará na sua conta para acessar e baixar novamente."],
-    ["Como funciona o suporte?", "A Central de Suporte responde dúvidas sobre os packs, instalação, acesso e problemas comuns. Se a resposta não resolver, ela prepara o encaminhamento para o WhatsApp."]
+    ["Como funciona o suporte?", "A Central de Suporte responde dúvidas sobre os packs, instalação, acesso e problemas comuns. Questões de firmware, defeito, garantia ou assistência do equipamento devem ser tratadas com a fabricante ou com o vendedor."]
   ];
   if (extraNylon) {
     items.push(["Tem IR para violão de nylon?", "Sim. O pack inclui aproximadamente 20 IRs de nylon, selecionados entre os que entregaram os melhores resultados. Novos arquivos encontrados serão adicionados gratuitamente."]);
@@ -1098,7 +1097,7 @@ function contentArticlePage(article) {
 function presetsPage() {
   document.title = "Presets — Em breve | M-Vave BR";
   return header("presets", false) +
-    "<main id='conteudo'><section class='coming'><div class='container coming-content'><span class='eyebrow'>Em desenvolvimento</span><h1>Presets.<br><span class='display-accent'>Em breve.</span></h1><p>Configurações e timbres para M-Vave de guitarra, baixo e violão estão sendo preparados. Acompanhe as novidades e seja avisado quando o primeiro pack sair.</p><div class='button-row' style='justify-content:center'>" + button("Quero ser avisado", WHATSAPP, "btn-amber", true) + button("Explorar IRs agora", "/#packs", "btn-outline", false) + "</div></div></section></main>" + footer();
+    "<main id='conteudo'><section class='coming'><div class='container coming-content'><span class='eyebrow'>Em desenvolvimento</span><h1>Presets.<br><span class='display-accent'>Em breve.</span></h1><p>Configurações e timbres para M-Vave de guitarra, baixo e violão estão sendo preparados. Acompanhe as novidades na Central do Timbre.</p><div class='button-row' style='justify-content:center'>" + button("Acompanhar novidades", "/conteudos/", "btn-amber", false) + button("Explorar IRs agora", "/#packs", "btn-outline", false) + "</div></div></section></main>" + footer();
 }
 
 function aboutPage() {
@@ -1114,7 +1113,7 @@ function contactPage() {
   document.title = "Contato — M-Vave BR";
   return header("contato", false) +
     "<main id='conteudo'><section class='page-hero'><div class='container page-hero-content'><span class='eyebrow'>Atendimento</span><h1>Vamos conversar.</h1><p>Dúvidas sobre os packs, instalação, acesso ou parcerias? Escolha o canal mais fácil para você.</p></div></section>" +
-    "<section class='section'><div class='container contact-grid'><article class='contact-card'><div><span class='kicker'>Resposta mais rápida</span><h2>WhatsApp</h2><p>Fale diretamente com a equipe sobre produto, compra ou suporte.</p></div><a class='text-link' href='" + WHATSAPP + "' target='_blank' rel='noopener'>Iniciar conversa</a></article><article class='contact-card'><div><span class='kicker text-blue'>E-mail</span><h2>contato@<br>mvave.com.br</h2><p>Para dúvidas, suporte ou oportunidades de parceria.</p></div><a class='text-link' href='mailto:contato@mvave.com.br'>Enviar e-mail</a></article></div></section></main>" + footer();
+    "<section class='section'><div class='container contact-grid'><article class='contact-card'><div><span class='kicker'>Encontre uma resposta</span><h2>Central de<br>Suporte</h2><p>Pesquise dúvidas sobre packs, instalação, downloads, acesso e compatibilidade.</p></div><a class='text-link' href='/suporte/'>Pesquisar uma dúvida</a></article><article class='contact-card'><div><span class='kicker text-blue'>E-mail</span><h2>contato@<br>mvave.com.br</h2><p>Para assuntos sobre os packs, compras ou oportunidades de parceria.</p></div><a class='text-link' href='mailto:contato@mvave.com.br'>Enviar e-mail</a></article></div></section></main>" + footer();
 }
 
 function supportPage() {
@@ -1156,15 +1155,15 @@ function supportScore(entry, query) {
   return score;
 }
 
-function supportWhatsapp(query) {
+function gatedContactUrl(query) {
+  const base = atob("aHR0cHM6Ly9hcGkud2hhdHNhcHAuY29tL3NlbmQ/cGhvbmU9NTUzMTk5OTQyNzkwMQ==");
   const message = "Olá! Procurei na Central de Suporte por: “" + query + "”, mas ainda preciso de ajuda.";
-  return WHATSAPP + "&text=" + encodeURIComponent(message);
+  return base + "&text=" + encodeURIComponent(message);
 }
 
 function supportLink(link, query) {
   const label = escapeHtml(link[0]);
-  const original = link[1];
-  const href = original === "whatsapp" ? supportWhatsapp(query) : original;
+  const href = link[1];
   const external = href.indexOf("http") === 0;
   return "<a href='" + href + "'" + (external ? " target='_blank' rel='noopener'" : "") + ">" + label + iconArrow() + "</a>";
 }
@@ -1200,17 +1199,22 @@ function bindSupport() {
       results.innerHTML = "";
       return;
     }
+    const contactRequested = normalizeSupportText(query).split(" ").includes("whatsapp");
+    start.hidden = true;
+    results.hidden = false;
+    if (contactRequested) {
+      results.innerHTML = "<article class='support-answer support-answer-primary'><div class='support-answer-head'><span>Canal solicitado</span><small>Acesso liberado</small></div><h2>Falar pelo WhatsApp.</h2><p class='support-answer-copy'>Use este canal para assuntos relacionados aos nossos packs e compras. Para defeito, garantia, reparo ou firmware do equipamento, procure a loja ou o suporte oficial da fabricante.</p><div class='support-links'><a href='" + gatedContactUrl(query) + "' target='_blank' rel='noopener'>Abrir WhatsApp" + iconArrow() + "</a></div></article>";
+      return;
+    }
     const matches = SUPPORT_ENTRIES.map(function(entry) {
       return { entry: entry, score: supportScore(entry, query) };
     }).filter(function(match) { return match.score >= 12; }).sort(function(a, b) { return b.score - a.score; }).slice(0, 3);
     const hardwareWords = /pedal|equipamento|defeito|quebrad|garantia|troca|devolu|reparo|assistencia|nao liga|usb|bluetooth|firmware|bateria|carrega|chiado|ruido/i.test(normalizeSupportText(query));
-    start.hidden = true;
-    results.hidden = false;
     if (!matches.length) {
-      results.innerHTML = "<article class='support-answer support-answer-primary'><div class='support-answer-head'><span>Atendimento</span><small>Busca concluída</small></div><h2>Não encontramos uma resposta exata.</h2>" + (hardwareWords ? "<div class='support-boundary'><strong>Somos uma curadoria independente</strong><p>Não fabricamos nem vendemos equipamentos M-Vave e não podemos autorizar assistência, troca, devolução ou garantia. Evite abrir o aparelho; reúna comprovante e modelo exato e procure a loja ou o suporte oficial.</p></div><div class='support-links'><a href='https://www.m-vave.com/contact' target='_blank' rel='noopener'>Suporte oficial M-Vave" + iconArrow() + "</a><a href='https://www.m-vave.com/download' target='_blank' rel='noopener'>Downloads oficiais" + iconArrow() + "</a></div>" : "<p class='support-answer-copy'>Conte um pouco mais sobre o pack, equipamento ou etapa em que a dúvida apareceu. Se preferir, envie a pergunta diretamente para a gente.</p>") + "<div class='support-escalation'><div><strong>Ainda precisa de ajuda?</strong><p>A busca será incluída na mensagem para você não ter que repetir tudo.</p></div>" + button("Continuar no WhatsApp", supportWhatsapp(query), "btn-dark", true) + "</div></article>";
+      results.innerHTML = "<article class='support-answer support-answer-primary'><div class='support-answer-head'><span>Atendimento</span><small>Busca concluída</small></div><h2>Não encontramos uma resposta exata.</h2>" + (hardwareWords ? "<div class='support-boundary'><strong>Somos uma curadoria independente</strong><p>Não fabricamos nem vendemos equipamentos M-Vave e não podemos autorizar assistência, troca, devolução ou garantia. Evite abrir o aparelho; reúna comprovante e modelo exato e procure a loja ou o suporte oficial.</p></div><div class='support-links'><a href='https://www.m-vave.com/contact' target='_blank' rel='noopener'>Suporte oficial M-Vave" + iconArrow() + "</a><a href='https://www.m-vave.com/download' target='_blank' rel='noopener'>Downloads oficiais" + iconArrow() + "</a></div>" : "<p class='support-answer-copy'>Conte um pouco mais sobre o pack, equipamento ou etapa em que a dúvida apareceu. Você também pode falar conosco por e-mail sobre compras e conteúdo dos packs.</p><div class='support-links'><a href='mailto:contato@mvave.com.br'>Enviar e-mail" + iconArrow() + "</a></div>") + "</article>";
       return;
     }
-    results.innerHTML = matches.map(function(match, index) { return supportResult(match.entry, query, index === 0); }).join("") + "<div class='support-escalation'><div><strong>A orientação não resolveu?</strong><p>Envie a dúvida para a gente com o assunto já preenchido.</p></div>" + button("Continuar no WhatsApp", supportWhatsapp(query), "btn-dark", true) + "</div>";
+    results.innerHTML = matches.map(function(match, index) { return supportResult(match.entry, query, index === 0); }).join("");
   }
 
   form.addEventListener("submit", function(event) { event.preventDefault(); window.clearTimeout(timer); renderSupport(); });
@@ -1225,7 +1229,7 @@ function bindSupport() {
 function privacyPage() {
   document.title = "Política de Privacidade — M-Vave BR";
   return header("", true) +
-    "<main id='conteudo'><section class='section' style='padding-top:150px'><div class='container prose'><span class='eyebrow'>Institucional</span><h1 style='font-size:clamp(3rem,6vw,5.5rem)'>Política de privacidade.</h1><p>Esta página descreve, em linguagem direta, como os dados podem ser tratados durante sua navegação e compra.</p><h2>Dados de contato</h2><p>Quando você entra em contato por e-mail ou WhatsApp, usamos as informações fornecidas somente para responder à solicitação, prestar suporte ou dar continuidade ao atendimento.</p><h2>Compras</h2><p>Os pagamentos são processados pela Hotmart. Dados financeiros e de cobrança são tratados diretamente pela plataforma conforme os termos e políticas dela. A M-Vave BR recebe apenas as informações necessárias para liberar o acesso e prestar suporte.</p><h2>Cookies e métricas</h2><p>O site poderá usar cookies técnicos e ferramentas de métricas para entender visitas e melhorar a experiência. Caso ferramentas adicionais sejam ativadas, esta política deverá ser atualizada com os respectivos fornecedores e finalidades.</p><h2>Seus direitos</h2><p>Para solicitar informação, correção ou exclusão de dados sob nossa responsabilidade, envie um e-mail para <a class='text-link' href='mailto:contato@mvave.com.br'>contato@mvave.com.br</a>.</p><p><small>Última atualização: agosto de 2026. Este texto é uma base operacional e deve ser revisado juridicamente antes da publicação definitiva.</small></p></div></section></main>" + footer();
+    "<main id='conteudo'><section class='section' style='padding-top:150px'><div class='container prose'><span class='eyebrow'>Institucional</span><h1 style='font-size:clamp(3rem,6vw,5.5rem)'>Política de privacidade.</h1><p>Esta página descreve, em linguagem direta, como os dados podem ser tratados durante sua navegação e compra.</p><h2>Dados de contato</h2><p>Quando você entra em contato pelos canais disponibilizados no site, usamos as informações fornecidas somente para responder à solicitação, prestar suporte ou dar continuidade ao atendimento.</p><h2>Compras</h2><p>Os pagamentos são processados pela Hotmart. Dados financeiros e de cobrança são tratados diretamente pela plataforma conforme os termos e políticas dela. A M-Vave BR recebe apenas as informações necessárias para liberar o acesso e prestar suporte.</p><h2>Cookies e métricas</h2><p>O site poderá usar cookies técnicos e ferramentas de métricas para entender visitas e melhorar a experiência. Caso ferramentas adicionais sejam ativadas, esta política deverá ser atualizada com os respectivos fornecedores e finalidades.</p><h2>Seus direitos</h2><p>Para solicitar informação, correção ou exclusão de dados sob nossa responsabilidade, envie um e-mail para <a class='text-link' href='mailto:contato@mvave.com.br'>contato@mvave.com.br</a>.</p><p><small>Última atualização: agosto de 2026. Este texto é uma base operacional e deve ser revisado juridicamente antes da publicação definitiva.</small></p></div></section></main>" + footer();
 }
 
 function notFoundPage() {

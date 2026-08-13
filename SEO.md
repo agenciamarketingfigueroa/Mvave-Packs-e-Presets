@@ -50,7 +50,7 @@ As headlines visíveis foram preservadas. Os títulos exibidos nas páginas de r
 - Atualizar matérias técnicas quando fabricantes publicarem novos manuais ou firmwares.
 - Alterar `dateModified` e o `lastmod` apenas quando houver mudança real no conteúdo.
 - Criar links entre matérias relacionadas e a página comercial mais adequada.
-- Priorizar dúvidas reais recebidas no WhatsApp: elas normalmente revelam boas buscas de cauda longa.
+- Priorizar dúvidas reais recebidas nos canais de atendimento: elas normalmente revelam boas buscas de cauda longa.
 - Evitar textos produzidos apenas para repetir palavras-chave. Cada matéria precisa resolver uma dúvida específica.
 
 ## Expectativa correta
