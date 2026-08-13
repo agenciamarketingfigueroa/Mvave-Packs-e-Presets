@@ -1,6 +1,6 @@
 const routes = [
   "/", "/equipamentos/", "/equipamentos/chocolate/", "/equipamentos/cube-baby/",
-  "/loja/", "/receitas-de-timbre/", "/encontre-seu-setup/", "/comparar/", "/ferramentas/",
+  "/loja/", "/preview/", "/encontre-seu-setup/", "/comparar/", "/ferramentas/",
   "/compatibilidade/", "/atualizacoes/como-atualizar/", "/suporte/"
 ];
 
@@ -31,7 +31,7 @@ for (let index = 0; index < routes.length; index += 1) {
   Object.assign(globalThis, { document: documentMock, window: windowMock });
   await import(new URL("../app.js?smoke=" + index, import.meta.url).href);
   if (!app.innerHTML.includes("<main")) throw new Error("Route did not render: " + path);
-  if ((path === "/loja/" || path === "/receitas-de-timbre/") && !app.innerHTML.includes("Prévia não listada")) throw new Error("Unlisted preview unavailable: " + path);
+  if ((path === "/loja/" || path === "/preview/") && !app.innerHTML.includes("Prévia não listada")) throw new Error("Unlisted preview unavailable: " + path);
   if (app.innerHTML.includes("api.whatsapp.com") || app.innerHTML.includes("5531999427901")) throw new Error("Public contact leak at: " + path);
   console.log("ok", path, documentMock.title);
 }

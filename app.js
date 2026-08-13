@@ -657,7 +657,7 @@ function toolsPage() {
 }
 
 function toneRecipesPage() {
-  return header("conteudos", true) + "<main id='conteudo'><section class='section tone-recipes-preview' style='padding-top:170px'><div class='container'><span class='unlisted-badge unlisted-badge-dark'>Prévia não listada</span><span class='eyebrow'>Receitas de timbre</span><h1>Ouça o caminho até o resultado.</h1><p class='tone-recipes-intro'>Esta estrutura está em produção. Os players serão liberados conforme os áudios de comparação forem gravados.</p><div class='equipment-grid'>" + TONE_RECIPES.map(function(recipe) { return "<article class='equipment-card'><div class='equipment-card-body'><span class='kicker text-blue'>" + recipe.instrument + "</span><h2>" + recipe.name + "</h2><p>" + recipe.irFamily + "</p><ol>" + recipe.order.map(function(step) { return "<li>" + step + "</li>"; }).join("") + "</ol><p class='recipe-audio-placeholder'>Áudios A/B em preparação</p></div></article>"; }).join("") + "</div></div></section></main>" + footer();
+  return header("conteudos", true) + "<main id='conteudo'><section class='section tone-recipes-preview' style='padding-top:170px'><div class='container'><span class='unlisted-badge unlisted-badge-dark'>Prévia não listada</span><span class='eyebrow'>Preview de IRs</span><h1>Ouça antes de escolher.</h1><p class='tone-recipes-intro'>Compare o som dos IRs em situações reais e descubra qual combina mais com o timbre que você procura. Os players serão liberados conforme os testes forem gravados.</p><div class='equipment-grid'>" + TONE_RECIPES.map(function(recipe) { return "<article class='equipment-card'><div class='equipment-card-body'><span class='kicker text-blue'>" + recipe.instrument + "</span><h2>" + recipe.name + "</h2><p>" + recipe.irFamily + "</p><ol>" + recipe.order.map(function(step) { return "<li>" + step + "</li>"; }).join("") + "</ol><p class='recipe-audio-placeholder'>Testes A/B em preparação</p></div></article>"; }).join("") + "</div></div></section></main>" + footer();
 }
 
 function bindStore() {
@@ -1483,7 +1483,7 @@ function render() {
   else if (route === "encontre-seu-setup") html = setupFinderPage();
   else if (route === "comparar") html = comparePage();
   else if (route === "ferramentas") html = toolsPage();
-  else if (route === "receitas-de-timbre" && TONE_RECIPES_ENABLED) html = toneRecipesPage();
+  else if (route === "preview" && TONE_RECIPES_ENABLED) html = toneRecipesPage();
   else if (route === "compatibilidade") html = compatibilityPage();
   else if (route === "catalogo") html = catalogPage(parts[1] || "completo");
   else if (route === "atualizacoes" && parts[1] === "como-atualizar") html = firmwareTutorialPage();
@@ -1512,11 +1512,11 @@ function render() {
       noindex: !STORE_LISTED,
       robots: STORE_LISTED ? SEO_DEFAULT_ROBOTS : "noindex,nofollow,noarchive"
     };
-  } else if (route === "receitas-de-timbre" && TONE_RECIPES_ENABLED) {
+  } else if (route === "preview" && TONE_RECIPES_ENABLED) {
     seo = {
-      title: "Receitas de Timbre — Prévia | M-Vave BR",
-      description: "Prévia não listada das receitas de timbre com cadeias de efeitos e comparações de áudio em preparação.",
-      path: "/receitas-de-timbre/",
+      title: "Preview de IRs — Ouça Antes de Escolher | M-Vave BR",
+      description: "Ouça testes A/B de Impulse Responses em situações reais e compare os timbres antes de escolher seu pack de IR.",
+      path: "/preview/",
       type: "website",
       noindex: !TONE_RECIPES_LISTED,
       robots: TONE_RECIPES_LISTED ? SEO_DEFAULT_ROBOTS : "noindex,nofollow,noarchive"
