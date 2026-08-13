@@ -1,7 +1,7 @@
 import { CATALOG_ITEMS, FIRMWARE_GUIDES, FIRMWARE_ITEMS, PACK_BRANDS, SOFTWARE_ITEMS } from "./catalog-data.js";
 import { CONTENT_ARTICLES, CONTENT_TOPICS } from "./content-data.js";
 import { SUPPORT_ENTRIES } from "./support-data.js";
-import { EQUIPMENT_ITEMS, SOFTWARE_MATRIX, STORE_CATEGORIES, STORE_ENABLED, TONE_RECIPES, TONE_RECIPES_ENABLED, amazonSearchUrl, equipmentById } from "./equipment-data.js";
+import { EQUIPMENT_ITEMS, SOFTWARE_MATRIX, STORE_CATEGORIES, STORE_ENABLED, STORE_LISTED, TONE_RECIPES, TONE_RECIPES_ENABLED, TONE_RECIPES_LISTED, amazonSearchUrl, equipmentById } from "./equipment-data.js";
 
 const ROOT = "/";
 const CHECKOUTS = {
@@ -603,7 +603,7 @@ function equipmentHubPage() {
 function storePage() {
   const categories = STORE_CATEGORIES.filter(function(entry) { return entry[0] !== "todos"; });
   return header("loja", true) +
-    "<main id='conteudo' class='store-page'><section class='store-hero'><div class='container'><span class='eyebrow'>Loja-curadoria</span><h1>Equipamentos para tocar, controlar e criar.</h1><p>Links de pesquisa da Amazon organizados para mostrar primeiro os menores preços disponíveis. Confira vendedor, frete, impostos, prazo e revisão do produto antes de comprar.</p><div class='store-disclosure'><span>i</span><p><strong>Transparência:</strong> hoje os links são pesquisas comuns. Quando o programa de afiliados for ativado, esta página será identificada e os links poderão gerar comissão sem aumentar o preço para você.</p></div></div></section>" +
+    "<main id='conteudo' class='store-page'><section class='store-hero'><div class='container'><span class='unlisted-badge'>Prévia não listada</span><span class='eyebrow'>Loja-curadoria</span><h1>Equipamentos para tocar, controlar e criar.</h1><p>Links de pesquisa da Amazon organizados para mostrar primeiro os menores preços disponíveis. Confira vendedor, frete, impostos, prazo e revisão do produto antes de comprar.</p><div class='store-disclosure'><span>i</span><p><strong>Transparência:</strong> hoje os links são pesquisas comuns. Quando o programa de afiliados for ativado, esta página será identificada e os links poderão gerar comissão sem aumentar o preço para você.</p></div></div></section>" +
     "<section class='section store-catalog' id='catalogo' data-store><div class='container'><div class='store-toolbar'><label class='store-search'><span>Buscar equipamento</span><input id='store-search' type='search' placeholder='Ex.: Chocolate, baixo, IR loader…' autocomplete='off'></label><label><span>Categoria</span><select id='store-category'><option value='todos'>Todas as categorias</option>" + categories.map(function(entry) { return "<option value='" + entry[0] + "'>" + entry[1] + "</option>"; }).join("") + "</select></label><label><span>Marca</span><select id='store-brand'><option value='todos'>Todas as marcas</option>" + Array.from(new Set(EQUIPMENT_ITEMS.map(function(product) { return product.brand; }))).sort().map(function(brand) { return "<option value='" + escapeHtml(brand) + "'>" + escapeHtml(brand) + "</option>"; }).join("") + "</select></label></div><div class='store-results-head'><h2 id='store-count'>" + EQUIPMENT_ITEMS.length + " equipamentos</h2><span>Amazon: ordenação por preço crescente</span></div><div class='equipment-grid store-grid'>" + EQUIPMENT_ITEMS.map(function(product) { return equipmentCard(product, true); }).join("") + "</div><div id='store-empty' class='store-empty' hidden><strong>Nenhum equipamento encontrado.</strong><p>Tente pesquisar pela marca, categoria ou tipo de uso.</p></div></div></section>" +
     "<section class='section section-dark'><div class='container store-help'><div><span class='eyebrow'>Ainda em dúvida?</span><h2>Não compre só porque está barato.</h2><p>Use o recomendador para filtrar por instrumento, finalidade e prioridade. Depois compare os finalistas.</p></div><div class='button-row'>" + button("Encontrar meu setup", "/encontre-seu-setup/", "btn-amber", false) + button("Comparar modelos", "/comparar/", "btn-outline", false) + "</div></div></section></main>" + footer();
 }
@@ -657,7 +657,7 @@ function toolsPage() {
 }
 
 function toneRecipesPage() {
-  return header("conteudos", true) + "<main id='conteudo'><section class='section' style='padding-top:170px'><div class='container'><span class='eyebrow'>Receitas de timbre</span><h1>Ouça o caminho até o resultado.</h1><div class='equipment-grid'>" + TONE_RECIPES.map(function(recipe) { return "<article class='equipment-card'><div class='equipment-card-body'><span class='kicker text-blue'>" + recipe.instrument + "</span><h2>" + recipe.name + "</h2><p>" + recipe.irFamily + "</p><ol>" + recipe.order.map(function(step) { return "<li>" + step + "</li>"; }).join("") + "</ol><p>Áudios em preparação.</p></div></article>"; }).join("") + "</div></div></section></main>" + footer();
+  return header("conteudos", true) + "<main id='conteudo'><section class='section tone-recipes-preview' style='padding-top:170px'><div class='container'><span class='unlisted-badge unlisted-badge-dark'>Prévia não listada</span><span class='eyebrow'>Receitas de timbre</span><h1>Ouça o caminho até o resultado.</h1><p class='tone-recipes-intro'>Esta estrutura está em produção. Os players serão liberados conforme os áudios de comparação forem gravados.</p><div class='equipment-grid'>" + TONE_RECIPES.map(function(recipe) { return "<article class='equipment-card'><div class='equipment-card-body'><span class='kicker text-blue'>" + recipe.instrument + "</span><h2>" + recipe.name + "</h2><p>" + recipe.irFamily + "</p><ol>" + recipe.order.map(function(step) { return "<li>" + step + "</li>"; }).join("") + "</ol><p class='recipe-audio-placeholder'>Áudios A/B em preparação</p></div></article>"; }).join("") + "</div></div></section></main>" + footer();
 }
 
 function bindStore() {
@@ -1503,8 +1503,24 @@ function render() {
   else html = notFoundPage();
   document.querySelector("#app").innerHTML = html;
 
-  if (route === "loja" && !STORE_ENABLED) {
-    seo = { title: "Página não encontrada | M-Vave BR", description: "Esta página não está disponível.", path: window.location.pathname, type: "website", noindex: true };
+  if (route === "loja" && STORE_ENABLED) {
+    seo = {
+      title: "Loja de Equipamentos Musicais — Prévia | M-Vave BR",
+      description: "Prévia não listada da loja-curadoria de pedaleiras, controladores MIDI, IR loaders e acessórios.",
+      path: "/loja/",
+      type: "website",
+      noindex: !STORE_LISTED,
+      robots: STORE_LISTED ? SEO_DEFAULT_ROBOTS : "noindex,nofollow,noarchive"
+    };
+  } else if (route === "receitas-de-timbre" && TONE_RECIPES_ENABLED) {
+    seo = {
+      title: "Receitas de Timbre — Prévia | M-Vave BR",
+      description: "Prévia não listada das receitas de timbre com cadeias de efeitos e comparações de áudio em preparação.",
+      path: "/receitas-de-timbre/",
+      type: "website",
+      noindex: !TONE_RECIPES_LISTED,
+      robots: TONE_RECIPES_LISTED ? SEO_DEFAULT_ROBOTS : "noindex,nofollow,noarchive"
+    };
   } else if (route === "equipamentos" && parts[1] && equipmentById(parts[1])) {
     const equipment = equipmentById(parts[1]);
     seo = {

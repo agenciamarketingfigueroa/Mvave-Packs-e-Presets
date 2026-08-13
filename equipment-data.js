@@ -87,8 +87,11 @@ export const SOFTWARE_MATRIX = [
   { name: "ANNlab", platforms: "Computador", products: "Linha ANN", use: "Treinamento e gerenciamento de recursos ANN compatíveis.", url: MVAVE_DOWNLOADS }
 ];
 
-export const TONE_RECIPES_ENABLED = false;
-export const STORE_ENABLED = false;
+// Acessíveis somente por URL direta. Não aparecem em menus, homepage ou sitemap.
+export const TONE_RECIPES_ENABLED = true;
+export const TONE_RECIPES_LISTED = false;
+export const STORE_ENABLED = true;
+export const STORE_LISTED = false;
 
 export const TONE_RECIPES = [
   { id: "clean-americano", name: "Clean americano aberto", instrument: "guitarra", equipment: ["cube-baby", "tank-g", "mk-300"], irFamily: "Fender / open back", audioBefore: null, audioAfter: null, order: ["Amp clean com ganho baixo", "IR open back", "Low cut suave", "Reverb curto"], note: "Gravar acordes abertos e fraseado, sem mudar a execução entre antes/depois." },

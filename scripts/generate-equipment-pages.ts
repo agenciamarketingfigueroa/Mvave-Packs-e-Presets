@@ -1,4 +1,4 @@
-import { EQUIPMENT_ITEMS, STORE_ENABLED } from "../equipment-data.js";
+import { EQUIPMENT_ITEMS, STORE_ENABLED, STORE_LISTED, TONE_RECIPES_ENABLED, TONE_RECIPES_LISTED } from "../equipment-data.js";
 
 const root = new URL("../", import.meta.url);
 const base = "https://mvave.com.br";
@@ -9,7 +9,9 @@ const general: Array<[string, string, string]> = [
   ["ferramentas", "Software e Diagnóstico para M-VAVE", "Matriz de aplicativos M-VAVE e diagnóstico guiado para problemas comuns."]
 ];
 
-function html(path: string, title: string, description: string) {
+type StaticRoute = [string, string, string, boolean?];
+
+function html(path: string, title: string, description: string, listed = true) {
   const canonical = base + "/" + path + "/";
   return `<!doctype html>
 <html lang="pt-BR">
@@ -17,7 +19,7 @@ function html(path: string, title: string, description: string) {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#080a0f" />
-    <meta name="robots" content="index,follow,max-image-preview:large" />
+    <meta name="robots" content="${listed ? "index,follow,max-image-preview:large" : "noindex,nofollow,noarchive"}" />
     <meta name="description" content="${description}" />
     <link rel="canonical" href="${canonical}" />
     <meta property="og:locale" content="pt_BR" />
@@ -41,21 +43,22 @@ function html(path: string, title: string, description: string) {
 `;
 }
 
-const routes: Array<[string, string, string]> = general.slice();
-if (STORE_ENABLED) routes.push(["loja", "Loja de Equipamentos Musicais e Ofertas", "Pedaleiras, controladores, IR loaders e acessórios com pesquisas da Amazon ordenadas por menor preço."]);
+const routes: StaticRoute[] = general.map(function(route) { return [route[0], route[1], route[2], true]; });
+if (STORE_ENABLED) routes.push(["loja", "Loja de Equipamentos Musicais — Prévia", "Prévia não listada da loja-curadoria de pedaleiras, controladores, IR loaders e acessórios.", STORE_LISTED]);
+if (TONE_RECIPES_ENABLED) routes.push(["receitas-de-timbre", "Receitas de Timbre — Prévia", "Prévia não listada das receitas de timbre e comparações de áudio em preparação.", TONE_RECIPES_LISTED]);
 EQUIPMENT_ITEMS.forEach(function(product) {
-  routes.push(["equipamentos/" + product.id, product.name + ": Guia, Software e Ofertas", product.summary + " Veja indicação, limitações, software, alternativas e ofertas."]);
+  routes.push(["equipamentos/" + product.id, product.name + ": Guia, Software e Ofertas", product.summary + " Veja indicação, limitações, software, alternativas e ofertas.", true]);
 });
 
-for (const [path, title, description] of routes) {
+for (const [path, title, description, listed] of routes) {
   const directory = new URL(path + "/", root);
   await Deno.mkdir(directory, { recursive: true });
-  await Deno.writeTextFile(new URL("index.html", directory), html(path, title, description));
+  await Deno.writeTextFile(new URL("index.html", directory), html(path, title, description, listed));
 }
 
 const sitemapUrl = new URL("sitemap.xml", root);
 let sitemap = await Deno.readTextFile(sitemapUrl);
-const block = routes.filter(function(route) { return !sitemap.includes(base + "/" + route[0] + "/"); }).map(function(route) {
+const block = routes.filter(function(route) { return route[3] !== false && !sitemap.includes(base + "/" + route[0] + "/"); }).map(function(route) {
   return `  <url>\n    <loc>${base}/${route[0]}/</loc>\n    <lastmod>2026-08-13</lastmod>\n  </url>`;
 }).join("\n");
 if (block) {
