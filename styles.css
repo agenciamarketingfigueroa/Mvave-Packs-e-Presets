@@ -1128,6 +1128,9 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
 .equipment-card-visual::before { content:""; position:absolute; width:230px; height:230px; border:1px solid rgba(116,160,255,.18); border-radius:50%; box-shadow:0 0 60px rgba(54,119,255,.16); }
 .equipment-image-wrap { position:absolute; inset:26px 18px 13px; display:grid; place-items:center; }
 .equipment-image-wrap>img { position:relative; z-index:2; width:100%; height:100%; object-fit:contain; filter:drop-shadow(0 14px 17px rgba(8,10,15,.2)); }
+.store-grid .equipment-card-visual { min-height:238px; }
+.store-grid .equipment-image-wrap { inset:38px 26px 22px; }
+.store-grid .equipment-image-wrap>img { width:auto; height:auto; max-width:92%; max-height:170px; object-fit:contain; object-position:center; }
 .equipment-image-wrap>.equipment-monogram { position:absolute; z-index:1; }
 .equipment-image-wrap.image-loaded>.equipment-monogram { display:none; }
 .has-product-image .equipment-brand { color:#4e5765; }
@@ -1162,12 +1165,21 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
 .home-equipment-grid a:nth-child(2) { background:var(--ink); color:#fff; }
 .home-equipment-grid a:nth-child(2) p { color:var(--muted); }
 .home-equipment-grid a:nth-child(3) { background:var(--amber); }
-.store-curation-card { position:relative; z-index:2; display:grid; grid-template-columns:190px 1fr; gap:36px; margin:0 0 58px; padding:34px; border:1px solid rgba(243,201,79,.42); border-radius:24px; background:linear-gradient(135deg,rgba(243,201,79,.16),rgba(255,255,255,.045)); box-shadow:0 24px 70px rgba(0,0,0,.26); }
-.store-curation-mark { align-self:start; display:inline-flex; justify-content:center; padding:10px 13px; border:1px solid var(--amber); border-radius:999px; color:var(--amber); font:800 9px "Manrope",sans-serif; letter-spacing:.1em; text-align:center; }
-.store-curation-card h2 { max-width:760px; margin:0 0 14px; color:#fff; font-size:clamp(1.65rem,3vw,2.55rem); line-height:1.08; }
-.store-curation-card p { max-width:820px; margin:0; color:#c3c8d1; font-size:13px; line-height:1.7; }
-.store-curation-card p+p { margin-top:10px; }
-.store-curation-card strong { color:#fff; }
+.store-trust-strip { position:relative; z-index:2; display:grid; grid-template-columns:auto 1fr auto; align-items:center; gap:24px; margin-top:38px; padding:15px 17px; border:1px solid rgba(255,255,255,.14); border-radius:17px; background:rgba(255,255,255,.055); box-shadow:0 14px 45px rgba(0,0,0,.16); backdrop-filter:blur(12px); }
+.store-trust-title { display:flex; align-items:center; gap:11px; min-width:210px; }
+.store-trust-title>span { width:31px; height:31px; flex:0 0 auto; display:grid; place-items:center; border:1px solid var(--amber); border-radius:50%; color:var(--amber); font:800 12px "Manrope",sans-serif; }
+.store-trust-title strong,.store-trust-title small { display:block; }
+.store-trust-title strong { color:#fff; font:800 11px "Manrope",sans-serif; text-transform:uppercase; letter-spacing:.07em; }
+.store-trust-title small { margin-top:2px; color:#9fa7b4; font-size:9px; }
+.store-trust-strip ul { display:flex; align-items:center; justify-content:center; gap:8px; margin:0; padding:0; list-style:none; }
+.store-trust-strip li { padding:7px 10px; border-radius:999px; background:rgba(255,255,255,.07); color:#d7dbe2; font-size:9px; font-weight:700; white-space:nowrap; }
+.store-trust-strip li::before { content:"✓"; margin-right:6px; color:var(--blue-bright); font-weight:900; }
+.store-trust-strip details { position:relative; }
+.store-trust-strip summary { color:var(--amber); cursor:pointer; font:800 10px "Manrope",sans-serif; white-space:nowrap; list-style:none; }
+.store-trust-strip summary::-webkit-details-marker { display:none; }
+.store-trust-strip summary::after { content:" +"; }
+.store-trust-strip details[open] summary::after { content:" −"; }
+.store-trust-strip details p { position:absolute; z-index:5; top:35px; right:0; width:min(420px,calc(100vw - 40px)); margin:0; padding:17px 18px; border:1px solid rgba(255,255,255,.15); border-radius:13px; background:#151923; color:#c4cad3; box-shadow:0 20px 55px rgba(0,0,0,.42); font-size:11px; line-height:1.65; }
 .unlisted-badge { position:relative; z-index:2; display:table; margin-bottom:22px; padding:7px 11px; border:1px solid rgba(243,201,79,.45); border-radius:999px; background:rgba(243,201,79,.1); color:var(--amber); font:800 9px "Manrope",sans-serif; letter-spacing:.1em; text-transform:uppercase; }
 .unlisted-badge-dark { border-color:#d8b43c; background:#fff5cc; color:#755900; }
 .tone-recipes-preview { min-height:70vh; }
@@ -1306,16 +1318,22 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
   .finder-shell,.diagnostic-grid,.detail-content-grid,.choice-grid { grid-template-columns:1fr; }
   .finder-form { position:static; }
   .store-toolbar { top:80px; }
-  .store-curation-card { grid-template-columns:1fr; gap:20px; }
-  .store-curation-mark { justify-self:start; }
+  .store-trust-strip { grid-template-columns:auto auto; justify-content:space-between; }
+  .store-trust-strip ul { grid-column:1 / -1; grid-row:2; justify-content:flex-start; flex-wrap:wrap; }
 }
 @media (max-width:620px) {
   .footer-grid { grid-template-columns:1fr; }
   .store-page { width:100%; max-width:100%; overflow:hidden; }
   .store-page .container { width:calc(100% - 28px); max-width:1180px; min-width:0; }
-  .store-page .container>*,.store-curation-card>* { min-width:0; max-width:100%; }
-  .store-curation-card h2,.store-curation-card p,.store-hero h1,.store-hero>.container>p { max-width:100%; overflow-wrap:anywhere; }
+  .store-page .container>* { min-width:0; max-width:100%; }
+  .store-hero h1,.store-hero>.container>p { max-width:100%; overflow-wrap:anywhere; }
+  .store-trust-strip { gap:13px; margin-top:28px; padding:14px; }
+  .store-trust-title { min-width:0; }
+  .store-trust-strip ul { gap:6px; }
+  .store-trust-strip li { padding:6px 8px; font-size:8px; }
+  .store-trust-strip details p { top:31px; right:-1px; }
   .equipment-hero,.store-hero,.finder-hero,.compare-hero,.tools-hero,.equipment-detail-hero { padding:150px 0 72px; }
+  .store-hero { padding:88px 0 54px; }
   .equipment-hero h1,.store-hero h1,.finder-hero h1,.compare-hero h1,.tools-hero h1 { font-size:clamp(3rem,14vw,4.25rem); overflow-wrap:anywhere; }
   .equipment-hero-grid,.equipment-detail-grid { display:block; }
   .equipment-orbit,.equipment-image-detail { display:none; }
@@ -1324,8 +1342,8 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
   .store-grid { gap:18px; }
   .store-grid .equipment-card { opacity:1; transform:none; }
   .store-grid .equipment-card-visual { min-height:270px; padding:20px; }
-  .store-grid .equipment-image-wrap { inset:38px 12px 18px; }
-  .store-grid .equipment-image-wrap>img { width:100%; height:100%; object-fit:contain; filter:drop-shadow(0 12px 14px rgba(8,10,15,.18)); }
+  .store-grid .equipment-image-wrap { inset:38px 22px 18px; }
+  .store-grid .equipment-image-wrap>img { width:auto; height:auto; max-width:92%; max-height:205px; object-fit:contain; object-position:center; filter:drop-shadow(0 12px 14px rgba(8,10,15,.18)); }
   .store-grid .equipment-card-body { min-height:0; padding:22px 19px 20px; }
   .store-grid .equipment-card h2 { font-size:1.75rem; }
   .store-grid .equipment-card-body>p { font-size:12px; line-height:1.6; }
@@ -1338,7 +1356,6 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
   .equipment-card-actions,.store-help,.detail-actions { align-items:stretch; flex-direction:column; }
   .equipment-card-actions .btn,.store-help .btn,.detail-actions .btn { width:100%; }
   .store-toolbar { position:static; grid-template-columns:1fr; padding:16px; }
-  .store-curation-card { margin-bottom:42px; padding:25px 20px; border-radius:19px; }
   .store-results-head { align-items:flex-start; flex-direction:column; }
   .detail-tablist { width:100%; display:grid; grid-template-columns:1fr 1fr; }
   .detail-tablist button { padding:0 10px; }
