@@ -550,6 +550,17 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
 
 .updates-hero::after { content: "UP"; position: absolute; right: 2vw; bottom: -10vw; color: rgba(116,160,255,.07); font: 800 clamp(13rem, 30vw, 30rem)/1 "Manrope", sans-serif; letter-spacing: -.12em; }
 .updates-hero .btn { margin-top: 18px; }
+.update-guide-feature { position: relative; min-height: 400px; display: grid; grid-template-columns: 1.15fr .85fr; align-items: center; gap: 48px; overflow: hidden; margin-bottom: 34px; padding: 48px; border-radius: 28px; background: radial-gradient(circle at 82% 45%, rgba(83,139,255,.28), transparent 28%), #0b0e14; color: var(--white); box-shadow: 0 28px 75px rgba(23,37,61,.2); transition: transform .25s, box-shadow .25s; }
+.update-guide-feature:hover { transform: translateY(-4px); box-shadow: 0 34px 90px rgba(23,37,61,.27); }
+.update-guide-feature::before { content: ""; position: absolute; inset: 0; opacity: .24; background-image: linear-gradient(rgba(255,255,255,.05) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.05) 1px, transparent 1px); background-size: 42px 42px; mask-image: linear-gradient(90deg, transparent, #000); }
+.update-guide-feature-copy { position: relative; z-index: 1; }
+.update-guide-feature .kicker { color: var(--amber); }
+.update-guide-feature h2 { margin: 20px 0 14px; font-size: clamp(2.8rem, 5.5vw, 5.2rem); }
+.update-guide-feature p { max-width: 590px; margin-bottom: 28px; color: #aeb5c1; font-size: 1.05rem; }
+.update-guide-feature-art { position: relative; z-index: 1; min-height: 235px; display: grid; grid-template-columns: repeat(3,1fr); align-items: center; gap: 9px; padding: 25px; border: 1px solid rgba(255,255,255,.14); border-radius: 22px; background: rgba(255,255,255,.045); box-shadow: inset 0 1px rgba(255,255,255,.08); }
+.update-guide-feature-art span { height: 74px; display: grid; place-items: center; border: 1px solid rgba(255,255,255,.13); border-radius: 13px; background: #121824; color: var(--blue-bright); font: 800 13px "Manrope", sans-serif; letter-spacing: .1em; }
+.update-guide-feature-art span:nth-child(2) { color: var(--amber); transform: translateY(-17px); }
+.update-guide-feature-art i { position: absolute; left: 12%; right: 12%; bottom: 32px; height: 3px; border-radius: 4px; background: linear-gradient(90deg, var(--blue), var(--amber)); box-shadow: 0 0 16px rgba(83,139,255,.5); }
 .update-warning { display: grid; grid-template-columns: auto 1fr; gap: 20px; align-items: start; margin-bottom: 75px; padding: 24px; border: 1px solid #e6c157; border-radius: 16px; background: #fff4c8; }
 .update-warning > span { width: 40px; height: 40px; display: grid; place-items: center; border-radius: 50%; background: var(--amber); font: 900 17px "Manrope", sans-serif; }
 .update-warning p { margin: 5px 0 0; color: #716334; font-size: 13px; }
@@ -577,6 +588,53 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
 .update-steps li > span { color: var(--blue); font: 800 11px "Manrope", sans-serif; }
 .update-steps li strong { font-family: "Manrope", sans-serif; }
 .update-steps li p { margin: 5px 0 0; color: var(--muted-dark); font-size: 13px; }
+
+.firmware-guide-page { min-height: 100vh; background: #e9edf3; }
+.firmware-guide-hero { min-height: 620px; display: flex; align-items: center; padding: 160px 0 100px; background: radial-gradient(circle at 78% 52%, rgba(54,119,255,.24), transparent 28%), #080a0f; color: var(--white); }
+.firmware-guide-hero .breadcrumbs { margin-bottom: 55px; }
+.firmware-guide-hero h1 { margin-bottom: 20px; }
+.firmware-guide-hero > .container > p { max-width: 680px; color: #aeb5c1; font-size: 1.08rem; }
+.firmware-picker-section { padding: 0 0 115px; }
+.firmware-guide-shell { max-width: 980px; }
+.firmware-picker-card { position: relative; z-index: 2; margin-top: -58px; padding: 28px; border: 1px solid rgba(8,10,15,.12); border-radius: 22px; background: #fff; box-shadow: 0 25px 75px rgba(24,39,65,.16); }
+.firmware-picker-card label { display: grid; gap: 11px; }
+.firmware-picker-card label > span { color: var(--ink); font: 800 13px "Manrope", sans-serif; }
+.firmware-picker-card select { width: 100%; height: 64px; padding: 0 18px; border: 1px solid #cdd4de; border-radius: 13px; outline: 0; background: #f6f8fb; color: var(--ink); font-weight: 750; cursor: pointer; }
+.firmware-picker-card select:focus { border-color: var(--blue); box-shadow: 0 0 0 4px rgba(54,119,255,.1); }
+.firmware-picker-card > p { margin: 12px 2px 0; color: #7b8491; font-size: 11px; }
+.firmware-guide-start { min-height: 310px; display: grid; place-content: center; justify-items: center; padding: 50px 20px; color: #717b89; text-align: center; }
+.firmware-guide-start[hidden], #firmware-guide-result[hidden] { display: none !important; }
+.firmware-guide-start > span { width: 46px; height: 46px; display: grid; place-items: center; margin-bottom: 20px; border-radius: 50%; background: #dce5f8; color: var(--blue); font-weight: 900; }
+.firmware-guide-start h2 { margin-bottom: 9px; color: var(--ink); font-size: 2rem; }
+.firmware-guide-start p { max-width: 480px; margin: 0; }
+.firmware-tutorial { margin-top: 32px; overflow: hidden; border: 1px solid rgba(8,10,15,.11); border-radius: 26px; background: #fff; box-shadow: 0 20px 65px rgba(24,39,65,.08); }
+.firmware-tutorial-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 30px; padding: 42px; }
+.firmware-tutorial-head h2 { margin: 12px 0 7px; font-size: clamp(2.5rem, 5vw, 4.5rem); }
+.firmware-tutorial-head p { margin: 0; color: var(--muted-dark); }
+.firmware-status { flex: 0 0 auto; padding: 9px 13px; border-radius: 999px; background: #dfe8fc; color: #2559bd; font: 800 10px "Manrope", sans-serif; text-transform: uppercase; letter-spacing: .06em; }
+.firmware-model-warning { display: grid; grid-template-columns: 34px 1fr; align-items: start; gap: 14px; margin: 0 42px; padding: 18px 20px; border: 1px solid #ebd28d; border-radius: 13px; background: #fff7dd; }
+.firmware-model-warning > span { width: 31px; height: 31px; display: grid; place-items: center; border-radius: 50%; background: var(--amber); color: var(--ink); font-weight: 900; }
+.firmware-model-warning p { margin: 3px 0 0; color: #594c28; font-size: 13px; }
+.firmware-prepare { margin-top: 38px; padding: 38px 42px; border-top: 1px solid #e4e7eb; border-bottom: 1px solid #e4e7eb; background: #f4f6f9; }
+.firmware-prepare ul { display: grid; grid-template-columns: 1fr 1fr; gap: 10px 26px; margin: 6px 0 25px; padding: 0; list-style: none; }
+.firmware-prepare li { position: relative; padding-left: 25px; color: #4d5765; font-size: 13px; }
+.firmware-prepare li::before { content: "✓"; position: absolute; left: 0; color: #278355; font-weight: 900; }
+.firmware-download-actions { display: flex; flex-wrap: wrap; gap: 9px; }
+.firmware-tutorial-steps { padding: 52px 42px 25px; }
+.firmware-tutorial-steps .section-heading { margin-bottom: 25px; }
+.firmware-tutorial-steps .section-heading h2 { margin: 0; font-size: clamp(2.2rem, 4vw, 3.4rem); }
+.firmware-tutorial-steps ol { margin: 0; padding: 0; list-style: none; }
+.firmware-tutorial-steps li { display: grid; grid-template-columns: 55px 1fr; gap: 21px; padding: 25px 0; border-top: 1px solid #e2e5e9; }
+.firmware-tutorial-steps li > span { width: 43px; height: 43px; display: grid; place-items: center; border-radius: 12px; background: #e5ecfb; color: var(--blue); font: 900 10px "Manrope", sans-serif; }
+.firmware-tutorial-steps h3 { margin: 1px 0 7px; font-size: 1.15rem; }
+.firmware-tutorial-steps p { margin: 0; color: #5c6674; font-size: 14px; line-height: 1.7; }
+.firmware-recovery { margin: 0 42px 38px; padding: 24px 26px; border-radius: 16px; background: #111722; color: #d8dee8; }
+.firmware-recovery > span { color: var(--amber); font: 800 11px "Manrope", sans-serif; letter-spacing: .08em; text-transform: uppercase; }
+.firmware-recovery p { margin: 10px 0 15px; color: #aeb6c2; font-size: 13px; }
+.firmware-recovery a { color: var(--white); font-size: 12px; font-weight: 800; }
+.firmware-sources { display: flex; align-items: center; justify-content: space-between; gap: 25px; padding: 22px 42px; border-top: 1px solid #e2e5e9; background: #f8f9fa; }
+.firmware-sources p { max-width: 650px; margin: 0; color: #7a8390; font-size: 10px; }
+.firmware-sources a { flex: 0 0 auto; color: var(--blue); font-size: 11px; font-weight: 900; }
 
 .downloads-page { min-height: 100vh; background: #e9edf4; }
 .downloads-hero { position: relative; overflow: hidden; padding: 150px 0 92px; background: radial-gradient(circle at 78% 45%, rgba(54,119,255,.2), transparent 27%), #080a0f; color: var(--white); }
@@ -836,6 +894,8 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
   .catalog-search-label { grid-column: 1 / -1; }
   .catalog-method { grid-template-columns: 1fr; }
   .catalog-buy-band { align-items: start; flex-direction: column; }
+  .update-guide-feature { grid-template-columns: 1fr; }
+  .update-guide-feature-art { min-height: 190px; }
   .software-grid { grid-template-columns: 1fr; }
   .update-steps { grid-template-columns: 1fr; gap: 30px; }
   .downloads-hero-grid { grid-template-columns: 1fr; }
@@ -999,6 +1059,26 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
   .support-boundary { padding: 17px; }
   .support-escalation { align-items: stretch; flex-direction: column; padding: 22px 20px; }
   .support-escalation .btn { width: 100%; }
+  .update-guide-feature { min-height: 0; gap: 28px; padding: 30px 22px; border-radius: 21px; }
+  .update-guide-feature h2 { font-size: 2.65rem; }
+  .update-guide-feature-art { min-height: 155px; padding: 17px; }
+  .update-guide-feature-art span { height: 58px; }
+  .firmware-guide-hero { min-height: 570px; padding: 150px 0 90px; }
+  .firmware-guide-hero .breadcrumbs { margin-bottom: 38px; }
+  .firmware-picker-card { margin-top: -42px; padding: 20px; border-radius: 18px; }
+  .firmware-picker-card select { height: 58px; }
+  .firmware-tutorial { border-radius: 20px; }
+  .firmware-tutorial-head { flex-direction: column; padding: 28px 21px; }
+  .firmware-status { align-self: flex-start; }
+  .firmware-model-warning { margin: 0 21px; padding: 16px; }
+  .firmware-prepare { padding: 30px 21px; }
+  .firmware-prepare ul { grid-template-columns: 1fr; }
+  .firmware-download-actions .btn { width: 100%; }
+  .firmware-tutorial-steps { padding: 42px 21px 20px; }
+  .firmware-tutorial-steps .section-heading p { margin-top: 12px; }
+  .firmware-tutorial-steps li { grid-template-columns: 43px 1fr; gap: 14px; }
+  .firmware-recovery { margin: 0 21px 25px; padding: 21px; }
+  .firmware-sources { align-items: flex-start; flex-direction: column; padding: 20px 21px; }
   .footer-grid { grid-template-columns: 1fr; gap: 30px; }
   .footer-bottom { display: block; }
   .independence-notice { grid-template-columns: 1fr; }

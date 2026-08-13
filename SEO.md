@@ -1,6 +1,6 @@
 # Plano de SEO — M-Vave BR
 
-Última revisão técnica: 11/08/2026.
+Última revisão técnica: 13/08/2026.
 
 ## Posicionamento e intenção de busca
 
@@ -15,6 +15,7 @@
 | `/suporte/` | Resolver dúvidas antes e depois da compra | suporte pack de IR, instalar IR, CubeSuite, pedal M-Vave não liga |
 | `/catalogo/*` | Conferir o conteúdo antes da compra | lista de IRs, microfones de IR, gabinetes e sample rate |
 | `/atualizacoes/` | Encontrar programas e firmwares | firmware M-Vave, CubeSuite, M-EFCS, atualizar TANK-G |
+| `/atualizacoes/como-atualizar/` | Seguir o tutorial do modelo correto | como atualizar pedal M-Vave, M-UPGRADE, firmware Cube Baby |
 | `/conteudos/` | Aprender e pesquisar dúvidas | o que é IR, como escolher IR, configurar IR |
 
 As headlines visíveis foram preservadas. Os títulos exibidos nas páginas de resultados de busca foram escritos separadamente para serem claros, únicos e concisos.

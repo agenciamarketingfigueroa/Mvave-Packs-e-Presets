@@ -216,10 +216,10 @@ export const SUPPORT_ENTRIES = [
   },
   {
     id: "firmware", type: "Equipamento eletrônico", title: "Como atualizar o firmware com segurança?",
-    keywords: "firmware atualizar update tank g tank b blackbox mk300 versao upgrade brick",
-    answer: "Faça backup dos presets, confirme o nome e a revisão exata do equipamento e use somente o firmware e a ferramenta publicados pela fabricante. Mantenha USB e alimentação estáveis e não interrompa o processo.",
+    keywords: "firmware atualizar update atualizacao pedal como atualizar meu pedal tutorial passo a passo tank g tank b v2 blackbox annblack mk300 mk20 pocket amp tank mini cube baby cube baby bass cube baby ac h8 ir box impulse r sp100 silverbox versao upgrade brick m upgrade mefcs cubesuite sincoota",
+    answer: "Abra o guia de atualização, selecione o nome exato do seu produto M-VAVE e siga o tutorial mostrado para ele. A página informa se o modelo usa M-UPGRADE, M-EFCS, CubeSuite ou se não possui firmware avulso publicado.",
     notice: "Versões parecidas podem usar arquivos diferentes. Se o aparelho funciona normalmente e você não precisa da correção publicada, evite atualizar apenas por curiosidade.",
-    links: [["Central de atualizações", "/atualizacoes/"], ["Downloads oficiais", "https://www.m-vave.com/download"]]
+    links: [["Escolher meu produto e ver o tutorial", "/atualizacoes/como-atualizar/"], ["Central de atualizações", "/atualizacoes/"], ["Downloads oficiais", "https://www.m-vave.com/download"]]
   },
   {
     id: "falha-atualizacao", type: "Equipamento eletrônico", title: "A atualização falhou e o equipamento parou de responder.",

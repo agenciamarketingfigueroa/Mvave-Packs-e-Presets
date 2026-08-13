@@ -18,11 +18,13 @@ Depois acesse `http://localhost:4173`.
 - `app.js`: conteúdo, rotas, produtos, checkouts e interações.
 - `content-data.js`: matérias e guias da Central do Timbre.
 - `support-data.js`: respostas pesquisáveis da Central de Suporte.
+- `catalog-data.js`: catálogo, programas, firmwares e tutoriais de atualização por produto.
 - `styles.css`: sistema visual e responsividade.
 - `assets/img`: logos e imagens do site.
 - Pastas como `guitarra/`, `baixo/` e `novidades/`: URLs estáticas e indexáveis.
 - `SEO.md`: mapa de buscas, implementação e checklist pós-publicação.
 - `suporte/`: página clean de busca para dúvidas sobre packs e equipamentos.
+- `atualizacoes/como-atualizar/`: seletor de produto e tutoriais de firmware passo a passo.
 - `downloads/`: central reservada, não indexada, com páginas por pack e downloads por modelo.
 
 ## Downloads dos packs

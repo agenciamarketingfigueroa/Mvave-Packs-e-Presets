@@ -1,4 +1,4 @@
-import { CATALOG_ITEMS, FIRMWARE_ITEMS, PACK_BRANDS, SOFTWARE_ITEMS } from "./catalog-data.js";
+import { CATALOG_ITEMS, FIRMWARE_GUIDES, FIRMWARE_ITEMS, PACK_BRANDS, SOFTWARE_ITEMS } from "./catalog-data.js";
 import { CONTENT_ARTICLES, CONTENT_TOPICS } from "./content-data.js";
 import { SUPPORT_ENTRIES } from "./support-data.js";
 
@@ -825,9 +825,59 @@ function updatesPage() {
   document.title = "Softwares e atualizações M-Vave — M-Vave BR";
   return header("atualizacoes", true) +
     "<main id='conteudo' class='updates-page'><section class='updates-hero'><div class='container'><span class='eyebrow'>Central independente de orientação</span><h1>Software certo.<br><span class='display-accent'>Firmware certo.</span></h1><p>Atalhos para os canais oficiais da fabricante e uma regra simples: confira o modelo exato antes de atualizar.</p>" + button("Abrir downloads oficiais", "https://www.m-vave.com/download", "btn-amber", true) + "</div></section>" +
-    "<section class='section'><div class='container'><div class='update-warning'><span>!</span><div><strong>Baixe sempre a versão indicada para o modelo e a revisão exatos do seu equipamento.</strong><p>Instaladores e firmwares salvos há muito tempo podem estar desatualizados. Prefira os canais oficiais abaixo e só faça downgrade quando houver orientação específica para o seu aparelho.</p></div></div><div class='section-heading'><div><span class='eyebrow'>Editores e utilitários</span><h2>Qual programa usar?</h2></div><p>Os downloads diretos abaixo são servidos pela própria M-Vave. O link “Todos” abre o centro oficial.</p></div><div class='software-grid'>" + SOFTWARE_ITEMS.map(function(item) { return "<article class='software-card'><div><span class='kicker text-blue'>" + item.kind + "</span><h3>" + item.name + "</h3><p>" + item.note + "</p></div><dl><div><dt>Equipamentos</dt><dd>" + item.devices + "</dd></div><div><dt>Sistemas</dt><dd>" + item.systems + "</dd></div></dl><div class='software-downloads'>" + item.downloads.map(function(download) { return "<a class='btn btn-dark' href='" + download[1] + "' target='_blank' rel='noopener'>" + download[0] + iconArrow() + "</a>"; }).join("") + "<a class='source-link' href='" + item.url + "' target='_blank' rel='noopener'>Todos ↗</a></div></article>"; }).join("") + "</div></div></section>" +
-    "<section class='section section-dark'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Consulta em 11/08/2026</span><h2>Firmwares recentes.</h2></div><p>Versões publicadas no centro oficial no momento da revisão desta página.</p></div><div class='firmware-table-wrap'><table class='firmware-table'><thead><tr><th>Equipamento</th><th>Versão</th><th>Data</th><th>Editor</th><th></th></tr></thead><tbody>" + FIRMWARE_ITEMS.map(function(item) { return "<tr><td><strong>" + item.device + "</strong></td><td>" + item.version + "</td><td>" + item.date + "</td><td>" + item.tool + "</td><td><a href='" + item.url + "' target='_blank' rel='noopener'>Download ↗</a></td></tr>"; }).join("") + "</tbody></table></div></div></section>" +
+    "<section class='section'><div class='container'><a class='update-guide-feature' href='/atualizacoes/como-atualizar/'><div class='update-guide-feature-copy'><span class='kicker'>Guia em destaque</span><h2>Como atualizar seu pedal</h2><p>Escolha o seu produto M-VAVE e acompanhe um tutorial simples, seguro e passo a passo.</p><span class='btn btn-amber'>Escolher meu produto" + iconArrow() + "</span></div><div class='update-guide-feature-art' aria-hidden='true'><span>01</span><span>USB</span><span>FW</span><i></i></div></a><div class='update-warning'><span>!</span><div><strong>Baixe sempre a versão indicada para o modelo e a revisão exatos do seu equipamento.</strong><p>Instaladores e firmwares salvos há muito tempo podem estar desatualizados. Prefira os canais oficiais abaixo e só faça downgrade quando houver orientação específica para o seu aparelho.</p></div></div><div class='section-heading'><div><span class='eyebrow'>Editores e utilitários</span><h2>Qual programa usar?</h2></div><p>Os downloads diretos abaixo são servidos pela própria M-Vave. O link “Todos” abre o centro oficial.</p></div><div class='software-grid'>" + SOFTWARE_ITEMS.map(function(item) { return "<article class='software-card'><div><span class='kicker text-blue'>" + item.kind + "</span><h3>" + item.name + "</h3><p>" + item.note + "</p></div><dl><div><dt>Equipamentos</dt><dd>" + item.devices + "</dd></div><div><dt>Sistemas</dt><dd>" + item.systems + "</dd></div></dl><div class='software-downloads'>" + item.downloads.map(function(download) { return "<a class='btn btn-dark' href='" + download[1] + "' target='_blank' rel='noopener'>" + download[0] + iconArrow() + "</a>"; }).join("") + "<a class='source-link' href='" + item.url + "' target='_blank' rel='noopener'>Todos ↗</a></div></article>"; }).join("") + "</div></div></section>" +
+    "<section class='section section-dark'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Consulta em 13/08/2026</span><h2>Firmwares recentes.</h2></div><p>Versões publicadas no centro oficial no momento da revisão desta página.</p></div><div class='firmware-table-wrap'><table class='firmware-table'><thead><tr><th>Equipamento</th><th>Versão</th><th>Data</th><th>Atualizador</th><th></th></tr></thead><tbody>" + FIRMWARE_ITEMS.map(function(item) { return "<tr><td><strong>" + item.device + "</strong></td><td>" + item.version + "</td><td>" + item.date + "</td><td>" + item.tool + "</td><td><a href='" + item.url + "' target='_blank' rel='noopener'>Download ↗</a></td></tr>"; }).join("") + "</tbody></table></div></div></section>" +
     "<section class='section'><div class='container update-steps'><div><span class='eyebrow'>Antes de atualizar</span><h2>Quatro cuidados que evitam dor de cabeça.</h2></div><ol><li><span>01</span><div><strong>Confirme o nome e a revisão</strong><p>TANK-G, TANK-G V2 e versões semelhantes podem usar arquivos diferentes.</p></div></li><li><span>02</span><div><strong>Exporte seus presets</strong><p>Salve uma cópia antes de atualizar ou restaurar configurações.</p></div></li><li><span>03</span><div><strong>Garanta energia e cabo estáveis</strong><p>Não desconecte USB nem interrompa a alimentação durante o processo.</p></div></li><li><span>04</span><div><strong>Leia a release note</strong><p>Nem toda versão é necessária para todo usuário; veja o que realmente mudou.</p></div></li></ol></div></section></main>" + footer();
+}
+
+function firmwareGuideOptions() {
+  const families = Array.from(new Set(FIRMWARE_GUIDES.map(function(item) { return item.family; })));
+  return families.map(function(family) {
+    const options = FIRMWARE_GUIDES.filter(function(item) { return item.family === family; }).map(function(item) {
+      return "<option value='" + escapeHtml(item.id) + "'>" + escapeHtml(item.name) + "</option>";
+    }).join("");
+    return "<optgroup label='" + escapeHtml(family) + "'>" + options + "</optgroup>";
+  }).join("");
+}
+
+function firmwareTutorialPage() {
+  document.title = "Como atualizar seu pedal M-VAVE — M-Vave BR";
+  return header("atualizacoes", true) +
+    "<main id='conteudo' class='firmware-guide-page' data-firmware-guide><section class='firmware-guide-hero'><div class='container'><nav class='breadcrumbs' aria-label='Navegação estrutural'><a href='/'>Início</a><span>›</span><a href='/atualizacoes/'>Atualizações</a><span>›</span><span aria-current='page'>Como atualizar</span></nav><span class='eyebrow'>Tutorial passo a passo</span><h1>Como atualizar<br><span class='display-accent'>seu pedal.</span></h1><p>Escolha o modelo exato. A página mostra o programa correto, o arquivo disponível e cada etapa em linguagem simples.</p></div></section>" +
+    "<section class='firmware-picker-section'><div class='container firmware-guide-shell'><div class='firmware-picker-card'><label for='firmware-product'><span>Qual é o seu produto M-VAVE?</span><select id='firmware-product'><option value=''>Selecione o modelo</option>" + firmwareGuideOptions() + "</select></label><p>Não encontrou? Alguns pedais analógicos não possuem software ou firmware atualizável.</p></div><div id='firmware-guide-start' class='firmware-guide-start'><span>↓</span><h2>Selecione o produto acima.</h2><p>O tutorial correto aparecerá aqui, sem misturar arquivos de modelos parecidos.</p></div><div id='firmware-guide-result' aria-live='polite' hidden></div></div></section></main>" + footer();
+}
+
+function firmwareGuideMarkup(guide) {
+  const downloads = "<div class='firmware-download-actions'><a class='btn btn-dark' href='https://www.m-vave.com/download' target='_blank' rel='noopener'>Abrir downloads oficiais" + iconArrow() + "</a>" + (guide.firmware ? "<a class='btn' href='" + guide.firmware + "' target='_blank' rel='noopener'>Baixar firmware " + escapeHtml(guide.version) + iconArrow() + "</a>" : "") + "</div>";
+  return "<article class='firmware-tutorial'><header class='firmware-tutorial-head'><div><span class='kicker text-blue'>" + escapeHtml(guide.family) + "</span><h2>" + escapeHtml(guide.name) + "</h2><p>" + escapeHtml(guide.method) + "</p></div><span class='firmware-status'>" + escapeHtml(guide.status) + "</span></header><div class='firmware-model-warning'><span>!</span><p><strong>Antes de baixar:</strong> " + escapeHtml(guide.warning) + "</p></div><section class='firmware-prepare'><span class='eyebrow'>Separe antes de começar</span><ul>" + guide.before.map(function(item) { return "<li>" + escapeHtml(item) + "</li>"; }).join("") + "</ul>" + downloads + "</section><section class='firmware-tutorial-steps'><div class='section-heading'><div><span class='eyebrow'>Passo a passo</span><h2>Siga nesta ordem.</h2></div><p>Reserve alguns minutos e não interrompa a alimentação ou a conexão durante a gravação do firmware.</p></div><ol>" + guide.steps.map(function(step, index) { return "<li><span>" + String(index + 1).padStart(2, "0") + "</span><div><h3>" + escapeHtml(step[0]) + "</h3><p>" + escapeHtml(step[1]) + "</p></div></li>"; }).join("") + "</ol></section><aside class='firmware-recovery'><span>Se algo não sair como esperado</span><p>" + escapeHtml(guide.recovery) + "</p><a href='/suporte/?q=" + encodeURIComponent("a atualização do " + guide.name + " falhou") + "'>Abrir ajuda para este modelo →</a></aside><footer class='firmware-sources'><p>Procedimento revisado em 13/08/2026 a partir do centro oficial de downloads e da documentação do produto. A fabricante pode alterar versões e etapas.</p><a href='" + guide.official + "' target='_blank' rel='noopener'>Conferir a fonte oficial ↗</a></footer></article>";
+}
+
+function bindFirmwareGuide() {
+  const page = document.querySelector("[data-firmware-guide]");
+  if (!page) return;
+  const select = page.querySelector("#firmware-product");
+  const start = page.querySelector("#firmware-guide-start");
+  const result = page.querySelector("#firmware-guide-result");
+
+  function renderGuide(updateUrl) {
+    const guide = FIRMWARE_GUIDES.find(function(item) { return item.id === select.value; });
+    start.hidden = Boolean(guide);
+    result.hidden = !guide;
+    result.innerHTML = guide ? firmwareGuideMarkup(guide) : "";
+    if (updateUrl) {
+      const url = new URL(window.location.href);
+      if (guide) url.searchParams.set("produto", guide.id);
+      else url.searchParams.delete("produto");
+      window.history.replaceState({}, "", url.pathname + url.search + url.hash);
+    }
+  }
+
+  select.addEventListener("change", function() { renderGuide(true); });
+  const requested = new URLSearchParams(window.location.search).get("produto");
+  if (requested && FIRMWARE_GUIDES.some(function(item) { return item.id === requested; })) {
+    select.value = requested;
+    renderGuide(false);
+  }
 }
 
 const DOWNLOAD_SCOPES = {
@@ -1204,6 +1254,7 @@ function render() {
   else if (products[productRoute]) html = productPage(products[productRoute]);
   else if (route === "compatibilidade") html = compatibilityPage();
   else if (route === "catalogo") html = catalogPage(parts[1] || "completo");
+  else if (route === "atualizacoes" && parts[1] === "como-atualizar") html = firmwareTutorialPage();
   else if (route === "atualizacoes") html = updatesPage();
   else if (route === "downloads" && !parts[1]) html = downloadHubPage();
   else if (route === "downloads" && DOWNLOAD_SCOPES[parts[1]]) html = downloadPackPage(parts[1]);
@@ -1220,7 +1271,14 @@ function render() {
   else html = notFoundPage();
   document.querySelector("#app").innerHTML = html;
 
-  if (currentArticle) {
+  if (route === "atualizacoes" && parts[1] === "como-atualizar") {
+    seo = {
+      title: "Como Atualizar Pedais M-VAVE: Passo a Passo",
+      description: "Escolha seu pedal M-VAVE e veja o tutorial correto para atualizar o firmware com M-UPGRADE, M-EFCS, CubeSuite ou SincoOTA.",
+      path: "/atualizacoes/como-atualizar/",
+      type: "article"
+    };
+  } else if (currentArticle) {
     seo = {
       title: ARTICLE_SEO_TITLES[currentArticle.id] || currentArticle.title.replace(/[.!?]+$/, "") + " | M-Vave BR",
       description: currentArticle.lead,
@@ -1399,6 +1457,7 @@ function bindInteractions() {
   bindContentHub();
   bindSupport();
   bindDownloads();
+  bindFirmwareGuide();
 }
 
 render();
