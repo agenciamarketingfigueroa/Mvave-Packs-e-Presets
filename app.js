@@ -395,7 +395,7 @@ function header(active, solid) {
           nav.map(function(item) {
             return "<a href='" + item[1] + "'" + (active === item[0] || (item[0] === "packs" && productActive) ? " aria-current='page'" : "") + ">" + item[2] + "</a>";
           }).join("") +
-          button("Encontrar meu setup", "/encontre-seu-setup/", "btn-amber", false) +
+          button("Ver packs de IR", "/#packs", "btn-amber", false) +
         "</nav>" +
       "</div>" +
     "</header>";
