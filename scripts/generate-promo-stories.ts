@@ -3,8 +3,20 @@ import { EQUIPMENT_ITEMS } from "../equipment-data.js";
 const ROOT = new URL("../", import.meta.url);
 const OUT = new URL("../assets/img/social/stories/", import.meta.url);
 const BACKGROUND = "../story-campaign-background.png";
+const BUDGET_BACKGROUND = "../story-campaign-background-budget.png";
 const FONT = "-apple-system, BlinkMacSystemFont, 'Arial Narrow', Arial, sans-serif";
 const CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
+
+const PRODUCT_OVERRIDES: Record<string, Record<string, unknown>> = {
+  chocolate: { offerPrice: "R$ 154,02", referencePrice: "R$ 385,05" },
+  "wp-5g": {
+    id: "wp-5g",
+    name: "WP-5G",
+    brand: "M-VAVE",
+    offerPrice: "R$ 226,86",
+    referencePrice: "R$ 708,93"
+  }
+};
 
 const campaigns = [
   ["cube-baby", "#2c83ff", "PEDALEIRA COM IR"],
@@ -17,6 +29,14 @@ const campaigns = [
   ["mk-300", "#45b9ff", "PROCESSADOR COMPLETO"],
   ["cube-baby-ac", "#f0bd55", "PEDALEIRA PARA VIOLÃO"],
   ["elemental", "#bb73ff", "DELAY ESTÉREO"],
+  ["chocolate", "#36a8ff", "CONTROLE MIDI SEM FIO", BUDGET_BACKGROUND],
+  ["chocolate-plus", "#6b8cff", "CONTROLADOR DE PÉ", BUDGET_BACKGROUND],
+  ["cube-turner-plus", "#cbef38", "VIRADOR DE PÁGINAS", BUDGET_BACKGROUND],
+  ["cube-turner-pro", "#f3c94f", "CONTROLE MÃOS LIVRES", BUDGET_BACKGROUND],
+  ["wp-5g", "#ff584f", "TRANSMISSOR DE INSTRUMENTO", BUDGET_BACKGROUND],
+  ["mini-x", "#41d6c3", "AMPLIFICADOR DE FONES", BUDGET_BACKGROUND],
+  ["smc-pad", "#ff6db2", "CONTROLADOR DE PADS", BUDGET_BACKGROUND],
+  ["smk25-mini", "#9b78ff", "TECLADO MIDI COMPACTO", BUDGET_BACKGROUND],
 ] as const;
 
 function escapeXml(value: string) {
@@ -31,9 +51,12 @@ function amount(value?: string) {
   return Number((value || "0").replace(/[^0-9,]/g, "").replace(",", "."));
 }
 
-function storySvg(id: string, accent: string, category: string) {
-  const product = EQUIPMENT_ITEMS.find((item) => item.id === id);
-  if (!product) throw new Error("Produto não encontrado: " + id);
+function storySvg(id: string, accent: string, category: string, background = BACKGROUND) {
+  const catalogProduct = EQUIPMENT_ITEMS.find((item) => item.id === id);
+  if (!catalogProduct && !PRODUCT_OVERRIDES[id]) throw new Error("Produto não encontrado: " + id);
+  const product = Object.assign({}, catalogProduct || {}, PRODUCT_OVERRIDES[id] || {}) as {
+    id: string; name: string; brand: string; offerPrice?: string; referencePrice?: string;
+  };
   if (!product.referencePrice || !product.offerPrice) throw new Error("Preços incompletos: " + id);
   const discount = Math.round((1 - amount(product.offerPrice) / amount(product.referencePrice)) * 100);
   const name = escapeXml(product.name.toUpperCase());
@@ -48,7 +71,7 @@ function storySvg(id: string, accent: string, category: string) {
     <radialGradient id="glow"><stop offset="0" stop-color="${accent}" stop-opacity=".48"/><stop offset="1" stop-color="${accent}" stop-opacity="0"/></radialGradient>
     <filter id="shadow" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="0" dy="34" stdDeviation="28" flood-color="#000" flood-opacity=".72"/></filter>
   </defs>
-  <image x="0" y="0" width="1080" height="1920" xlink:href="${BACKGROUND}" preserveAspectRatio="xMidYMid slice"/>
+  <image x="0" y="0" width="1080" height="1920" xlink:href="${background}" preserveAspectRatio="xMidYMid slice"/>
   <rect width="1080" height="1920" fill="url(#shade)"/>
   <ellipse cx="540" cy="940" rx="540" ry="430" fill="url(#glow)"/>
   <rect x="70" y="78" width="940" height="2" fill="${accent}" opacity=".65"/>
@@ -79,12 +102,12 @@ function storySvg(id: string, accent: string, category: string) {
 
 await Deno.mkdir(OUT, { recursive: true });
 for (let index = 0; index < campaigns.length; index += 1) {
-  const [id, accent, category] = campaigns[index];
+  const [id, accent, category, background] = campaigns[index];
   if (Deno.args.length && !Deno.args.includes(id)) continue;
   const prefix = String(index + 1).padStart(2, "0");
   const svgUrl = new URL(prefix + "-" + id + ".svg", OUT);
   const pngUrl = new URL(prefix + "-" + id + ".png", OUT);
-  await Deno.writeTextFile(svgUrl, storySvg(id, accent, category));
+  await Deno.writeTextFile(svgUrl, storySvg(id, accent, category, background));
   try { await Deno.remove(pngUrl); } catch { /* primeira geração */ }
   const child = new Deno.Command(CHROME, {
     stdout: "null",
