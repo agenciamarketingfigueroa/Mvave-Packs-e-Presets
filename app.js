@@ -1,6 +1,7 @@
 import { CATALOG_ITEMS, FIRMWARE_GUIDES, FIRMWARE_ITEMS, PACK_BRANDS, SOFTWARE_ITEMS } from "./catalog-data.js";
 import { CONTENT_ARTICLES, CONTENT_TOPICS } from "./content-data.js";
 import { SUPPORT_ENTRIES } from "./support-data.js";
+import { EQUIPMENT_ITEMS, SOFTWARE_MATRIX, STORE_CATEGORIES, STORE_ENABLED, TONE_RECIPES, TONE_RECIPES_ENABLED, amazonSearchUrl, equipmentById } from "./equipment-data.js";
 
 const ROOT = "/";
 const CHECKOUTS = {
@@ -148,6 +149,11 @@ function productSchema(product, canonical) {
 function seoConfig(route, parts, productRoute) {
   const configs = {
     home: ["Packs de IR para Guitarra, Baixo e Violão | M-Vave BR", "Packs de Impulse Responses testados para guitarra, baixo e violão. Compatíveis com M-Vave, Quad Cortex, Fractal, Kemper, TONEX, Line 6 e outros.", "/"],
+    equipamentos: ["Equipamentos para Músicos: Guias e Comparador | M-Vave BR", "Conheça pedaleiras, controladores MIDI, viradores de página e IR loaders. Compare recursos e encontre o equipamento certo para seu uso.", "/equipamentos/"],
+    loja: ["Loja de Equipamentos Musicais e Ofertas | M-Vave BR", "Encontre pedaleiras, controladores MIDI, page turners, IR loaders e acessórios com buscas da Amazon ordenadas por menor preço.", "/loja/"],
+    comparar: ["Comparador de Pedaleiras e Controladores | M-Vave BR", "Compare lado a lado pedaleiras, controladores MIDI, IR loaders e acessórios para escolher com mais segurança.", "/comparar/"],
+    ferramentas: ["Ferramentas para Pedais M-VAVE | M-Vave BR", "Descubra o software correto, diagnostique problemas comuns e encontre guias independentes para seu equipamento M-VAVE.", "/ferramentas/"],
+    "encontre-seu-setup": ["Qual Pedaleira ou Controlador Escolher? | M-Vave BR", "Responda quatro perguntas e receba sugestões de pedaleiras, IR loaders, controladores MIDI ou equipamentos para estudo.", "/encontre-seu-setup/"],
     compatibilidade: ["Meu Equipamento Aceita IR? Teste a Compatibilidade", "Pesquise pedaleiras, processadores e plugins compatíveis com Impulse Responses e descubra qual pack de IR é indicado para seu instrumento.", "/compatibilidade/"],
     atualizacoes: ["Softwares e Firmwares M-Vave: Downloads Oficiais", "Encontre CubeSuite, M-EFCS, CubeSugar e firmwares M-Vave com links oficiais e orientações para atualizar seu equipamento com segurança.", "/atualizacoes/"],
     conteudos: ["Central do Timbre: Guias de IR e Configuração", "Guias práticos sobre Impulse Responses, timbre, microfonação, equipamentos, tecnologia e configuração para guitarra, baixo e violão.", "/conteudos/"],
@@ -375,8 +381,7 @@ function header(active, solid) {
   const nav = [
     ["home", "/", "Início"],
     ["packs", "/#packs", "Packs"],
-    ["compatibilidade", "/compatibilidade/", "Compatibilidade"],
-    ["atualizacoes", "/atualizacoes/", "Softwares e atualizações"],
+    ["equipamentos", "/equipamentos/", "Equipamentos"],
     ["conteudos", "/conteudos/", "Central do Timbre"],
     ["suporte", "/suporte/", "Suporte"]
   ];
@@ -390,7 +395,7 @@ function header(active, solid) {
           nav.map(function(item) {
             return "<a href='" + item[1] + "'" + (active === item[0] || (item[0] === "packs" && productActive) ? " aria-current='page'" : "") + ">" + item[2] + "</a>";
           }).join("") +
-          button("Escolher meu pack", "/#packs", "btn-amber", false) +
+          button("Encontrar meu setup", "/encontre-seu-setup/", "btn-amber", false) +
         "</nav>" +
       "</div>" +
     "</header>";
@@ -402,7 +407,8 @@ function footer() {
       "<div class='footer-grid'>" +
         "<div class='footer-brand'><img src='/assets/img/Logo%20Home/Logo%20Site%20Mvave%20Amarela%20e%20Branca.png' width='300' height='70' loading='lazy' decoding='async' alt='M-Vave BR'><p>IRs, conteúdo e ferramentas para você tirar mais som do equipamento que já tem.</p></div>" +
         "<div class='footer-col'><h4>Packs</h4><a href='/completo/'>Pack completo</a><a href='/guitar/'>Guitarra</a><a href='/bass/'>Baixo</a><a href='/violao/'>Violão</a></div>" +
-        "<div class='footer-col'><h4>Conteúdo</h4><a href='/conteudos/'>Central do Timbre</a><a href='/catalogo/completo/'>Catálogo de IRs</a><a href='/compatibilidade/'>Compatibilidade</a><a href='/atualizacoes/'>Softwares e atualizações</a><a href='/presets/'>Presets</a><a href='/sobre/'>Sobre nós</a></div>" +
+        "<div class='footer-col'><h4>Equipamentos</h4><a href='/equipamentos/'>Central de equipamentos</a><a href='/encontre-seu-setup/'>Encontrar meu setup</a><a href='/comparar/'>Comparador</a><a href='/ferramentas/'>Software e diagnóstico</a><a href='/compatibilidade/'>Compatibilidade com IR</a></div>" +
+        "<div class='footer-col'><h4>Conteúdo</h4><a href='/conteudos/'>Central do Timbre</a><a href='/catalogo/completo/'>Catálogo de IRs</a><a href='/atualizacoes/'>Softwares e atualizações</a><a href='/presets/'>Presets</a><a href='/sobre/'>Sobre nós</a></div>" +
         "<div class='footer-col'><h4>Atendimento</h4><a href='/suporte/'>Central de Suporte</a><a href='/contato/'>Contato</a><a href='mailto:contato@mvave.com.br'>E-mail</a></div>" +
       "</div>" +
       "<div class='independence-notice'><span class='independence-mark'>i</span><p><strong>Somos um projeto independente.</strong> Não temos vínculo, representação ou afiliação com a fabricante M-Vave. M-Vave e as demais marcas citadas pertencem aos seus respectivos titulares e aparecem apenas para indicar possíveis equipamentos compatíveis.</p></div>" +
@@ -556,6 +562,217 @@ function bindCompatibilityChecker() {
   modelSelect.addEventListener("change", renderResults);
   updateModels();
   renderResults();
+}
+
+function categoryLabel(id) {
+  const category = STORE_CATEGORIES.find(function(entry) { return entry[0] === id; });
+  return category ? category[1] : id;
+}
+
+function equipmentMonogram(product) {
+  const letters = product.name.replace(/[^A-Za-z0-9]/g, "").slice(0, 3).toUpperCase();
+  return "<div class='equipment-monogram' aria-hidden='true'><span>" + escapeHtml(letters) + "</span><i></i><i></i><i></i></div>";
+}
+
+function equipmentImage(product, detail) {
+  return "<div class='equipment-image-wrap " + (detail ? "equipment-image-detail" : "") + "'>" + equipmentMonogram(product) + "<img data-product-image src='" + escapeHtml(product.image) + "' alt='" + escapeHtml(product.brand + " " + product.name) + "' width='720' height='540' loading='" + (detail ? "eager" : "lazy") + "' decoding='async'></div>";
+}
+
+function equipmentCard(product, storeMode) {
+  const pack = product.instruments && product.instruments.length === 1 ? products[product.instruments[0]] : null;
+  return "<article class='equipment-card reveal' data-equipment-card data-search='" + escapeHtml([product.brand, product.name, product.category, product.summary, product.instruments.join(" ")].join(" ")) + "' data-category='" + product.category + "' data-brand='" + escapeHtml(product.brand) + "'>" +
+    "<div class='equipment-card-visual has-product-image'>" + equipmentImage(product, false) + "<span class='equipment-brand'>" + escapeHtml(product.brand) + "</span>" + (product.ir ? "<span class='equipment-ir'>Aceita IR</span>" : "") + "</div>" +
+    "<div class='equipment-card-body'><span class='kicker text-blue'>" + escapeHtml(categoryLabel(product.category)) + "</span><h2>" + escapeHtml(product.name) + "</h2><p>" + escapeHtml(product.summary) + "</p><div class='equipment-mini-specs'><span>" + escapeHtml(product.software) + "</span>" + (product.instruments.length ? "<span>" + product.instruments.map(function(value) { return value === "violao" ? "Violão" : value[0].toUpperCase() + value.slice(1); }).join(" · ") + "</span>" : "<span>MIDI / controle</span>") + "</div>" +
+    "<div class='equipment-card-actions'>" + button("Ver guia", "/equipamentos/" + product.id + "/", "btn-dark", false) + (storeMode ? button("Ver menores preços", amazonSearchUrl(product.amazonQuery), "btn-market", true) : "<a class='text-link' href='/comparar/?a=" + product.id + "'>Comparar</a>") + "</div></div></article>";
+}
+
+function equipmentHubPage() {
+  const featured = EQUIPMENT_ITEMS.filter(function(product) { return product.featured; }).slice(0, 8);
+  return header("equipamentos", true) +
+    "<main id='conteudo' class='equipment-page'><section class='equipment-hero'><div class='container equipment-hero-grid'><div><span class='eyebrow'>Central de equipamentos</span><h1>Antes e depois da compra, <span class='display-accent'>um caminho claro.</span></h1><p>Escolha o equipamento, compare alternativas e encontre software, firmware, manual prático, IRs e soluções para problemas comuns.</p><div class='button-row'>" + button("Encontrar meu setup", "/encontre-seu-setup/", "btn-amber", false) + button("Comparar modelos", "/comparar/", "btn-outline", false) + "</div></div><div class='equipment-orbit' aria-hidden='true'><span>IR</span><i>MIDI</i><b>FX</b></div></div></section>" +
+    "<section class='section equipment-paths'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Escolha o ponto de partida</span><h2>O site se adapta ao que você precisa agora.</h2></div><p>Sem misturar suporte, compra e conteúdo técnico na mesma resposta.</p></div><div class='path-grid'>" +
+      "<a class='path-card path-owner' href='/ferramentas/'><span>01</span><h3>Já tenho um equipamento</h3><p>Encontre editor, firmware, guia de IR, suporte e configurações do seu modelo.</p><strong>Abrir ferramentas →</strong></a>" +
+      "<a class='path-card path-chooser' href='/encontre-seu-setup/'><span>02</span><h3>Ainda estou escolhendo</h3><p>Responda perguntas simples e receba sugestões compatíveis com seu uso.</p><strong>Começar recomendador →</strong></a>" +
+      "<a class='path-card path-compare' href='/comparar/'><span>03</span><h3>Quero comparar</h3><p>Coloque até três modelos lado a lado e veja diferenças importantes.</p><strong>Abrir comparador →</strong></a>" +
+      "<a class='path-card path-fix' href='/ferramentas/'><span>04</span><h3>Preciso configurar ou resolver</h3><p>Descubra o software correto e siga um diagnóstico seguro.</p><strong>Abrir ferramentas →</strong></a>" +
+    "</div></div></section>" +
+    "<section class='section section-dark'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Mais procurados</span><h2>Guias que começam pelo equipamento.</h2></div><a class='text-link text-blue' href='/comparar/'>Abrir comparador</a></div><div class='equipment-grid'>" + featured.map(function(product) { return equipmentCard(product, false); }).join("") + "</div></div></section>" +
+    "<section class='section'><div class='container feature-tool-grid'><a href='/compatibilidade/'><span>IR</span><h3>Meu equipamento aceita IR?</h3><p>Pesquise mais de 50 modelos e plugins.</p></a><a href='/atualizacoes/como-atualizar/'><span>FW</span><h3>Como atualizar meu pedal?</h3><p>Tutorial por produto e revisão.</p></a><a href='/ferramentas/#software'><span>APP</span><h3>Qual programa devo usar?</h3><p>Matriz CubeSuite, M-EFCS, MidiSuite e mais.</p></a></div></section></main>" + footer();
+}
+
+function storePage() {
+  const categories = STORE_CATEGORIES.filter(function(entry) { return entry[0] !== "todos"; });
+  return header("loja", true) +
+    "<main id='conteudo' class='store-page'><section class='store-hero'><div class='container'><span class='eyebrow'>Loja-curadoria</span><h1>Equipamentos para tocar, controlar e criar.</h1><p>Links de pesquisa da Amazon organizados para mostrar primeiro os menores preços disponíveis. Confira vendedor, frete, impostos, prazo e revisão do produto antes de comprar.</p><div class='store-disclosure'><span>i</span><p><strong>Transparência:</strong> hoje os links são pesquisas comuns. Quando o programa de afiliados for ativado, esta página será identificada e os links poderão gerar comissão sem aumentar o preço para você.</p></div></div></section>" +
+    "<section class='section store-catalog' id='catalogo' data-store><div class='container'><div class='store-toolbar'><label class='store-search'><span>Buscar equipamento</span><input id='store-search' type='search' placeholder='Ex.: Chocolate, baixo, IR loader…' autocomplete='off'></label><label><span>Categoria</span><select id='store-category'><option value='todos'>Todas as categorias</option>" + categories.map(function(entry) { return "<option value='" + entry[0] + "'>" + entry[1] + "</option>"; }).join("") + "</select></label><label><span>Marca</span><select id='store-brand'><option value='todos'>Todas as marcas</option>" + Array.from(new Set(EQUIPMENT_ITEMS.map(function(product) { return product.brand; }))).sort().map(function(brand) { return "<option value='" + escapeHtml(brand) + "'>" + escapeHtml(brand) + "</option>"; }).join("") + "</select></label></div><div class='store-results-head'><h2 id='store-count'>" + EQUIPMENT_ITEMS.length + " equipamentos</h2><span>Amazon: ordenação por preço crescente</span></div><div class='equipment-grid store-grid'>" + EQUIPMENT_ITEMS.map(function(product) { return equipmentCard(product, true); }).join("") + "</div><div id='store-empty' class='store-empty' hidden><strong>Nenhum equipamento encontrado.</strong><p>Tente pesquisar pela marca, categoria ou tipo de uso.</p></div></div></section>" +
+    "<section class='section section-dark'><div class='container store-help'><div><span class='eyebrow'>Ainda em dúvida?</span><h2>Não compre só porque está barato.</h2><p>Use o recomendador para filtrar por instrumento, finalidade e prioridade. Depois compare os finalistas.</p></div><div class='button-row'>" + button("Encontrar meu setup", "/encontre-seu-setup/", "btn-amber", false) + button("Comparar modelos", "/comparar/", "btn-outline", false) + "</div></div></section></main>" + footer();
+}
+
+function packForEquipment(product) {
+  if (!product.ir) return "";
+  if (product.instruments.length === 1 && products[product.instruments[0]]) {
+    const pack = products[product.instruments[0]];
+    return "<aside class='equipment-pack-box'><span class='kicker'>IRs compatíveis</span><h3>Pack de " + pack.label + "</h3><p>Comece com a biblioteca indicada para este instrumento.</p>" + button("Conhecer o pack", productUrl(pack.key), "btn-amber", false) + "</aside>";
+  }
+  return "<aside class='equipment-pack-box'><span class='kicker'>IRs compatíveis</span><h3>Pack Completo</h3><p>Guitarra, baixo e violão em uma biblioteca única.</p>" + button("Conhecer o pack", productUrl("completo"), "btn-amber", false) + "</aside>";
+}
+
+function equipmentDetailPage(product) {
+  const related = product.related.map(equipmentById).filter(Boolean).slice(0, 3);
+  const ownerSteps = product.software === "Sem editor dedicado"
+    ? ["Confira a alimentação e as conexões indicadas no manual.", "Ligue o pedal sozinho e comece com os controles no centro.", "Adicione os outros pedais um por vez e ajuste o volume para não clipar.", "Anote uma regulagem que funcione antes de fazer novas mudanças."]
+    : product.ir
+    ? ["Baixe e instale o " + product.software + " somente pela fonte oficial.", "Conecte com um cabo USB de dados e faça backup dos presets quando possível.", "Abra a seção IR, CAB ou User Cab e teste primeiro um WAV conhecido.", "Salve no aparelho, compare no mesmo volume e só depois organize os demais slots."]
+    : ["Confirme as conexões e a alimentação indicadas no manual.", "Instale o " + product.software + " pela fonte oficial.", "Configure uma função de cada vez e salve um perfil de teste.", "Valide no aplicativo ou DAW antes de montar todo o setup."];
+  const firmwareAction = product.brand === "M-VAVE"
+    ? button("Guia de firmware", "/atualizacoes/como-atualizar/?produto=" + product.id, "", false)
+    : button("Manual e suporte oficial", product.officialUrl, "", true);
+  return header("equipamentos", true) +
+    "<main id='conteudo' class='equipment-detail'><section class='equipment-detail-hero'><div class='container'><nav class='breadcrumbs' aria-label='Navegação estrutural'><a href='/'>Início</a><span>/</span><a href='/equipamentos/'>Equipamentos</a><span>/</span><span>" + escapeHtml(product.name) + "</span></nav><div class='equipment-detail-grid'><div><span class='eyebrow'>" + escapeHtml(product.brand) + " · " + escapeHtml(categoryLabel(product.category)) + "</span><h1>" + escapeHtml(product.name) + "</h1><p>" + escapeHtml(product.summary) + "</p><div class='button-row'>" + button("Página oficial", product.officialUrl, "btn-outline", true) + "</div></div>" + equipmentImage(product, true) + "</div></div></section>" +
+    "<section class='equipment-detail-tabs' data-equipment-tabs><div class='container'><div class='detail-tablist' role='tablist'><button class='active' data-detail-tab='owner' role='tab' aria-selected='true'>Já tenho</button><button data-detail-tab='chooser' role='tab' aria-selected='false'>Ainda estou escolhendo</button></div>" +
+      "<div class='detail-panel active' data-detail-panel='owner'><div class='detail-content-grid'><div><span class='eyebrow'>Comece por aqui</span><h2>Configure sem pular etapas.</h2><ol class='owner-steps'>" + ownerSteps.map(function(step) { return "<li>" + escapeHtml(step) + "</li>"; }).join("") + "</ol><div class='detail-actions'>" + button("Abrir matriz de software", "/ferramentas/#software", "btn-dark", false) + firmwareAction + button("Buscar um problema", "/suporte/?q=" + encodeURIComponent(product.name), "btn-light", false) + "</div></div>" + packForEquipment(product) + "</div></div>" +
+      "<div class='detail-panel' data-detail-panel='chooser' hidden><div class='choice-grid'><div><span class='kicker text-blue'>Vale a pena para</span><h2>" + escapeHtml(product.bestFor) + "</h2><div class='choice-columns'><div><h3>Pontos fortes</h3><ul>" + product.pros.map(function(value) { return "<li>" + escapeHtml(value) + "</li>"; }).join("") + "</ul></div><div><h3>Preste atenção</h3><ul>" + product.cons.map(function(value) { return "<li>" + escapeHtml(value) + "</li>"; }).join("") + "</ul></div></div><div class='choice-warning'><strong>Talvez não seja a melhor escolha se:</strong><p>" + escapeHtml(product.avoidIf) + "</p></div></div><dl class='detail-spec-list'>" + product.specs.map(function(spec) { return "<div><dt>" + escapeHtml(spec[0]) + "</dt><dd>" + escapeHtml(spec[1]) + "</dd></div>"; }).join("") + "</dl></div><div class='detail-actions'>" + button("Comparar este modelo", "/comparar/?a=" + product.id, "btn-dark", false) + "</div></div>" +
+    "</div></section>" +
+    (related.length ? "<section class='section section-dark'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Alternativas próximas</span><h2>Compare antes de decidir.</h2></div></div><div class='equipment-grid equipment-grid-three'>" + related.map(function(item) { return equipmentCard(item, false); }).join("") + "</div></div></section>" : "") +
+    "</main>" + footer();
+}
+
+function setupFinderPage() {
+  return header("equipamentos", true) +
+    "<main id='conteudo' class='finder-page' data-setup-finder><section class='finder-hero'><div class='container'><span class='eyebrow'>Recomendador independente</span><h1>Qual equipamento combina com o seu momento?</h1><p>Quatro respostas simples reduzem o catálogo a sugestões coerentes. O resultado não substitui testar o produto e não considera apenas preço.</p></div></section><section class='section'><div class='container finder-shell'><form id='finder-form' class='finder-form'><label><span>1. O que você quer controlar ou tocar?</span><select name='instrument'><option value='guitarra'>Guitarra</option><option value='baixo'>Baixo</option><option value='violao'>Violão</option><option value='midi'>Software, MIDI ou partituras</option></select></label><label><span>2. Qual é a prioridade?</span><select name='goal'><option value='timbre'>Timbres, amps e efeitos</option><option value='ir'>Usar meus próprios IRs</option><option value='pratica'>Estudar com fones</option><option value='midi'>Controlar apps/DAW</option><option value='page-turner'>Virar páginas com os pés</option></select></label><label><span>3. Como será usado?</span><select name='context'><option value='portatil'>Quero o menor setup possível</option><option value='palco'>Palco e ensaio</option><option value='estudio'>Home studio</option><option value='versatil'>Um pouco de tudo</option></select></label><label><span>4. O que não pode faltar?</span><select name='must'><option value='app'>Aplicativo/editor</option><option value='footswitch'>Mais controle com os pés</option><option value='expressao'>Pedal de expressão</option><option value='usb'>Áudio/controle por USB</option><option value='simples'>Operação simples</option></select></label><button class='btn btn-amber' type='submit'>Ver minhas sugestões" + iconArrow() + "</button></form><div id='finder-results' class='finder-results'><div class='finder-placeholder'><span>↳</span><p>Suas sugestões aparecerão aqui com o motivo de cada escolha.</p></div></div></div></section></main>" + footer();
+}
+
+function comparePage() {
+  const options = EQUIPMENT_ITEMS.map(function(product) { return "<option value='" + product.id + "'>" + escapeHtml(product.brand + " " + product.name) + "</option>"; }).join("");
+  return header("equipamentos", true) +
+    "<main id='conteudo' class='compare-page' data-compare><section class='compare-hero'><div class='container'><span class='eyebrow'>Comparador</span><h1>Diferenças importantes, lado a lado.</h1><p>Escolha até três modelos. Mais recursos não significam automaticamente uma compra melhor.</p></div></section><section class='section'><div class='container'><div class='compare-pickers'><label><span>Modelo 1</span><select data-compare-select><option value=''>Escolha…</option>" + options + "</select></label><label><span>Modelo 2</span><select data-compare-select><option value=''>Escolha…</option>" + options + "</select></label><label><span>Modelo 3</span><select data-compare-select><option value=''>Opcional…</option>" + options + "</select></label></div><div id='compare-results' class='compare-results'></div></div></section></main>" + footer();
+}
+
+function toolsPage() {
+  return header("equipamentos", true) +
+    "<main id='conteudo' class='tools-page'><section class='tools-hero'><div class='container'><span class='eyebrow'>Ferramentas práticas</span><h1>Software certo. Diagnóstico seguro.</h1><p>Descubra qual aplicativo usar e siga verificações externas antes de concluir que o equipamento está com defeito.</p></div></section>" +
+    "<section class='section' id='software'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Matriz de software M-VAVE</span><h2>Não instale o programa só porque o nome parece certo.</h2></div><p>As listas refletem o portal oficial consultado em agosto de 2026 e podem mudar.</p></div><div class='software-matrix'>" + SOFTWARE_MATRIX.map(function(app) { return "<article><div><span class='software-icon'>APP</span><span class='kicker text-blue'>" + escapeHtml(app.platforms) + "</span><h3>" + escapeHtml(app.name) + "</h3><p>" + escapeHtml(app.use) + "</p></div><dl><dt>Produtos</dt><dd>" + escapeHtml(app.products) + "</dd></dl><a class='text-link' href='" + app.url + "' target='_blank' rel='noopener'>Baixar no portal oficial ↗</a></article>"; }).join("") + "</div></div></section>" +
+    "<section class='section section-dark' id='diagnostico' data-diagnostic><div class='container diagnostic-grid'><div><span class='eyebrow'>Diagnóstico guiado</span><h2>O que está acontecendo?</h2><p class='text-muted'>Selecione o sintoma para ver verificações seguras. Não abra o equipamento nem instale firmware aleatório.</p><select id='diagnostic-select'><option value='usb'>Computador não reconhece por USB</option><option value='firmware'>Atualização ou firmware</option><option value='audio'>Sem áudio ou som ruim</option><option value='bluetooth'>Bluetooth/app não conecta</option><option value='power'>Não liga ou não carrega</option><option value='ir'>IR não importa ou não muda o som</option></select></div><div id='diagnostic-result' class='diagnostic-result'></div></div></section>" +
+    "<section class='section'><div class='container support-boundary tools-boundary'><strong>Limite do nosso suporte</strong><p>A M-Vave BR é uma curadoria independente. Não fabrica, vende ou presta garantia dos equipamentos. Defeito eletrônico, reparo, troca e devolução devem ser tratados com o vendedor e o suporte oficial.</p></div></section></main>" + footer();
+}
+
+function toneRecipesPage() {
+  return header("conteudos", true) + "<main id='conteudo'><section class='section' style='padding-top:170px'><div class='container'><span class='eyebrow'>Receitas de timbre</span><h1>Ouça o caminho até o resultado.</h1><div class='equipment-grid'>" + TONE_RECIPES.map(function(recipe) { return "<article class='equipment-card'><div class='equipment-card-body'><span class='kicker text-blue'>" + recipe.instrument + "</span><h2>" + recipe.name + "</h2><p>" + recipe.irFamily + "</p><ol>" + recipe.order.map(function(step) { return "<li>" + step + "</li>"; }).join("") + "</ol><p>Áudios em preparação.</p></div></article>"; }).join("") + "</div></div></section></main>" + footer();
+}
+
+function bindStore() {
+  const root = document.querySelector("[data-store]");
+  if (!root) return;
+  const search = root.querySelector("#store-search");
+  const category = root.querySelector("#store-category");
+  const brand = root.querySelector("#store-brand");
+  const cards = Array.from(root.querySelectorAll("[data-equipment-card]"));
+  const count = root.querySelector("#store-count");
+  const empty = root.querySelector("#store-empty");
+  function filter() {
+    const query = normalizeSearch(search.value);
+    let visible = 0;
+    cards.forEach(function(card) {
+      const match = (!query || normalizeSearch(card.dataset.search).includes(query)) && (category.value === "todos" || card.dataset.category === category.value) && (brand.value === "todos" || card.dataset.brand === brand.value);
+      card.hidden = !match;
+      if (match) visible += 1;
+    });
+    count.textContent = visible + (visible === 1 ? " equipamento" : " equipamentos");
+    empty.hidden = visible !== 0;
+  }
+  search.addEventListener("input", filter);
+  category.addEventListener("change", filter);
+  brand.addEventListener("change", filter);
+}
+
+function bindEquipmentTabs() {
+  const root = document.querySelector("[data-equipment-tabs]");
+  if (!root) return;
+  root.querySelectorAll("[data-detail-tab]").forEach(function(buttonNode) {
+    buttonNode.addEventListener("click", function() {
+      const selected = buttonNode.dataset.detailTab;
+      root.querySelectorAll("[data-detail-tab]").forEach(function(node) { const active = node === buttonNode; node.classList.toggle("active", active); node.setAttribute("aria-selected", String(active)); });
+      root.querySelectorAll("[data-detail-panel]").forEach(function(panel) { const active = panel.dataset.detailPanel === selected; panel.classList.toggle("active", active); panel.hidden = !active; });
+    });
+  });
+}
+
+function finderScore(product, values) {
+  let score = 0;
+  if (values.instrument === "midi") score += ["midi", "page-turner", "acessorios"].includes(product.category) ? 40 : -30;
+  else if (product.instruments.includes(values.instrument)) score += 35;
+  else if (product.instruments.length) score -= 12;
+  if (values.goal === "ir") score += product.ir ? 45 : -30;
+  if (values.goal === "timbre") score += product.category === "multiefeitos" ? 35 : 0;
+  if (values.goal === "pratica") score += product.category === "pratica" || product.id.indexOf("cube-baby") === 0 ? 38 : 0;
+  if (values.goal === "midi") score += product.category === "midi" || product.category === "acessorios" ? 42 : -20;
+  if (values.goal === "page-turner") score += product.category === "page-turner" || product.id.indexOf("chocolate") === 0 ? 45 : -30;
+  if (values.context === "portatil") score += /compact|portátil|bolso|mini/i.test(product.summary + product.bestFor) ? 18 : 0;
+  if (values.context === "palco") score += /palco|footswitch|XLR|controle/i.test(product.summary + product.bestFor + product.pros.join(" ")) ? 15 : 0;
+  if (values.context === "estudio") score += /estúdio|studio|DAW|gravação|USB/i.test(product.summary + product.bestFor + product.specs.join(" ")) ? 15 : 0;
+  if (values.must === "app") score += /Suite|EFCS|Editor|app/i.test(product.software) ? 12 : 0;
+  if (values.must === "footswitch") score += /footswitch|controle de pé|chão/i.test(product.pros.join(" ") + product.summary) ? 13 : 0;
+  if (values.must === "expressao") score += /expressão/i.test(product.pros.join(" ") + product.specs.join(" ")) ? 30 : -5;
+  if (values.must === "usb") score += /USB/i.test(product.summary + product.specs.join(" ")) ? 12 : 0;
+  if (values.must === "simples") score += /simples|direta|entrada/i.test(product.pros.join(" ") + product.bestFor) ? 12 : 0;
+  return score;
+}
+
+function bindSetupFinder() {
+  const root = document.querySelector("[data-setup-finder]");
+  if (!root) return;
+  const form = root.querySelector("#finder-form");
+  const results = root.querySelector("#finder-results");
+  form.addEventListener("submit", function(event) {
+    event.preventDefault();
+    const data = new FormData(form);
+    const values = Object.fromEntries(data.entries());
+    const suggestions = EQUIPMENT_ITEMS.map(function(product) { return { product: product, score: finderScore(product, values) }; }).sort(function(a, b) { return b.score - a.score; }).slice(0, 3);
+    results.innerHTML = "<div class='finder-result-head'><span class='kicker text-blue'>Seu ponto de partida</span><h2>Três opções para comparar</h2><p>Comece pela primeira, mas leia o limite de cada uma antes de escolher.</p></div>" + suggestions.map(function(result, index) { const product = result.product; return "<article class='finder-suggestion'><span class='finder-rank'>0" + (index + 1) + "</span><div><small>" + escapeHtml(product.brand) + "</small><h3>" + escapeHtml(product.name) + "</h3><p>" + escapeHtml(product.bestFor) + "</p><strong>Atenção: " + escapeHtml(product.avoidIf) + "</strong><div class='button-row'>" + button("Ver guia", "/equipamentos/" + product.id + "/", "btn-dark", false) + "</div></div></article>"; }).join("");
+    results.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+}
+
+function bindCompare() {
+  const root = document.querySelector("[data-compare]");
+  if (!root) return;
+  const selects = Array.from(root.querySelectorAll("[data-compare-select]"));
+  const results = root.querySelector("#compare-results");
+  const initial = new URLSearchParams(window.location.search).get("a");
+  if (initial && equipmentById(initial)) selects[0].value = initial;
+  function draw() {
+    const chosen = selects.map(function(select) { return equipmentById(select.value); }).filter(Boolean).filter(function(product, index, all) { return all.findIndex(function(entry) { return entry.id === product.id; }) === index; });
+    if (!chosen.length) { results.innerHTML = "<div class='compare-empty'><span>↳</span><p>Escolha pelo menos um modelo para começar.</p></div>"; return; }
+    const rows = [
+      ["Categoria", function(product) { return categoryLabel(product.category); }],
+      ["Instrumento", function(product) { return product.instruments.length ? product.instruments.join(", ") : "MIDI / controle"; }],
+      ["Carrega IR", function(product) { return product.ir ? "Sim" : "Não informado / não"; }],
+      ["Software", function(product) { return product.software; }],
+      ["Melhor para", function(product) { return product.bestFor; }],
+      ["Pode não servir se", function(product) { return product.avoidIf; }]
+    ];
+    results.innerHTML = "<div class='compare-table-wrap'><table class='compare-table'><thead><tr><th>Critério</th>" + chosen.map(function(product) { return "<th><small>" + escapeHtml(product.brand) + "</small><strong>" + escapeHtml(product.name) + "</strong></th>"; }).join("") + "</tr></thead><tbody>" + rows.map(function(row) { return "<tr><th>" + row[0] + "</th>" + chosen.map(function(product) { return "<td>" + escapeHtml(row[1](product)) + "</td>"; }).join("") + "</tr>"; }).join("") + "<tr><th>Próximo passo</th>" + chosen.map(function(product) { return "<td><a class='text-link' href='/equipamentos/" + product.id + "/'>Ver guia</a></td>"; }).join("") + "</tr></tbody></table></div>";
+  }
+  selects.forEach(function(select) { select.addEventListener("change", draw); });
+  draw();
+}
+
+function bindDiagnostic() {
+  const root = document.querySelector("[data-diagnostic]");
+  if (!root) return;
+  const select = root.querySelector("#diagnostic-select");
+  const result = root.querySelector("#diagnostic-result");
+  const guides = {
+    usb: ["USB não reconhecido", ["Troque por um cabo que transmita dados, não apenas carga.", "Conecte direto ao computador, sem hub.", "Feche outros editores e abra apenas o programa indicado para o modelo."], "/suporte/?q=usb+nao+reconhece"],
+    firmware: ["Atualização e firmware", ["Confirme nome, revisão e versão atual antes de baixar.", "Faça backup e mantenha energia estável.", "Se a atualização falhou, pare de testar arquivos diferentes."], "/atualizacoes/como-atualizar/"],
+    audio: ["Sem áudio ou som ruim", ["Teste instrumento, cabo e saída separadamente.", "Desligue os blocos e religue um por vez.", "Revise ganho de entrada e volume interno antes de aumentar a saída."], "/suporte/?q=sem+audio+som+ruim"],
+    bluetooth: ["Bluetooth ou app", ["Remova pareamentos antigos e reinicie os dois aparelhos.", "Diferencie Bluetooth de áudio e Bluetooth MIDI.", "Confira permissões do app e tente somente um celular por vez."], "/suporte/?q=bluetooth+nao+conecta"],
+    power: ["Não liga ou não carrega", ["Use somente alimentação dentro da especificação do manual.", "Teste outro cabo e fonte compatíveis.", "Se houver cheiro, líquido ou aquecimento anormal, desconecte e procure assistência."], "/suporte/?q=pedal+nao+liga"],
+    ir: ["IR não importa ou não muda o som", ["Confirme formato, sample rate, comprimento e nome do WAV.", "Teste um único arquivo mono conhecido.", "Ligue o bloco CAB/IR, salve o preset e compare ON/OFF no mesmo volume."], "/suporte/?q=ir+nao+importa" ]
+  };
+  function draw() { const guide = guides[select.value]; result.innerHTML = "<span class='kicker text-blue'>Verificação segura</span><h3>" + guide[0] + "</h3><ol>" + guide[1].map(function(step) { return "<li>" + step + "</li>"; }).join("") + "</ol>" + button("Abrir orientação completa", guide[2], "btn-light", false); }
+  select.addEventListener("change", draw);
+  draw();
 }
 
 function packCards() {
@@ -739,6 +956,7 @@ function homePage() {
     "<main id='conteudo'>" +
       "<section class='hero'><div class='container'><div class='hero-content'><span class='eyebrow'>Curadoria independente de IRs</span><h1>Seu equipamento pode soar <span>muito melhor.</span></h1><p class='hero-copy'>Impulse Responses testados para guitarra, baixo e violão — prontos para M-Vave, Quad Cortex, Fractal, Kemper, TONEX, Line 6 e outros equipamentos que carregam IRs.</p><div class='button-row'>" + button("Escolher meu pack", "#packs", "", false) + button("Entender os IRs", "#como-funciona", "btn-outline", false) + "</div>" + urgencyNotice(true) + "</div>" + proofStrip() + "</div></section>" +
       "<section class='section' id='packs'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Escolha seu caminho</span><h2>O pack certo para o som que você busca.</h2></div><p>Comece pelo seu instrumento ou leve a biblioteca completa com mais de 13 mil possibilidades.</p></div>" + urgencyNotice(false) + packCards() + catalogQuickLinks() + "</div></section>" +
+      "<section class='section home-equipment-section'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Novo: central de equipamentos</span><h2>Já tem um pedal ou ainda está escolhendo?</h2></div><p>Guias por modelo, recomendador, comparador, softwares e firmware em um só lugar.</p></div><div class='home-equipment-grid'><a href='/equipamentos/'><span>01</span><h3>Central por equipamento</h3><p>Comece pelo modelo e encontre tudo que serve para ele.</p></a><a href='/encontre-seu-setup/'><span>02</span><h3>Recomendador</h3><p>Quatro perguntas para chegar a três boas opções.</p></a><a href='/comparar/'><span>03</span><h3>Comparador</h3><p>Coloque até três equipamentos lado a lado.</p></a></div></div></section>" +
       "<section class='section section-dark' id='como-funciona'><div class='container split'><div class='signal-panel reveal' aria-label='Representação visual de um Impulse Response'><div class='wave'>" + [1,2,3,5,8,4,7,10,5,3,7,4,2,8,5,3,2,1,4,2,1].map(function(n){ return "<i style='--n:" + n + "'></i>"; }).join("") + "</div><div class='signal-label'><span>Som de entrada</span><span>Resposta do gabinete</span></div></div><div><span class='eyebrow'>O detalhe que muda tudo</span><h2>O arquivo certo.<br><span class='display-accent'>A configuração certa.</span></h2><p class='text-muted'>O IR reproduz a resposta sonora de um gabinete, amplificador ou instrumento. Mas um bom arquivo sozinho não resolve: ganho, níveis e instalação fazem parte do resultado.</p><ul class='check-list'><li>Mais naturalidade e definição no som em linha</li><li>Menos tempo caçando arquivos sem contexto</li><li>Configuração explicada passo a passo</li></ul>" + button("Ver como começar", "/conteudos/#o-que-e-ir", "btn-light", false) + "</div></div></section>" +
       "<section class='section section-dark' style='padding-top:0'><div class='container'>" + benefits() + "</div></section>" +
       "<section class='section'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Histórias reais</span><h2>Mais som. Menos frustração.</h2></div><p>Alguns relatos de quem decidiu entender o pedal e construir o próprio timbre.</p></div>" + testimonials() + "</div></section>" +
@@ -1256,6 +1474,16 @@ function render() {
   let html;
   if (route === "home") html = homePage();
   else if (products[productRoute]) html = productPage(products[productRoute]);
+  else if (route === "equipamentos" && parts[1]) {
+    const equipment = equipmentById(parts[1]);
+    html = equipment ? equipmentDetailPage(equipment) : notFoundPage();
+  }
+  else if (route === "equipamentos") html = equipmentHubPage();
+  else if (route === "loja" && STORE_ENABLED) html = storePage();
+  else if (route === "encontre-seu-setup") html = setupFinderPage();
+  else if (route === "comparar") html = comparePage();
+  else if (route === "ferramentas") html = toolsPage();
+  else if (route === "receitas-de-timbre" && TONE_RECIPES_ENABLED) html = toneRecipesPage();
   else if (route === "compatibilidade") html = compatibilityPage();
   else if (route === "catalogo") html = catalogPage(parts[1] || "completo");
   else if (route === "atualizacoes" && parts[1] === "como-atualizar") html = firmwareTutorialPage();
@@ -1275,7 +1503,17 @@ function render() {
   else html = notFoundPage();
   document.querySelector("#app").innerHTML = html;
 
-  if (route === "atualizacoes" && parts[1] === "como-atualizar") {
+  if (route === "loja" && !STORE_ENABLED) {
+    seo = { title: "Página não encontrada | M-Vave BR", description: "Esta página não está disponível.", path: window.location.pathname, type: "website", noindex: true };
+  } else if (route === "equipamentos" && parts[1] && equipmentById(parts[1])) {
+    const equipment = equipmentById(parts[1]);
+    seo = {
+      title: equipment.name + ": Guia, Software e Ofertas | M-Vave BR",
+      description: equipment.summary + " Veja software, indicação de uso, limitações, alternativas e ofertas.",
+      path: "/equipamentos/" + equipment.id + "/",
+      type: "article"
+    };
+  } else if (route === "atualizacoes" && parts[1] === "como-atualizar") {
     seo = {
       title: "Como Atualizar Pedais M-VAVE: Passo a Passo",
       description: "Escolha seu pedal M-VAVE e veja o tutorial correto para atualizar o firmware com M-UPGRADE, M-EFCS, CubeSuite ou SincoOTA.",
@@ -1291,6 +1529,8 @@ function render() {
     };
   } else if (route === "conteudos" && parts[1]) {
     seo = { title: "Página não encontrada | M-Vave BR", description: "A matéria informada não foi encontrada na Central do Timbre.", path: window.location.pathname, type: "website", noindex: true };
+  } else if (route === "equipamentos" && parts[1]) {
+    seo = { title: "Equipamento não encontrado | M-Vave BR", description: "O equipamento informado ainda não possui um guia publicado.", path: window.location.pathname, type: "website", noindex: true };
   } else if (route === "novidades") {
     seo = seoConfig("conteudos", [], productRoute);
   } else {
@@ -1442,6 +1682,9 @@ function bindInteractions() {
   document.querySelectorAll("[data-year]").forEach(function(node) {
     node.textContent = String(new Date().getFullYear());
   });
+  document.querySelectorAll("img[data-product-image]").forEach(function(image) {
+    image.addEventListener("error", function() { image.hidden = true; });
+  });
   const reveals = document.querySelectorAll(".reveal");
   if ("IntersectionObserver" in window) {
     const observer = new IntersectionObserver(function(entries) {
@@ -1462,6 +1705,11 @@ function bindInteractions() {
   bindSupport();
   bindDownloads();
   bindFirmwareGuide();
+  bindStore();
+  bindEquipmentTabs();
+  bindSetupFinder();
+  bindCompare();
+  bindDiagnostic();
 }
 
 render();

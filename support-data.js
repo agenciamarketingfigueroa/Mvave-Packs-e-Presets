@@ -248,5 +248,26 @@ export const SUPPORT_ENTRIES = [
     answer: "O canal oficial publicado pela fabricante é a página de contato da M-Vave. Ela informa o e-mail support@sincoaudio.com para suporte técnico. Para garantia, troca e devolução, mantenha também contato com a loja ou vendedor responsável pela venda.",
     notice: "A M-Vave BR deste site é um projeto independente e não possui vínculo, representação ou afiliação com a fabricante.",
     links: [["Abrir contato oficial", "https://www.m-vave.com/contact"], ["Enviar e-mail oficial", "mailto:support@sincoaudio.com"]]
+  },
+  {
+    id: "qual-equipamento-comprar", type: "Escolha de equipamento", title: "Qual pedal, pedaleira ou controlador devo comprar?",
+    keywords: "qual comprar escolher melhor pedal pedaleira controlador midi chocolate cube turner custo beneficio recomendacao setup",
+    answer: "Use o recomendador para informar instrumento, finalidade, contexto e recurso obrigatório. Ele sugere três pontos de partida e mostra também quando cada opção pode não servir.",
+    notice: "A recomendação é independente e não substitui testar o equipamento. Confira vendedor, revisão, garantia e política de devolução antes de comprar.",
+    links: [["Abrir recomendador", "/encontre-seu-setup/"], ["Comparar modelos", "/comparar/"]]
+  },
+  {
+    id: "software-correto", type: "Software", title: "Qual programa usar no meu produto M-VAVE?",
+    keywords: "qual programa aplicativo software app cubesuite midi suite midisuite mefcs m efcs sincoota upgrade controlador",
+    answer: "A ferramenta depende da família: CubeSuite atende Cube Baby, IR Box, loopers e controladores selecionados; M-EFCS atende TANK, ANNBLACK BOX, MK e outros processadores; MidiSuite atende teclados e superfícies MIDI; M-UPGRADE e SincoOTA cuidam de atualizações compatíveis.",
+    notice: "Confirme sempre o modelo na lista oficial. Produtos parecidos podem usar programas e firmwares diferentes.",
+    links: [["Abrir matriz de software", "/ferramentas/#software"], ["Downloads oficiais", "https://www.m-vave.com/appdownload"]]
+  },
+  {
+    id: "chocolate-turner", type: "Controladores", title: "Chocolate e Cube Turner servem para quê?",
+    keywords: "chocolate plus cube turner pro plus pages pagina partitura pedal controlador midi virar pagina tablet app",
+    answer: "O Chocolate é um controlador MIDI de pé compacto que também pode virar páginas em aplicativos compatíveis. Cube Turner Pro e Plus são focados em avançar ou voltar partituras, letras e apresentações sem tirar as mãos do instrumento.",
+    steps: ["Confirme se o aplicativo aceita comandos de teclado, MIDI ou page turner.", "Escolha o modo correto no app oficial.", "Teste avançar e voltar antes da apresentação."],
+    links: [["Ver Chocolate", "/equipamentos/chocolate/"], ["Ver Cube Turner Pro", "/equipamentos/cube-turner-pro/"], ["Comparar controladores", "/comparar/?a=chocolate"]]
   }
 ];

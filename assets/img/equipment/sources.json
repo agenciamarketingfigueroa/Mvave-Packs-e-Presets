@@ -1,0 +1,425 @@
+{
+  "generatedAt": "2026-08-13",
+  "items": [
+    {
+      "id": "cube-baby",
+      "brand": "M-VAVE",
+      "name": "Cube Baby",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/cube-baby.webp",
+      "localOriginal": "/assets/img/equipment/originals/cube-baby.webp",
+      "contentType": "image/webp",
+      "bytes": 38566
+    },
+    {
+      "id": "cube-baby-bass",
+      "brand": "M-VAVE",
+      "name": "Cube Baby Bass",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/productInfo/cube-baby-bass-1.webp",
+      "localOriginal": "/assets/img/equipment/originals/cube-baby-bass.webp",
+      "contentType": "image/webp",
+      "bytes": 87504
+    },
+    {
+      "id": "cube-baby-ac",
+      "brand": "M-VAVE",
+      "name": "Cube Baby AC",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/productInfo/cube-baby-ac-1.webp",
+      "localOriginal": "/assets/img/equipment/originals/cube-baby-ac.webp",
+      "contentType": "image/webp",
+      "bytes": 31096
+    },
+    {
+      "id": "tank-g",
+      "brand": "M-VAVE",
+      "name": "TANK-G",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/tank-g.webp",
+      "localOriginal": "/assets/img/equipment/originals/tank-g.webp",
+      "contentType": "image/webp",
+      "bytes": 37298
+    },
+    {
+      "id": "tank-b",
+      "brand": "M-VAVE",
+      "name": "TANK-B",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/productInfo/tank-b-1.webp",
+      "localOriginal": "/assets/img/equipment/originals/tank-b.webp",
+      "contentType": "image/webp",
+      "bytes": 33276
+    },
+    {
+      "id": "tank-mini",
+      "brand": "M-VAVE",
+      "name": "TANK MINI",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/tank-mini-nobg.webp",
+      "localOriginal": "/assets/img/equipment/originals/tank-mini.webp",
+      "contentType": "image/webp",
+      "bytes": 47258
+    },
+    {
+      "id": "tank-pro",
+      "brand": "M-VAVE",
+      "name": "TANK-PRO",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/tank-pro.webp",
+      "localOriginal": "/assets/img/equipment/originals/tank-pro.webp",
+      "contentType": "image/webp",
+      "bytes": 107654
+    },
+    {
+      "id": "annblack-box",
+      "brand": "M-VAVE",
+      "name": "ANNBLACK BOX",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/annblack-box-nobg.webp",
+      "localOriginal": "/assets/img/equipment/originals/annblack-box.webp",
+      "contentType": "image/webp",
+      "bytes": 54848
+    },
+    {
+      "id": "mk-20",
+      "brand": "M-VAVE",
+      "name": "MK-20",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/mk-20-nobg.webp",
+      "localOriginal": "/assets/img/equipment/originals/mk-20.webp",
+      "contentType": "image/webp",
+      "bytes": 38386
+    },
+    {
+      "id": "mk-300",
+      "brand": "M-VAVE",
+      "name": "MK-300",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/mk-300-nobg.webp",
+      "localOriginal": "/assets/img/equipment/originals/mk-300.webp",
+      "contentType": "image/webp",
+      "bytes": 150430
+    },
+    {
+      "id": "h8",
+      "brand": "M-VAVE",
+      "name": "H8",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/productInfo/h8-1.webp",
+      "localOriginal": "/assets/img/equipment/originals/h8.webp",
+      "contentType": "image/webp",
+      "bytes": 13850
+    },
+    {
+      "id": "pocket-amp",
+      "brand": "M-VAVE",
+      "name": "POCKET AMP",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/pocket-amp-nobg.webp",
+      "localOriginal": "/assets/img/equipment/originals/pocket-amp.webp",
+      "contentType": "image/webp",
+      "bytes": 75936
+    },
+    {
+      "id": "mini-x",
+      "brand": "M-VAVE",
+      "name": "MINI-X",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/mini-x-nobg.webp",
+      "localOriginal": "/assets/img/equipment/originals/mini-x.webp",
+      "contentType": "image/webp",
+      "bytes": 13182
+    },
+    {
+      "id": "ir-box",
+      "brand": "M-VAVE",
+      "name": "IR BOX",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/ir-box-nobg.webp",
+      "localOriginal": "/assets/img/equipment/originals/ir-box.webp",
+      "contentType": "image/webp",
+      "bytes": 79708
+    },
+    {
+      "id": "looper-drum",
+      "brand": "M-VAVE",
+      "name": "LOOPER DRUM",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/looper-drum-nobg.webp",
+      "localOriginal": "/assets/img/equipment/originals/looper-drum.webp",
+      "contentType": "image/webp",
+      "bytes": 76710
+    },
+    {
+      "id": "looper-pro",
+      "brand": "M-VAVE",
+      "name": "LOOPER PRO",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/looper-plus-nobg.webp",
+      "localOriginal": "/assets/img/equipment/originals/looper-pro.webp",
+      "contentType": "image/webp",
+      "bytes": 30422
+    },
+    {
+      "id": "mini-universe",
+      "brand": "M-VAVE",
+      "name": "MINI-UNIVERSE",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/mini-universe-nobg.webp",
+      "localOriginal": "/assets/img/equipment/originals/mini-universe.webp",
+      "contentType": "image/webp",
+      "bytes": 45626
+    },
+    {
+      "id": "elemental",
+      "brand": "M-VAVE",
+      "name": "ELEMENTAL",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/elemental-nobg.webp",
+      "localOriginal": "/assets/img/equipment/originals/elemental.webp",
+      "contentType": "image/webp",
+      "bytes": 64674
+    },
+    {
+      "id": "galaxia",
+      "brand": "M-VAVE",
+      "name": "GALAXIA",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/galaxia.webp",
+      "localOriginal": "/assets/img/equipment/originals/galaxia.webp",
+      "contentType": "image/webp",
+      "bytes": 47228
+    },
+    {
+      "id": "elemental-pro",
+      "brand": "M-VAVE",
+      "name": "ELEMENTAL PRO",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/elemental-pro.webp",
+      "localOriginal": "/assets/img/equipment/originals/elemental-pro.webp",
+      "contentType": "image/webp",
+      "bytes": 58458
+    },
+    {
+      "id": "chocolate",
+      "brand": "M-VAVE",
+      "name": "Chocolate",
+      "sourcePage": "https://www.m-vave.com/product?id=chocolate",
+      "sourceImage": "https://www.m-vave.com/images/products/chocolate.webp",
+      "localOriginal": "/assets/img/equipment/originals/chocolate.webp",
+      "contentType": "image/webp",
+      "bytes": 20362
+    },
+    {
+      "id": "chocolate-plus",
+      "brand": "M-VAVE",
+      "name": "CHOCOLATE PLUS",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/chocolate-plus-nobg.webp",
+      "localOriginal": "/assets/img/equipment/originals/chocolate-plus.webp",
+      "contentType": "image/webp",
+      "bytes": 16794
+    },
+    {
+      "id": "cube-turner-pro",
+      "brand": "M-VAVE",
+      "name": "CUBE TURNER PRO",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/cube-turner-pro.webp",
+      "localOriginal": "/assets/img/equipment/originals/cube-turner-pro.webp",
+      "contentType": "image/webp",
+      "bytes": 49904
+    },
+    {
+      "id": "cube-turner-plus",
+      "brand": "M-VAVE",
+      "name": "CUBE TURNER PLUS",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/cube-turner-plus.webp",
+      "localOriginal": "/assets/img/equipment/originals/cube-turner-plus.webp",
+      "contentType": "image/webp",
+      "bytes": 31604
+    },
+    {
+      "id": "smk25",
+      "brand": "M-VAVE",
+      "name": "SMK25",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/smk25.webp",
+      "localOriginal": "/assets/img/equipment/originals/smk25.webp",
+      "contentType": "image/webp",
+      "bytes": 20108
+    },
+    {
+      "id": "smk25-ii",
+      "brand": "M-VAVE",
+      "name": "SMK25-II",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/smk25-ii.webp",
+      "localOriginal": "/assets/img/equipment/originals/smk25-ii.webp",
+      "contentType": "image/webp",
+      "bytes": 37894
+    },
+    {
+      "id": "smk25-mini",
+      "brand": "M-VAVE",
+      "name": "SMK25 Mini",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/smk25-mini.webp",
+      "localOriginal": "/assets/img/equipment/originals/smk25-mini.webp",
+      "contentType": "image/webp",
+      "bytes": 74174
+    },
+    {
+      "id": "smk37-pro",
+      "brand": "M-VAVE",
+      "name": "SMK-37 PRO",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/smk-37-pro-nobg.webp",
+      "localOriginal": "/assets/img/equipment/originals/smk37-pro.webp",
+      "contentType": "image/webp",
+      "bytes": 36266
+    },
+    {
+      "id": "smk37-elite",
+      "brand": "M-VAVE",
+      "name": "SMK-37 ELITE",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/smk37-elite-nobg.webp",
+      "localOriginal": "/assets/img/equipment/originals/smk37-elite.webp",
+      "contentType": "image/webp",
+      "bytes": 41700
+    },
+    {
+      "id": "smc-pad",
+      "brand": "M-VAVE",
+      "name": "SMC-PAD",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/smc-pad.webp",
+      "localOriginal": "/assets/img/equipment/originals/smc-pad.webp",
+      "contentType": "image/webp",
+      "bytes": 39924
+    },
+    {
+      "id": "smc-pad-pocket",
+      "brand": "M-VAVE",
+      "name": "SMC-PAD Pocket",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/smc-pad-pocket-nobg.webp",
+      "localOriginal": "/assets/img/equipment/originals/smc-pad-pocket.webp",
+      "contentType": "image/webp",
+      "bytes": 27004
+    },
+    {
+      "id": "smc-mixer",
+      "brand": "M-VAVE",
+      "name": "SMC-Mixer",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/smc-mixer.webp",
+      "localOriginal": "/assets/img/equipment/originals/smc-mixer.webp",
+      "contentType": "image/webp",
+      "bytes": 31806
+    },
+    {
+      "id": "midi-system",
+      "brand": "M-VAVE",
+      "name": "MIDI SYSTEM",
+      "sourcePage": "https://www.m-vave.com/products",
+      "sourceImage": "https://www.m-vave.com/images/products/midi-system-nobg.webp",
+      "localOriginal": "/assets/img/equipment/originals/midi-system.webp",
+      "contentType": "image/webp",
+      "bytes": 31488
+    },
+    {
+      "id": "nux-mighty-plug-pro",
+      "brand": "NUX",
+      "name": "Mighty Plug Pro",
+      "sourcePage": "https://nuxaudio.com/product/mightyplugpro/",
+      "sourceImage": "https://nuxaudio.cherubtechnology.com/wp-content/uploads/2025/03/Mighty-Plug-Pro_Thumbnails.jpg",
+      "localOriginal": "/assets/img/equipment/originals/nux-mighty-plug-pro.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 93431
+    },
+    {
+      "id": "zoom-g1x-four",
+      "brand": "ZOOM",
+      "name": "G1X FOUR",
+      "sourcePage": "https://zoomcorp.com/en/us/multi-effects/guitar-effects/g1-four-g1x-four/g1g1x-four/",
+      "sourceImage": "https://zoomcorp.com/media/original_images/G1fourpedalsmain.png",
+      "localOriginal": "/assets/img/equipment/originals/zoom-g1x-four.png",
+      "contentType": "image/png",
+      "bytes": 1426841
+    },
+    {
+      "id": "hotone-ampero-mini",
+      "brand": "Hotone",
+      "name": "Ampero Mini",
+      "sourcePage": "https://shop.hotoneaudio.com/products/ampero-mini",
+      "sourceImage": "https://shop.hotoneaudio.com/cdn/shop/files/mm11_1200x1200.jpg?v=1685616021",
+      "localOriginal": "/assets/img/equipment/originals/hotone-ampero-mini.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 34652
+    },
+    {
+      "id": "sonicake-matribox-ii",
+      "brand": "Sonicake",
+      "name": "Matribox II",
+      "sourcePage": "https://www.sonicake.com/products/matribox-ii",
+      "sourceImage": "https://www.sonicake.com/cdn/shop/files/QME-100.jpg?v=1755762928",
+      "localOriginal": "/assets/img/equipment/originals/sonicake-matribox-ii.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 295820
+    },
+    {
+      "id": "valeton-gp200",
+      "brand": "Valeton",
+      "name": "GP-200",
+      "sourcePage": "https://www.valeton.net/product/gp-200/",
+      "sourceImage": "https://res.valeton.net/Uploads/wp/2025/05/%E4%BA%A7%E5%93%819-1.png",
+      "localOriginal": "/assets/img/equipment/originals/valeton-gp200.png",
+      "contentType": "image/png",
+      "bytes": 876740
+    },
+    {
+      "id": "line6-hx-stomp",
+      "brand": "Line 6",
+      "name": "HX Stomp",
+      "sourcePage": "https://line6.com/hx-stomp/",
+      "sourceImage": "https://line6.com/data/6/0a020a4191e85d4b0d3e91e88/image/jpeg/file.jpeg",
+      "localOriginal": "/assets/img/equipment/originals/line6-hx-stomp.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 486258
+    },
+    {
+      "id": "boss-ir2",
+      "brand": "BOSS",
+      "name": "IR-2",
+      "sourcePage": "https://www.boss.info/br/products/ir-2/",
+      "sourceImage": "https://static.roland.com/assets/images/products/main/ir-2_main.jpg",
+      "localOriginal": "/assets/img/equipment/originals/boss-ir2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 30364
+    },
+    {
+      "id": "akai-mpk-mini",
+      "brand": "Akai Professional",
+      "name": "MPK mini mk3",
+      "sourcePage": "https://www.akaipro.com/mpk-mini-mk3",
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F47c5d023e7b3451a86ac03602c65dce8%2F7aab3a005d80424f91f1e55e8e09ac6d",
+      "localOriginal": "/assets/img/equipment/originals/akai-mpk-mini.webp",
+      "contentType": "image/webp",
+      "bytes": 82972
+    },
+    {
+      "id": "arturia-minilab3",
+      "brand": "Arturia",
+      "name": "MiniLab 3",
+      "sourcePage": "https://www.arturia.com/products/hybrid-synths/minilab-3/overview",
+      "sourceImage": "https://medias.arturia.net/cdn-cgi/image/quality=80/images/products/minilab-3-white/webstore/01.png",
+      "localOriginal": "/assets/img/equipment/originals/arturia-minilab3.png",
+      "contentType": "image/png",
+      "bytes": 720752
+    }
+  ]
+}
