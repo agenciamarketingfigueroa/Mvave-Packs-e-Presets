@@ -129,9 +129,11 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
 .featured .pack-brand-line span { border-color: var(--line); color: #c1c7d2; background: rgba(255,255,255,.03); }
 .pack-price-stack { display: grid; justify-items: start; gap: 5px; }
 .pack-price-stack s { color: #8c929c; font-size: 12px; }
+.pack-price-stack .pack-installment { color: var(--muted-dark); font-size: 11px; }
 .pack-price-stack em { padding: 4px 7px; border-radius: 5px; background: rgba(39,179,109,.1); color: #137346; font-size: 9px; font-style: normal; font-weight: 900; letter-spacing: .05em; text-transform: uppercase; }
 .featured .pack-price-stack em { background: rgba(93,224,157,.12); color: #70dfa7; }
 .featured .pack-price-stack s { color: #8c94a3; }
+.featured .pack-price-stack .pack-installment { color: var(--muted); }
 .catalog-quick-links { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 18px; margin-top: 18px; padding: 18px 22px; border: 1px solid var(--line-dark); border-radius: 14px; background: rgba(255,255,255,.48); font-size: 12px; }
 .catalog-quick-links strong { font-family: "Manrope", sans-serif; }
 .catalog-quick-links > span { color: var(--muted-dark); }

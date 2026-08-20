@@ -23,7 +23,8 @@ const products = {
     hero: "Pare de procurar IRs. Comece a encontrar o seu som.",
     intro: "Uma biblioteca ampla para guitarra, testada e organizada para você chegar mais rápido a timbres que funcionam.",
     brands: ["Marshall", "Bogner", "Orange", "Mesa Boogie", "Laney", "Vox"],
-    price: "19,90",
+    price: "29,90",
+    installment: "ou 9x de R$ 3,93",
     oldPrice: "97,00",
     checkout: CHECKOUTS.guitarra
   },
@@ -36,7 +37,8 @@ const products = {
     hero: "Grave com peso. Definição sem esforço.",
     intro: "IRs selecionados para baixo com foco em corpo, clareza e resposta que se encaixa na mix.",
     brands: ["GK", "Hartke", "Ampeg", "Markbass"],
-    price: "19,90",
+    price: "29,90",
+    installment: "ou 9x de R$ 3,93",
     oldPrice: "97,00",
     checkout: CHECKOUTS.baixo
   },
@@ -49,7 +51,8 @@ const products = {
     hero: "Seu violão com madeira, corpo e naturalidade.",
     intro: "Impulse Responses para recuperar a sensação acústica que normalmente se perde quando o violão é ligado em linha.",
     brands: ["Gibson", "Martin", "Taylor", "Collings", "Aço", "Nylon"],
-    price: "19,90",
+    price: "29,90",
+    installment: "ou 9x de R$ 3,93",
     oldPrice: "97,00",
     checkout: CHECKOUTS.violao
   },
@@ -62,7 +65,8 @@ const products = {
     hero: "Todo timbre começa aqui.",
     intro: "A coleção completa para quem toca mais de um instrumento, grava, produz ou simplesmente quer todas as possibilidades.",
     brands: ["Guitarra", "Baixo", "Violão de aço", "Violão nylon", "8 aulas", "Acesso vitalício"],
-    price: "67,00",
+    price: "49,90",
+    installment: "ou 12x de R$ 5,16",
     oldPrice: "197,00",
     checkout: CHECKOUTS.completo
   }
@@ -830,13 +834,13 @@ function packCards() {
     const p = products[key];
     return "<a class='pack-card reveal' href='" + productUrl(p.key) + "'>" +
       "<div><span class='pack-count'>" + p.count + " arquivos</span><h3>" + p.label + "</h3><p>" + p.description + "</p>" + packBrandLine(p.key, 4) + "</div>" +
-      "<div class='pack-meta'><span class='pack-price-stack'><s>R$ " + p.oldPrice + "</s><span class='price'>R$ " + p.price + " <small>à vista</small></span><em>" + discountFor(p) + "% de oportunidade</em></span><span class='text-link'>Ver pack</span></div>" +
+      "<div class='pack-meta'><span class='pack-price-stack'><s>R$ " + p.oldPrice + "</s><span class='price'>R$ " + p.price + " <small>à vista</small></span><small class='pack-installment'>" + p.installment + "</small><em>" + discountFor(p) + "% de oportunidade</em></span><span class='text-link'>Ver pack</span></div>" +
     "</a>";
   }).join("");
   const p = products.completo;
   return "<div class='pack-grid'>" +
     "<a class='pack-card featured reveal' href='" + productUrl("completo") + "'>" +
-      "<div class='pack-content'><span class='pack-count'>A coleção definitiva</span><h3>" + p.count + " IRs.<br>Um só acesso.</h3><p>Guitarra, baixo, violão de aço e nylon, mais 8 aulas para instalar e configurar tudo no seu pedal.</p>" + packBrandLine("completo", 7) + "<div class='pack-meta'><span class='pack-price-stack'><s>R$ " + p.oldPrice + "</s><span class='price'>R$ " + p.price + " <small>à vista</small></span><em>Economize " + discountFor(p) + "%</em></span><span class='btn btn-light'>Conhecer o pack " + iconArrow() + "</span></div></div>" +
+      "<div class='pack-content'><span class='pack-count'>A coleção definitiva</span><h3>" + p.count + " IRs.<br>Um só acesso.</h3><p>Guitarra, baixo, violão de aço e nylon, mais 8 aulas para instalar e configurar tudo no seu pedal.</p>" + packBrandLine("completo", 7) + "<div class='pack-meta'><span class='pack-price-stack'><s>R$ " + p.oldPrice + "</s><span class='price'>R$ " + p.price + " <small>à vista</small></span><small class='pack-installment'>" + p.installment + "</small><em>Economize " + discountFor(p) + "%</em></span><span class='btn btn-light'>Conhecer o pack " + iconArrow() + "</span></div></div>" +
       "<img class='pedals' src='/assets/img/3%20Pedais%20Mvave%20(cubebay).png' width='540' height='540' loading='lazy' decoding='async' alt='Pedais M-Vave e CubeBaby'>" +
     "</a>" + small + "</div>";
 }
@@ -1017,15 +1021,14 @@ function homePage() {
 }
 
 function offerCard(product, recommended) {
-  const isComplete = product.key === "completo";
   const priceParts = product.price.split(",");
   return "<article class='offer-card " + (recommended ? "recommended" : "") + " reveal'>" +
     "<div class='offer-card-top'><span class='badge'>" + (recommended ? "Mais escolhido" : "Pack individual") + "</span><span class='offer-discount'>" + discountFor(product) + "% OFF</span></div>" +
     "<div class='offer-product'><div><span class='offer-overline'>Cubebaby Descomplicado</span><h3 class='offer-title'>" + product.label + "</h3><p class='offer-files'>" + product.countLong + "</p></div><div class='offer-signal-art' aria-hidden='true'><span>IR</span><i></i><i></i><i></i><i></i><i></i></div></div>" +
-    "<div class='offer-value'><p class='old-price'>De R$ " + product.oldPrice + "</p><div class='offer-price'><small>R$</small> " + priceParts[0] + "<sup>," + priceParts[1] + "</sup></div><p class='installment'>" + (isComplete ? "ou 9x de R$ 8,56" : "pagamento único") + "</p></div>" +
+    "<div class='offer-value'><p class='old-price'>De R$ " + product.oldPrice + "</p><div class='offer-price'><small>R$</small> " + priceParts[0] + "<sup>," + priceParts[1] + "</sup></div><p class='installment'>" + product.installment + "</p></div>" +
     button("Comprar com segurança", product.checkout, recommended ? "btn-amber" : "", true) +
     "<p class='checkout-note'>Pagamento processado pela Hotmart · acesso após confirmação</p>" +
-    "<ul class='offer-notes'><li><span>✓</span> 8 vídeo aulas bônus</li><li><span>✓</span> Acesso vitalício</li><li><span>✓</span> Garantia de 7 dias</li>" + (isComplete ? "<li><span>✓</span> Guitarra, baixo e violão</li>" : "") + "</ul>" +
+    "<ul class='offer-notes'><li><span>✓</span> 8 vídeo aulas bônus</li><li><span>✓</span> Acesso vitalício</li><li><span>✓</span> Garantia de 7 dias</li>" + (product.key === "completo" ? "<li><span>✓</span> Guitarra, baixo e violão</li>" : "") + "</ul>" +
   "</article>";
 }
 
