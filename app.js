@@ -1022,13 +1022,16 @@ function homePage() {
 
 function offerCard(product, recommended) {
   const priceParts = product.price.split(",");
+  const instruments = product.key === "completo"
+    ? "<div class='offer-instruments' aria-label='Instrumentos incluídos'><span>Guitarra</span><span>Baixo</span><span>Violão de aço</span><span>Violão de nylon</span></div>"
+    : "";
   return "<article class='offer-card " + (recommended ? "recommended" : "") + " reveal'>" +
     "<div class='offer-card-top'><span class='badge'>" + (recommended ? "Mais escolhido" : "Pack individual") + "</span><span class='offer-discount'>" + discountFor(product) + "% OFF</span></div>" +
-    "<div class='offer-product'><div><span class='offer-overline'>Cubebaby Descomplicado</span><h3 class='offer-title'>" + product.label + "</h3><p class='offer-files'>" + product.countLong + "</p></div><div class='offer-signal-art' aria-hidden='true'><span>IR</span><i></i><i></i><i></i><i></i><i></i></div></div>" +
+    "<div class='offer-product'><div><span class='offer-overline'>Cubebaby Descomplicado</span><h3 class='offer-title'>" + product.label + "</h3><p class='offer-files'>" + product.countLong + "</p>" + instruments + "</div><div class='offer-signal-art' aria-hidden='true'><span>IR</span><i></i><i></i><i></i><i></i><i></i></div></div>" +
     "<div class='offer-value'><p class='old-price'>De R$ " + product.oldPrice + "</p><div class='offer-price'><small>R$</small> " + priceParts[0] + "<sup>," + priceParts[1] + "</sup></div><p class='installment'>" + product.installment + "</p></div>" +
     button("Comprar com segurança", product.checkout, recommended ? "btn-amber" : "", true) +
     "<p class='checkout-note'>Pagamento processado pela Hotmart · acesso após confirmação</p>" +
-    "<ul class='offer-notes'><li><span>✓</span> 8 vídeo aulas bônus</li><li><span>✓</span> Acesso vitalício</li><li><span>✓</span> Garantia de 7 dias</li>" + (product.key === "completo" ? "<li><span>✓</span> Guitarra, baixo e violão</li>" : "") + "</ul>" +
+    "<ul class='offer-notes'><li><span>✓</span> 8 vídeo aulas bônus</li><li><span>✓</span> Acesso vitalício</li><li><span>✓</span> Garantia de 7 dias</li>" + (product.key === "completo" ? "<li class='offer-note-instruments'><span>✓</span> Guitarra, baixo, violão de aço e violão de nylon</li>" : "") + "</ul>" +
   "</article>";
 }
 

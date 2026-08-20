@@ -291,6 +291,9 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
 .offer-title { margin: 0 0 6px; font-size: clamp(2rem,3.2vw,3rem); }
 .offer-files { color: var(--muted-dark); }
 .recommended .offer-files { color: var(--muted); }
+.offer-instruments { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 14px; }
+.offer-instruments span { padding: 5px 8px; border: 1px solid var(--line-dark); border-radius: 999px; color: #56606f; font-size: 9px; font-weight: 800; letter-spacing: .03em; text-transform: uppercase; }
+.recommended .offer-instruments span { border-color: rgba(255,255,255,.18); background: rgba(255,255,255,.06); color: #dce5ff; }
 .offer-signal-art { width: 88px; height: 88px; flex: 0 0 auto; display: flex; align-items: center; justify-content: center; gap: 3px; border-radius: 50%; background: var(--ink); color: var(--blue-bright); }
 .recommended .offer-signal-art { background: rgba(255,255,255,.09); }
 .offer-signal-art span { margin-right: 3px; font: 800 10px "Manrope", sans-serif; }
@@ -310,6 +313,7 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
 .recommended .checkout-note { color: #91a0c3; }
 .offer-notes { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; padding: 24px 0 0; margin: 24px 0 0; border-top: 1px solid var(--line-dark); list-style: none; font-size: 13px; }
 .offer-notes span { color: var(--blue); font-weight: 900; }
+.offer-note-instruments { grid-column: 1 / -1; }
 .recommended .offer-notes span { color: #6fe0a5; }
 .recommended .offer-notes { border-color: var(--line); color: #d9dce2; }
 
