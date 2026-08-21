@@ -2,6 +2,9 @@ import { CATALOG_ITEMS, FIRMWARE_GUIDES, FIRMWARE_ITEMS, PACK_BRANDS, SOFTWARE_I
 import { CONTENT_ARTICLES, CONTENT_TOPICS } from "./content-data.js";
 import { SUPPORT_ENTRIES } from "./support-data.js";
 import { EQUIPMENT_ITEMS, SOFTWARE_MATRIX, STORE_CATEGORIES, STORE_ENABLED, STORE_LISTED, TONE_RECIPES, TONE_RECIPES_ENABLED, TONE_RECIPES_LISTED, amazonSearchUrl, equipmentById } from "./equipment-data.js";
+import { initializeCampaignTracking, trackedCheckoutUrl } from "./campaign-tracking.js";
+
+initializeCampaignTracking();
 
 const ROOT = "/";
 const CHECKOUTS = {
@@ -523,7 +526,7 @@ function bindCompatibilityChecker() {
       "<div class='compat-result-top'><span class='compat-status'><i></i> Compatível com IR</span><span class='compat-kind'>" + (item.type === "plugin" ? "Plugin" : "Hardware") + "</span></div>" +
       "<div class='compat-result-name'><span>" + item.brand + "</span><h3>" + item.model + "</h3>" + (approximate ? "<small>Encontrado por aproximação</small>" : "") + "</div>" +
       "<p>" + item.note + "</p><dl class='compat-specs'><div><dt>Formato / limite</dt><dd>" + item.format + "</dd></div><div><dt>Packs indicados</dt><dd>" + instrumentNames + "</dd></div></dl>" +
-      "<div class='compat-actions'>" + button("Comprar pack de " + pack.label, pack.checkout, "btn-amber", true) + "<a class='source-link' href='" + item.source + "' target='_blank' rel='noopener'>Ver documentação ↗</a></div>" +
+      "<div class='compat-actions'>" + button("Comprar pack de " + pack.label, trackedCheckoutUrl(pack.checkout), "btn-amber", true) + "<a class='source-link' href='" + item.source + "' target='_blank' rel='noopener'>Ver documentação ↗</a></div>" +
     "</article>";
   }
 
@@ -1029,7 +1032,7 @@ function offerCard(product, recommended) {
     "<div class='offer-card-top'><span class='badge'>" + (recommended ? "Mais escolhido" : "Pack individual") + "</span><span class='offer-discount'>" + discountFor(product) + "% OFF</span></div>" +
     "<div class='offer-product'><div><span class='offer-overline'>Cubebaby Descomplicado</span><h3 class='offer-title'>" + product.label + "</h3><p class='offer-files'>" + product.countLong + "</p>" + instruments + "</div><div class='offer-signal-art' aria-hidden='true'><span>IR</span><i></i><i></i><i></i><i></i><i></i></div></div>" +
     "<div class='offer-value'><p class='old-price'>De R$ " + product.oldPrice + "</p><div class='offer-price'><small>R$</small> " + priceParts[0] + "<sup>," + priceParts[1] + "</sup></div><p class='installment'>" + product.installment + "</p></div>" +
-    button("Comprar com segurança", product.checkout, recommended ? "btn-amber" : "", true) +
+    button("Comprar com segurança", trackedCheckoutUrl(product.checkout), recommended ? "btn-amber" : "", true) +
     "<p class='checkout-note'>Pagamento processado pela Hotmart · acesso após confirmação</p>" +
     "<ul class='offer-notes'><li><span>✓</span> 8 vídeo aulas bônus</li><li><span>✓</span> Acesso vitalício</li><li><span>✓</span> Garantia de 7 dias</li>" + (product.key === "completo" ? "<li class='offer-note-instruments'><span>✓</span> Guitarra, baixo, violão de aço e violão de nylon</li>" : "") + "</ul>" +
   "</article>";
@@ -1063,7 +1066,7 @@ function catalogPage(scope) {
       "<div class='catalog-table-head'><div><span class='eyebrow'>Famílias consolidadas</span><h2>Catálogo do Pack " + label + "</h2></div><span id='catalog-count'>" + initialItems.length + " famílias</span></div><span class='table-scroll-hint'>Deslize para ver todas as colunas →</span><div class='catalog-table-wrap'><table class='catalog-table'><thead><tr><th>Marca</th><th>Modelo / gabinete</th><th>Microfones e posições</th><th>Sample rate</th><th>Formato</th><th>Variações</th></tr></thead><tbody id='catalog-body'>" + catalogRows(initialItems) + "</tbody></table></div>" +
       "<div id='catalog-empty' class='catalog-empty' hidden><h3>Nenhuma família encontrada.</h3><p>Tente um nome mais curto ou remova um dos filtros.</p></div>" +
       "<div class='catalog-method'><div><span>01</span><strong>Agrupado, não omitido</strong><p>Arquivos que mudam apenas microfone, posição, distância ou sample rate aparecem como uma família.</p></div><div><span>02</span><strong>Formato importa</strong><p>WAV atende à maioria dos IR loaders. SYX é um formato específico presente nas bibliotecas Fractal do acervo.</p></div><div><span>03</span><strong>Catálogo vivo</strong><p>Novas famílias podem ser adicionadas conforme o pack recebe atualizações.</p></div></div>" +
-      "<div class='catalog-buy-band'><div><span class='eyebrow'>Encontrou o que procurava?</span><h2>Leve o acervo para o seu equipamento.</h2></div>" + button("Comprar Pack " + label, products[validScope].checkout, "btn-amber", true) + "</div>" +
+      "<div class='catalog-buy-band'><div><span class='eyebrow'>Encontrou o que procurava?</span><h2>Leve o acervo para o seu equipamento.</h2></div>" + button("Comprar Pack " + label, trackedCheckoutUrl(products[validScope].checkout), "btn-amber", true) + "</div>" +
     "</div></section></main>" + footer();
 }
 
@@ -1301,8 +1304,8 @@ function productPage(product) {
       "<section class='section'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Quem já destravou o som</span><h2>O pedal é pequeno.<br>O resultado não precisa ser.</h2></div></div>" + testimonials() + "</div></section>" +
       "<section class='section pricing-section' id='oferta'><div class='container'><div class='pricing-head'><div><span class='eyebrow'>Acesso imediato</span><h2>" + (isComplete ? "Todo o acervo.<br>Uma única escolha." : "Escolha o tamanho<br>do seu próximo som.") + "</h2></div><div class='pricing-security'><span>✓</span><p><strong>Compra segura</strong>Pagamento processado pela Hotmart</p></div></div>" + urgencyNotice(false) + offers + "<div class='guarantee'><div class='guarantee-mark'>7d</div><div><h3>Você tem 7 dias para decidir com o pack nas mãos.</h3><p>Se o conteúdo não for o que você esperava, solicite o reembolso integral dentro do prazo. Sem complicação e sem letras miúdas.</p></div></div></div></section>" +
       "<section class='section'><div class='container faq-wrap'><div><span class='eyebrow'>Antes de comprar</span><h2>Dúvidas frequentes.</h2>" + button("Abrir Central de Suporte", "/suporte/", "btn-dark", false) + "</div>" + faqs(product.key === "violao" || product.key === "completo") + "</div></section>" +
-      "<section class='cta-band'><div class='container cta-inner'><h2>O próximo timbre que você procura pode estar a um IR de distância.</h2>" + button("Acessar o pack", product.checkout, "btn-light", true) + "</div></section>" +
-    "</main><div class='mobile-buy'>" + button("Comprar por R$ " + product.price, product.checkout, "btn-amber", true) + "</div>" + footer();
+      "<section class='cta-band'><div class='container cta-inner'><h2>O próximo timbre que você procura pode estar a um IR de distância.</h2>" + button("Acessar o pack", trackedCheckoutUrl(product.checkout), "btn-light", true) + "</div></section>" +
+    "</main><div class='mobile-buy'>" + button("Comprar por R$ " + product.price, trackedCheckoutUrl(product.checkout), "btn-amber", true) + "</div>" + footer();
 }
 
 function newsPage() {
