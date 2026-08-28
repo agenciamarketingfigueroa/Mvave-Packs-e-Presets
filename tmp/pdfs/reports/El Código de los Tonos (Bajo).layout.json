@@ -1,0 +1,1757 @@
+[
+  {
+    "id": "p01-b00",
+    "page": 1,
+    "font": "Now-Bold",
+    "original_size": 55.44,
+    "final_size": 53.34,
+    "fit": true,
+    "spare_height": 9.13,
+    "rect": [
+      28.0,
+      93.5,
+      567.5,
+      172.03
+    ]
+  },
+  {
+    "id": "p01-b01",
+    "page": 1,
+    "font": "Now-Bold",
+    "original_size": 55.44,
+    "final_size": 55.44,
+    "fit": true,
+    "spare_height": 6.4,
+    "rect": [
+      28.0,
+      159.69,
+      567.5,
+      238.22
+    ]
+  },
+  {
+    "id": "p01-b02",
+    "page": 1,
+    "font": "Montserrat-Regular",
+    "original_size": 21.97,
+    "final_size": 21.97,
+    "fit": true,
+    "spare_height": 9.79,
+    "rect": [
+      28.0,
+      721.59,
+      567.5,
+      759.96
+    ]
+  },
+  {
+    "id": "p01-b03",
+    "page": 1,
+    "font": "Montserrat-Regular",
+    "original_size": 21.97,
+    "final_size": 21.97,
+    "fit": true,
+    "spare_height": 9.79,
+    "rect": [
+      28.0,
+      751.89,
+      567.5,
+      790.26
+    ]
+  },
+  {
+    "id": "p02-b00",
+    "page": 2,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 126.57,
+    "rect": [
+      309.31,
+      172.89,
+      558.5,
+      325.32
+    ]
+  },
+  {
+    "id": "p02-b01",
+    "page": 2,
+    "font": "Montserrat-Bold",
+    "original_size": 30.0,
+    "final_size": 30.0,
+    "fit": true,
+    "spare_height": 2.5,
+    "rect": [
+      309.31,
+      98.36,
+      558.5,
+      171.39
+    ]
+  },
+  {
+    "id": "p02-b02",
+    "page": 2,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 12.75,
+    "rect": [
+      40.34,
+      290.04,
+      558.5,
+      325.32
+    ]
+  },
+  {
+    "id": "p02-b03",
+    "page": 2,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 70.81,
+    "rect": [
+      37.73,
+      326.82,
+      558.5,
+      446.59
+    ]
+  },
+  {
+    "id": "p02-b04",
+    "page": 2,
+    "font": "Montserrat-Bold",
+    "original_size": 30.0,
+    "final_size": 30.0,
+    "fit": true,
+    "spare_height": 71.79,
+    "rect": [
+      40.34,
+      448.09,
+      558.5,
+      590.41
+    ]
+  },
+  {
+    "id": "p02-b05",
+    "page": 2,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 31.74,
+    "rect": [
+      49.28,
+      591.91,
+      558.5,
+      637.96
+    ]
+  },
+  {
+    "id": "p02-b06",
+    "page": 2,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 139.38,
+    "rect": [
+      37.73,
+      639.46,
+      558.5,
+      816.25
+    ]
+  },
+  {
+    "id": "p03-b00",
+    "page": 3,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 12.75,
+    "rect": [
+      37.73,
+      57.54,
+      558.5,
+      92.82
+    ]
+  },
+  {
+    "id": "p03-b01",
+    "page": 3,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 21.11,
+    "rect": [
+      37.73,
+      94.32,
+      558.5,
+      152.84
+    ]
+  },
+  {
+    "id": "p03-b02",
+    "page": 3,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 51.12,
+    "rect": [
+      37.73,
+      154.34,
+      558.5,
+      242.88
+    ]
+  },
+  {
+    "id": "p03-b03",
+    "page": 3,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 67.51,
+    "rect": [
+      37.73,
+      244.38,
+      558.5,
+      349.29
+    ]
+  },
+  {
+    "id": "p03-b04",
+    "page": 3,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 12.75,
+    "rect": [
+      37.73,
+      350.79,
+      558.5,
+      386.08
+    ]
+  },
+  {
+    "id": "p03-b05",
+    "page": 3,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 32.66,
+    "rect": [
+      37.73,
+      387.58,
+      558.5,
+      446.1
+    ]
+  },
+  {
+    "id": "p03-b06",
+    "page": 3,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 36.12,
+    "rect": [
+      37.73,
+      447.6,
+      558.5,
+      521.13
+    ]
+  },
+  {
+    "id": "p03-b07",
+    "page": 3,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 157.46,
+    "rect": [
+      37.73,
+      522.63,
+      558.5,
+      705.95
+    ]
+  },
+  {
+    "id": "p03-b08",
+    "page": 3,
+    "font": "Montserrat-Bold",
+    "original_size": 30.0,
+    "final_size": 30.0,
+    "fit": true,
+    "spare_height": 6.77,
+    "rect": [
+      37.73,
+      707.45,
+      558.5,
+      816.25
+    ]
+  },
+  {
+    "id": "p04-b00",
+    "page": 4,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 24.01,
+    "rect": [
+      37.73,
+      127.96,
+      558.5,
+      174.5
+    ]
+  },
+  {
+    "id": "p04-b01",
+    "page": 4,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 20.07,
+    "rect": [
+      37.73,
+      366.17,
+      558.5,
+      408.77
+    ]
+  },
+  {
+    "id": "p04-b02",
+    "page": 4,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 20.07,
+    "rect": [
+      37.62,
+      600.87,
+      558.5,
+      643.47
+    ]
+  },
+  {
+    "id": "p04-b03",
+    "page": 4,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 21.11,
+    "rect": [
+      37.73,
+      176.0,
+      558.5,
+      234.52
+    ]
+  },
+  {
+    "id": "p04-b04",
+    "page": 4,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 21.11,
+    "rect": [
+      37.73,
+      236.02,
+      558.5,
+      294.55
+    ]
+  },
+  {
+    "id": "p04-b05",
+    "page": 4,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 31.21,
+    "rect": [
+      37.73,
+      296.05,
+      558.5,
+      364.67
+    ]
+  },
+  {
+    "id": "p04-b06",
+    "page": 4,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 32.66,
+    "rect": [
+      37.73,
+      410.27,
+      558.5,
+      468.79
+    ]
+  },
+  {
+    "id": "p04-b07",
+    "page": 4,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 21.11,
+    "rect": [
+      37.73,
+      470.29,
+      558.5,
+      528.82
+    ]
+  },
+  {
+    "id": "p04-b08",
+    "page": 4,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 43.19,
+    "rect": [
+      37.73,
+      530.32,
+      558.5,
+      599.37
+    ]
+  },
+  {
+    "id": "p04-b09",
+    "page": 4,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 21.11,
+    "rect": [
+      37.62,
+      644.97,
+      558.5,
+      703.5
+    ]
+  },
+  {
+    "id": "p04-b10",
+    "page": 4,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 85.39,
+    "rect": [
+      37.62,
+      705.0,
+      558.5,
+      816.25
+    ]
+  },
+  {
+    "id": "p04-b11",
+    "page": 4,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 31.49,
+    "rect": [
+      37.62,
+      57.56,
+      558.5,
+      126.46
+    ]
+  },
+  {
+    "id": "p05-b00",
+    "page": 5,
+    "font": "Montserrat-Bold",
+    "original_size": 30.0,
+    "final_size": 30.0,
+    "fit": true,
+    "spare_height": 78.86,
+    "rect": [
+      37.62,
+      73.99,
+      558.5,
+      254.88
+    ]
+  },
+  {
+    "id": "p05-b01",
+    "page": 5,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 12.75,
+    "rect": [
+      37.62,
+      256.38,
+      558.5,
+      291.66
+    ]
+  },
+  {
+    "id": "p05-b02",
+    "page": 5,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 12.75,
+    "rect": [
+      37.73,
+      561.07,
+      558.5,
+      596.36
+    ]
+  },
+  {
+    "id": "p05-b03",
+    "page": 5,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 39.57,
+    "rect": [
+      37.62,
+      293.16,
+      558.5,
+      381.69
+    ]
+  },
+  {
+    "id": "p05-b04",
+    "page": 5,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 104.32,
+    "rect": [
+      37.62,
+      383.19,
+      558.5,
+      559.57
+    ]
+  },
+  {
+    "id": "p05-b05",
+    "page": 5,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 21.11,
+    "rect": [
+      37.73,
+      597.86,
+      558.5,
+      656.38
+    ]
+  },
+  {
+    "id": "p05-b06",
+    "page": 5,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 86.31,
+    "rect": [
+      37.73,
+      657.88,
+      558.5,
+      816.25
+    ]
+  },
+  {
+    "id": "p06-b00",
+    "page": 6,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 36.12,
+    "rect": [
+      37.73,
+      102.83,
+      558.5,
+      176.36
+    ]
+  },
+  {
+    "id": "p06-b01",
+    "page": 6,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 103.84,
+    "rect": [
+      37.73,
+      177.86,
+      558.5,
+      365.31
+    ]
+  },
+  {
+    "id": "p06-b02",
+    "page": 6,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 36.12,
+    "rect": [
+      37.73,
+      412.1,
+      558.5,
+      485.63
+    ]
+  },
+  {
+    "id": "p06-b03",
+    "page": 6,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 257.06,
+    "rect": [
+      37.73,
+      487.13,
+      558.5,
+      816.25
+    ]
+  },
+  {
+    "id": "p06-b04",
+    "page": 6,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 21.26,
+    "rect": [
+      37.73,
+      57.54,
+      558.5,
+      101.33
+    ]
+  },
+  {
+    "id": "p06-b05",
+    "page": 6,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 21.26,
+    "rect": [
+      37.73,
+      366.81,
+      558.5,
+      410.6
+    ]
+  },
+  {
+    "id": "p07-b00",
+    "page": 7,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 36.12,
+    "rect": [
+      37.73,
+      102.83,
+      558.5,
+      176.36
+    ]
+  },
+  {
+    "id": "p07-b01",
+    "page": 7,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 126.94,
+    "rect": [
+      37.73,
+      177.86,
+      558.5,
+      365.31
+    ]
+  },
+  {
+    "id": "p07-b02",
+    "page": 7,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 32.66,
+    "rect": [
+      37.73,
+      412.1,
+      558.5,
+      470.63
+    ]
+  },
+  {
+    "id": "p07-b03",
+    "page": 7,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 283.61,
+    "rect": [
+      37.73,
+      472.13,
+      558.5,
+      816.25
+    ]
+  },
+  {
+    "id": "p07-b04",
+    "page": 7,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 21.26,
+    "rect": [
+      37.73,
+      57.54,
+      558.5,
+      101.33
+    ]
+  },
+  {
+    "id": "p07-b05",
+    "page": 7,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 21.26,
+    "rect": [
+      37.73,
+      366.81,
+      558.5,
+      410.6
+    ]
+  },
+  {
+    "id": "p08-b00",
+    "page": 8,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 36.12,
+    "rect": [
+      37.73,
+      102.83,
+      558.5,
+      176.36
+    ]
+  },
+  {
+    "id": "p08-b01",
+    "page": 8,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 126.94,
+    "rect": [
+      37.73,
+      177.86,
+      558.5,
+      365.31
+    ]
+  },
+  {
+    "id": "p08-b02",
+    "page": 8,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 36.12,
+    "rect": [
+      37.73,
+      412.1,
+      558.5,
+      485.63
+    ]
+  },
+  {
+    "id": "p08-b03",
+    "page": 8,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 257.06,
+    "rect": [
+      37.73,
+      487.13,
+      558.5,
+      816.25
+    ]
+  },
+  {
+    "id": "p08-b04",
+    "page": 8,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 21.26,
+    "rect": [
+      37.73,
+      57.54,
+      558.5,
+      101.33
+    ]
+  },
+  {
+    "id": "p08-b05",
+    "page": 8,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 21.26,
+    "rect": [
+      37.73,
+      366.81,
+      558.5,
+      410.6
+    ]
+  },
+  {
+    "id": "p09-b00",
+    "page": 9,
+    "font": "Montserrat-Bold",
+    "original_size": 30.0,
+    "final_size": 30.0,
+    "fit": true,
+    "spare_height": 80.47,
+    "rect": [
+      37.62,
+      104.75,
+      558.5,
+      287.25
+    ]
+  },
+  {
+    "id": "p09-b01",
+    "page": 9,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 12.75,
+    "rect": [
+      37.73,
+      425.9,
+      558.5,
+      461.18
+    ]
+  },
+  {
+    "id": "p09-b02",
+    "page": 9,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 12.75,
+    "rect": [
+      37.73,
+      584.25,
+      558.5,
+      619.54
+    ]
+  },
+  {
+    "id": "p09-b03",
+    "page": 9,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 32.66,
+    "rect": [
+      37.73,
+      462.68,
+      558.5,
+      521.2
+    ]
+  },
+  {
+    "id": "p09-b04",
+    "page": 9,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 34.19,
+    "rect": [
+      37.73,
+      522.7,
+      558.5,
+      582.75
+    ]
+  },
+  {
+    "id": "p09-b05",
+    "page": 9,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 21.11,
+    "rect": [
+      37.73,
+      621.04,
+      558.5,
+      679.56
+    ]
+  },
+  {
+    "id": "p09-b06",
+    "page": 9,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 97.78,
+    "rect": [
+      37.73,
+      681.06,
+      558.5,
+      816.25
+    ]
+  },
+  {
+    "id": "p09-b07",
+    "page": 9,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 51.9,
+    "rect": [
+      37.73,
+      335.08,
+      558.5,
+      424.4
+    ]
+  },
+  {
+    "id": "p09-b08",
+    "page": 9,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 30.52,
+    "rect": [
+      49.28,
+      288.75,
+      558.5,
+      333.58
+    ]
+  },
+  {
+    "id": "p10-b00",
+    "page": 10,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 32.66,
+    "rect": [
+      37.73,
+      104.89,
+      558.5,
+      163.41
+    ]
+  },
+  {
+    "id": "p10-b01",
+    "page": 10,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 89.67,
+    "rect": [
+      37.73,
+      164.91,
+      558.5,
+      291.99
+    ]
+  },
+  {
+    "id": "p10-b02",
+    "page": 10,
+    "font": "Montserrat-Regular",
+    "original_size": 17.32,
+    "final_size": 17.32,
+    "fit": true,
+    "spare_height": 23.32,
+    "rect": [
+      37.73,
+      57.54,
+      558.5,
+      103.39
+    ]
+  },
+  {
+    "id": "p10-b03",
+    "page": 10,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 56.62,
+    "rect": [
+      37.73,
+      456.18,
+      558.5,
+      538.66
+    ]
+  },
+  {
+    "id": "p10-b04",
+    "page": 10,
+    "font": "Montserrat-Regular",
+    "original_size": 14.88,
+    "final_size": 14.88,
+    "fit": true,
+    "spare_height": 15.15,
+    "rect": [
+      37.62,
+      540.16,
+      558.5,
+      574.67
+    ]
+  },
+  {
+    "id": "p10-b05",
+    "page": 10,
+    "font": "Montserrat-Regular",
+    "original_size": 14.88,
+    "final_size": 14.88,
+    "fit": true,
+    "spare_height": 15.15,
+    "rect": [
+      37.73,
+      678.13,
+      558.5,
+      712.65
+    ]
+  },
+  {
+    "id": "p10-b06",
+    "page": 10,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 51.5,
+    "rect": [
+      37.73,
+      576.17,
+      558.5,
+      676.63
+    ]
+  },
+  {
+    "id": "p10-b07",
+    "page": 10,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 64.69,
+    "rect": [
+      37.85,
+      714.15,
+      558.5,
+      816.25
+    ]
+  },
+  {
+    "id": "p10-b08",
+    "page": 10,
+    "font": "Montserrat-Bold",
+    "original_size": 30.0,
+    "final_size": 30.0,
+    "fit": true,
+    "spare_height": 4.85,
+    "rect": [
+      37.85,
+      293.49,
+      558.5,
+      368.87
+    ]
+  },
+  {
+    "id": "p10-b09",
+    "page": 10,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 69.99,
+    "rect": [
+      37.96,
+      370.37,
+      558.5,
+      454.68
+    ]
+  },
+  {
+    "id": "p11-b00",
+    "page": 11,
+    "font": "Montserrat-Regular",
+    "original_size": 14.88,
+    "final_size": 14.88,
+    "fit": true,
+    "spare_height": 15.15,
+    "rect": [
+      37.57,
+      57.61,
+      558.5,
+      92.12
+    ]
+  },
+  {
+    "id": "p11-b01",
+    "page": 11,
+    "font": "Montserrat-Regular",
+    "original_size": 14.88,
+    "final_size": 14.88,
+    "fit": true,
+    "spare_height": 15.15,
+    "rect": [
+      37.73,
+      195.58,
+      558.5,
+      230.1
+    ]
+  },
+  {
+    "id": "p11-b02",
+    "page": 11,
+    "font": "Montserrat-Regular",
+    "original_size": 14.88,
+    "final_size": 14.88,
+    "fit": true,
+    "spare_height": 15.15,
+    "rect": [
+      37.85,
+      325.27,
+      558.5,
+      359.79
+    ]
+  },
+  {
+    "id": "p11-b03",
+    "page": 11,
+    "font": "Montserrat-Regular",
+    "original_size": 14.88,
+    "final_size": 14.88,
+    "fit": true,
+    "spare_height": 15.16,
+    "rect": [
+      37.96,
+      455.18,
+      558.5,
+      489.69
+    ]
+  },
+  {
+    "id": "p11-b04",
+    "page": 11,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 63.05,
+    "rect": [
+      37.68,
+      93.62,
+      558.5,
+      194.08
+    ]
+  },
+  {
+    "id": "p11-b05",
+    "page": 11,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 54.77,
+    "rect": [
+      37.85,
+      231.6,
+      558.5,
+      323.77
+    ]
+  },
+  {
+    "id": "p11-b06",
+    "page": 11,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 54.98,
+    "rect": [
+      37.96,
+      361.29,
+      558.5,
+      453.68
+    ]
+  },
+  {
+    "id": "p11-b07",
+    "page": 11,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 287.65,
+    "rect": [
+      38.07,
+      491.19,
+      558.5,
+      816.25
+    ]
+  },
+  {
+    "id": "p12-b00",
+    "page": 12,
+    "font": "Montserrat-Bold",
+    "original_size": 30.0,
+    "final_size": 30.0,
+    "fit": true,
+    "spare_height": 4.18,
+    "rect": [
+      37.62,
+      104.75,
+      558.5,
+      147.96
+    ]
+  },
+  {
+    "id": "p12-b01",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 35.51,
+    "rect": [
+      47.86,
+      262.36,
+      558.5,
+      312.18
+    ]
+  },
+  {
+    "id": "p12-b02",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 55.22,
+    "rect": [
+      37.73,
+      313.68,
+      558.5,
+      394.76
+    ]
+  },
+  {
+    "id": "p12-b03",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 12.66,
+    "final_size": 12.66,
+    "fit": true,
+    "spare_height": 10.43,
+    "rect": [
+      37.73,
+      396.26,
+      558.5,
+      423.16
+    ]
+  },
+  {
+    "id": "p12-b04",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 12.66,
+    "final_size": 12.66,
+    "fit": true,
+    "spare_height": 10.43,
+    "rect": [
+      37.62,
+      492.18,
+      558.5,
+      519.08
+    ]
+  },
+  {
+    "id": "p12-b05",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 12.66,
+    "final_size": 12.66,
+    "fit": true,
+    "spare_height": 27.4,
+    "rect": [
+      38.87,
+      591.1,
+      558.5,
+      634.96
+    ]
+  },
+  {
+    "id": "p12-b06",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 12.66,
+    "final_size": 12.66,
+    "fit": true,
+    "spare_height": 14.1,
+    "rect": [
+      38.76,
+      712.98,
+      558.5,
+      756.85
+    ]
+  },
+  {
+    "id": "p12-b07",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 4.92,
+    "rect": [
+      57.47,
+      424.66,
+      558.5,
+      441.29
+    ]
+  },
+  {
+    "id": "p12-b08",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 4.92,
+    "rect": [
+      57.36,
+      520.58,
+      558.5,
+      537.21
+    ]
+  },
+  {
+    "id": "p12-b09",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 4.92,
+    "rect": [
+      57.25,
+      636.46,
+      558.5,
+      653.09
+    ]
+  },
+  {
+    "id": "p12-b10",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 4.92,
+    "rect": [
+      54.54,
+      758.35,
+      558.5,
+      774.98
+    ]
+  },
+  {
+    "id": "p12-b11",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 3.77,
+    "rect": [
+      57.47,
+      442.79,
+      558.5,
+      458.27
+    ]
+  },
+  {
+    "id": "p12-b12",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 3.77,
+    "rect": [
+      57.36,
+      538.71,
+      558.5,
+      554.18
+    ]
+  },
+  {
+    "id": "p12-b13",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 3.77,
+    "rect": [
+      57.25,
+      654.59,
+      558.5,
+      670.07
+    ]
+  },
+  {
+    "id": "p12-b14",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 3.77,
+    "rect": [
+      54.54,
+      776.48,
+      558.5,
+      791.95
+    ]
+  },
+  {
+    "id": "p12-b15",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 19.42,
+    "rect": [
+      57.58,
+      459.55,
+      558.5,
+      490.68
+    ]
+  },
+  {
+    "id": "p12-b16",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 22.42,
+    "rect": [
+      57.47,
+      555.47,
+      558.5,
+      589.6
+    ]
+  },
+  {
+    "id": "p12-b17",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 28.42,
+    "rect": [
+      57.36,
+      671.35,
+      558.5,
+      711.48
+    ]
+  },
+  {
+    "id": "p12-b18",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 11.31,
+    "rect": [
+      54.65,
+      793.24,
+      558.5,
+      816.25
+    ]
+  },
+  {
+    "id": "p12-b19",
+    "page": 12,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 97.09,
+    "rect": [
+      37.73,
+      149.46,
+      558.5,
+      260.86
+    ]
+  },
+  {
+    "id": "p13-b00",
+    "page": 13,
+    "font": "Montserrat-Bold",
+    "original_size": 30.0,
+    "final_size": 30.0,
+    "fit": true,
+    "spare_height": 4.18,
+    "rect": [
+      37.62,
+      104.75,
+      558.5,
+      147.96
+    ]
+  },
+  {
+    "id": "p13-b01",
+    "page": 13,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 38.01,
+    "rect": [
+      47.86,
+      262.36,
+      558.5,
+      314.68
+    ]
+  },
+  {
+    "id": "p13-b02",
+    "page": 13,
+    "font": "Montserrat-Regular",
+    "original_size": 12.66,
+    "final_size": 12.66,
+    "fit": true,
+    "spare_height": 9.6,
+    "rect": [
+      38.98,
+      316.18,
+      558.5,
+      355.55
+    ]
+  },
+  {
+    "id": "p13-b03",
+    "page": 13,
+    "font": "Montserrat-Regular",
+    "original_size": 12.66,
+    "final_size": 12.66,
+    "fit": true,
+    "spare_height": 14.1,
+    "rect": [
+      38.76,
+      424.56,
+      558.5,
+      468.43
+    ]
+  },
+  {
+    "id": "p13-b04",
+    "page": 13,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 4.92,
+    "rect": [
+      55.27,
+      357.05,
+      558.5,
+      373.68
+    ]
+  },
+  {
+    "id": "p13-b05",
+    "page": 13,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 4.92,
+    "rect": [
+      54.54,
+      469.93,
+      558.5,
+      486.56
+    ]
+  },
+  {
+    "id": "p13-b06",
+    "page": 13,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 3.77,
+    "rect": [
+      55.27,
+      375.18,
+      558.5,
+      390.65
+    ]
+  },
+  {
+    "id": "p13-b07",
+    "page": 13,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 3.77,
+    "rect": [
+      54.54,
+      488.06,
+      558.5,
+      503.53
+    ]
+  },
+  {
+    "id": "p13-b08",
+    "page": 13,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 19.42,
+    "rect": [
+      55.38,
+      391.93,
+      558.5,
+      423.06
+    ]
+  },
+  {
+    "id": "p13-b09",
+    "page": 13,
+    "font": "Montserrat-Regular",
+    "original_size": 9.0,
+    "final_size": 9.0,
+    "fit": true,
+    "spare_height": 97.5,
+    "rect": [
+      54.65,
+      504.81,
+      558.5,
+      614.02
+    ]
+  },
+  {
+    "id": "p13-b10",
+    "page": 13,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 97.09,
+    "rect": [
+      37.73,
+      149.46,
+      558.5,
+      260.86
+    ]
+  },
+  {
+    "id": "p13-b11",
+    "page": 13,
+    "font": "Montserrat-Regular",
+    "original_size": 40.01,
+    "final_size": 40.01,
+    "fit": true,
+    "spare_height": 7.71,
+    "rect": [
+      37.62,
+      615.52,
+      558.5,
+      675.29
+    ]
+  },
+  {
+    "id": "p13-b12",
+    "page": 13,
+    "font": "Montserrat-Regular",
+    "original_size": 11.0,
+    "final_size": 11.0,
+    "fit": true,
+    "spare_height": 102.05,
+    "rect": [
+      38.36,
+      676.79,
+      558.6,
+      816.25
+    ]
+  }
+]

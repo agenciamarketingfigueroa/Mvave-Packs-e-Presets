@@ -1,0 +1,5522 @@
+{
+  "source": "output\\pdf\\El Código de los Tonos (Guitarra).pdf",
+  "pages": 16,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "El Código de los Tonos (Guitarra)",
+    "author": "Felipe Figueroa Santos",
+    "subject": "",
+    "keywords": "DAFlRVotc-A,BADVP53gQZ4",
+    "creator": "Canva",
+    "producer": "Canva",
+    "creationDate": "D:20260828174715+00'00'",
+    "modDate": "D:20260828174715+00'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "fonts": [
+    "Montserrat-Thin"
+  ],
+  "text_characters": 19119,
+  "pages_data": [
+    {
+      "page": 1,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "EL CÓDIGO DE LOS\nTONOS\nDomina el arte de crear sonidos increíbles\nen la guitarra\n",
+      "spans": [
+        {
+          "text": "EL CÓDIGO DE LOS",
+          "bbox": [
+            28.04,
+            93.5,
+            567.46,
+            158.52
+          ],
+          "font": "Montserrat-Thin",
+          "size": 53.34,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            28.04,
+            145.13
+          ]
+        },
+        {
+          "text": "TONOS",
+          "bbox": [
+            192.97,
+            159.69,
+            402.53,
+            227.27
+          ],
+          "font": "Montserrat-Thin",
+          "size": 55.44,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            192.97,
+            213.36
+          ]
+        },
+        {
+          "text": "Domina el arte de crear sonidos increíbles",
+          "bbox": [
+            66.96,
+            721.59,
+            528.54,
+            748.37
+          ],
+          "font": "Montserrat-Thin",
+          "size": 21.97,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            66.96,
+            742.86
+          ]
+        },
+        {
+          "text": "en la guitarra",
+          "bbox": [
+            224.4,
+            751.89,
+            371.1,
+            778.67
+          ],
+          "font": "Montserrat-Thin",
+          "size": 21.97,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            224.4,
+            773.16
+          ]
+        }
+      ],
+      "images": 1,
+      "drawings": 2
+    },
+    {
+      "page": 2,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Aprende a crear diferentes sonoridades\nen la guitarra.\nTonos para\nguitarra\nDescripción general\nEste curso está dirigido a guitarristas que desean explorar nuevas posibilidades sonoras. Los\nalumnos aprenderán conceptos teóricos y prácticos para crear diferentes tonos en la guitarra.\nEl curso se divide en tres módulos principales:\nIntroducción a los\ntonos de la\nguitarra\n01 | Introducción a los tonos\nEl módulo de Introducción a los Tonos de la Guitarra es el primer paso para quienes desean\nexplorar diferentes sonoridades. Los alumnos comprenderán qué es el tono y cómo se crea en\nla guitarra.\n",
+      "spans": [
+        {
+          "text": "Aprende a crear diferentes sonoridades",
+          "bbox": [
+            309.31,
+            172.89,
+            526.56,
+            186.3
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            309.31,
+            183.54
+          ]
+        },
+        {
+          "text": "en la guitarra.",
+          "bbox": [
+            309.31,
+            184.07,
+            385.09,
+            197.48
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            309.31,
+            194.72
+          ]
+        },
+        {
+          "text": "Tonos para",
+          "bbox": [
+            309.31,
+            98.36,
+            482.95,
+            134.93
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            309.31,
+            127.4
+          ]
+        },
+        {
+          "text": "guitarra",
+          "bbox": [
+            309.31,
+            128.85,
+            435.88,
+            165.42
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            309.31,
+            157.89
+          ]
+        },
+        {
+          "text": "Descripción general",
+          "bbox": [
+            40.34,
+            290.04,
+            214.49,
+            311.15
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            40.34,
+            306.81
+          ]
+        },
+        {
+          "text": "Este curso está dirigido a guitarristas que desean explorar nuevas posibilidades sonoras. Los",
+          "bbox": [
+            37.73,
+            326.82,
+            543.17,
+            340.23
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            337.47
+          ]
+        },
+        {
+          "text": "alumnos aprenderán conceptos teóricos y prácticos para crear diferentes tonos en la guitarra.",
+          "bbox": [
+            37.73,
+            338.0,
+            553.03,
+            351.41
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            348.65
+          ]
+        },
+        {
+          "text": "El curso se divide en tres módulos principales:",
+          "bbox": [
+            37.73,
+            349.18,
+            290.22,
+            362.59
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            359.83
+          ]
+        },
+        {
+          "text": "Introducción a los",
+          "bbox": [
+            40.34,
+            448.09,
+            322.88,
+            484.66
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            40.34,
+            477.13
+          ]
+        },
+        {
+          "text": "tonos de la",
+          "bbox": [
+            40.34,
+            478.58,
+            213.56,
+            515.15
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            40.34,
+            507.62
+          ]
+        },
+        {
+          "text": "guitarra",
+          "bbox": [
+            40.34,
+            509.08,
+            166.91,
+            545.65
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            40.34,
+            538.12
+          ]
+        },
+        {
+          "text": "01 | Introducción a los tonos",
+          "bbox": [
+            51.88,
+            620.66,
+            204.62,
+            634.06
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            51.88,
+            631.3
+          ]
+        },
+        {
+          "text": "El módulo de Introducción a los Tonos de la Guitarra es el primer paso para quienes desean",
+          "bbox": [
+            40.34,
+            668.2,
+            542.67,
+            681.61
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            40.34,
+            678.85
+          ]
+        },
+        {
+          "text": "explorar diferentes sonoridades. Los alumnos comprenderán qué es el tono y cómo se crea en",
+          "bbox": [
+            40.34,
+            679.39,
+            557.67,
+            692.79
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            40.34,
+            690.03
+          ]
+        },
+        {
+          "text": "la guitarra.",
+          "bbox": [
+            40.34,
+            690.57,
+            99.15,
+            703.97
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            40.34,
+            701.21
+          ]
+        }
+      ],
+      "images": 1,
+      "drawings": 27
+    },
+    {
+      "page": 3,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "¿Qué es el tono?\nEl tono es una cualidad sonora que permite distinguir sonidos producidos por fuentes\ndiferentes. Por ejemplo, cuando dos personas cantan la misma nota al mismo tiempo,\npodemos diferenciar sus voces por el tono. En la guitarra, esta cualidad crea sonoridades que\nidentificamos como limpias, distorsionadas, brillantes, graves y muchas otras.\n¿Cómo se crean los tonos en la guitarra?\nLa importancia del tono en la guitarra\nLos tonos de la guitarra se crean mediante diversos elementos: la madera del cuerpo y el\nmástil, el tipo de cuerdas, las pastillas, el amplificador y los efectos. Cada elemento contribuye\na una sonoridad específica.\nEn la guitarra eléctrica, las pastillas transforman la vibración de las cuerdas en señales\neléctricas que se envían al amplificador. Existen diferentes tipos de pastillas, cada uno con\ncaracterísticas sonoras propias.\nLos amplificadores también cumplen un papel fundamental. Amplifican la señal eléctrica de\nlas pastillas y la convierten en sonido audible. Al igual que las pastillas, existen muchos tipos\nde amplificadores con características sonoras diferentes.\nEl tono es un aspecto fundamental y puede utilizarse para crear distintas atmósferas y\nsensaciones. Un sonido limpio y brillante es frecuente en pop o funk, mientras que uno más\ndistorsionado suele aparecer en rock y metal.\nAprender a crear diferentes tonos es importante para cualquier guitarrista. Además de\nampliar la variedad musical, permite expresarse de una forma más completa a través del\ninstrumento.\nLas pastillas y su\ninfluencia en el tono\n",
+      "spans": [
+        {
+          "text": "¿Qué es el tono?",
+          "bbox": [
+            37.73,
+            57.54,
+            182.11,
+            78.65
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            74.3
+          ]
+        },
+        {
+          "text": "El tono es una cualidad sonora que permite distinguir sonidos producidos por fuentes",
+          "bbox": [
+            37.73,
+            94.32,
+            510.57,
+            107.73
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            104.97
+          ]
+        },
+        {
+          "text": "diferentes. Por ejemplo, cuando dos personas cantan la misma nota al mismo tiempo,",
+          "bbox": [
+            37.73,
+            105.5,
+            510.75,
+            118.91
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            116.15
+          ]
+        },
+        {
+          "text": "podemos diferenciar sus voces por el tono. En la guitarra, esta cualidad crea sonoridades que",
+          "bbox": [
+            37.73,
+            116.68,
+            549.11,
+            130.09
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            127.33
+          ]
+        },
+        {
+          "text": "identificamos como limpias, distorsionadas, brillantes, graves y muchas otras.",
+          "bbox": [
+            37.73,
+            127.86,
+            462.6,
+            141.27
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            138.51
+          ]
+        },
+        {
+          "text": "¿Cómo se crean los tonos en la guitarra?",
+          "bbox": [
+            37.73,
+            195.5,
+            388.97,
+            216.61
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            212.26
+          ]
+        },
+        {
+          "text": "La importancia del tono en la guitarra",
+          "bbox": [
+            37.73,
+            468.65,
+            365.45,
+            489.76
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            485.41
+          ]
+        },
+        {
+          "text": "Los tonos de la guitarra se crean mediante diversos elementos: la madera del cuerpo y el",
+          "bbox": [
+            37.73,
+            232.28,
+            525.79,
+            245.69
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            242.93
+          ]
+        },
+        {
+          "text": "mástil, el tipo de cuerdas, las pastillas, el amplificador y los efectos. Cada elemento contribuye",
+          "bbox": [
+            37.73,
+            243.46,
+            551.92,
+            256.87
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            254.11
+          ]
+        },
+        {
+          "text": "a una sonoridad específica.",
+          "bbox": [
+            37.73,
+            254.64,
+            186.53,
+            268.05
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            265.29
+          ]
+        },
+        {
+          "text": "En la guitarra eléctrica, las pastillas transforman la vibración de las cuerdas en señales",
+          "bbox": [
+            37.73,
+            307.31,
+            509.11,
+            320.72
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            317.96
+          ]
+        },
+        {
+          "text": "eléctricas que se envían al amplificador. Existen diferentes tipos de pastillas, cada uno con",
+          "bbox": [
+            37.73,
+            318.49,
+            532.26,
+            331.9
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            329.14
+          ]
+        },
+        {
+          "text": "características sonoras propias.",
+          "bbox": [
+            37.73,
+            329.67,
+            208.84,
+            343.08
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            340.32
+          ]
+        },
+        {
+          "text": "Los amplificadores también cumplen un papel fundamental. Amplifican la señal eléctrica de",
+          "bbox": [
+            37.73,
+            367.33,
+            546.23,
+            380.74
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            377.98
+          ]
+        },
+        {
+          "text": "las pastillas y la convierten en sonido audible. Al igual que las pastillas, existen muchos tipos",
+          "bbox": [
+            37.73,
+            378.51,
+            542.38,
+            391.92
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            389.16
+          ]
+        },
+        {
+          "text": "de amplificadores con características sonoras diferentes.",
+          "bbox": [
+            37.73,
+            389.69,
+            348.52,
+            403.1
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            400.34
+          ]
+        },
+        {
+          "text": "El tono es un aspecto fundamental y puede utilizarse para crear distintas atmósferas y",
+          "bbox": [
+            37.73,
+            505.43,
+            512.02,
+            518.84
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            516.08
+          ]
+        },
+        {
+          "text": "sensaciones. Un sonido limpio y brillante es frecuente en pop o funk, mientras que uno más",
+          "bbox": [
+            37.73,
+            516.61,
+            541.93,
+            530.02
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            527.26
+          ]
+        },
+        {
+          "text": "distorsionado suele aparecer en rock y metal.",
+          "bbox": [
+            37.73,
+            527.79,
+            286.52,
+            541.2
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            538.44
+          ]
+        },
+        {
+          "text": "Aprender a crear diferentes tonos es importante para cualquier guitarrista. Además de",
+          "bbox": [
+            37.73,
+            580.46,
+            513.8,
+            593.87
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            591.11
+          ]
+        },
+        {
+          "text": "ampliar la variedad musical, permite expresarse de una forma más completa a través del",
+          "bbox": [
+            37.73,
+            591.64,
+            525.71,
+            605.05
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            602.29
+          ]
+        },
+        {
+          "text": "instrumento.",
+          "bbox": [
+            37.73,
+            602.82,
+            109.21,
+            616.23
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            613.47
+          ]
+        },
+        {
+          "text": "Las pastillas y su",
+          "bbox": [
+            37.73,
+            726.14,
+            299.96,
+            762.71
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.73,
+            755.18
+          ]
+        },
+        {
+          "text": "influencia en el tono",
+          "bbox": [
+            37.73,
+            756.63,
+            359.84,
+            793.2
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.73,
+            785.67
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 8
+    },
+    {
+      "page": 4,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Single coil: el clásico tono twang y brillante\nHumbuckers: potencia y suavidad de un sonido con cuerpo\nLas pastillas single coil son conocidas por su tono brillante, definido y característico. Se utilizan\nen estilos como rockabilly, country, blues y pop. Estas son sus principales características y su\ninfluencia en el tono:\nSonidos claros y brillantes: producen un sonido limpio con respuesta equilibrada. Los agudos\nson nítidos y permiten que cada nota se destaque con claridad. Esta cualidad es ideal para\narpegios, riffs rápidos y solos que requieren definición y articulación.\nTwang: las single coil son famosas por este sonido rico en armónicos y con un toque percusivo.\nEs especialmente apreciado en rockabilly y country porque aporta una cualidad rítmica\ndistintiva, energía y dinamismo.\nMenor sustain: comparadas con las humbuckers, suelen tener menos salida y sustain. Las\nnotas pueden sonar más cortas y con menos cuerpo, lo que puede ser una ventaja en estilos\nque requieren un sonido rápido y llamativo.\nSensibilidad al ruido: las single coil tienden a captar interferencias eléctricas conocidas como\nhum. Este ruido se percibe más en lugares con luces fluorescentes u otros equipos cercanos.\nPara reducirlo, muchos guitarristas utilizan pastillas con cancelación de ruido o blindan las\ncavidades del instrumento.\nVersatilidad: aunque suelen asociarse con estilos específicos, también pueden ser versátiles.\nCon pedales y ajustes adecuados de amplificador es posible obtener una amplia variedad de\ntonos y utilizarlas en rock, funk, jazz e incluso metal.\nLas humbuckers son conocidas por su tono con cuerpo, potente y suave. Se utilizan mucho en\nrock, blues, jazz y metal. Veamos sus principales características y cómo influyen en el sonido\nde la guitarra:\nTono potente y con cuerpo: están diseñadas para ofrecer un sonido más pesado y lleno que las\nsingle coil. Tienen mayor salida y sustain, con una respuesta de frecuencia más amplia. El\nresultado es un tono rico en medios y graves, con una base sólida para riffs pesados y solos\nimpactantes.\n",
+      "spans": [
+        {
+          "text": "Single coil: el clásico tono twang y brillante",
+          "bbox": [
+            37.73,
+            57.54,
+            408.56,
+            78.65
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            74.3
+          ]
+        },
+        {
+          "text": "Humbuckers: potencia y suavidad de un sonido con cuerpo",
+          "bbox": [
+            37.73,
+            601.14,
+            552.59,
+            622.25
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            617.91
+          ]
+        },
+        {
+          "text": "Las pastillas single coil son conocidas por su tono brillante, definido y característico. Se utilizan",
+          "bbox": [
+            37.73,
+            105.62,
+            555.43,
+            119.03
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            116.27
+          ]
+        },
+        {
+          "text": "en estilos como rockabilly, country, blues y pop. Estas son sus principales características y su",
+          "bbox": [
+            37.73,
+            116.8,
+            543.74,
+            130.21
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            127.45
+          ]
+        },
+        {
+          "text": "influencia en el tono:",
+          "bbox": [
+            37.73,
+            127.98,
+            152.29,
+            141.39
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            138.63
+          ]
+        },
+        {
+          "text": "Sonidos claros y brillantes: producen un sonido limpio con respuesta equilibrada. Los agudos",
+          "bbox": [
+            37.73,
+            180.65,
+            548.16,
+            194.06
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            191.3
+          ]
+        },
+        {
+          "text": "son nítidos y permiten que cada nota se destaque con claridad. Esta cualidad es ideal para",
+          "bbox": [
+            37.73,
+            191.83,
+            534.93,
+            205.24
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            202.48
+          ]
+        },
+        {
+          "text": "arpegios, riffs rápidos y solos que requieren definición y articulación.",
+          "bbox": [
+            37.73,
+            203.01,
+            411.76,
+            216.42
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            213.66
+          ]
+        },
+        {
+          "text": "Twang: las single coil son famosas por este sonido rico en armónicos y con un toque percusivo.",
+          "bbox": [
+            37.73,
+            255.68,
+            557.62,
+            269.09
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            266.33
+          ]
+        },
+        {
+          "text": "Es especialmente apreciado en rockabilly y country porque aporta una cualidad rítmica",
+          "bbox": [
+            37.73,
+            266.86,
+            518.74,
+            280.27
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            277.51
+          ]
+        },
+        {
+          "text": "distintiva, energía y dinamismo.",
+          "bbox": [
+            37.73,
+            278.04,
+            212.56,
+            291.45
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            288.69
+          ]
+        },
+        {
+          "text": "Menor sustain: comparadas con las humbuckers, suelen tener menos salida y sustain. Las",
+          "bbox": [
+            37.73,
+            330.71,
+            529.06,
+            344.12
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            341.36
+          ]
+        },
+        {
+          "text": "notas pueden sonar más cortas y con menos cuerpo, lo que puede ser una ventaja en estilos",
+          "bbox": [
+            37.73,
+            341.89,
+            545.25,
+            355.3
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            352.54
+          ]
+        },
+        {
+          "text": "que requieren un sonido rápido y llamativo.",
+          "bbox": [
+            37.73,
+            353.07,
+            277.18,
+            366.48
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            363.72
+          ]
+        },
+        {
+          "text": "Sensibilidad al ruido: las single coil tienden a captar interferencias eléctricas conocidas como",
+          "bbox": [
+            37.73,
+            405.74,
+            547.56,
+            419.15
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            416.38
+          ]
+        },
+        {
+          "text": "hum. Este ruido se percibe más en lugares con luces fluorescentes u otros equipos cercanos.",
+          "bbox": [
+            37.73,
+            416.92,
+            546.86,
+            430.33
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            427.56
+          ]
+        },
+        {
+          "text": "Para reducirlo, muchos guitarristas utilizan pastillas con cancelación de ruido o blindan las",
+          "bbox": [
+            37.73,
+            428.1,
+            534.87,
+            441.51
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            438.75
+          ]
+        },
+        {
+          "text": "cavidades del instrumento.",
+          "bbox": [
+            37.73,
+            439.28,
+            187.06,
+            452.69
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            449.93
+          ]
+        },
+        {
+          "text": "Versatilidad: aunque suelen asociarse con estilos específicos, también pueden ser versátiles.",
+          "bbox": [
+            37.73,
+            495.77,
+            542.41,
+            509.18
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            506.42
+          ]
+        },
+        {
+          "text": "Con pedales y ajustes adecuados de amplificador es posible obtener una amplia variedad de",
+          "bbox": [
+            37.73,
+            506.95,
+            546.25,
+            520.36
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            517.6
+          ]
+        },
+        {
+          "text": "tonos y utilizarlas en rock, funk, jazz e incluso metal.",
+          "bbox": [
+            37.73,
+            518.13,
+            321.85,
+            531.54
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            528.78
+          ]
+        },
+        {
+          "text": "Las humbuckers son conocidas por su tono con cuerpo, potente y suave. Se utilizan mucho en",
+          "bbox": [
+            37.73,
+            646.84,
+            556.02,
+            660.25
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            657.49
+          ]
+        },
+        {
+          "text": "rock, blues, jazz y metal. Veamos sus principales características y cómo influyen en el sonido",
+          "bbox": [
+            37.73,
+            658.02,
+            543.04,
+            671.43
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            668.67
+          ]
+        },
+        {
+          "text": "de la guitarra:",
+          "bbox": [
+            37.73,
+            669.2,
+            113.54,
+            682.61
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            679.85
+          ]
+        },
+        {
+          "text": "Tono potente y con cuerpo: están diseñadas para ofrecer un sonido más pesado y lleno que las",
+          "bbox": [
+            37.73,
+            721.87,
+            557.92,
+            735.28
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            732.52
+          ]
+        },
+        {
+          "text": "single coil. Tienen mayor salida y sustain, con una respuesta de frecuencia más amplia. El",
+          "bbox": [
+            37.73,
+            733.05,
+            527.17,
+            746.46
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            743.7
+          ]
+        },
+        {
+          "text": "resultado es un tono rico en medios y graves, con una base sólida para riffs pesados y solos",
+          "bbox": [
+            37.73,
+            744.23,
+            535.7,
+            757.64
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            754.88
+          ]
+        },
+        {
+          "text": "impactantes.",
+          "bbox": [
+            37.73,
+            755.41,
+            109.71,
+            768.82
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            766.06
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 2
+    },
+    {
+      "page": 5,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Cancelación de ruido y menor sensibilidad: la principal característica de las humbuckers es su\ncapacidad para cancelar ruidos e interferencias eléctricas. Sus dos bobinas con polaridades\nopuestas reducen el famoso hum y ofrecen mayor inmunidad frente al ruido externo.\nTono suave y sustain prolongado: permiten que las notas suenen de forma continua y\nexpresiva, algo muy valorado en solos y melodías largas. También tienden a producir un\nsonido más suave y redondo, con medios más equilibrados que las single coil.\nVersatilidad: aunque suelen relacionarse con géneros pesados, las humbuckers se adaptan a\nmuchos estilos. Pueden ofrecer desde un sonido lleno para blues hasta tonos pesados de rock\no metal, según el amplificador y los efectos utilizados.\nSplit coil y coil tap: algunas humbuckers permiten dividir la bobina para obtener un modo\nsingle coil. Así es posible combinar lo mejor de ambos mundos. El split coil aporta más brillo y\ndefinición, mientras que el modo humbucker conserva la potencia y el peso característicos.\nP-90: el puente entre single coil y humbucker\nLas pastillas P-90 ofrecen un tono versátil que combina características de las single coil y las\nhumbuckers. Se utilizan en muchos estilos, desde rock y blues hasta jazz e indie. Estas son sus\nprincipales características:\nTono con cuerpo y presencia de single coil: ofrecen una respuesta más equilibrada que las\nsingle coil, con medios destacados y un punch que atraviesa la mezcla. Suenan más gruesas y\npotentes, pero mantienen claridad y definición.\nSustain y respuesta dinámica: las P-90 permiten que las notas resuenen durante más tiempo y\ncapturan con precisión los matices de ataque y articulación. Son ideales para músicos que\ndesean expresarse con un amplio rango dinámico.\n",
+      "spans": [
+        {
+          "text": "Cancelación de ruido y menor sensibilidad: la principal característica de las humbuckers es su",
+          "bbox": [
+            37.73,
+            57.56,
+            552.52,
+            70.97
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            68.2
+          ]
+        },
+        {
+          "text": "capacidad para cancelar ruidos e interferencias eléctricas. Sus dos bobinas con polaridades",
+          "bbox": [
+            37.73,
+            68.74,
+            538.3,
+            82.15
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            79.39
+          ]
+        },
+        {
+          "text": "opuestas reducen el famoso hum y ofrecen mayor inmunidad frente al ruido externo.",
+          "bbox": [
+            37.73,
+            79.92,
+            506.94,
+            93.33
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            90.57
+          ]
+        },
+        {
+          "text": "Tono suave y sustain prolongado: permiten que las notas suenen de forma continua y",
+          "bbox": [
+            37.73,
+            147.59,
+            508.92,
+            161.0
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            158.24
+          ]
+        },
+        {
+          "text": "expresiva, algo muy valorado en solos y melodías largas. También tienden a producir un",
+          "bbox": [
+            37.73,
+            158.77,
+            519.89,
+            172.18
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            169.42
+          ]
+        },
+        {
+          "text": "sonido más suave y redondo, con medios más equilibrados que las single coil.",
+          "bbox": [
+            37.73,
+            169.95,
+            464.27,
+            183.36
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            180.6
+          ]
+        },
+        {
+          "text": "Versatilidad: aunque suelen relacionarse con géneros pesados, las humbuckers se adaptan a",
+          "bbox": [
+            37.73,
+            237.62,
+            546.89,
+            251.03
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            248.27
+          ]
+        },
+        {
+          "text": "muchos estilos. Pueden ofrecer desde un sonido lleno para blues hasta tonos pesados de rock",
+          "bbox": [
+            37.73,
+            248.8,
+            554.59,
+            262.21
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            259.45
+          ]
+        },
+        {
+          "text": "o metal, según el amplificador y los efectos utilizados.",
+          "bbox": [
+            37.73,
+            259.99,
+            331.92,
+            273.39
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            270.63
+          ]
+        },
+        {
+          "text": "Split coil y coil tap: algunas humbuckers permiten dividir la bobina para obtener un modo",
+          "bbox": [
+            37.73,
+            327.66,
+            532.18,
+            341.07
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            338.31
+          ]
+        },
+        {
+          "text": "single coil. Así es posible combinar lo mejor de ambos mundos. El split coil aporta más brillo y",
+          "bbox": [
+            37.73,
+            338.84,
+            551.37,
+            352.25
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            349.49
+          ]
+        },
+        {
+          "text": "definición, mientras que el modo humbucker conserva la potencia y el peso característicos.",
+          "bbox": [
+            37.73,
+            350.02,
+            539.13,
+            363.43
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            360.67
+          ]
+        },
+        {
+          "text": "P-90: el puente entre single coil y humbucker",
+          "bbox": [
+            37.62,
+            433.15,
+            432.64,
+            454.26
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            449.92
+          ]
+        },
+        {
+          "text": "Las pastillas P-90 ofrecen un tono versátil que combina características de las single coil y las",
+          "bbox": [
+            37.62,
+            478.85,
+            542.83,
+            492.26
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            489.5
+          ]
+        },
+        {
+          "text": "humbuckers. Se utilizan en muchos estilos, desde rock y blues hasta jazz e indie. Estas son sus",
+          "bbox": [
+            37.62,
+            490.03,
+            554.04,
+            503.44
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            500.68
+          ]
+        },
+        {
+          "text": "principales características:",
+          "bbox": [
+            37.62,
+            501.21,
+            182.27,
+            514.62
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            511.86
+          ]
+        },
+        {
+          "text": "Tono con cuerpo y presencia de single coil: ofrecen una respuesta más equilibrada que las",
+          "bbox": [
+            37.62,
+            553.88,
+            532.98,
+            567.29
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            564.53
+          ]
+        },
+        {
+          "text": "single coil, con medios destacados y un punch que atraviesa la mezcla. Suenan más gruesas y",
+          "bbox": [
+            37.62,
+            565.06,
+            553.14,
+            578.47
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            575.71
+          ]
+        },
+        {
+          "text": "potentes, pero mantienen claridad y definición.",
+          "bbox": [
+            37.62,
+            576.24,
+            297.72,
+            589.65
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            586.89
+          ]
+        },
+        {
+          "text": "Sustain y respuesta dinámica: las P-90 permiten que las notas resuenen durante más tiempo y",
+          "bbox": [
+            37.62,
+            643.91,
+            558.45,
+            657.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            654.56
+          ]
+        },
+        {
+          "text": "capturan con precisión los matices de ataque y articulación. Son ideales para músicos que",
+          "bbox": [
+            37.62,
+            655.09,
+            533.28,
+            668.5
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            665.74
+          ]
+        },
+        {
+          "text": "desean expresarse con un amplio rango dinámico.",
+          "bbox": [
+            37.62,
+            666.27,
+            315.22,
+            679.68
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            676.92
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 2
+    },
+    {
+      "page": 6,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Tono versátil: las P-90 se adaptan a diferentes estilos. Pueden ofrecer un tono cálido y con\ncuerpo para blues y rock clásico, o uno más suave y articulado para géneros limpios y\nmelódicos, como jazz e indie.\nSensibilidad moderada al ruido: generan menos hum que las single coil tradicionales, aunque\nno son totalmente inmunes a las interferencias. En ambientes con muchas fuentes de ruido\nconviene tomar medidas para reducirlo.\nExperimentación y personalización: existen muchas variaciones y diseños de P-90 para\nencontrar el sonido que mejor se adapte a cada preferencia. También pueden combinarse con\nhumbuckers o single coils para crear configuraciones híbridas y explorar nuevas posibilidades.\nPastillas activas: potencia, sustain y preamplificación\nLas pastillas activas son conocidas por su potencia, alta salida y capacidad de preamplificar la\nseñal. Se utilizan mucho en metal, rock y música de alta energía. Veamos sus principales\ncaracterísticas y su influencia en el tono:\nPotencia y salida elevada: ofrecen una salida mayor que las pastillas pasivas. El resultado es un\ntono más potente y con cuerpo, con respuesta inmediata y agresiva. Son ideales para estilos\nque exigen sonidos pesados y distorsionados.\nSustain largo y ganancia adicional: permiten prolongar las notas y crear solos expresivos. Su\ncircuito de preamplificación integrado añade ganancia, por lo que funcionan muy bien en\nestilos con distorsión intensa, como el metal.\nRespuesta de frecuencia ampliada: suelen reproducir agudos más brillantes, medios más\nmarcados y graves con más cuerpo que las pastillas pasivas. Esta amplitud contribuye a un\nsonido definido y articulado.\nBajo nivel de ruido: el preamplificador integrado ofrece una alta relación señal-ruido. Por eso\nproducen menos ruido no deseado que muchas pastillas pasivas, algo beneficioso en\nconfiguraciones de alta ganancia o escenarios con muchos equipos electrónicos.\n",
+      "spans": [
+        {
+          "text": "Tono versátil: las P-90 se adaptan a diferentes estilos. Pueden ofrecer un tono cálido y con",
+          "bbox": [
+            37.73,
+            57.56,
+            530.91,
+            70.97
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            68.2
+          ]
+        },
+        {
+          "text": "cuerpo para blues y rock clásico, o uno más suave y articulado para géneros limpios y",
+          "bbox": [
+            37.73,
+            68.74,
+            505.76,
+            82.15
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            79.39
+          ]
+        },
+        {
+          "text": "melódicos, como jazz e indie.",
+          "bbox": [
+            37.73,
+            79.92,
+            197.45,
+            93.33
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            90.57
+          ]
+        },
+        {
+          "text": "Sensibilidad moderada al ruido: generan menos hum que las single coil tradicionales, aunque",
+          "bbox": [
+            37.73,
+            147.59,
+            552.85,
+            161.0
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            158.24
+          ]
+        },
+        {
+          "text": "no son totalmente inmunes a las interferencias. En ambientes con muchas fuentes de ruido",
+          "bbox": [
+            37.73,
+            158.77,
+            543.61,
+            172.18
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            169.42
+          ]
+        },
+        {
+          "text": "conviene tomar medidas para reducirlo.",
+          "bbox": [
+            37.73,
+            169.95,
+            257.92,
+            183.36
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            180.6
+          ]
+        },
+        {
+          "text": "Experimentación y personalización: existen muchas variaciones y diseños de P-90 para",
+          "bbox": [
+            37.73,
+            237.62,
+            514.83,
+            251.03
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            248.27
+          ]
+        },
+        {
+          "text": "encontrar el sonido que mejor se adapte a cada preferencia. También pueden combinarse con",
+          "bbox": [
+            37.73,
+            248.8,
+            557.88,
+            262.21
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            259.45
+          ]
+        },
+        {
+          "text": "humbuckers o single coils para crear configuraciones híbridas y explorar nuevas posibilidades.",
+          "bbox": [
+            37.73,
+            259.99,
+            555.39,
+            273.39
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            270.63
+          ]
+        },
+        {
+          "text": "Pastillas activas: potencia, sustain y preamplificación",
+          "bbox": [
+            37.73,
+            353.39,
+            492.54,
+            374.5
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            370.15
+          ]
+        },
+        {
+          "text": "Las pastillas activas son conocidas por su potencia, alta salida y capacidad de preamplificar la",
+          "bbox": [
+            37.73,
+            399.09,
+            549.52,
+            412.49
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            409.73
+          ]
+        },
+        {
+          "text": "señal. Se utilizan mucho en metal, rock y música de alta energía. Veamos sus principales",
+          "bbox": [
+            37.73,
+            410.27,
+            523.51,
+            423.67
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            420.91
+          ]
+        },
+        {
+          "text": "características y su influencia en el tono:",
+          "bbox": [
+            37.73,
+            421.45,
+            258.76,
+            434.85
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            432.09
+          ]
+        },
+        {
+          "text": "Potencia y salida elevada: ofrecen una salida mayor que las pastillas pasivas. El resultado es un",
+          "bbox": [
+            37.73,
+            474.11,
+            555.54,
+            487.52
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            484.76
+          ]
+        },
+        {
+          "text": "tono más potente y con cuerpo, con respuesta inmediata y agresiva. Son ideales para estilos",
+          "bbox": [
+            37.73,
+            485.29,
+            543.76,
+            498.7
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            495.94
+          ]
+        },
+        {
+          "text": "que exigen sonidos pesados y distorsionados.",
+          "bbox": [
+            37.73,
+            496.47,
+            287.52,
+            509.88
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            507.12
+          ]
+        },
+        {
+          "text": "Sustain largo y ganancia adicional: permiten prolongar las notas y crear solos expresivos. Su",
+          "bbox": [
+            37.73,
+            564.15,
+            540.86,
+            577.56
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            574.8
+          ]
+        },
+        {
+          "text": "circuito de preamplificación integrado añade ganancia, por lo que funcionan muy bien en",
+          "bbox": [
+            37.73,
+            575.33,
+            532.66,
+            588.74
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            585.98
+          ]
+        },
+        {
+          "text": "estilos con distorsión intensa, como el metal.",
+          "bbox": [
+            37.73,
+            586.51,
+            283.39,
+            599.92
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            597.16
+          ]
+        },
+        {
+          "text": "Respuesta de frecuencia ampliada: suelen reproducir agudos más brillantes, medios más",
+          "bbox": [
+            37.73,
+            654.18,
+            528.19,
+            667.59
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            664.83
+          ]
+        },
+        {
+          "text": "marcados y graves con más cuerpo que las pastillas pasivas. Esta amplitud contribuye a un",
+          "bbox": [
+            37.73,
+            665.36,
+            537.41,
+            678.77
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            676.01
+          ]
+        },
+        {
+          "text": "sonido definido y articulado.",
+          "bbox": [
+            37.73,
+            676.54,
+            192.94,
+            689.95
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            687.19
+          ]
+        },
+        {
+          "text": "Bajo nivel de ruido: el preamplificador integrado ofrece una alta relación señal-ruido. Por eso",
+          "bbox": [
+            37.73,
+            744.22,
+            546.39,
+            757.62
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            754.86
+          ]
+        },
+        {
+          "text": "producen menos ruido no deseado que muchas pastillas pasivas, algo beneficioso en",
+          "bbox": [
+            37.73,
+            755.4,
+            505.88,
+            768.8
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            766.04
+          ]
+        },
+        {
+          "text": "configuraciones de alta ganancia o escenarios con muchos equipos electrónicos.",
+          "bbox": [
+            37.73,
+            766.58,
+            482.11,
+            779.99
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            777.22
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 2
+    },
+    {
+      "page": 7,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Las pastillas de cerámica son conocidas por un tono potente, agresivo y con énfasis en los\nmedios. Se utilizan ampliamente en rock, metal y otros géneros que requieren sonidos\npesados y distorsionados. Veamos sus principales características:\nPotencia y alta salida: están diseñadas para producir una señal fuerte y una respuesta intensa.\nEsto resulta ideal para distorsiones pesadas y solos agresivos. Ofrecen una reacción rápida y\nuna entrega de señal robusta.\nSonidos con cuerpo y medios destacados: tienden a realzar los medios, aportando presencia y\ndensidad. Esto ayuda a atravesar una mezcla cargada, sostener riffs poderosos y añadir\nclaridad y definición a notas y acordes.\nRespuesta equilibrada: aunque enfatizan los medios, también reproducen con claridad las\nfrecuencias altas y bajas. El resultado es un sonido articulado en el que cada nota se distingue\nbien.\nTono distintivo: tienen un ataque pronunciado y una respuesta poderosa. Suenan más\nbrillantes y agresivas que otros tipos, como las de alnico, y ese carácter suele asociarse con\nrock y metal.\nSensibilidad al toque y la dinámica: responden bien a los matices del ataque y permiten\ncontrolar la expresividad. Es posible obtener diferentes tonos variando la intensidad y la forma\nde tocar las cuerdas.\nVersatilidad limitada: son excelentes para estilos pesados, pero su énfasis en los medios y su\ncarácter agresivo pueden no ser ideales para géneros que requieren un tono suave o limpio.\nEfectos y pedales\npara guitarra\nPastillas de cerámica: potencia, agresividad y énfasis\nen los medios\n",
+      "spans": [
+        {
+          "text": "Las pastillas de cerámica son conocidas por un tono potente, agresivo y con énfasis en los",
+          "bbox": [
+            37.73,
+            104.89,
+            530.25,
+            118.3
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            115.54
+          ]
+        },
+        {
+          "text": "medios. Se utilizan ampliamente en rock, metal y otros géneros que requieren sonidos",
+          "bbox": [
+            37.73,
+            116.07,
+            513.75,
+            129.48
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            126.72
+          ]
+        },
+        {
+          "text": "pesados y distorsionados. Veamos sus principales características:",
+          "bbox": [
+            37.73,
+            127.25,
+            394.08,
+            140.66
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            137.9
+          ]
+        },
+        {
+          "text": "Potencia y alta salida: están diseñadas para producir una señal fuerte y una respuesta intensa.",
+          "bbox": [
+            37.73,
+            179.92,
+            553.74,
+            193.33
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            190.56
+          ]
+        },
+        {
+          "text": "Esto resulta ideal para distorsiones pesadas y solos agresivos. Ofrecen una reacción rápida y",
+          "bbox": [
+            37.73,
+            191.1,
+            541.36,
+            204.51
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            201.75
+          ]
+        },
+        {
+          "text": "una entrega de señal robusta.",
+          "bbox": [
+            37.73,
+            202.28,
+            202.02,
+            215.69
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            212.93
+          ]
+        },
+        {
+          "text": "Sonidos con cuerpo y medios destacados: tienden a realzar los medios, aportando presencia y",
+          "bbox": [
+            37.73,
+            269.95,
+            553.29,
+            283.36
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            280.6
+          ]
+        },
+        {
+          "text": "densidad. Esto ayuda a atravesar una mezcla cargada, sostener riffs poderosos y añadir",
+          "bbox": [
+            37.73,
+            281.13,
+            515.34,
+            294.54
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            291.78
+          ]
+        },
+        {
+          "text": "claridad y definición a notas y acordes.",
+          "bbox": [
+            37.73,
+            292.31,
+            248.98,
+            305.72
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            302.96
+          ]
+        },
+        {
+          "text": "Respuesta equilibrada: aunque enfatizan los medios, también reproducen con claridad las",
+          "bbox": [
+            37.73,
+            359.98,
+            533.8,
+            373.39
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            370.63
+          ]
+        },
+        {
+          "text": "frecuencias altas y bajas. El resultado es un sonido articulado en el que cada nota se distingue",
+          "bbox": [
+            37.73,
+            371.17,
+            553.49,
+            384.57
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            381.81
+          ]
+        },
+        {
+          "text": "bien.",
+          "bbox": [
+            37.73,
+            382.35,
+            64.56,
+            395.75
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            392.99
+          ]
+        },
+        {
+          "text": "Tono distintivo: tienen un ataque pronunciado y una respuesta poderosa. Suenan más",
+          "bbox": [
+            37.73,
+            435.01,
+            511.79,
+            448.42
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            445.66
+          ]
+        },
+        {
+          "text": "brillantes y agresivas que otros tipos, como las de alnico, y ese carácter suele asociarse con",
+          "bbox": [
+            37.73,
+            446.19,
+            534.43,
+            459.6
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            456.84
+          ]
+        },
+        {
+          "text": "rock y metal.",
+          "bbox": [
+            37.73,
+            457.37,
+            108.1,
+            470.78
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            468.02
+          ]
+        },
+        {
+          "text": "Sensibilidad al toque y la dinámica: responden bien a los matices del ataque y permiten",
+          "bbox": [
+            37.73,
+            510.04,
+            520.11,
+            523.45
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            520.69
+          ]
+        },
+        {
+          "text": "controlar la expresividad. Es posible obtener diferentes tonos variando la intensidad y la forma",
+          "bbox": [
+            37.73,
+            521.22,
+            554.91,
+            534.63
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            531.87
+          ]
+        },
+        {
+          "text": "de tocar las cuerdas.",
+          "bbox": [
+            37.73,
+            532.4,
+            150.04,
+            545.81
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            543.05
+          ]
+        },
+        {
+          "text": "Versatilidad limitada: son excelentes para estilos pesados, pero su énfasis en los medios y su",
+          "bbox": [
+            37.73,
+            600.08,
+            542.49,
+            613.48
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            610.72
+          ]
+        },
+        {
+          "text": "carácter agresivo pueden no ser ideales para géneros que requieren un tono suave o limpio.",
+          "bbox": [
+            37.73,
+            611.26,
+            543.75,
+            624.66
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            621.9
+          ]
+        },
+        {
+          "text": "Efectos y pedales",
+          "bbox": [
+            37.73,
+            726.14,
+            312.47,
+            762.71
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.73,
+            755.18
+          ]
+        },
+        {
+          "text": "para guitarra",
+          "bbox": [
+            37.73,
+            756.63,
+            243.44,
+            793.2
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.73,
+            785.67
+          ]
+        },
+        {
+          "text": "Pastillas de cerámica: potencia, agresividad y énfasis",
+          "bbox": [
+            37.73,
+            34.17,
+            491.67,
+            55.28
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            50.93
+          ]
+        },
+        {
+          "text": "en los medios",
+          "bbox": [
+            37.73,
+            51.77,
+            157.5,
+            72.88
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            68.54
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 8
+    },
+    {
+      "page": 8,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "02 | Efectos y pedales para guitarra\nEl módulo de Efectos y Pedales es una parte esencial del curso. Los alumnos conocerán los\ndiferentes efectos disponibles y aprenderán a utilizarlos para crear tonos únicos en sus\nguitarras.\n¿Qué son los efectos?\n¿Cómo utilizar pedales de efecto en la guitarra?\nElegir los efectos adecuados para cada sonoridad\nLos efectos son procesadores que alteran la señal eléctrica de la guitarra antes de que llegue\nal amplificador. Existen muchos tipos, cada uno con una función y un carácter propio. Algunos\nde los más comunes son:\nDistorsión/Overdrive: crea un sonido saturado, muy utilizado en rock y metal.\nReverb: genera una sensación de ambiente al simular la acústica de diferentes espacios.\nDelay: repite la señal original y crea ecos o repeticiones.\nWah-Wah: modifica una banda de frecuencia controlada por el guitarrista y produce un\nsonido característico.\nLos pedales permiten controlar los diferentes efectos de la guitarra. Se conectan entre el\ninstrumento y el amplificador y pueden activarse durante una interpretación.\nExisten varias configuraciones posibles. Una de las más utilizadas es la cadena en serie, en la\nque la señal atraviesa cada pedal en secuencia. Otra opción son los loops de efectos, que\ndividen la señal en diferentes recorridos para activar cada efecto de manera independiente.\nElegir los efectos adecuados puede marcar una gran diferencia al crear tonos únicos. Es\nimportante comprender el carácter de cada efecto y cómo pueden complementarse o\ninterferir entre sí.\nAlgunos efectos, como el reverb, son sutiles y crean espacio y profundidad. Otros, como la\ndistorsión, son más agresivos y ayudan a obtener sonidos pesados e intensos.\n",
+      "spans": [
+        {
+          "text": "02 | Efectos y pedales para guitarra",
+          "bbox": [
+            49.28,
+            68.57,
+            241.98,
+            81.98
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            49.28,
+            79.22
+          ]
+        },
+        {
+          "text": "El módulo de Efectos y Pedales es una parte esencial del curso. Los alumnos conocerán los",
+          "bbox": [
+            37.73,
+            116.12,
+            536.66,
+            129.53
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            126.77
+          ]
+        },
+        {
+          "text": "diferentes efectos disponibles y aprenderán a utilizarlos para crear tonos únicos en sus",
+          "bbox": [
+            37.73,
+            127.3,
+            513.3,
+            140.71
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            137.95
+          ]
+        },
+        {
+          "text": "guitarras.",
+          "bbox": [
+            37.73,
+            138.48,
+            89.59,
+            151.89
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            149.13
+          ]
+        },
+        {
+          "text": "¿Qué son los efectos?",
+          "bbox": [
+            37.73,
+            195.5,
+            225.5,
+            216.61
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            212.26
+          ]
+        },
+        {
+          "text": "¿Cómo utilizar pedales de efecto en la guitarra?",
+          "bbox": [
+            37.73,
+            449.14,
+            451.11,
+            470.25
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            465.91
+          ]
+        },
+        {
+          "text": "Elegir los efectos adecuados para cada sonoridad",
+          "bbox": [
+            37.73,
+            655.58,
+            465.33,
+            676.69
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            672.34
+          ]
+        },
+        {
+          "text": "Los efectos son procesadores que alteran la señal eléctrica de la guitarra antes de que llegue",
+          "bbox": [
+            37.73,
+            232.28,
+            547.12,
+            245.69
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            242.93
+          ]
+        },
+        {
+          "text": "al amplificador. Existen muchos tipos, cada uno con una función y un carácter propio. Algunos",
+          "bbox": [
+            37.73,
+            243.46,
+            556.3,
+            256.87
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            254.11
+          ]
+        },
+        {
+          "text": "de los más comunes son:",
+          "bbox": [
+            37.73,
+            254.64,
+            175.75,
+            268.05
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            265.29
+          ]
+        },
+        {
+          "text": "Distorsión/Overdrive: crea un sonido saturado, muy utilizado en rock y metal.",
+          "bbox": [
+            37.73,
+            292.3,
+            459.88,
+            305.71
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            302.95
+          ]
+        },
+        {
+          "text": "Reverb: genera una sensación de ambiente al simular la acústica de diferentes espacios.",
+          "bbox": [
+            37.73,
+            337.32,
+            529.7,
+            350.73
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            347.97
+          ]
+        },
+        {
+          "text": "Delay: repite la señal original y crea ecos o repeticiones.",
+          "bbox": [
+            37.73,
+            367.33,
+            347.37,
+            380.74
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            377.98
+          ]
+        },
+        {
+          "text": "Wah-Wah: modifica una banda de frecuencia controlada por el guitarrista y produce un",
+          "bbox": [
+            37.73,
+            397.34,
+            527.61,
+            410.75
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            407.99
+          ]
+        },
+        {
+          "text": "sonido característico.",
+          "bbox": [
+            37.73,
+            408.52,
+            156.23,
+            421.93
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            419.17
+          ]
+        },
+        {
+          "text": "Los pedales permiten controlar los diferentes efectos de la guitarra. Se conectan entre el",
+          "bbox": [
+            37.73,
+            485.92,
+            524.14,
+            499.33
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            496.57
+          ]
+        },
+        {
+          "text": "instrumento y el amplificador y pueden activarse durante una interpretación.",
+          "bbox": [
+            37.73,
+            497.1,
+            462.85,
+            510.51
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            507.75
+          ]
+        },
+        {
+          "text": "Existen varias configuraciones posibles. Una de las más utilizadas es la cadena en serie, en la",
+          "bbox": [
+            37.73,
+            545.95,
+            544.11,
+            559.35
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            556.59
+          ]
+        },
+        {
+          "text": "que la señal atraviesa cada pedal en secuencia. Otra opción son los loops de efectos, que",
+          "bbox": [
+            37.73,
+            557.13,
+            524.27,
+            570.54
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            567.77
+          ]
+        },
+        {
+          "text": "dividen la señal en diferentes recorridos para activar cada efecto de manera independiente.",
+          "bbox": [
+            37.73,
+            568.31,
+            541.27,
+            581.72
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            578.95
+          ]
+        },
+        {
+          "text": "Elegir los efectos adecuados puede marcar una gran diferencia al crear tonos únicos. Es",
+          "bbox": [
+            37.73,
+            692.36,
+            519.96,
+            705.77
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            703.01
+          ]
+        },
+        {
+          "text": "importante comprender el carácter de cada efecto y cómo pueden complementarse o",
+          "bbox": [
+            37.73,
+            703.54,
+            514.27,
+            716.95
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            714.19
+          ]
+        },
+        {
+          "text": "interferir entre sí.",
+          "bbox": [
+            37.73,
+            714.72,
+            131.83,
+            728.13
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            725.37
+          ]
+        },
+        {
+          "text": "Algunos efectos, como el reverb, son sutiles y crean espacio y profundidad. Otros, como la",
+          "bbox": [
+            37.73,
+            752.38,
+            530.21,
+            765.79
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            763.03
+          ]
+        },
+        {
+          "text": "distorsión, son más agresivos y ayudan a obtener sonidos pesados e intensos.",
+          "bbox": [
+            37.73,
+            763.56,
+            462.1,
+            776.97
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            774.21
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 4
+    },
+    {
+      "page": 9,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Conoce algunos\nefectos de guitarra\nDistorsión\nDelay\nReverb\nWah\nLa distorsión se utiliza con frecuencia en rock y metal para añadir ganancia y agresividad.\nComprime la señal y crea un tono saturado con mucho sustain. El overdrive produce una\nsaturación más suave, ideal para blues y rock clásico.\nEl delay repite el sonido y añade profundidad y espacio. Crea copias de la señal original con\ndiferentes retrasos, produciendo ecos. Puede generar paisajes expansivos, destacar partes\nmusicales o aportar una sensación de profundidad.\nEl reverb añade espacio y ambiente al simular la reverberación de salas de conciertos, estudios\no lugares abiertos. Puede ser sutil y natural o exagerado y atmosférico, según las preferencias\ny el estilo musical.\nEl wah-wah crea un sonido parecido a una voz cuando el guitarrista mueve el pedal. Filtra\ndeterminadas frecuencias y produce una sensación similar a una boca que se abre y se cierra.\nSe utiliza mucho en solos para añadir expresión y dinámica.\n",
+      "spans": [
+        {
+          "text": "Conoce algunos",
+          "bbox": [
+            37.62,
+            104.75,
+            289.98,
+            141.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            133.79
+          ]
+        },
+        {
+          "text": "efectos de guitarra",
+          "bbox": [
+            37.62,
+            135.24,
+            336.69,
+            171.81
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            164.28
+          ]
+        },
+        {
+          "text": "Distorsión",
+          "bbox": [
+            37.62,
+            256.38,
+            125.56,
+            277.49
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            273.14
+          ]
+        },
+        {
+          "text": "Delay",
+          "bbox": [
+            37.62,
+            388.48,
+            86.66,
+            409.59
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            405.24
+          ]
+        },
+        {
+          "text": "Reverb",
+          "bbox": [
+            37.73,
+            520.57,
+            99.26,
+            541.69
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            537.34
+          ]
+        },
+        {
+          "text": "Wah",
+          "bbox": [
+            37.73,
+            652.67,
+            78.9,
+            673.78
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            669.44
+          ]
+        },
+        {
+          "text": "La distorsión se utiliza con frecuencia en rock y metal para añadir ganancia y agresividad.",
+          "bbox": [
+            37.62,
+            293.16,
+            528.13,
+            306.57
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            303.81
+          ]
+        },
+        {
+          "text": "Comprime la señal y crea un tono saturado con mucho sustain. El overdrive produce una",
+          "bbox": [
+            37.62,
+            304.34,
+            526.39,
+            317.75
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            314.99
+          ]
+        },
+        {
+          "text": "saturación más suave, ideal para blues y rock clásico.",
+          "bbox": [
+            37.62,
+            315.52,
+            327.11,
+            328.93
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            326.17
+          ]
+        },
+        {
+          "text": "El delay repite el sonido y añade profundidad y espacio. Crea copias de la señal original con",
+          "bbox": [
+            37.62,
+            425.26,
+            538.03,
+            438.67
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            435.91
+          ]
+        },
+        {
+          "text": "diferentes retrasos, produciendo ecos. Puede generar paisajes expansivos, destacar partes",
+          "bbox": [
+            37.62,
+            436.44,
+            532.89,
+            449.85
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            447.09
+          ]
+        },
+        {
+          "text": "musicales o aportar una sensación de profundidad.",
+          "bbox": [
+            37.62,
+            447.62,
+            319.17,
+            461.03
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            458.27
+          ]
+        },
+        {
+          "text": "El reverb añade espacio y ambiente al simular la reverberación de salas de conciertos, estudios",
+          "bbox": [
+            37.73,
+            557.36,
+            558.12,
+            570.77
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            568.0
+          ]
+        },
+        {
+          "text": "o lugares abiertos. Puede ser sutil y natural o exagerado y atmosférico, según las preferencias",
+          "bbox": [
+            37.73,
+            568.54,
+            550.95,
+            581.95
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            579.18
+          ]
+        },
+        {
+          "text": "y el estilo musical.",
+          "bbox": [
+            37.73,
+            579.72,
+            136.6,
+            593.13
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            590.36
+          ]
+        },
+        {
+          "text": "El wah-wah crea un sonido parecido a una voz cuando el guitarrista mueve el pedal. Filtra",
+          "bbox": [
+            37.73,
+            689.45,
+            530.96,
+            702.86
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            700.1
+          ]
+        },
+        {
+          "text": "determinadas frecuencias y produce una sensación similar a una boca que se abre y se cierra.",
+          "bbox": [
+            37.73,
+            700.63,
+            552.03,
+            714.04
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            711.28
+          ]
+        },
+        {
+          "text": "Se utiliza mucho en solos para añadir expresión y dinámica.",
+          "bbox": [
+            37.73,
+            711.81,
+            364.81,
+            725.22
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            722.46
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 8
+    },
+    {
+      "page": 10,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Conoce algunos\nefectos de guitarra\nPedal de volumen\nPhaser\nChorus\nTremolo\nEl pedal de volumen permite ajustar manualmente el nivel de la guitarra. Puede crear swells\nsuaves, transiciones entre partes y controlar la intensidad de otros efectos. También sirve para\natenuar la guitarra en momentos específicos de una canción.\nEl phaser añade una variación de fase y crea un sonido en movimiento. Divide la señal, retrasa\nuna parte y vuelve a combinar ambas. El resultado es un barrido espacial y brillante. Se utiliza\nmucho en rock, funk y música psicodélica.\nEl chorus crea la ilusión de varias guitarras tocando juntas. Duplica la señal, retrasa una copia y\nla mezcla con la original. El resultado es más lleno y expansivo, parecido a un coro. Se utiliza en\nmuchos estilos para añadir profundidad y textura.\nEl tremolo modula el volumen y produce una variación rítmica en la intensidad. Puede\nconfigurarse para pulsaciones lentas y sutiles o para un efecto más marcado. Se utiliza en\nmuchos estilos para añadir movimiento e interés al sonido.\n",
+      "spans": [
+        {
+          "text": "Conoce algunos",
+          "bbox": [
+            37.62,
+            104.75,
+            289.98,
+            141.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            133.79
+          ]
+        },
+        {
+          "text": "efectos de guitarra",
+          "bbox": [
+            37.62,
+            135.24,
+            336.69,
+            171.81
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            164.28
+          ]
+        },
+        {
+          "text": "Pedal de volumen",
+          "bbox": [
+            37.62,
+            256.38,
+            195.51,
+            277.49
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            273.14
+          ]
+        },
+        {
+          "text": "Phaser",
+          "bbox": [
+            37.73,
+            403.48,
+            97.96,
+            424.59
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            420.25
+          ]
+        },
+        {
+          "text": "Chorus",
+          "bbox": [
+            37.73,
+            550.58,
+            99.62,
+            571.7
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            567.35
+          ]
+        },
+        {
+          "text": "Tremolo",
+          "bbox": [
+            37.73,
+            688.33,
+            109.84,
+            709.45
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            705.1
+          ]
+        },
+        {
+          "text": "El pedal de volumen permite ajustar manualmente el nivel de la guitarra. Puede crear swells",
+          "bbox": [
+            37.62,
+            293.16,
+            546.3,
+            306.57
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            303.81
+          ]
+        },
+        {
+          "text": "suaves, transiciones entre partes y controlar la intensidad de otros efectos. También sirve para",
+          "bbox": [
+            37.62,
+            304.34,
+            553.54,
+            317.75
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            314.99
+          ]
+        },
+        {
+          "text": "atenuar la guitarra en momentos específicos de una canción.",
+          "bbox": [
+            37.62,
+            315.52,
+            374.51,
+            328.93
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            326.17
+          ]
+        },
+        {
+          "text": "El phaser añade una variación de fase y crea un sonido en movimiento. Divide la señal, retrasa",
+          "bbox": [
+            37.73,
+            440.26,
+            553.48,
+            453.67
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            450.91
+          ]
+        },
+        {
+          "text": "una parte y vuelve a combinar ambas. El resultado es un barrido espacial y brillante. Se utiliza",
+          "bbox": [
+            37.73,
+            451.44,
+            550.18,
+            464.85
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            462.09
+          ]
+        },
+        {
+          "text": "mucho en rock, funk y música psicodélica.",
+          "bbox": [
+            37.73,
+            462.62,
+            270.19,
+            476.03
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            473.27
+          ]
+        },
+        {
+          "text": "El chorus crea la ilusión de varias guitarras tocando juntas. Duplica la señal, retrasa una copia y",
+          "bbox": [
+            37.73,
+            587.37,
+            557.43,
+            600.78
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            598.02
+          ]
+        },
+        {
+          "text": "la mezcla con la original. El resultado es más lleno y expansivo, parecido a un coro. Se utiliza en",
+          "bbox": [
+            37.73,
+            598.55,
+            557.68,
+            611.96
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            609.2
+          ]
+        },
+        {
+          "text": "muchos estilos para añadir profundidad y textura.",
+          "bbox": [
+            37.73,
+            609.73,
+            311.92,
+            623.14
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            620.38
+          ]
+        },
+        {
+          "text": "El tremolo modula el volumen y produce una variación rítmica en la intensidad. Puede",
+          "bbox": [
+            37.73,
+            725.12,
+            514.15,
+            738.53
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            735.77
+          ]
+        },
+        {
+          "text": "configurarse para pulsaciones lentas y sutiles o para un efecto más marcado. Se utiliza en",
+          "bbox": [
+            37.73,
+            736.3,
+            528.98,
+            749.71
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            746.95
+          ]
+        },
+        {
+          "text": "muchos estilos para añadir movimiento e interés al sonido.",
+          "bbox": [
+            37.73,
+            747.48,
+            361.43,
+            760.89
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            758.13
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 8
+    },
+    {
+      "page": 11,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Cómo funciona la\ncadena de efectos\nOrden y combinaciones ideales\nEl orden y las combinaciones de una cadena pueden cambiar significativamente el tono final.\nLa secuencia de conexión afecta la interacción entre los efectos y la forma en que se procesa\ncada uno.\nUna secuencia común comienza con modulaciones como chorus, flanger o phaser, seguidas\nde distorsión y overdrive. Así, la modulación actúa sobre una señal limpia antes de que sea\nsaturada, creando un tono distorsionado con movimiento y textura.\nDespués pueden añadirse delay y reverb, que aportan profundidad y ambiente. Suelen\nfuncionar mejor después de la distorsión para conservar las repeticiones y reverberaciones sin\nsaturarlas o comprimirlas en exceso.\nNo existen reglas rígidas. Cada guitarrista puede experimentar con distintas combinaciones\npara encontrar el tono deseado. Invertir el orden o introducir variaciones puede producir\nresultados únicos e interesantes.\nEscucha atentamente el resultado al añadir efectos o cambiar su orden. Considera cómo\ninteractúan y ajusta cada uno hasta obtener un equilibrio agradable. El objetivo es crear un\nsonido que se adapte a la música y realce la expresión; la experimentación es esencial para\ndescubrir las combinaciones ideales.\n",
+      "spans": [
+        {
+          "text": "Cómo funciona la",
+          "bbox": [
+            37.62,
+            104.75,
+            313.23,
+            141.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            133.79
+          ]
+        },
+        {
+          "text": "cadena de efectos",
+          "bbox": [
+            37.62,
+            135.24,
+            325.29,
+            171.81
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            164.28
+          ]
+        },
+        {
+          "text": "Orden y combinaciones ideales",
+          "bbox": [
+            37.73,
+            290.29,
+            309.99,
+            311.41
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            307.06
+          ]
+        },
+        {
+          "text": "El orden y las combinaciones de una cadena pueden cambiar significativamente el tono final.",
+          "bbox": [
+            37.73,
+            336.26,
+            552.15,
+            349.67
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            346.91
+          ]
+        },
+        {
+          "text": "La secuencia de conexión afecta la interacción entre los efectos y la forma en que se procesa",
+          "bbox": [
+            37.73,
+            347.44,
+            546.54,
+            360.85
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            358.09
+          ]
+        },
+        {
+          "text": "cada uno.",
+          "bbox": [
+            37.73,
+            358.62,
+            91.3,
+            372.03
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            369.27
+          ]
+        },
+        {
+          "text": "Una secuencia común comienza con modulaciones como chorus, flanger o phaser, seguidas",
+          "bbox": [
+            37.73,
+            396.28,
+            546.91,
+            409.69
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            406.93
+          ]
+        },
+        {
+          "text": "de distorsión y overdrive. Así, la modulación actúa sobre una señal limpia antes de que sea",
+          "bbox": [
+            37.73,
+            407.46,
+            534.3,
+            420.87
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            418.11
+          ]
+        },
+        {
+          "text": "saturada, creando un tono distorsionado con movimiento y textura.",
+          "bbox": [
+            37.73,
+            418.64,
+            408.93,
+            432.05
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            429.29
+          ]
+        },
+        {
+          "text": "Después pueden añadirse delay y reverb, que aportan profundidad y ambiente. Suelen",
+          "bbox": [
+            37.73,
+            486.32,
+            515.21,
+            499.73
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            496.96
+          ]
+        },
+        {
+          "text": "funcionar mejor después de la distorsión para conservar las repeticiones y reverberaciones sin",
+          "bbox": [
+            37.73,
+            497.5,
+            553.85,
+            510.91
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            508.15
+          ]
+        },
+        {
+          "text": "saturarlas o comprimirlas en exceso.",
+          "bbox": [
+            37.73,
+            508.68,
+            237.48,
+            522.09
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            519.33
+          ]
+        },
+        {
+          "text": "No existen reglas rígidas. Cada guitarrista puede experimentar con distintas combinaciones",
+          "bbox": [
+            37.73,
+            561.34,
+            542.69,
+            574.75
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            571.99
+          ]
+        },
+        {
+          "text": "para encontrar el tono deseado. Invertir el orden o introducir variaciones puede producir",
+          "bbox": [
+            37.73,
+            572.53,
+            524.27,
+            585.93
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            583.17
+          ]
+        },
+        {
+          "text": "resultados únicos e interesantes.",
+          "bbox": [
+            37.73,
+            583.71,
+            217.39,
+            597.11
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            594.35
+          ]
+        },
+        {
+          "text": "Escucha atentamente el resultado al añadir efectos o cambiar su orden. Considera cómo",
+          "bbox": [
+            37.73,
+            636.37,
+            525.55,
+            649.78
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            647.02
+          ]
+        },
+        {
+          "text": "interactúan y ajusta cada uno hasta obtener un equilibrio agradable. El objetivo es crear un",
+          "bbox": [
+            37.73,
+            647.55,
+            539.01,
+            660.96
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            658.2
+          ]
+        },
+        {
+          "text": "sonido que se adapte a la música y realce la expresión; la experimentación es esencial para",
+          "bbox": [
+            37.73,
+            658.73,
+            536.46,
+            672.14
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            669.38
+          ]
+        },
+        {
+          "text": "descubrir las combinaciones ideales.",
+          "bbox": [
+            37.73,
+            669.91,
+            238.95,
+            683.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            680.56
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 8
+    },
+    {
+      "page": 12,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Técnicas\navanzadas para\ncrear tonos\n03 | Técnicas avanzadas para crear tonos\nEl módulo de Técnicas Avanzadas es la última etapa del curso. Los alumnos aprenderán\nrecursos más avanzados para crear tonos únicos y personalizados en sus guitarras.\nUso de diferentes pastillas\nUtilizar diferentes pastillas puede producir una gran variedad de tonos. Algunos de los tipos\nmás comunes son:\nSingle coil: produce un sonido claro y brillante, habitual en géneros como pop y funk.\nHumbucker: produce un sonido con más cuerpo y peso, frecuente en rock y metal.\nP-90: produce un sonido cálido y vintage, utilizado sobre todo en blues y rock clásico.\n",
+      "spans": [
+        {
+          "text": "Técnicas",
+          "bbox": [
+            37.62,
+            104.75,
+            174.75,
+            141.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            133.79
+          ]
+        },
+        {
+          "text": "avanzadas para",
+          "bbox": [
+            37.62,
+            135.24,
+            282.45,
+            171.81
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            164.28
+          ]
+        },
+        {
+          "text": "crear tonos",
+          "bbox": [
+            37.62,
+            165.73,
+            216.15,
+            202.3
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            194.77
+          ]
+        },
+        {
+          "text": "03 | Técnicas avanzadas para crear tonos",
+          "bbox": [
+            47.86,
+            361.18,
+            271.33,
+            374.59
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            47.86,
+            371.83
+          ]
+        },
+        {
+          "text": "El módulo de Técnicas Avanzadas es la última etapa del curso. Los alumnos aprenderán",
+          "bbox": [
+            37.73,
+            412.5,
+            520.12,
+            425.91
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            423.15
+          ]
+        },
+        {
+          "text": "recursos más avanzados para crear tonos únicos y personalizados en sus guitarras.",
+          "bbox": [
+            37.73,
+            423.68,
+            490.63,
+            437.09
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            434.33
+          ]
+        },
+        {
+          "text": "Uso de diferentes pastillas",
+          "bbox": [
+            37.62,
+            493.56,
+            264.36,
+            514.67
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            510.33
+          ]
+        },
+        {
+          "text": "Utilizar diferentes pastillas puede producir una gran variedad de tonos. Algunos de los tipos",
+          "bbox": [
+            37.62,
+            530.34,
+            541.22,
+            543.75
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            540.99
+          ]
+        },
+        {
+          "text": "más comunes son:",
+          "bbox": [
+            37.62,
+            541.52,
+            140.55,
+            554.93
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            552.17
+          ]
+        },
+        {
+          "text": "Single coil: produce un sonido claro y brillante, habitual en géneros como pop y funk.",
+          "bbox": [
+            37.62,
+            575.36,
+            504.5,
+            588.77
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            586.01
+          ]
+        },
+        {
+          "text": "Humbucker: produce un sonido con más cuerpo y peso, frecuente en rock y metal.",
+          "bbox": [
+            37.62,
+            620.38,
+            492.35,
+            633.79
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            631.02
+          ]
+        },
+        {
+          "text": "P-90: produce un sonido cálido y vintage, utilizado sobre todo en blues y rock clásico.",
+          "bbox": [
+            37.62,
+            665.39,
+            504.44,
+            678.8
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            676.04
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 10
+    },
+    {
+      "page": 13,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Uso de técnicas de púa\nLas técnicas de púa también influyen de manera significativa en el tono. Entre las más\ncomunes se encuentran:\nPúa alternada: alterna la dirección de la púa para crear un sonido uniforme y articulado.\nSweep picking: utiliza un movimiento continuo de la púa sobre las cuerdas y crea una\nsonoridad fluida y rápida.\nHybrid picking: combina púa y dedos para lograr una mayor variedad rítmica y melódica.\nUso de técnicas de fingerpicking\nUso de afinaciones alternativas\nNota: comentario del profesor\nLas técnicas de fingerpicking también son importantes para crear diferentes tonos. Entre las\nmás comunes se encuentran:\nFingerstyle: cada dedo toca una cuerda diferente, lo que permite mayor versatilidad melódica\ny armónica.\nArpegios: las notas de un acorde se tocan por separado para crear una sonoridad clara y\ndefinida.\nLas afinaciones alternativas pueden producir una gran variedad de tonos. Algunos ejemplos\ncomunes son:\nDrop D: la cuerda más grave se afina un tono abajo.\nAfinación abierta: las cuerdas forman un acorde abierto y facilitan la creación de arreglos y\narmonías.\nDADGAD: las cuerdas forman un acorde Dsus4 y producen una sonoridad característica, muy\nutilizada en folk y fingerstyle.\nQuizás no lo sepas, pero hoy tengo el curso en video sobre afinación DADGAD más grande de\nBrasil. Si quieres formar parte de la mayor comunidad dedicada al DADGAD, a continuación\nencontrarás el enlace para inscribirte con casi un 50% de descuento exclusivo para alumnos.\nhttps://www.descomplicandodadgad.com.br\n",
+      "spans": [
+        {
+          "text": "Uso de técnicas de púa",
+          "bbox": [
+            37.73,
+            41.82,
+            238.96,
+            62.93
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            58.58
+          ]
+        },
+        {
+          "text": "Las técnicas de púa también influyen de manera significativa en el tono. Entre las más",
+          "bbox": [
+            37.85,
+            87.72,
+            512.48,
+            101.13
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            98.37
+          ]
+        },
+        {
+          "text": "comunes se encuentran:",
+          "bbox": [
+            37.85,
+            98.9,
+            174.1,
+            112.31
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            109.55
+          ]
+        },
+        {
+          "text": "Púa alternada: alterna la dirección de la púa para crear un sonido uniforme y articulado.",
+          "bbox": [
+            37.85,
+            132.73,
+            527.04,
+            146.14
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            143.38
+          ]
+        },
+        {
+          "text": "Sweep picking: utiliza un movimiento continuo de la púa sobre las cuerdas y crea una",
+          "bbox": [
+            37.85,
+            162.75,
+            509.18,
+            176.15
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            173.39
+          ]
+        },
+        {
+          "text": "sonoridad fluida y rápida.",
+          "bbox": [
+            37.85,
+            173.93,
+            176.41,
+            187.33
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            184.57
+          ]
+        },
+        {
+          "text": "Hybrid picking: combina púa y dedos para lograr una mayor variedad rítmica y melódica.",
+          "bbox": [
+            37.85,
+            207.76,
+            527.07,
+            221.17
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            218.41
+          ]
+        },
+        {
+          "text": "Uso de técnicas de fingerpicking",
+          "bbox": [
+            37.73,
+            261.17,
+            321.61,
+            282.29
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            277.94
+          ]
+        },
+        {
+          "text": "Uso de afinaciones alternativas",
+          "bbox": [
+            37.85,
+            455.95,
+            306.25,
+            477.06
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            472.71
+          ]
+        },
+        {
+          "text": "Nota: comentario del profesor",
+          "bbox": [
+            37.96,
+            675.21,
+            231.72,
+            690.99
+          ],
+          "font": "Montserrat-Thin",
+          "size": 12.94,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            687.74
+          ]
+        },
+        {
+          "text": "Las técnicas de fingerpicking también son importantes para crear diferentes tonos. Entre las",
+          "bbox": [
+            37.85,
+            306.96,
+            546.83,
+            320.37
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            317.61
+          ]
+        },
+        {
+          "text": "más comunes se encuentran:",
+          "bbox": [
+            37.85,
+            318.14,
+            200.51,
+            331.55
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            328.79
+          ]
+        },
+        {
+          "text": "Fingerstyle: cada dedo toca una cuerda diferente, lo que permite mayor versatilidad melódica",
+          "bbox": [
+            37.85,
+            351.98,
+            553.8,
+            365.39
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            362.63
+          ]
+        },
+        {
+          "text": "y armónica.",
+          "bbox": [
+            37.85,
+            363.16,
+            101.57,
+            376.57
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            373.81
+          ]
+        },
+        {
+          "text": "Arpegios: las notas de un acorde se tocan por separado para crear una sonoridad clara y",
+          "bbox": [
+            37.85,
+            397.0,
+            520.73,
+            410.41
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            407.65
+          ]
+        },
+        {
+          "text": "definida.",
+          "bbox": [
+            37.85,
+            408.18,
+            85.31,
+            421.59
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            418.83
+          ]
+        },
+        {
+          "text": "Las afinaciones alternativas pueden producir una gran variedad de tonos. Algunos ejemplos",
+          "bbox": [
+            37.96,
+            501.74,
+            543.64,
+            515.15
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            512.39
+          ]
+        },
+        {
+          "text": "comunes son:",
+          "bbox": [
+            37.96,
+            512.92,
+            114.47,
+            526.33
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            523.57
+          ]
+        },
+        {
+          "text": "Drop D: la cuerda más grave se afina un tono abajo.",
+          "bbox": [
+            37.96,
+            546.76,
+            325.24,
+            560.17
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            557.4
+          ]
+        },
+        {
+          "text": "Afinación abierta: las cuerdas forman un acorde abierto y facilitan la creación de arreglos y",
+          "bbox": [
+            37.96,
+            576.77,
+            534.29,
+            590.18
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            587.42
+          ]
+        },
+        {
+          "text": "armonías.",
+          "bbox": [
+            37.96,
+            587.95,
+            92.01,
+            601.36
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            598.6
+          ]
+        },
+        {
+          "text": "DADGAD: las cuerdas forman un acorde Dsus4 y producen una sonoridad característica, muy",
+          "bbox": [
+            37.96,
+            621.78,
+            550.85,
+            635.19
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            632.43
+          ]
+        },
+        {
+          "text": "utilizada en folk y fingerstyle.",
+          "bbox": [
+            37.96,
+            632.96,
+            196.92,
+            646.37
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            643.61
+          ]
+        },
+        {
+          "text": "Quizás no lo sepas, pero hoy tengo el curso en video sobre afinación DADGAD más grande de",
+          "bbox": [
+            37.96,
+            706.64,
+            552.02,
+            720.05
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            717.29
+          ]
+        },
+        {
+          "text": "Brasil. Si quieres formar parte de la mayor comunidad dedicada al DADGAD, a continuación",
+          "bbox": [
+            37.96,
+            717.82,
+            542.56,
+            731.23
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            728.47
+          ]
+        },
+        {
+          "text": "encontrarás el enlace para inscribirte con casi un 50% de descuento exclusivo para alumnos.",
+          "bbox": [
+            37.96,
+            729.0,
+            544.98,
+            742.41
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            739.65
+          ]
+        },
+        {
+          "text": "https://www.descomplicandodadgad.com.br",
+          "bbox": [
+            37.96,
+            780.65,
+            327.93,
+            796.42
+          ],
+          "font": "Montserrat-Thin",
+          "size": 12.94,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            793.18
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 3
+    },
+    {
+      "page": 14,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Ejercicios\nprácticos\n04 | Ejercicios prácticos\nEn esta lección pondremos la teoría en práctica mediante actividades. Realiza cada ejercicio\npara desarrollar habilidades útiles para la disciplina.\nIdentifica tonos en diferentes géneros musicales\nPrueba diferentes combinaciones de pedales\nUtiliza afinaciones alternativas\nEscucha canciones de géneros como pop, rock, blues y jazz e intenta identificar las diferencias\nentre los tonos de guitarra utilizados en cada una.\nConecta diferentes pedales en tu cadena y prueba varias combinaciones. Observa cómo\nafecta cada pedal al sonido general de la guitarra.\nPrueba afinaciones como Open D o DADGAD. Crea acordes y melodías con ellas y observa\ncómo pueden cambiar el tono general de la guitarra.\nNota: DADGAD es mejor, ¿eh? ¡Jajaja!\nPongamos tus conocimientos en práctica\n",
+      "spans": [
+        {
+          "text": "Ejercicios",
+          "bbox": [
+            37.62,
+            104.75,
+            187.92,
+            141.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            133.79
+          ]
+        },
+        {
+          "text": "prácticos",
+          "bbox": [
+            37.62,
+            135.24,
+            182.88,
+            171.81
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            164.28
+          ]
+        },
+        {
+          "text": "04 | Ejercicios prácticos",
+          "bbox": [
+            47.86,
+            309.41,
+            176.73,
+            322.82
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            47.86,
+            320.06
+          ]
+        },
+        {
+          "text": "En esta lección pondremos la teoría en práctica mediante actividades. Realiza cada ejercicio",
+          "bbox": [
+            37.73,
+            360.73,
+            543.86,
+            374.14
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            371.38
+          ]
+        },
+        {
+          "text": "para desarrollar habilidades útiles para la disciplina.",
+          "bbox": [
+            37.73,
+            371.91,
+            320.71,
+            385.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            382.56
+          ]
+        },
+        {
+          "text": "Identifica tonos en diferentes géneros musicales",
+          "bbox": [
+            37.62,
+            441.79,
+            457.95,
+            462.9
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            458.56
+          ]
+        },
+        {
+          "text": "Prueba diferentes combinaciones de pedales",
+          "bbox": [
+            37.73,
+            544.63,
+            430.28,
+            565.74
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            561.39
+          ]
+        },
+        {
+          "text": "Utiliza afinaciones alternativas",
+          "bbox": [
+            37.73,
+            662.47,
+            300.15,
+            683.58
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            679.24
+          ]
+        },
+        {
+          "text": "Escucha canciones de géneros como pop, rock, blues y jazz e intenta identificar las diferencias",
+          "bbox": [
+            37.62,
+            478.57,
+            555.13,
+            491.98
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            489.22
+          ]
+        },
+        {
+          "text": "entre los tonos de guitarra utilizados en cada una.",
+          "bbox": [
+            37.62,
+            489.75,
+            311.74,
+            503.16
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            500.4
+          ]
+        },
+        {
+          "text": "Conecta diferentes pedales en tu cadena y prueba varias combinaciones. Observa cómo",
+          "bbox": [
+            37.73,
+            581.41,
+            522.44,
+            594.82
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            592.06
+          ]
+        },
+        {
+          "text": "afecta cada pedal al sonido general de la guitarra.",
+          "bbox": [
+            37.73,
+            592.59,
+            311.06,
+            606.0
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            603.24
+          ]
+        },
+        {
+          "text": "Prueba afinaciones como Open D o DADGAD. Crea acordes y melodías con ellas y observa",
+          "bbox": [
+            37.73,
+            699.25,
+            532.6,
+            712.66
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            709.9
+          ]
+        },
+        {
+          "text": "cómo pueden cambiar el tono general de la guitarra.",
+          "bbox": [
+            37.73,
+            710.43,
+            328.61,
+            723.84
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            721.08
+          ]
+        },
+        {
+          "text": "Nota: DADGAD es mejor, ¿eh? ¡Jajaja!",
+          "bbox": [
+            37.73,
+            759.28,
+            243.07,
+            772.68
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            769.92
+          ]
+        },
+        {
+          "text": "Pongamos tus conocimientos en práctica",
+          "bbox": [
+            37.73,
+            181.63,
+            267.44,
+            195.04
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 15857145,
+          "flags": 4,
+          "origin": [
+            37.73,
+            192.28
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 10
+    },
+    {
+      "page": 15,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Cuestionario\n05 | Cuestionario\nEn esta lección pondremos la teoría en práctica. Responde las preguntas para comprobar tus\nconocimientos y desarrollar habilidades útiles para la disciplina.\n01 - ¿Cuál es la definición del tono de una guitarra?\n02 - ¿Qué efecto se utiliza en géneros como rock y metal?\n03 - ¿Cómo pueden influir las técnicas de púa en el tono de la guitarra?\n04 - ¿Qué técnica de fingerpicking se utiliza principalmente en estilos como folk y\nfingerstyle?\nLa velocidad del sonido producido por la cuerda\nWah-Wah\nPueden influir significativamente en el tono\nSelección alternativa\nLa forma del cuerpo de la guitarra\nDistorsión/Overdrive\nPueden crear una sonoridad fluida y rápida\nFingerstyle\nLa cualidad sonora que permite distinguir sonidos producidos por fuentes diferentes\nResonancia\nNo influyen en el tono\nSweep picking\nComprueba tus conocimientos respondiendo algunas preguntas\n",
+      "spans": [
+        {
+          "text": "Cuestionario",
+          "bbox": [
+            37.62,
+            104.75,
+            237.39,
+            141.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            133.79
+          ]
+        },
+        {
+          "text": "05 | Cuestionario",
+          "bbox": [
+            47.86,
+            262.36,
+            140.09,
+            275.77
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            47.86,
+            273.01
+          ]
+        },
+        {
+          "text": "En esta lección pondremos la teoría en práctica. Responde las preguntas para comprobar tus",
+          "bbox": [
+            37.73,
+            313.68,
+            550.71,
+            327.09
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            324.33
+          ]
+        },
+        {
+          "text": "conocimientos y desarrollar habilidades útiles para la disciplina.",
+          "bbox": [
+            37.73,
+            324.86,
+            386.72,
+            338.27
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            335.51
+          ]
+        },
+        {
+          "text": "01 - ¿Cuál es la definición del tono de una guitarra?",
+          "bbox": [
+            37.73,
+            396.26,
+            359.82,
+            411.69
+          ],
+          "font": "Montserrat-Thin",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            408.52
+          ]
+        },
+        {
+          "text": "02 - ¿Qué efecto se utiliza en géneros como rock y metal?",
+          "bbox": [
+            37.62,
+            492.18,
+            403.08,
+            507.61
+          ],
+          "font": "Montserrat-Thin",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            504.43
+          ]
+        },
+        {
+          "text": "03 - ¿Cómo pueden influir las técnicas de púa en el tono de la guitarra?",
+          "bbox": [
+            38.87,
+            591.1,
+            489.73,
+            606.53
+          ],
+          "font": "Montserrat-Thin",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.87,
+            603.35
+          ]
+        },
+        {
+          "text": "04 - ¿Qué técnica de fingerpicking se utiliza principalmente en estilos como folk y",
+          "bbox": [
+            38.76,
+            696.02,
+            557.35,
+            711.45
+          ],
+          "font": "Montserrat-Thin",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.76,
+            708.27
+          ]
+        },
+        {
+          "text": "fingerstyle?",
+          "bbox": [
+            38.76,
+            708.89,
+            112.82,
+            724.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.76,
+            721.14
+          ]
+        },
+        {
+          "text": "La velocidad del sonido producido por la cuerda",
+          "bbox": [
+            57.47,
+            424.66,
+            273.61,
+            435.63
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.47,
+            433.38
+          ]
+        },
+        {
+          "text": "Wah-Wah",
+          "bbox": [
+            57.36,
+            520.58,
+            103.58,
+            531.55
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.36,
+            529.29
+          ]
+        },
+        {
+          "text": "Pueden influir significativamente en el tono",
+          "bbox": [
+            57.25,
+            619.5,
+            254.82,
+            630.47
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.25,
+            628.21
+          ]
+        },
+        {
+          "text": "Selección alternativa",
+          "bbox": [
+            54.54,
+            741.39,
+            148.09,
+            752.36
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            54.54,
+            750.1
+          ]
+        },
+        {
+          "text": "La forma del cuerpo de la guitarra",
+          "bbox": [
+            57.47,
+            442.79,
+            210.65,
+            453.76
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.47,
+            451.5
+          ]
+        },
+        {
+          "text": "Distorsión/Overdrive",
+          "bbox": [
+            57.36,
+            538.71,
+            149.99,
+            549.68
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.36,
+            547.42
+          ]
+        },
+        {
+          "text": "Pueden crear una sonoridad fluida y rápida",
+          "bbox": [
+            57.25,
+            637.63,
+            251.83,
+            648.6
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.25,
+            646.34
+          ]
+        },
+        {
+          "text": "Fingerstyle",
+          "bbox": [
+            54.54,
+            759.51,
+            104.73,
+            770.48
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            54.54,
+            768.23
+          ]
+        },
+        {
+          "text": "La cualidad sonora que permite distinguir sonidos producidos por fuentes diferentes",
+          "bbox": [
+            57.58,
+            459.55,
+            439.23,
+            470.52
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.58,
+            468.26
+          ]
+        },
+        {
+          "text": "Resonancia",
+          "bbox": [
+            57.47,
+            555.47,
+            109.72,
+            566.44
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.47,
+            564.18
+          ]
+        },
+        {
+          "text": "No influyen en el tono",
+          "bbox": [
+            57.36,
+            654.38,
+            156.58,
+            665.35
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.36,
+            663.1
+          ]
+        },
+        {
+          "text": "Sweep picking",
+          "bbox": [
+            54.65,
+            776.27,
+            121.07,
+            787.24
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            54.65,
+            784.98
+          ]
+        },
+        {
+          "text": "Comprueba tus conocimientos respondiendo algunas preguntas",
+          "bbox": [
+            37.73,
+            149.46,
+            395.54,
+            162.86
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 15857145,
+          "flags": 4,
+          "origin": [
+            37.73,
+            160.1
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 34
+    },
+    {
+      "page": 16,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Cuestionario\n05 | Cuestionario\n05 - ¿Qué tipo de pastilla produce un sonido con más cuerpo y peso?\n06 - ¿Qué técnica avanzada para crear tonos utiliza afinaciones alternativas?\nLa velocidad del sonido producido por la cuerda\nSweep picking\nLa forma del cuerpo de la guitarra\nUso de afinaciones alternativas\nLa cualidad sonora que permite distinguir sonidos producidos por fuentes diferentes\nSelección alternativa\nComprueba tus conocimientos respondiendo algunas preguntas\n¡Felicitaciones!\n¡Felicitaciones por completar este curso! Has dado un paso importante para liberar todo tu\npotencial. Completarlo no significa solamente adquirir conocimientos, sino ponerlos en\npráctica y generar un impacto positivo en el mundo que te rodea.\n",
+      "spans": [
+        {
+          "text": "Cuestionario",
+          "bbox": [
+            37.62,
+            104.75,
+            237.39,
+            141.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            133.79
+          ]
+        },
+        {
+          "text": "05 | Cuestionario",
+          "bbox": [
+            47.86,
+            262.36,
+            140.09,
+            275.77
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            47.86,
+            273.01
+          ]
+        },
+        {
+          "text": "05 - ¿Qué tipo de pastilla produce un sonido con más cuerpo y peso?",
+          "bbox": [
+            38.98,
+            316.18,
+            475.89,
+            331.61
+          ],
+          "font": "Montserrat-Thin",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.98,
+            328.44
+          ]
+        },
+        {
+          "text": "06 - ¿Qué técnica avanzada para crear tonos utiliza afinaciones alternativas?",
+          "bbox": [
+            38.87,
+            412.1,
+            521.32,
+            427.53
+          ],
+          "font": "Montserrat-Thin",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.87,
+            424.35
+          ]
+        },
+        {
+          "text": "La velocidad del sonido producido por la cuerda",
+          "bbox": [
+            58.72,
+            344.58,
+            274.85,
+            355.55
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            58.72,
+            353.3
+          ]
+        },
+        {
+          "text": "Sweep picking",
+          "bbox": [
+            54.65,
+            457.47,
+            121.07,
+            468.44
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            54.65,
+            466.18
+          ]
+        },
+        {
+          "text": "La forma del cuerpo de la guitarra",
+          "bbox": [
+            58.72,
+            362.71,
+            211.9,
+            373.68
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            58.72,
+            371.42
+          ]
+        },
+        {
+          "text": "Uso de afinaciones alternativas",
+          "bbox": [
+            54.65,
+            475.59,
+            194.12,
+            486.57
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            54.65,
+            484.31
+          ]
+        },
+        {
+          "text": "La cualidad sonora que permite distinguir sonidos producidos por fuentes diferentes",
+          "bbox": [
+            58.83,
+            379.47,
+            440.47,
+            390.44
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            58.83,
+            388.18
+          ]
+        },
+        {
+          "text": "Selección alternativa",
+          "bbox": [
+            54.76,
+            492.35,
+            148.31,
+            503.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            54.76,
+            501.06
+          ]
+        },
+        {
+          "text": "Comprueba tus conocimientos respondiendo algunas preguntas",
+          "bbox": [
+            37.73,
+            149.46,
+            395.54,
+            162.86
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 15857145,
+          "flags": 4,
+          "origin": [
+            37.73,
+            160.1
+          ]
+        },
+        {
+          "text": "¡Felicitaciones!",
+          "bbox": [
+            37.62,
+            615.52,
+            331.7,
+            664.29
+          ],
+          "font": "Montserrat-Thin",
+          "size": 40.01,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            654.25
+          ]
+        },
+        {
+          "text": "¡Felicitaciones por completar este curso! Has dado un paso importante para liberar todo tu",
+          "bbox": [
+            38.36,
+            676.79,
+            536.81,
+            690.2
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.36,
+            687.44
+          ]
+        },
+        {
+          "text": "potencial. Completarlo no significa solamente adquirir conocimientos, sino ponerlos en",
+          "bbox": [
+            38.36,
+            687.97,
+            518.01,
+            701.38
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.36,
+            698.62
+          ]
+        },
+        {
+          "text": "práctica y generar un impacto positivo en el mundo que te rodea.",
+          "bbox": [
+            38.36,
+            699.15,
+            399.55,
+            712.56
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.36,
+            709.8
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 22
+    }
+  ],
+  "contact_sheet": "tmp\\pdfs\\final-inspection-latest\\el-código-de-los-tonos-guitarra-contact-sheet.png"
+}

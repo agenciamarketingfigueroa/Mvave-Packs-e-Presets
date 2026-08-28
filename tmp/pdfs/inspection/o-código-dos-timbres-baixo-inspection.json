@@ -1,0 +1,5341 @@
+{
+  "source": "C:\\Users\\Felipe\\Desktop\\O Código dos Timbres (Baixo).pdf",
+  "pages": 13,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Guia definitivo dos Timbres ",
+    "author": "Felipe Figueroa Santos",
+    "subject": "",
+    "keywords": "DAFlRVotc-A,BADVP53gQZ4",
+    "creator": "Canva",
+    "producer": "Canva",
+    "creationDate": "D:20260828174800+00'00'",
+    "modDate": "D:20260828174800+00'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "fonts": [
+    "Montserrat-Bold",
+    "Montserrat-Regular",
+    "Now-Bold"
+  ],
+  "text_characters": 20001,
+  "pages_data": [
+    {
+      "page": 1,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "O CÓDIGO DOS\nTIMBRES\nDomine a Arte de Criar Sons Incríveis\nno Baixo Elétrico\n",
+      "spans": [
+        {
+          "text": "O CÓDIGO DOS",
+          "bbox": [
+            72.53,
+            97.5,
+            522.98,
+            164.03
+          ],
+          "font": "Now-Bold",
+          "size": 55.44,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            72.53,
+            147.39
+          ]
+        },
+        {
+          "text": "TIMBRES",
+          "bbox": [
+            182.36,
+            163.69,
+            423.78,
+            230.22
+          ],
+          "font": "Now-Bold",
+          "size": 55.44,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            182.36,
+            213.59
+          ]
+        },
+        {
+          "text": "Domine a Arte de Criar Sons Incríveis",
+          "bbox": [
+            96.49,
+            725.59,
+            499.0,
+            751.96
+          ],
+          "font": "Montserrat-Regular",
+          "size": 21.97,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            96.49,
+            747.7
+          ]
+        },
+        {
+          "text": "no Baixo Elétrico",
+          "bbox": [
+            205.76,
+            755.89,
+            389.72,
+            782.26
+          ],
+          "font": "Montserrat-Regular",
+          "size": 21.97,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            205.76,
+            777.99
+          ]
+        }
+      ],
+      "images": 1,
+      "drawings": 2
+    },
+    {
+      "page": 2,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Aprenda a criar diferentes timbres no\nbaixo elétrico e destaque-se na música!\nTimbres para\nBaixo\nVisão geral\nEste curso tem como objetivo ensinar técnicas avançadas para criação de timbres no baixo\nelétrico. Serão abordados conceitos sobre equalização, compressão, distorção, entre outros\nefeitos que podem ser utilizados para dar mais personalidade e estilo ao som do instrumento.\nAlém disso, serão apresentados exemplos práticos de como aplicar essas técnicas em\ndiferentes estilos musicais.\nEqualização e\nCompressão\n01 | Equalização e Compressão\nO baixo elétrico é um instrumento fundamental em diversos gêneros musicais, desde o jazz\naté o rock. Para se destacar como baixista, é importante dominar técnicas de equalização e\ncompressão para criar timbres únicos e adequados aos diferentes estilos musicais.\n",
+      "spans": [
+        {
+          "text": "Aprenda a criar diferentes timbres no",
+          "bbox": [
+            309.31,
+            174.39,
+            515.52,
+            187.8
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            309.31,
+            185.04
+          ]
+        },
+        {
+          "text": "baixo elétrico e destaque-se na música!",
+          "bbox": [
+            309.31,
+            189.39,
+            526.21,
+            202.8
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            309.31,
+            200.04
+          ]
+        },
+        {
+          "text": "Timbres para",
+          "bbox": [
+            309.31,
+            99.86,
+            511.21,
+            135.86
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 0,
+          "flags": 20,
+          "origin": [
+            309.31,
+            130.04
+          ]
+        },
+        {
+          "text": "Baixo",
+          "bbox": [
+            309.31,
+            126.12,
+            395.39,
+            162.12
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 0,
+          "flags": 20,
+          "origin": [
+            309.31,
+            156.3
+          ]
+        },
+        {
+          "text": "Visão geral",
+          "bbox": [
+            40.34,
+            291.54,
+            134.12,
+            312.32
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            40.34,
+            308.96
+          ]
+        },
+        {
+          "text": "Este curso tem como objetivo ensinar técnicas avançadas para criação de timbres no baixo",
+          "bbox": [
+            37.73,
+            328.32,
+            557.98,
+            341.73
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            338.97
+          ]
+        },
+        {
+          "text": "elétrico. Serão abordados conceitos sobre equalização, compressão, distorção, entre outros",
+          "bbox": [
+            37.73,
+            343.33,
+            557.98,
+            356.74
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            353.98
+          ]
+        },
+        {
+          "text": "efeitos que podem ser utilizados para dar mais personalidade e estilo ao som do instrumento.",
+          "bbox": [
+            37.73,
+            358.33,
+            557.98,
+            371.74
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            368.98
+          ]
+        },
+        {
+          "text": "Além disso, serão apresentados exemplos práticos de como aplicar essas técnicas em",
+          "bbox": [
+            37.73,
+            373.34,
+            557.98,
+            386.75
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            383.99
+          ]
+        },
+        {
+          "text": "diferentes estilos musicais.",
+          "bbox": [
+            37.73,
+            388.35,
+            184.68,
+            401.75
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            398.99
+          ]
+        },
+        {
+          "text": "Equalização e",
+          "bbox": [
+            40.34,
+            449.59,
+            242.56,
+            485.6
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            40.34,
+            479.78
+          ]
+        },
+        {
+          "text": "Compressão",
+          "bbox": [
+            40.34,
+            480.35,
+            223.87,
+            516.36
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            40.34,
+            510.54
+          ]
+        },
+        {
+          "text": "01 | Equalização e Compressão",
+          "bbox": [
+            49.28,
+            593.41,
+            217.35,
+            606.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            49.28,
+            604.06
+          ]
+        },
+        {
+          "text": "O baixo elétrico é um instrumento fundamental em diversos gêneros musicais, desde o jazz",
+          "bbox": [
+            37.73,
+            640.96,
+            555.38,
+            654.37
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            651.61
+          ]
+        },
+        {
+          "text": "até o rock. Para se destacar como baixista, é importante dominar técnicas de equalização e",
+          "bbox": [
+            37.73,
+            655.97,
+            555.38,
+            669.37
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            666.61
+          ]
+        },
+        {
+          "text": "compressão para criar timbres únicos e adequados aos diferentes estilos musicais.",
+          "bbox": [
+            37.73,
+            670.97,
+            490.72,
+            684.38
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            681.62
+          ]
+        }
+      ],
+      "images": 1,
+      "drawings": 27
+    },
+    {
+      "page": 3,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Equalização\nA equalização é uma técnica que permite ajustar as frequências do sinal sonoro para melhorar a\nqualidade global do som. No caso do baixo elétrico, a equalização pode ser usada para realçar ou\natenuar certas frequências do instrumento, tornando-o mais audível na mixagem.\nPara equalizar o baixo elétrico, é necessário entender as principais frequências que compõem o\nsom do instrumento. As frequências mais baixas (de 20 Hz a 80 Hz) são responsáveis pelo grave e\npela sensação de peso no som. Já as frequências médias (de 200 Hz a 800 Hz) são responsáveis\npela definição e presença do som do baixo. Por fim, as frequências mais altas (acima de 2 kHz)\nadicionam brilho e clareza ao som.\nAo equalizar o baixo elétrico, é importante encontrar um equilíbrio entre essas diferentes\nfrequências. Uma técnica comum é cortar um pouco das frequências mais baixas para evitar que o\nsom fique muito “embolado”. Além disso, muitos baixistas optam por realçar as frequências médias\ndo baixo para que ele possa ser ouvido com mais clareza na mixagem.\nCompressão\nA compressão é outra técnica importante para se criar timbres interessantes no baixo\nelétrico. Ela consiste em diminuir a amplitude dos picos sonoros, tornando o som mais\nuniforme e controlado.\nA compressão pode ser usada de várias formas diferentes no baixo elétrico. Por exemplo, é\ncomum usar a compressão para aumentar o sustain (duração das notas) do instrumento.\nIsso é feito aumentando o release (tempo que a compressão demora para diminuir) e\ndiminuindo o threshold (nível mínimo de volume que aciona a compressão).\nAlém disso, a compressão também pode ser usada para nivelar o volume do baixo elétrico\nem relação aos outros instrumentos da mixagem. Isso ajuda a manter o som equilibrado e\nevitar que o baixo fique “sumido” na mixagem.\nEfeitos de\nDistorção e\nModulação\n",
+      "spans": [
+        {
+          "text": "Equalização",
+          "bbox": [
+            37.73,
+            59.04,
+            142.57,
+            79.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            76.46
+          ]
+        },
+        {
+          "text": "A equalização é uma técnica que permite ajustar as frequências do sinal sonoro para melhorar a",
+          "bbox": [
+            37.73,
+            95.82,
+            558.26,
+            109.23
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            106.47
+          ]
+        },
+        {
+          "text": "qualidade global do som. No caso do baixo elétrico, a equalização pode ser usada para realçar ou",
+          "bbox": [
+            37.73,
+            110.82,
+            558.26,
+            124.23
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            121.47
+          ]
+        },
+        {
+          "text": "atenuar certas frequências do instrumento, tornando-o mais audível na mixagem.",
+          "bbox": [
+            37.73,
+            125.83,
+            468.02,
+            139.24
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            136.48
+          ]
+        },
+        {
+          "text": "Para equalizar o baixo elétrico, é necessário entender as principais frequências que compõem o",
+          "bbox": [
+            37.73,
+            155.84,
+            558.26,
+            169.25
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            166.49
+          ]
+        },
+        {
+          "text": "som do instrumento. As frequências mais baixas (de 20 Hz a 80 Hz) são responsáveis pelo grave e",
+          "bbox": [
+            37.73,
+            170.85,
+            558.26,
+            184.25
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            181.49
+          ]
+        },
+        {
+          "text": "pela sensação de peso no som. Já as frequências médias (de 200 Hz a 800 Hz) são responsáveis",
+          "bbox": [
+            37.73,
+            185.85,
+            558.26,
+            199.26
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            196.5
+          ]
+        },
+        {
+          "text": "pela definição e presença do som do baixo. Por fim, as frequências mais altas (acima de 2 kHz)",
+          "bbox": [
+            37.73,
+            200.86,
+            558.25,
+            214.27
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            211.51
+          ]
+        },
+        {
+          "text": "adicionam brilho e clareza ao som.",
+          "bbox": [
+            37.73,
+            215.86,
+            218.82,
+            229.27
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            226.51
+          ]
+        },
+        {
+          "text": "Ao equalizar o baixo elétrico, é importante encontrar um equilíbrio entre essas diferentes",
+          "bbox": [
+            37.73,
+            245.88,
+            558.25,
+            259.28
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            256.52
+          ]
+        },
+        {
+          "text": "frequências. Uma técnica comum é cortar um pouco das frequências mais baixas para evitar que o",
+          "bbox": [
+            37.73,
+            260.88,
+            558.26,
+            274.29
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            271.53
+          ]
+        },
+        {
+          "text": "som fique muito “embolado”. Além disso, muitos baixistas optam por realçar as frequências médias",
+          "bbox": [
+            37.73,
+            275.89,
+            558.26,
+            289.29
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            286.53
+          ]
+        },
+        {
+          "text": "do baixo para que ele possa ser ouvido com mais clareza na mixagem.",
+          "bbox": [
+            37.73,
+            290.89,
+            405.47,
+            304.3
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            301.54
+          ]
+        },
+        {
+          "text": "Compressão",
+          "bbox": [
+            37.73,
+            352.29,
+            140.82,
+            373.08
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            369.72
+          ]
+        },
+        {
+          "text": "A compressão é outra técnica importante para se criar timbres interessantes no baixo",
+          "bbox": [
+            37.73,
+            389.08,
+            514.4,
+            402.48
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            399.72
+          ]
+        },
+        {
+          "text": "elétrico. Ela consiste em diminuir a amplitude dos picos sonoros, tornando o som mais",
+          "bbox": [
+            37.73,
+            404.08,
+            514.4,
+            417.49
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            414.73
+          ]
+        },
+        {
+          "text": "uniforme e controlado.",
+          "bbox": [
+            37.73,
+            419.09,
+            157.93,
+            432.5
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            429.74
+          ]
+        },
+        {
+          "text": "A compressão pode ser usada de várias formas diferentes no baixo elétrico. Por exemplo, é",
+          "bbox": [
+            37.73,
+            449.1,
+            514.4,
+            462.51
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            459.75
+          ]
+        },
+        {
+          "text": "comum usar a compressão para aumentar o sustain (duração das notas) do instrumento.",
+          "bbox": [
+            37.73,
+            464.11,
+            514.4,
+            477.51
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            474.75
+          ]
+        },
+        {
+          "text": "Isso é feito aumentando o release (tempo que a compressão demora para diminuir) e",
+          "bbox": [
+            37.73,
+            479.11,
+            514.4,
+            492.52
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            489.76
+          ]
+        },
+        {
+          "text": "diminuindo o threshold (nível mínimo de volume que aciona a compressão).",
+          "bbox": [
+            37.73,
+            494.12,
+            438.22,
+            507.52
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            504.76
+          ]
+        },
+        {
+          "text": "Além disso, a compressão também pode ser usada para nivelar o volume do baixo elétrico",
+          "bbox": [
+            37.73,
+            524.13,
+            514.4,
+            537.54
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            534.78
+          ]
+        },
+        {
+          "text": "em relação aos outros instrumentos da mixagem. Isso ajuda a manter o som equilibrado e",
+          "bbox": [
+            37.73,
+            539.13,
+            514.4,
+            552.54
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            549.78
+          ]
+        },
+        {
+          "text": "evitar que o baixo fique “sumido” na mixagem.",
+          "bbox": [
+            37.73,
+            554.14,
+            282.22,
+            567.55
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            564.79
+          ]
+        },
+        {
+          "text": "Efeitos de",
+          "bbox": [
+            37.73,
+            708.95,
+            190.08,
+            744.96
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.73,
+            739.14
+          ]
+        },
+        {
+          "text": "Distorção e",
+          "bbox": [
+            37.73,
+            739.72,
+            209.43,
+            775.72
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.73,
+            769.9
+          ]
+        },
+        {
+          "text": "Modulação",
+          "bbox": [
+            37.73,
+            770.48,
+            206.22,
+            806.48
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.73,
+            800.66
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 8
+    },
+    {
+      "page": 4,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Distorção\nModulação\nCombinação de Efeitos\nA distorção é um efeito que consiste em aumentar a amplitude do sinal sonoro além do limite\nmáximo, causando uma saturação harmônica. Isso resulta em um som mais agressivo e “sujo”,\nideal para estilos musicais como rock, metal e punk.\nPara aplicar a distorção no baixo elétrico, é necessário ter um pedal ou plugin específico para esse\nefeito. É importante ajustar os parâmetros corretamente para evitar que o som fique\nexcessivamente sujo ou sem definição.\nAlguns dos ajustes mais comuns são o gain (quantidade de distorção aplicada), o tone (equivalente\nà equalização) e o level (nível de volume do efeito). É possível experimentar diferentes\nconfigurações para encontrar o som desejado.\nA modulação é um efeito que consiste em modificar a frequência do sinal sonoro de forma cíclica.\nExistem vários tipos de efeitos de modulação, como chorus, flanger e phaser, cada um com um\nsom particular.\nO efeito de chorus, por exemplo, adiciona um som levemente “coral” ao baixo elétrico, enquanto o\nflanger cria um som mais espacial e “líquido”. Já o phaser adiciona uma espécie de “varredura” nas\nfrequências, criando um efeito psicodélico.\nAssim como na distorção, é necessário ter um pedal ou plugin específico para cada tipo de\nmodulação. É importante ajustar os parâmetros com cuidado para evitar que o som fique\nexcessivamente artificial ou cansativo.\nUma forma interessante de utilizar os efeitos de distorção e modulação é combiná-los em\ndiferentes configurações. Por exemplo, é possível aplicar uma distorção leve e adicionar um pouco\nde chorus para criar um timbre mais encorpado e agressivo.\nOutra possibilidade é usar a compressão em conjunto com os efeitos de distorção e modulação.\nIsso pode ajudar a manter o som equilibrado e controlado, mesmo com a aplicação dos efeitos\nmais extremos.\nOs efeitos de distorção e modulação são amplamente utilizados em diversos gêneros musicais\npara criar timbres únicos e interessantes no baixo elétrico. Neste módulo, vamos explorar\ncomo utilizar esses efeitos de forma eficaz para obter o som desejado.\n",
+      "spans": [
+        {
+          "text": "Distorção",
+          "bbox": [
+            37.73,
+            129.46,
+            116.18,
+            150.24
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            146.88
+          ]
+        },
+        {
+          "text": "Modulação",
+          "bbox": [
+            37.73,
+            367.67,
+            130.22,
+            388.45
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            385.09
+          ]
+        },
+        {
+          "text": "Combinação de Efeitos",
+          "bbox": [
+            37.62,
+            602.37,
+            228.31,
+            623.15
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            619.79
+          ]
+        },
+        {
+          "text": "A distorção é um efeito que consiste em aumentar a amplitude do sinal sonoro além do limite",
+          "bbox": [
+            37.73,
+            177.5,
+            558.26,
+            190.91
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            188.15
+          ]
+        },
+        {
+          "text": "máximo, causando uma saturação harmônica. Isso resulta em um som mais agressivo e “sujo”,",
+          "bbox": [
+            37.73,
+            192.51,
+            558.25,
+            205.92
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            203.15
+          ]
+        },
+        {
+          "text": "ideal para estilos musicais como rock, metal e punk.",
+          "bbox": [
+            37.73,
+            207.51,
+            309.37,
+            220.92
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            218.16
+          ]
+        },
+        {
+          "text": "Para aplicar a distorção no baixo elétrico, é necessário ter um pedal ou plugin específico para esse",
+          "bbox": [
+            37.73,
+            237.52,
+            558.26,
+            250.93
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            248.17
+          ]
+        },
+        {
+          "text": "efeito. É importante ajustar os parâmetros corretamente para evitar que o som fique",
+          "bbox": [
+            37.73,
+            252.53,
+            558.26,
+            265.94
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            263.18
+          ]
+        },
+        {
+          "text": "excessivamente sujo ou sem definição.",
+          "bbox": [
+            37.73,
+            267.54,
+            241.48,
+            280.94
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            278.18
+          ]
+        },
+        {
+          "text": "Alguns dos ajustes mais comuns são o gain (quantidade de distorção aplicada), o tone (equivalente",
+          "bbox": [
+            37.73,
+            297.55,
+            558.25,
+            310.95
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            308.19
+          ]
+        },
+        {
+          "text": "à equalização) e o level (nível de volume do efeito). É possível experimentar diferentes",
+          "bbox": [
+            37.73,
+            312.55,
+            558.25,
+            325.96
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            323.2
+          ]
+        },
+        {
+          "text": "configurações para encontrar o som desejado.",
+          "bbox": [
+            37.73,
+            327.56,
+            280.84,
+            340.97
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            338.21
+          ]
+        },
+        {
+          "text": "A modulação é um efeito que consiste em modificar a frequência do sinal sonoro de forma cíclica.",
+          "bbox": [
+            37.73,
+            411.77,
+            558.26,
+            425.18
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            422.42
+          ]
+        },
+        {
+          "text": "Existem vários tipos de efeitos de modulação, como chorus, flanger e phaser, cada um com um",
+          "bbox": [
+            37.73,
+            426.78,
+            558.25,
+            440.19
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            437.42
+          ]
+        },
+        {
+          "text": "som particular.",
+          "bbox": [
+            37.73,
+            441.78,
+            116.26,
+            455.19
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            452.43
+          ]
+        },
+        {
+          "text": "O efeito de chorus, por exemplo, adiciona um som levemente “coral” ao baixo elétrico, enquanto o",
+          "bbox": [
+            37.73,
+            471.79,
+            558.26,
+            485.2
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            482.44
+          ]
+        },
+        {
+          "text": "flanger cria um som mais espacial e “líquido”. Já o phaser adiciona uma espécie de “varredura” nas",
+          "bbox": [
+            37.73,
+            486.8,
+            558.25,
+            500.21
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            497.45
+          ]
+        },
+        {
+          "text": "frequências, criando um efeito psicodélico.",
+          "bbox": [
+            37.73,
+            501.81,
+            261.32,
+            515.21
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            512.45
+          ]
+        },
+        {
+          "text": "Assim como na distorção, é necessário ter um pedal ou plugin específico para cada tipo de",
+          "bbox": [
+            37.73,
+            531.82,
+            557.99,
+            545.22
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            542.46
+          ]
+        },
+        {
+          "text": "modulação. É importante ajustar os parâmetros com cuidado para evitar que o som fique",
+          "bbox": [
+            37.73,
+            546.82,
+            557.98,
+            560.23
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            557.47
+          ]
+        },
+        {
+          "text": "excessivamente artificial ou cansativo.",
+          "bbox": [
+            37.73,
+            561.83,
+            247.24,
+            575.24
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            572.48
+          ]
+        },
+        {
+          "text": "Uma forma interessante de utilizar os efeitos de distorção e modulação é combiná-los em",
+          "bbox": [
+            37.62,
+            646.47,
+            558.15,
+            659.88
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            657.12
+          ]
+        },
+        {
+          "text": "diferentes configurações. Por exemplo, é possível aplicar uma distorção leve e adicionar um pouco",
+          "bbox": [
+            37.62,
+            661.48,
+            558.15,
+            674.89
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            672.13
+          ]
+        },
+        {
+          "text": "de chorus para criar um timbre mais encorpado e agressivo.",
+          "bbox": [
+            37.62,
+            676.49,
+            352.64,
+            689.89
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            687.13
+          ]
+        },
+        {
+          "text": "Outra possibilidade é usar a compressão em conjunto com os efeitos de distorção e modulação.",
+          "bbox": [
+            37.62,
+            706.5,
+            558.15,
+            719.9
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            717.14
+          ]
+        },
+        {
+          "text": "Isso pode ajudar a manter o som equilibrado e controlado, mesmo com a aplicação dos efeitos",
+          "bbox": [
+            37.62,
+            721.5,
+            558.14,
+            734.91
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            732.15
+          ]
+        },
+        {
+          "text": "mais extremos.",
+          "bbox": [
+            37.62,
+            736.51,
+            117.72,
+            749.92
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            747.15
+          ]
+        },
+        {
+          "text": "Os efeitos de distorção e modulação são amplamente utilizados em diversos gêneros musicais",
+          "bbox": [
+            37.62,
+            59.06,
+            557.87,
+            72.46
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            69.7
+          ]
+        },
+        {
+          "text": "para criar timbres únicos e interessantes no baixo elétrico. Neste módulo, vamos explorar",
+          "bbox": [
+            37.62,
+            74.06,
+            557.87,
+            87.47
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            84.71
+          ]
+        },
+        {
+          "text": "como utilizar esses efeitos de forma eficaz para obter o som desejado.",
+          "bbox": [
+            37.62,
+            89.07,
+            421.09,
+            102.48
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            99.72
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 2
+    },
+    {
+      "page": 5,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Conheça em\ndetalhes cada um\ndos principais\nefeitos\nOverdrive/Distorção\nCompressor\nO efeito de overdrive/distortion é um dos efeitos mais populares e amplamente utilizados\npelos baixistas. Ele adiciona uma saturação e distorção ao som do baixo, proporcionando uma\nmaior intensidade e agressividade ao timbre. O overdrive é geralmente usado para obter um\nsom \"crunchy\" e ligeiramente distorcido, enquanto a distorção pode levar a extremos,\nproduzindo um som pesado e cheio de sustain.\nAo adicionar overdrive ou distorção ao baixo elétrico, é possível aumentar a presença e a\nprojeção do instrumento em uma banda ou mixagem. O efeito pode fornecer um som mais\ncortante e agudo, adicionando definição e articulação às notas. É especialmente comum em\nestilos musicais como rock, metal e funk, onde a presença e a energia são fundamentais. Além\ndisso, os efeitos de overdrive e distorção podem ser usados de forma sutil, para adicionar\napenas uma leve saturação ao som, ou de forma mais intensa, para criar uma parede de som\npoderosa e impactante. A escolha do pedal ou amplificador adequado e a configuração\ncuidadosa dos parâmetros de ganho, tom e volume são essenciais para obter o timbre\ndesejado e controlar a quantidade de distorção aplicada.\nO compressor é um efeito fundamental para muitos baixistas, pois ajuda a nivelar o volume do\nbaixo e a controlar a dinâmica do instrumento. Ele reduz a diferença entre as notas mais\nsuaves e as notas mais fortes, tornando o som mais equilibrado e consistente.\nAo aplicar um compressor ao baixo elétrico, é possível aumentar a sustentação das notas,\ntornando-as mais presentes e perceptíveis. Além disso, o compressor também pode ajudar a\nevitar distorções indesejadas, especialmente em passagens mais agressivas ou com uso\nintenso de slaps e pops. O efeito do compressor é ajustado através de parâmetros como\nthreshold (limiar), ratio (taxa de compressão), attack (ataque), release (liberação) e makeup\ngain (ganho de compensação). Esses parâmetros permitem controlar a sensibilidade do\ncompressor, o tempo de resposta e a quantidade de compressão aplicada. Com a\nconfiguração adequada, o compressor pode melhorar a articulação das notas, realçar o groove\ne proporcionar um som mais coeso e profissional ao baixo elétrico.\n",
+      "spans": [
+        {
+          "text": "Conheça em",
+          "bbox": [
+            37.62,
+            75.49,
+            227.08,
+            111.49
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.62,
+            105.67
+          ]
+        },
+        {
+          "text": "detalhes cada um",
+          "bbox": [
+            37.62,
+            106.25,
+            309.1,
+            142.25
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.62,
+            136.43
+          ]
+        },
+        {
+          "text": "dos principais",
+          "bbox": [
+            37.62,
+            137.01,
+            252.0,
+            173.02
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.62,
+            167.19
+          ]
+        },
+        {
+          "text": "efeitos",
+          "bbox": [
+            37.62,
+            167.77,
+            142.21,
+            203.78
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.62,
+            197.96
+          ]
+        },
+        {
+          "text": "Overdrive/Distorção",
+          "bbox": [
+            37.62,
+            257.88,
+            200.42,
+            278.66
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            275.3
+          ]
+        },
+        {
+          "text": "Compressor",
+          "bbox": [
+            37.73,
+            562.57,
+            137.5,
+            583.35
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            579.99
+          ]
+        },
+        {
+          "text": "O efeito de overdrive/distortion é um dos efeitos mais populares e amplamente utilizados",
+          "bbox": [
+            37.62,
+            294.66,
+            557.87,
+            308.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            305.31
+          ]
+        },
+        {
+          "text": "pelos baixistas. Ele adiciona uma saturação e distorção ao som do baixo, proporcionando uma",
+          "bbox": [
+            37.62,
+            309.67,
+            557.87,
+            323.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            320.31
+          ]
+        },
+        {
+          "text": "maior intensidade e agressividade ao timbre. O overdrive é geralmente usado para obter um",
+          "bbox": [
+            37.62,
+            324.67,
+            557.87,
+            338.08
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            335.32
+          ]
+        },
+        {
+          "text": "som \"crunchy\" e ligeiramente distorcido, enquanto a distorção pode levar a extremos,",
+          "bbox": [
+            37.62,
+            339.68,
+            557.86,
+            353.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            350.32
+          ]
+        },
+        {
+          "text": "produzindo um som pesado e cheio de sustain.",
+          "bbox": [
+            37.62,
+            354.68,
+            297.81,
+            368.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            365.33
+          ]
+        },
+        {
+          "text": "Ao adicionar overdrive ou distorção ao baixo elétrico, é possível aumentar a presença e a",
+          "bbox": [
+            37.62,
+            384.69,
+            557.87,
+            398.1
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            395.34
+          ]
+        },
+        {
+          "text": "projeção do instrumento em uma banda ou mixagem. O efeito pode fornecer um som mais",
+          "bbox": [
+            37.62,
+            399.7,
+            557.87,
+            413.11
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            410.35
+          ]
+        },
+        {
+          "text": "cortante e agudo, adicionando definição e articulação às notas. É especialmente comum em",
+          "bbox": [
+            37.62,
+            414.71,
+            557.88,
+            428.11
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            425.35
+          ]
+        },
+        {
+          "text": "estilos musicais como rock, metal e funk, onde a presença e a energia são fundamentais. Além",
+          "bbox": [
+            37.62,
+            429.71,
+            557.87,
+            443.12
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            440.36
+          ]
+        },
+        {
+          "text": "disso, os efeitos de overdrive e distorção podem ser usados de forma sutil, para adicionar",
+          "bbox": [
+            37.62,
+            444.72,
+            557.87,
+            458.13
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            455.36
+          ]
+        },
+        {
+          "text": "apenas uma leve saturação ao som, ou de forma mais intensa, para criar uma parede de som",
+          "bbox": [
+            37.62,
+            459.72,
+            557.87,
+            473.13
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            470.37
+          ]
+        },
+        {
+          "text": "poderosa e impactante. A escolha do pedal ou amplificador adequado e a configuração",
+          "bbox": [
+            37.62,
+            474.73,
+            557.87,
+            488.14
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            485.38
+          ]
+        },
+        {
+          "text": "cuidadosa dos parâmetros de ganho, tom e volume são essenciais para obter o timbre",
+          "bbox": [
+            37.62,
+            489.73,
+            557.87,
+            503.14
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            500.38
+          ]
+        },
+        {
+          "text": "desejado e controlar a quantidade de distorção aplicada.",
+          "bbox": [
+            37.62,
+            504.74,
+            349.34,
+            518.15
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            515.39
+          ]
+        },
+        {
+          "text": "O compressor é um efeito fundamental para muitos baixistas, pois ajuda a nivelar o volume do",
+          "bbox": [
+            37.73,
+            599.36,
+            557.98,
+            612.76
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            610.0
+          ]
+        },
+        {
+          "text": "baixo e a controlar a dinâmica do instrumento. Ele reduz a diferença entre as notas mais",
+          "bbox": [
+            37.73,
+            614.36,
+            557.98,
+            627.77
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            625.01
+          ]
+        },
+        {
+          "text": "suaves e as notas mais fortes, tornando o som mais equilibrado e consistente.",
+          "bbox": [
+            37.73,
+            629.37,
+            463.83,
+            642.77
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            640.01
+          ]
+        },
+        {
+          "text": "Ao aplicar um compressor ao baixo elétrico, é possível aumentar a sustentação das notas,",
+          "bbox": [
+            37.73,
+            659.38,
+            557.98,
+            672.79
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            670.03
+          ]
+        },
+        {
+          "text": "tornando-as mais presentes e perceptíveis. Além disso, o compressor também pode ajudar a",
+          "bbox": [
+            37.73,
+            674.38,
+            557.98,
+            687.79
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            685.03
+          ]
+        },
+        {
+          "text": "evitar distorções indesejadas, especialmente em passagens mais agressivas ou com uso",
+          "bbox": [
+            37.73,
+            689.39,
+            557.98,
+            702.8
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            700.04
+          ]
+        },
+        {
+          "text": "intenso de slaps e pops. O efeito do compressor é ajustado através de parâmetros como",
+          "bbox": [
+            37.73,
+            704.39,
+            557.98,
+            717.8
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            715.04
+          ]
+        },
+        {
+          "text": "threshold (limiar), ratio (taxa de compressão), attack (ataque), release (liberação) e makeup",
+          "bbox": [
+            37.73,
+            719.4,
+            557.98,
+            732.81
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            730.05
+          ]
+        },
+        {
+          "text": "gain (ganho de compensação). Esses parâmetros permitem controlar a sensibilidade do",
+          "bbox": [
+            37.73,
+            734.41,
+            557.98,
+            747.81
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            745.05
+          ]
+        },
+        {
+          "text": "compressor, o tempo de resposta e a quantidade de compressão aplicada. Com a",
+          "bbox": [
+            37.73,
+            749.41,
+            557.98,
+            762.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            760.06
+          ]
+        },
+        {
+          "text": "configuração adequada, o compressor pode melhorar a articulação das notas, realçar o groove",
+          "bbox": [
+            37.73,
+            764.42,
+            557.99,
+            777.83
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            775.06
+          ]
+        },
+        {
+          "text": "e proporcionar um som mais coeso e profissional ao baixo elétrico.",
+          "bbox": [
+            37.73,
+            779.42,
+            402.72,
+            792.83
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            790.07
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 8
+    },
+    {
+      "page": 6,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "O equalizador, também conhecido como EQ, é um efeito essencial para moldar o timbre do\nbaixo elétrico. Ele permite ajustar as frequências do som, aumentando ou diminuindo os\ngraves, médios e agudos de forma seletiva. Com o equalizador, é possível realçar certas\ncaracterísticas sonoras do baixo e corrigir eventuais irregularidades no timbre.\nO EQ é utilizado para dar mais definição aos graves, tornando-os mais presentes e profundos,\nsem que fiquem excessivamente boomy. Além disso, é possível ajustar os médios para\nadicionar mais punch e clareza ao som, destacando a articulação das notas e tornando o baixo\nmais audível em uma mixagem. Os agudos podem ser ajustados para adicionar brilho e\npresença ao som, proporcionando mais clareza e projeção. O equalizador pode ser utilizado\ntanto em situações ao vivo como em estúdio, permitindo que o baixista adapte o timbre do\ninstrumento às características acústicas do ambiente ou ao estilo musical em questão. É\nimportante ter sensibilidade ao ajustar o equalizador, pois pequenas alterações podem ter um\ngrande impacto no timbre geral do baixo. Experimentar diferentes configurações e prestar\natenção às características sonoras desejadas são passos fundamentais para alcançar o timbre\ndesejado no baixo elétrico.\nO efeito de Chorus é amplamente utilizado no baixo elétrico para adicionar textura,\nespacialidade e profundidade ao som. Ele cria a ilusão de múltiplos sons sendo reproduzidos\nsimultaneamente, criando um efeito de \"engrossamento\" e aumentando a dimensão do som\ndo baixo.\nAo aplicar o Chorus, o baixo ganha uma qualidade mais rica e densa, como se estivesse sendo\ntocado em conjunto com outros instrumentos. Isso pode ajudar a preencher o espaço sonoro\nem uma mixagem e adicionar uma sensação de movimento. O Chorus é especialmente eficaz\nquando usado com notas longas e sustentadas, criando um efeito ondulante que adiciona\nexpressividade e atmosfera ao som. Os parâmetros do Chorus, como velocidade, profundidade\ne mixagem, podem ser ajustados para obter diferentes intensidades e características sonoras.\nO Chorus é frequentemente usado em estilos musicais como pop, rock, jazz e fusion, mas\npode ser aplicado de maneira criativa e exploratória em uma variedade de gêneros musicais.\nEle permite ao baixista adicionar uma nova dimensão ao seu som e criar paisagens sonoras\nmais envolventes.\nEqualizador\nChorus\n",
+      "spans": [
+        {
+          "text": "O equalizador, também conhecido como EQ, é um efeito essencial para moldar o timbre do",
+          "bbox": [
+            37.73,
+            104.33,
+            557.98,
+            117.74
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            114.98
+          ]
+        },
+        {
+          "text": "baixo elétrico. Ele permite ajustar as frequências do som, aumentando ou diminuindo os",
+          "bbox": [
+            37.73,
+            119.34,
+            557.98,
+            132.74
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            129.98
+          ]
+        },
+        {
+          "text": "graves, médios e agudos de forma seletiva. Com o equalizador, é possível realçar certas",
+          "bbox": [
+            37.73,
+            134.34,
+            557.98,
+            147.75
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            144.99
+          ]
+        },
+        {
+          "text": "características sonoras do baixo e corrigir eventuais irregularidades no timbre.",
+          "bbox": [
+            37.73,
+            149.35,
+            467.32,
+            162.75
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            159.99
+          ]
+        },
+        {
+          "text": "O EQ é utilizado para dar mais definição aos graves, tornando-os mais presentes e profundos,",
+          "bbox": [
+            37.73,
+            179.36,
+            557.98,
+            192.77
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            190.01
+          ]
+        },
+        {
+          "text": "sem que fiquem excessivamente boomy. Além disso, é possível ajustar os médios para",
+          "bbox": [
+            37.73,
+            194.36,
+            557.98,
+            207.77
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            205.01
+          ]
+        },
+        {
+          "text": "adicionar mais punch e clareza ao som, destacando a articulação das notas e tornando o baixo",
+          "bbox": [
+            37.73,
+            209.37,
+            557.98,
+            222.78
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            220.02
+          ]
+        },
+        {
+          "text": "mais audível em uma mixagem. Os agudos podem ser ajustados para adicionar brilho e",
+          "bbox": [
+            37.73,
+            224.37,
+            557.99,
+            237.78
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            235.02
+          ]
+        },
+        {
+          "text": "presença ao som, proporcionando mais clareza e projeção. O equalizador pode ser utilizado",
+          "bbox": [
+            37.73,
+            239.38,
+            557.98,
+            252.79
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            250.03
+          ]
+        },
+        {
+          "text": "tanto em situações ao vivo como em estúdio, permitindo que o baixista adapte o timbre do",
+          "bbox": [
+            37.73,
+            254.39,
+            557.99,
+            267.79
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            265.03
+          ]
+        },
+        {
+          "text": "instrumento às características acústicas do ambiente ou ao estilo musical em questão. É",
+          "bbox": [
+            37.73,
+            269.39,
+            557.98,
+            282.8
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            280.04
+          ]
+        },
+        {
+          "text": "importante ter sensibilidade ao ajustar o equalizador, pois pequenas alterações podem ter um",
+          "bbox": [
+            37.73,
+            284.4,
+            557.99,
+            297.81
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            295.04
+          ]
+        },
+        {
+          "text": "grande impacto no timbre geral do baixo. Experimentar diferentes configurações e prestar",
+          "bbox": [
+            37.73,
+            299.4,
+            557.98,
+            312.81
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            310.05
+          ]
+        },
+        {
+          "text": "atenção às características sonoras desejadas são passos fundamentais para alcançar o timbre",
+          "bbox": [
+            37.73,
+            314.41,
+            557.98,
+            327.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            325.06
+          ]
+        },
+        {
+          "text": "desejado no baixo elétrico.",
+          "bbox": [
+            37.73,
+            329.41,
+            183.84,
+            342.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            340.06
+          ]
+        },
+        {
+          "text": "O efeito de Chorus é amplamente utilizado no baixo elétrico para adicionar textura,",
+          "bbox": [
+            37.73,
+            413.6,
+            557.98,
+            427.01
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            424.25
+          ]
+        },
+        {
+          "text": "espacialidade e profundidade ao som. Ele cria a ilusão de múltiplos sons sendo reproduzidos",
+          "bbox": [
+            37.73,
+            428.61,
+            557.98,
+            442.02
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            439.26
+          ]
+        },
+        {
+          "text": "simultaneamente, criando um efeito de \"engrossamento\" e aumentando a dimensão do som",
+          "bbox": [
+            37.73,
+            443.61,
+            557.99,
+            457.02
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            454.26
+          ]
+        },
+        {
+          "text": "do baixo.",
+          "bbox": [
+            37.73,
+            458.62,
+            86.97,
+            472.03
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            469.27
+          ]
+        },
+        {
+          "text": "Ao aplicar o Chorus, o baixo ganha uma qualidade mais rica e densa, como se estivesse sendo",
+          "bbox": [
+            37.73,
+            488.63,
+            557.98,
+            502.04
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            499.28
+          ]
+        },
+        {
+          "text": "tocado em conjunto com outros instrumentos. Isso pode ajudar a preencher o espaço sonoro",
+          "bbox": [
+            37.73,
+            503.64,
+            557.98,
+            517.05
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            514.28
+          ]
+        },
+        {
+          "text": "em uma mixagem e adicionar uma sensação de movimento. O Chorus é especialmente eficaz",
+          "bbox": [
+            37.73,
+            518.64,
+            557.98,
+            532.05
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            529.29
+          ]
+        },
+        {
+          "text": "quando usado com notas longas e sustentadas, criando um efeito ondulante que adiciona",
+          "bbox": [
+            37.73,
+            533.65,
+            557.98,
+            547.06
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            544.3
+          ]
+        },
+        {
+          "text": "expressividade e atmosfera ao som. Os parâmetros do Chorus, como velocidade, profundidade",
+          "bbox": [
+            37.73,
+            548.65,
+            558.0,
+            562.06
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            559.3
+          ]
+        },
+        {
+          "text": "e mixagem, podem ser ajustados para obter diferentes intensidades e características sonoras.",
+          "bbox": [
+            37.73,
+            563.66,
+            557.98,
+            577.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            574.31
+          ]
+        },
+        {
+          "text": "O Chorus é frequentemente usado em estilos musicais como pop, rock, jazz e fusion, mas",
+          "bbox": [
+            37.73,
+            578.67,
+            557.98,
+            592.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            589.31
+          ]
+        },
+        {
+          "text": "pode ser aplicado de maneira criativa e exploratória em uma variedade de gêneros musicais.",
+          "bbox": [
+            37.73,
+            593.67,
+            557.98,
+            607.08
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            604.32
+          ]
+        },
+        {
+          "text": "Ele permite ao baixista adicionar uma nova dimensão ao seu som e criar paisagens sonoras",
+          "bbox": [
+            37.73,
+            608.68,
+            557.98,
+            622.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            619.32
+          ]
+        },
+        {
+          "text": "mais envolventes.",
+          "bbox": [
+            37.73,
+            623.68,
+            135.87,
+            637.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            634.33
+          ]
+        },
+        {
+          "text": "Equalizador",
+          "bbox": [
+            37.73,
+            59.04,
+            136.96,
+            79.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            76.46
+          ]
+        },
+        {
+          "text": "Chorus",
+          "bbox": [
+            37.73,
+            368.31,
+            96.32,
+            389.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            385.73
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 2
+    },
+    {
+      "page": 7,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "O Phaser é um efeito que modifica a fase do sinal de áudio, criando um som \"varrido\"\ncaracterístico. Quando aplicado ao baixo elétrico, o Phaser adiciona uma textura psicodélica,\nespacial e vibrante ao som. Ele cria uma sensação de movimento ao passar por diferentes\nestágios de filtragem, resultando em um som que parece estar girando ou oscilando.\nO Phaser é especialmente eficaz em linhas de baixo com ritmos repetitivos, criando um efeito\nrítmico e cativante. Ele pode ser ajustado para criar um efeito sutil e suave, que adiciona\napenas uma camada sutil de movimento ao som do baixo, ou pode ser intensificado para\nobter um efeito mais pronunciado e psicodélico. Os parâmetros do Phaser, como taxa de\nmodulação, feedback e ressonância, podem ser ajustados para criar diferentes variações e\nnuances sonoras. O Phaser é amplamente utilizado em gêneros como rock, funk, disco e\nmúsica eletrônica, adicionando uma dimensão extra ao groove e enfatizando as\ncaracterísticas rítmicas do baixo elétrico. Ele oferece uma maneira interessante de explorar\nnovas sonoridades e adicionar um toque único à execução do baixo.\nO Flanger é um efeito que produz variações na fase do sinal de áudio, semelhante ao Phaser.\nNo entanto, o Flanger cria um efeito mais pronunciado e \"ondulado\" no som do baixo. Ele\nproduz uma sonoridade característica que é conhecida por sua intensidade e movimento.\nQuando aplicado ao baixo elétrico, o Flanger cria um efeito que parece estar \"varrendo\" as\nfrequências, resultando em um som dinâmico e cheio de movimento. É especialmente eficaz\nem linhas de baixo com notas sustentadas, onde o efeito flanger é mais perceptível. O Flanger\npode ser ajustado para produzir desde um efeito sutil e subtil até um efeito mais pronunciado\ne extravagante. Os parâmetros como velocidade, profundidade e feedback são ajustados para\ncontrolar a intensidade do efeito. O Flanger é comumente usado em gêneros musicais como\nrock, funk, pop e música eletrônica, adicionando uma textura única e uma sensação de\nexcitação ao som do baixo elétrico. Ele oferece uma maneira interessante de destacar certas\npartes da música, proporcionando um som cativante e expressivo para o baixo.\nPhaser\nFlanger\n",
+      "spans": [
+        {
+          "text": "O Phaser é um efeito que modifica a fase do sinal de áudio, criando um som \"varrido\"",
+          "bbox": [
+            37.73,
+            104.33,
+            557.98,
+            117.74
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            114.98
+          ]
+        },
+        {
+          "text": "característico. Quando aplicado ao baixo elétrico, o Phaser adiciona uma textura psicodélica,",
+          "bbox": [
+            37.73,
+            119.34,
+            557.98,
+            132.74
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            129.98
+          ]
+        },
+        {
+          "text": "espacial e vibrante ao som. Ele cria uma sensação de movimento ao passar por diferentes",
+          "bbox": [
+            37.73,
+            134.34,
+            557.98,
+            147.75
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            144.99
+          ]
+        },
+        {
+          "text": "estágios de filtragem, resultando em um som que parece estar girando ou oscilando.",
+          "bbox": [
+            37.73,
+            149.35,
+            505.38,
+            162.75
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            159.99
+          ]
+        },
+        {
+          "text": "O Phaser é especialmente eficaz em linhas de baixo com ritmos repetitivos, criando um efeito",
+          "bbox": [
+            37.73,
+            179.36,
+            557.98,
+            192.77
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            190.01
+          ]
+        },
+        {
+          "text": "rítmico e cativante. Ele pode ser ajustado para criar um efeito sutil e suave, que adiciona",
+          "bbox": [
+            37.73,
+            194.36,
+            557.98,
+            207.77
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            205.01
+          ]
+        },
+        {
+          "text": "apenas uma camada sutil de movimento ao som do baixo, ou pode ser intensificado para",
+          "bbox": [
+            37.73,
+            209.37,
+            557.98,
+            222.78
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            220.02
+          ]
+        },
+        {
+          "text": "obter um efeito mais pronunciado e psicodélico. Os parâmetros do Phaser, como taxa de",
+          "bbox": [
+            37.73,
+            224.37,
+            557.98,
+            237.78
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            235.02
+          ]
+        },
+        {
+          "text": "modulação, feedback e ressonância, podem ser ajustados para criar diferentes variações e",
+          "bbox": [
+            37.73,
+            239.38,
+            557.98,
+            252.79
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            250.03
+          ]
+        },
+        {
+          "text": "nuances sonoras. O Phaser é amplamente utilizado em gêneros como rock, funk, disco e",
+          "bbox": [
+            37.73,
+            254.39,
+            557.98,
+            267.79
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            265.03
+          ]
+        },
+        {
+          "text": "música eletrônica, adicionando uma dimensão extra ao groove e enfatizando as",
+          "bbox": [
+            37.73,
+            269.39,
+            557.98,
+            282.8
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            280.04
+          ]
+        },
+        {
+          "text": "características rítmicas do baixo elétrico. Ele oferece uma maneira interessante de explorar",
+          "bbox": [
+            37.73,
+            284.4,
+            557.98,
+            297.81
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            295.04
+          ]
+        },
+        {
+          "text": "novas sonoridades e adicionar um toque único à execução do baixo.",
+          "bbox": [
+            37.73,
+            299.4,
+            412.01,
+            312.81
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            310.05
+          ]
+        },
+        {
+          "text": "O Flanger é um efeito que produz variações na fase do sinal de áudio, semelhante ao Phaser.",
+          "bbox": [
+            37.73,
+            413.6,
+            557.98,
+            427.01
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            424.25
+          ]
+        },
+        {
+          "text": "No entanto, o Flanger cria um efeito mais pronunciado e \"ondulado\" no som do baixo. Ele",
+          "bbox": [
+            37.73,
+            428.61,
+            557.98,
+            442.02
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            439.26
+          ]
+        },
+        {
+          "text": "produz uma sonoridade característica que é conhecida por sua intensidade e movimento.",
+          "bbox": [
+            37.73,
+            443.61,
+            532.73,
+            457.02
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            454.26
+          ]
+        },
+        {
+          "text": "Quando aplicado ao baixo elétrico, o Flanger cria um efeito que parece estar \"varrendo\" as",
+          "bbox": [
+            37.73,
+            473.63,
+            557.98,
+            487.03
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            484.27
+          ]
+        },
+        {
+          "text": "frequências, resultando em um som dinâmico e cheio de movimento. É especialmente eficaz",
+          "bbox": [
+            37.73,
+            488.63,
+            557.98,
+            502.04
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            499.28
+          ]
+        },
+        {
+          "text": "em linhas de baixo com notas sustentadas, onde o efeito flanger é mais perceptível. O Flanger",
+          "bbox": [
+            37.73,
+            503.64,
+            557.98,
+            517.05
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            514.28
+          ]
+        },
+        {
+          "text": "pode ser ajustado para produzir desde um efeito sutil e subtil até um efeito mais pronunciado",
+          "bbox": [
+            37.73,
+            518.64,
+            557.98,
+            532.05
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            529.29
+          ]
+        },
+        {
+          "text": "e extravagante. Os parâmetros como velocidade, profundidade e feedback são ajustados para",
+          "bbox": [
+            37.73,
+            533.65,
+            557.98,
+            547.06
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            544.3
+          ]
+        },
+        {
+          "text": "controlar a intensidade do efeito. O Flanger é comumente usado em gêneros musicais como",
+          "bbox": [
+            37.73,
+            548.65,
+            557.98,
+            562.06
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            559.3
+          ]
+        },
+        {
+          "text": "rock, funk, pop e música eletrônica, adicionando uma textura única e uma sensação de",
+          "bbox": [
+            37.73,
+            563.66,
+            557.98,
+            577.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            574.31
+          ]
+        },
+        {
+          "text": "excitação ao som do baixo elétrico. Ele oferece uma maneira interessante de destacar certas",
+          "bbox": [
+            37.73,
+            578.67,
+            557.98,
+            592.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            589.31
+          ]
+        },
+        {
+          "text": "partes da música, proporcionando um som cativante e expressivo para o baixo.",
+          "bbox": [
+            37.73,
+            593.67,
+            471.98,
+            607.08
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            604.32
+          ]
+        },
+        {
+          "text": "Phaser",
+          "bbox": [
+            37.73,
+            59.04,
+            94.1,
+            79.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            76.46
+          ]
+        },
+        {
+          "text": "Flanger",
+          "bbox": [
+            37.73,
+            368.31,
+            99.92,
+            389.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            385.73
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 2
+    },
+    {
+      "page": 8,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "O Delay é um efeito de áudio que reproduz repetições do sinal original com um leve atraso.\nNo baixo elétrico, o Delay é usado para adicionar profundidade, espaço e ambiente ao som.\nEle cria uma sensação de eco ou repetição que pode ser ajustada de acordo com a preferência\ndo músico.\nAo aplicar o Delay no baixo, é possível obter uma maior sensação de preenchimento sonoro e\numa expansão do som do instrumento. As repetições do sinal podem variar desde sutis e\nquase imperceptíveis até repetições mais longas e distintas. O Delay é comumente usado\npara adicionar um efeito rítmico às linhas de baixo, proporcionando um groove cativante e\num senso de movimento. Além disso, o Delay pode ser usado criativamente para criar texturas\ne paisagens sonoras interessantes. Os parâmetros do Delay, como tempo de atraso, feedback\ne mixagem, podem ser ajustados para controlar a quantidade de repetições e a intensidade\ndo efeito. O Delay é amplamente utilizado em diversos gêneros musicais, desde rock e pop até\nreggae e música eletrônica, oferecendo uma maneira versátil de enriquecer o som do baixo\nelétrico.\nO Reverb é um efeito que simula as características acústicas de diferentes ambientes,\nadicionando reflexões sonoras ao som do baixo elétrico. Ele cria uma sensação de espaço e\nprofundidade, tornando o som mais imersivo e envolvente. O Reverb pode variar desde uma\nreverberação sutil e natural até uma reverberação mais exagerada e atmosférica.\nAo aplicar o Reverb no baixo, é possível adicionar uma sensação de \"espaço\", como se o\ninstrumento estivesse sendo tocado em um ambiente específico, como uma sala de\nconcertos ou uma sala ampla. O Reverb ajuda a dar mais vida e naturalidade ao som,\ntornando-o mais tridimensional. Além disso, o Reverb pode ser usado criativamente para\nadicionar texturas e atmosferas específicas às linhas de baixo, dependendo do estilo musical e\nda intenção artística. Os parâmetros do Reverb, como tamanho da sala, tempo de decaimento\ne mixagem, podem ser ajustados para controlar o tipo e a quantidade de reverberação\naplicada. O Reverb é amplamente utilizado em uma variedade de gêneros musicais, desde\nmúsica clássica e jazz até rock e eletrônica, oferecendo uma maneira poderosa de adicionar\nprofundidade e ambientação ao som do baixo elétrico.\nDelay\nReverb\n",
+      "spans": [
+        {
+          "text": "O Delay é um efeito de áudio que reproduz repetições do sinal original com um leve atraso.",
+          "bbox": [
+            37.73,
+            104.33,
+            557.97,
+            117.74
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            114.98
+          ]
+        },
+        {
+          "text": "No baixo elétrico, o Delay é usado para adicionar profundidade, espaço e ambiente ao som.",
+          "bbox": [
+            37.73,
+            119.34,
+            557.98,
+            132.74
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            129.98
+          ]
+        },
+        {
+          "text": "Ele cria uma sensação de eco ou repetição que pode ser ajustada de acordo com a preferência",
+          "bbox": [
+            37.73,
+            134.34,
+            557.99,
+            147.75
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            144.99
+          ]
+        },
+        {
+          "text": "do músico.",
+          "bbox": [
+            37.73,
+            149.35,
+            97.79,
+            162.75
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            159.99
+          ]
+        },
+        {
+          "text": "Ao aplicar o Delay no baixo, é possível obter uma maior sensação de preenchimento sonoro e",
+          "bbox": [
+            37.73,
+            179.36,
+            557.98,
+            192.77
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            190.01
+          ]
+        },
+        {
+          "text": "uma expansão do som do instrumento. As repetições do sinal podem variar desde sutis e",
+          "bbox": [
+            37.73,
+            194.36,
+            557.98,
+            207.77
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            205.01
+          ]
+        },
+        {
+          "text": "quase imperceptíveis até repetições mais longas e distintas. O Delay é comumente usado",
+          "bbox": [
+            37.73,
+            209.37,
+            557.98,
+            222.78
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            220.02
+          ]
+        },
+        {
+          "text": "para adicionar um efeito rítmico às linhas de baixo, proporcionando um groove cativante e",
+          "bbox": [
+            37.73,
+            224.37,
+            557.99,
+            237.78
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            235.02
+          ]
+        },
+        {
+          "text": "um senso de movimento. Além disso, o Delay pode ser usado criativamente para criar texturas",
+          "bbox": [
+            37.73,
+            239.38,
+            557.98,
+            252.79
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            250.03
+          ]
+        },
+        {
+          "text": "e paisagens sonoras interessantes. Os parâmetros do Delay, como tempo de atraso, feedback",
+          "bbox": [
+            37.73,
+            254.39,
+            557.98,
+            267.79
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            265.03
+          ]
+        },
+        {
+          "text": "e mixagem, podem ser ajustados para controlar a quantidade de repetições e a intensidade",
+          "bbox": [
+            37.73,
+            269.39,
+            557.98,
+            282.8
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            280.04
+          ]
+        },
+        {
+          "text": "do efeito. O Delay é amplamente utilizado em diversos gêneros musicais, desde rock e pop até",
+          "bbox": [
+            37.73,
+            284.4,
+            557.98,
+            297.81
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            295.04
+          ]
+        },
+        {
+          "text": "reggae e música eletrônica, oferecendo uma maneira versátil de enriquecer o som do baixo",
+          "bbox": [
+            37.73,
+            299.4,
+            557.98,
+            312.81
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            310.05
+          ]
+        },
+        {
+          "text": "elétrico.",
+          "bbox": [
+            37.73,
+            314.41,
+            81.23,
+            327.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            325.06
+          ]
+        },
+        {
+          "text": "O Reverb é um efeito que simula as características acústicas de diferentes ambientes,",
+          "bbox": [
+            37.73,
+            413.6,
+            557.98,
+            427.01
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            424.25
+          ]
+        },
+        {
+          "text": "adicionando reflexões sonoras ao som do baixo elétrico. Ele cria uma sensação de espaço e",
+          "bbox": [
+            37.73,
+            428.61,
+            557.99,
+            442.02
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            439.26
+          ]
+        },
+        {
+          "text": "profundidade, tornando o som mais imersivo e envolvente. O Reverb pode variar desde uma",
+          "bbox": [
+            37.73,
+            443.61,
+            557.98,
+            457.02
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            454.26
+          ]
+        },
+        {
+          "text": "reverberação sutil e natural até uma reverberação mais exagerada e atmosférica.",
+          "bbox": [
+            37.73,
+            458.62,
+            483.21,
+            472.03
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            469.27
+          ]
+        },
+        {
+          "text": "Ao aplicar o Reverb no baixo, é possível adicionar uma sensação de \"espaço\", como se o",
+          "bbox": [
+            37.73,
+            488.63,
+            557.98,
+            502.04
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            499.28
+          ]
+        },
+        {
+          "text": "instrumento estivesse sendo tocado em um ambiente específico, como uma sala de",
+          "bbox": [
+            37.73,
+            503.64,
+            557.98,
+            517.05
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            514.28
+          ]
+        },
+        {
+          "text": "concertos ou uma sala ampla. O Reverb ajuda a dar mais vida e naturalidade ao som,",
+          "bbox": [
+            37.73,
+            518.64,
+            557.98,
+            532.05
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            529.29
+          ]
+        },
+        {
+          "text": "tornando-o mais tridimensional. Além disso, o Reverb pode ser usado criativamente para",
+          "bbox": [
+            37.73,
+            533.65,
+            557.98,
+            547.06
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            544.3
+          ]
+        },
+        {
+          "text": "adicionar texturas e atmosferas específicas às linhas de baixo, dependendo do estilo musical e",
+          "bbox": [
+            37.73,
+            548.65,
+            557.98,
+            562.06
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            559.3
+          ]
+        },
+        {
+          "text": "da intenção artística. Os parâmetros do Reverb, como tamanho da sala, tempo de decaimento",
+          "bbox": [
+            37.73,
+            563.66,
+            557.98,
+            577.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            574.31
+          ]
+        },
+        {
+          "text": "e mixagem, podem ser ajustados para controlar o tipo e a quantidade de reverberação",
+          "bbox": [
+            37.73,
+            578.67,
+            557.98,
+            592.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            589.31
+          ]
+        },
+        {
+          "text": "aplicada. O Reverb é amplamente utilizado em uma variedade de gêneros musicais, desde",
+          "bbox": [
+            37.73,
+            593.67,
+            557.98,
+            607.08
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            604.32
+          ]
+        },
+        {
+          "text": "música clássica e jazz até rock e eletrônica, oferecendo uma maneira poderosa de adicionar",
+          "bbox": [
+            37.73,
+            608.68,
+            557.98,
+            622.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            619.32
+          ]
+        },
+        {
+          "text": "profundidade e ambientação ao som do baixo elétrico.",
+          "bbox": [
+            37.73,
+            623.68,
+            338.34,
+            637.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            634.33
+          ]
+        },
+        {
+          "text": "Delay",
+          "bbox": [
+            37.73,
+            59.04,
+            84.06,
+            79.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            76.46
+          ]
+        },
+        {
+          "text": "Reverb",
+          "bbox": [
+            37.73,
+            368.31,
+            96.14,
+            389.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            385.73
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 2
+    },
+    {
+      "page": 9,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Técnicas\nAvançadas de\nMixagem\nEQ e Compressão na Mixagem\nPanning\nAs técnicas de equalização e compressão também são importantes na mixagem do baixo elétrico.\nÉ necessário encontrar um equilíbrio entre as diferentes frequências do instrumento para que ele\npossa ser ouvido com clareza na mixagem.\nAlém disso, a compressão pode ajudar a nivelar o volume do baixo elétrico em relação aos\noutros instrumentos da música, evitando que ele fique “sumido” ou excessivamente alto.\nO panning é uma técnica que permite distribuir os diferentes elementos da música pelos canais\nestéreo, criando uma sensação de espaço e profundidade. No caso do baixo elétrico, é comum\ndeixá-lo no centro da mixagem para manter a sensação de peso e solidez.\nNo entanto, é possível usar o panning em conjunto com outros instrumentos para criar um\nefeito mais interessante. Por exemplo, é possível colocar as guitarras à esquerda e à direita do\nbaixo elétrico para criar um efeito de “parede de som”.\nA mixagem é uma etapa fundamental na produção musical, responsável por equilibrar e\ncombinar os diferentes elementos da música em um som coeso e agradável. Neste módulo,\nvamos explorar técnicas avançadas de mixagem para garantir que o baixo elétrico tenha um\npapel importante na música.\n04 | Técnicas Avançadas de Mixagem\n",
+      "spans": [
+        {
+          "text": "Técnicas",
+          "bbox": [
+            37.62,
+            106.25,
+            165.39,
+            142.25
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.62,
+            136.43
+          ]
+        },
+        {
+          "text": "Avançadas de",
+          "bbox": [
+            37.62,
+            137.01,
+            242.22,
+            173.02
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.62,
+            167.19
+          ]
+        },
+        {
+          "text": "Mixagem",
+          "bbox": [
+            37.62,
+            167.77,
+            174.52,
+            203.78
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.62,
+            197.96
+          ]
+        },
+        {
+          "text": "EQ e Compressão na Mixagem",
+          "bbox": [
+            37.73,
+            427.4,
+            289.22,
+            448.18
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            444.82
+          ]
+        },
+        {
+          "text": "Panning",
+          "bbox": [
+            37.73,
+            585.75,
+            107.38,
+            606.54
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            603.18
+          ]
+        },
+        {
+          "text": "As técnicas de equalização e compressão também são importantes na mixagem do baixo elétrico.",
+          "bbox": [
+            37.73,
+            464.18,
+            558.25,
+            477.59
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            474.83
+          ]
+        },
+        {
+          "text": "É necessário encontrar um equilíbrio entre as diferentes frequências do instrumento para que ele",
+          "bbox": [
+            37.73,
+            479.18,
+            558.26,
+            492.59
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            489.83
+          ]
+        },
+        {
+          "text": "possa ser ouvido com clareza na mixagem.",
+          "bbox": [
+            37.73,
+            494.19,
+            262.53,
+            507.6
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            504.84
+          ]
+        },
+        {
+          "text": "Além disso, a compressão pode ajudar a nivelar o volume do baixo elétrico em relação aos",
+          "bbox": [
+            37.73,
+            524.2,
+            557.98,
+            537.61
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            534.85
+          ]
+        },
+        {
+          "text": "outros instrumentos da música, evitando que ele fique “sumido” ou excessivamente alto.",
+          "bbox": [
+            37.73,
+            539.21,
+            525.95,
+            552.62
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            549.85
+          ]
+        },
+        {
+          "text": "O panning é uma técnica que permite distribuir os diferentes elementos da música pelos canais",
+          "bbox": [
+            37.73,
+            622.54,
+            558.25,
+            635.94
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            633.18
+          ]
+        },
+        {
+          "text": "estéreo, criando uma sensação de espaço e profundidade. No caso do baixo elétrico, é comum",
+          "bbox": [
+            37.73,
+            637.54,
+            558.26,
+            650.95
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            648.19
+          ]
+        },
+        {
+          "text": "deixá-lo no centro da mixagem para manter a sensação de peso e solidez.",
+          "bbox": [
+            37.73,
+            652.55,
+            424.38,
+            665.96
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            663.19
+          ]
+        },
+        {
+          "text": "No entanto, é possível usar o panning em conjunto com outros instrumentos para criar um",
+          "bbox": [
+            37.73,
+            682.56,
+            557.99,
+            695.97
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            693.21
+          ]
+        },
+        {
+          "text": "efeito mais interessante. Por exemplo, é possível colocar as guitarras à esquerda e à direita do",
+          "bbox": [
+            37.73,
+            697.56,
+            557.98,
+            710.97
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            708.21
+          ]
+        },
+        {
+          "text": "baixo elétrico para criar um efeito de “parede de som”.",
+          "bbox": [
+            37.73,
+            712.57,
+            336.14,
+            725.98
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            723.22
+          ]
+        },
+        {
+          "text": "A mixagem é uma etapa fundamental na produção musical, responsável por equilibrar e",
+          "bbox": [
+            37.73,
+            336.58,
+            557.98,
+            349.99
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            347.23
+          ]
+        },
+        {
+          "text": "combinar os diferentes elementos da música em um som coeso e agradável. Neste módulo,",
+          "bbox": [
+            37.73,
+            351.59,
+            557.98,
+            365.0
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            362.24
+          ]
+        },
+        {
+          "text": "vamos explorar técnicas avançadas de mixagem para garantir que o baixo elétrico tenha um",
+          "bbox": [
+            37.73,
+            366.59,
+            557.98,
+            380.0
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            377.24
+          ]
+        },
+        {
+          "text": "papel importante na música.",
+          "bbox": [
+            37.73,
+            381.6,
+            196.61,
+            395.01
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            392.25
+          ]
+        },
+        {
+          "text": "04 | Técnicas Avançadas de Mixagem",
+          "bbox": [
+            49.28,
+            290.25,
+            254.63,
+            303.66
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            49.28,
+            300.9
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 10
+    },
+    {
+      "page": 10,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Os efeitos e processadores também são importantes na mixagem do baixo elétrico. Alguns efeitos\ncomuns incluem reverb, delay e chorus, que podem adicionar profundidade, espaço e textura ao\nsom.\nAlém disso, é possível usar processadores como o sidechain para criar um efeito de\n“bombeamento” no baixo elétrico. Isso consiste em fazer a compressão do baixo reagir ao\nvolume de outros elementos da música, criando um efeito dinâmico interessante.\nEfeitos e Processadores\nNesta lição, colocaremos a teoria em prática por meio de atividades práticas. Clique nos itens\nabaixo para conferir cada exercício e desenvolver habilidades práticas que o ajudarão a ter\nsucesso na disciplina.\nExperimente diferentes ajustes de equalização no baixo elétrico\nAplique a compressão para aumentar o sustain do baixo elétrico\nTente aplicar diferentes configurações de equalização no baixo elétrico para encontrar o\nequilíbrio ideal entre as frequências. Comece cortando um pouco das frequências mais baixas\npara evitar que o som fique embolado e experimente realçar as frequências médias para\ntornar o som mais presente na mixagem. Lembre-se de ajustar os parâmetros com cuidado\npara evitar que o som fique artificial ou sem definição.\nTente aplicar a compressão no baixo elétrico para aumentar o sustain (duração das notas) do\ninstrumento. Aumente o release (tempo que a compressão demora para diminuir) e diminua\no threshold (nível mínimo de volume que aciona a compressão) para obter o efeito desejado.\nLembre-se de ajustar os parâmetros com cuidado para evitar que o som fique excessivamente\ncomprimido ou sem dinâmica.\nExercícios\nPráticos\nVamos colocar seus conhecimentos na prática\n",
+      "spans": [
+        {
+          "text": "Os efeitos e processadores também são importantes na mixagem do baixo elétrico. Alguns efeitos",
+          "bbox": [
+            37.73,
+            106.39,
+            558.26,
+            119.8
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            117.04
+          ]
+        },
+        {
+          "text": "comuns incluem reverb, delay e chorus, que podem adicionar profundidade, espaço e textura ao",
+          "bbox": [
+            37.73,
+            121.39,
+            558.25,
+            134.8
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            132.04
+          ]
+        },
+        {
+          "text": "som.",
+          "bbox": [
+            37.73,
+            136.4,
+            63.18,
+            149.81
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            147.05
+          ]
+        },
+        {
+          "text": "Além disso, é possível usar processadores como o sidechain para criar um efeito de",
+          "bbox": [
+            37.73,
+            166.41,
+            557.99,
+            179.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            177.06
+          ]
+        },
+        {
+          "text": "“bombeamento” no baixo elétrico. Isso consiste em fazer a compressão do baixo reagir ao",
+          "bbox": [
+            37.73,
+            181.42,
+            557.98,
+            194.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            192.06
+          ]
+        },
+        {
+          "text": "volume de outros elementos da música, criando um efeito dinâmico interessante.",
+          "bbox": [
+            37.73,
+            196.42,
+            487.67,
+            209.83
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            207.07
+          ]
+        },
+        {
+          "text": "Efeitos e Processadores",
+          "bbox": [
+            37.73,
+            59.04,
+            238.71,
+            79.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            76.46
+          ]
+        },
+        {
+          "text": "Nesta lição, colocaremos a teoria em prática por meio de atividades práticas. Clique nos itens",
+          "bbox": [
+            37.73,
+            457.68,
+            555.38,
+            471.08
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            468.32
+          ]
+        },
+        {
+          "text": "abaixo para conferir cada exercício e desenvolver habilidades práticas que o ajudarão a ter",
+          "bbox": [
+            37.73,
+            472.68,
+            555.37,
+            486.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            483.33
+          ]
+        },
+        {
+          "text": "sucesso na disciplina.",
+          "bbox": [
+            37.73,
+            487.69,
+            155.26,
+            501.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            498.33
+          ]
+        },
+        {
+          "text": "Experimente diferentes ajustes de equalização no baixo elétrico",
+          "bbox": [
+            37.62,
+            541.66,
+            486.76,
+            559.52
+          ],
+          "font": "Montserrat-Regular",
+          "size": 14.88,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            556.63
+          ]
+        },
+        {
+          "text": "Aplique a compressão para aumentar o sustain do baixo elétrico",
+          "bbox": [
+            37.73,
+            679.63,
+            490.82,
+            697.49
+          ],
+          "font": "Montserrat-Regular",
+          "size": 14.88,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            694.6
+          ]
+        },
+        {
+          "text": "Tente aplicar diferentes configurações de equalização no baixo elétrico para encontrar o",
+          "bbox": [
+            37.73,
+            577.67,
+            557.98,
+            591.08
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            588.32
+          ]
+        },
+        {
+          "text": "equilíbrio ideal entre as frequências. Comece cortando um pouco das frequências mais baixas",
+          "bbox": [
+            37.73,
+            592.68,
+            557.98,
+            606.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            603.33
+          ]
+        },
+        {
+          "text": "para evitar que o som fique embolado e experimente realçar as frequências médias para",
+          "bbox": [
+            37.73,
+            607.68,
+            557.98,
+            621.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            618.33
+          ]
+        },
+        {
+          "text": "tornar o som mais presente na mixagem. Lembre-se de ajustar os parâmetros com cuidado",
+          "bbox": [
+            37.73,
+            622.69,
+            557.98,
+            636.1
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            633.34
+          ]
+        },
+        {
+          "text": "para evitar que o som fique artificial ou sem definição.",
+          "bbox": [
+            37.73,
+            637.7,
+            334.62,
+            651.1
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            648.34
+          ]
+        },
+        {
+          "text": "Tente aplicar a compressão no baixo elétrico para aumentar o sustain (duração das notas) do",
+          "bbox": [
+            37.85,
+            715.65,
+            558.09,
+            729.06
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            726.3
+          ]
+        },
+        {
+          "text": "instrumento. Aumente o release (tempo que a compressão demora para diminuir) e diminua",
+          "bbox": [
+            37.85,
+            730.65,
+            558.09,
+            744.06
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            741.3
+          ]
+        },
+        {
+          "text": "o threshold (nível mínimo de volume que aciona a compressão) para obter o efeito desejado.",
+          "bbox": [
+            37.85,
+            745.66,
+            558.09,
+            759.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            756.31
+          ]
+        },
+        {
+          "text": "Lembre-se de ajustar os parâmetros com cuidado para evitar que o som fique excessivamente",
+          "bbox": [
+            37.85,
+            760.67,
+            558.09,
+            774.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            771.31
+          ]
+        },
+        {
+          "text": "comprimido ou sem dinâmica.",
+          "bbox": [
+            37.85,
+            775.67,
+            207.0,
+            789.08
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            786.32
+          ]
+        },
+        {
+          "text": "Exercícios",
+          "bbox": [
+            37.85,
+            294.99,
+            194.0,
+            331.0
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.85,
+            325.18
+          ]
+        },
+        {
+          "text": "Práticos",
+          "bbox": [
+            37.85,
+            325.76,
+            162.8,
+            361.76
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.85,
+            355.94
+          ]
+        },
+        {
+          "text": "Vamos colocar seus conhecimentos na prática",
+          "bbox": [
+            37.96,
+            371.87,
+            293.93,
+            385.28
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 15857145,
+          "flags": 4,
+          "origin": [
+            37.96,
+            382.52
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 8
+    },
+    {
+      "page": 11,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Crie um timbre agressivo usando distorção no baixo elétrico\nAdicione um efeito de chorus ao baixo elétrico\nUse o panning para posicionar o baixo elétrico na mixagem\nAplique reverb e delay no baixo elétrico para criar profundidade\nExperimente aplicar uma distorção no baixo elétrico para obter um timbre mais agressivo e\nsujo. Ajuste o gain (quantidade de distorção aplicada), o tone (equivalente à equalização) e o\nlevel (nível de volume do efeito) com cuidado para obter o equilíbrio desejado entre presença\ne definição. Lembre-se de evitar exagerar na distorção para não prejudicar a qualidade do\nsom.\nExperimente adicionar um efeito de chorus ao baixo elétrico para criar um som mais\nencorpado e rico em texturas. Ajuste os parâmetros do efeito (velocidade, profundidade, mix)\ncom cuidado para evitar que o som fique excessivamente artificial ou cansativo. Lembre-se de\nexperimentar diferentes combinações de efeitos para encontrar o som desejado.\nExperimente usar o panning para posicionar o baixo elétrico na mixagem. Deixe-o no centro\nda mixagem para manter a sensação de peso e solidez ou distribua-o pelos canais estéreo\npara criar um efeito mais espacial. Lembre-se de ajustar o volume de cada canal com cuidado\npara evitar que o som fique desbalanceado.\nExperimente aplicar efeitos de reverb e delay no baixo elétrico para criar uma sensação de\nprofundidade e espaço. Ajuste os parâmetros dos efeitos com cuidado para evitar que o som\nfique excessivamente artificial ou cansativo. Lembre-se de experimentar diferentes\ncombinações de efeitos para encontrar o som desejado.\n",
+      "spans": [
+        {
+          "text": "Crie um timbre agressivo usando distorção no baixo elétrico",
+          "bbox": [
+            37.57,
+            59.11,
+            459.06,
+            76.96
+          ],
+          "font": "Montserrat-Regular",
+          "size": 14.88,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.57,
+            74.08
+          ]
+        },
+        {
+          "text": "Adicione um efeito de chorus ao baixo elétrico",
+          "bbox": [
+            37.73,
+            197.08,
+            364.61,
+            214.94
+          ],
+          "font": "Montserrat-Regular",
+          "size": 14.88,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            212.05
+          ]
+        },
+        {
+          "text": "Use o panning para posicionar o baixo elétrico na mixagem",
+          "bbox": [
+            37.85,
+            326.77,
+            455.26,
+            344.63
+          ],
+          "font": "Montserrat-Regular",
+          "size": 14.88,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            341.74
+          ]
+        },
+        {
+          "text": "Aplique reverb e delay no baixo elétrico para criar profundidade",
+          "bbox": [
+            37.96,
+            456.68,
+            487.25,
+            474.53
+          ],
+          "font": "Montserrat-Regular",
+          "size": 14.88,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            471.64
+          ]
+        },
+        {
+          "text": "Experimente aplicar uma distorção no baixo elétrico para obter um timbre mais agressivo e",
+          "bbox": [
+            37.68,
+            95.12,
+            557.93,
+            108.53
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.68,
+            105.77
+          ]
+        },
+        {
+          "text": "sujo. Ajuste o gain (quantidade de distorção aplicada), o tone (equivalente à equalização) e o",
+          "bbox": [
+            37.68,
+            110.13,
+            557.92,
+            123.54
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.68,
+            120.77
+          ]
+        },
+        {
+          "text": "level (nível de volume do efeito) com cuidado para obter o equilíbrio desejado entre presença",
+          "bbox": [
+            37.68,
+            125.13,
+            557.93,
+            138.54
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.68,
+            135.78
+          ]
+        },
+        {
+          "text": "e definição. Lembre-se de evitar exagerar na distorção para não prejudicar a qualidade do",
+          "bbox": [
+            37.68,
+            140.14,
+            557.93,
+            153.55
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.68,
+            150.79
+          ]
+        },
+        {
+          "text": "som.",
+          "bbox": [
+            37.68,
+            155.14,
+            63.95,
+            168.55
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.68,
+            165.79
+          ]
+        },
+        {
+          "text": "Experimente adicionar um efeito de chorus ao baixo elétrico para criar um som mais",
+          "bbox": [
+            37.85,
+            233.1,
+            558.09,
+            246.5
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            243.74
+          ]
+        },
+        {
+          "text": "encorpado e rico em texturas. Ajuste os parâmetros do efeito (velocidade, profundidade, mix)",
+          "bbox": [
+            37.85,
+            248.1,
+            558.09,
+            261.51
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            258.75
+          ]
+        },
+        {
+          "text": "com cuidado para evitar que o som fique excessivamente artificial ou cansativo. Lembre-se de",
+          "bbox": [
+            37.85,
+            263.11,
+            558.09,
+            276.52
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            273.76
+          ]
+        },
+        {
+          "text": "experimentar diferentes combinações de efeitos para encontrar o som desejado.",
+          "bbox": [
+            37.85,
+            278.11,
+            482.0,
+            291.52
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.85,
+            288.76
+          ]
+        },
+        {
+          "text": "Experimente usar o panning para posicionar o baixo elétrico na mixagem. Deixe-o no centro",
+          "bbox": [
+            37.96,
+            362.79,
+            558.2,
+            376.2
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            373.44
+          ]
+        },
+        {
+          "text": "da mixagem para manter a sensação de peso e solidez ou distribua-o pelos canais estéreo",
+          "bbox": [
+            37.96,
+            377.79,
+            558.2,
+            391.2
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            388.44
+          ]
+        },
+        {
+          "text": "para criar um efeito mais espacial. Lembre-se de ajustar o volume de cada canal com cuidado",
+          "bbox": [
+            37.96,
+            392.8,
+            558.21,
+            406.21
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            403.45
+          ]
+        },
+        {
+          "text": "para evitar que o som fique desbalanceado.",
+          "bbox": [
+            37.96,
+            407.81,
+            277.83,
+            421.21
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.96,
+            418.45
+          ]
+        },
+        {
+          "text": "Experimente aplicar efeitos de reverb e delay no baixo elétrico para criar uma sensação de",
+          "bbox": [
+            38.07,
+            492.69,
+            558.32,
+            506.1
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.07,
+            503.34
+          ]
+        },
+        {
+          "text": "profundidade e espaço. Ajuste os parâmetros dos efeitos com cuidado para evitar que o som",
+          "bbox": [
+            38.07,
+            507.69,
+            558.32,
+            521.1
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.07,
+            518.34
+          ]
+        },
+        {
+          "text": "fique excessivamente artificial ou cansativo. Lembre-se de experimentar diferentes",
+          "bbox": [
+            38.07,
+            522.7,
+            558.32,
+            536.11
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.07,
+            533.35
+          ]
+        },
+        {
+          "text": "combinações de efeitos para encontrar o som desejado.",
+          "bbox": [
+            38.07,
+            537.71,
+            345.6,
+            551.11
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.07,
+            548.35
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 2
+    },
+    {
+      "page": 12,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Questionário\n05 | Questionário\nNesta lição, colocaremos a teoria em prática por meio de atividades práticas. Clique nos itens\nabaixo para conferir cada exercício e desenvolver habilidades práticas que o ajudarão a ter\nsucesso na disciplina.\n01 - Qual é o objetivo da equalização na mixagem do baixo elétrico?\n02 - Para que serve a compressão na mixagem do baixo elétrico?\n03 - Qual é o efeito de modulação que adiciona uma espécie de 'varredura' nas\nfrequências?\n04 - Qual é a técnica de mixagem que permite distribuir os diferentes elementos pelos\ncanais estéreo?\nDiminuir as frequências médias para criar um som mais suave\nDiminuir o volume geral do baixo elétrico\nPhaser\nPanning\nRealçar as frequências médias para tornar o som mais presente\nAumentar a distorção do som\nFlanger\nCompressão\nEliminar completamente as frequências mais baixas\nAumentar o sustain das notas\nChorus\nEQ\nVerifique seu conhecimento respondendo a algumas perguntas\n",
+      "spans": [
+        {
+          "text": "Questionário",
+          "bbox": [
+            37.62,
+            106.25,
+            236.19,
+            142.25
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.62,
+            136.43
+          ]
+        },
+        {
+          "text": "05 | Questionário",
+          "bbox": [
+            47.86,
+            263.86,
+            141.53,
+            277.27
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            47.86,
+            274.51
+          ]
+        },
+        {
+          "text": "Nesta lição, colocaremos a teoria em prática por meio de atividades práticas. Clique nos itens",
+          "bbox": [
+            37.73,
+            315.18,
+            555.38,
+            328.59
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            325.83
+          ]
+        },
+        {
+          "text": "abaixo para conferir cada exercício e desenvolver habilidades práticas que o ajudarão a ter",
+          "bbox": [
+            37.73,
+            330.19,
+            555.37,
+            343.59
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            340.83
+          ]
+        },
+        {
+          "text": "sucesso na disciplina.",
+          "bbox": [
+            37.73,
+            345.19,
+            155.26,
+            358.6
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            355.84
+          ]
+        },
+        {
+          "text": "01 - Qual é o objetivo da equalização na mixagem do baixo elétrico?",
+          "bbox": [
+            37.73,
+            397.76,
+            441.86,
+            412.95
+          ],
+          "font": "Montserrat-Regular",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            410.49
+          ]
+        },
+        {
+          "text": "02 - Para que serve a compressão na mixagem do baixo elétrico?",
+          "bbox": [
+            37.62,
+            493.68,
+            423.78,
+            508.87
+          ],
+          "font": "Montserrat-Regular",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            506.41
+          ]
+        },
+        {
+          "text": "03 - Qual é o efeito de modulação que adiciona uma espécie de 'varredura' nas",
+          "bbox": [
+            38.87,
+            592.6,
+            508.06,
+            607.79
+          ],
+          "font": "Montserrat-Regular",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.87,
+            605.33
+          ]
+        },
+        {
+          "text": "frequências?",
+          "bbox": [
+            38.87,
+            609.85,
+            114.55,
+            625.04
+          ],
+          "font": "Montserrat-Regular",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.87,
+            622.59
+          ]
+        },
+        {
+          "text": "04 - Qual é a técnica de mixagem que permite distribuir os diferentes elementos pelos",
+          "bbox": [
+            38.76,
+            714.48,
+            555.24,
+            729.67
+          ],
+          "font": "Montserrat-Regular",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.76,
+            727.22
+          ]
+        },
+        {
+          "text": "canais estéreo?",
+          "bbox": [
+            38.76,
+            731.74,
+            129.38,
+            746.93
+          ],
+          "font": "Montserrat-Regular",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.76,
+            744.47
+          ]
+        },
+        {
+          "text": "Diminuir as frequências médias para criar um som mais suave",
+          "bbox": [
+            57.47,
+            426.16,
+            338.03,
+            437.14
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.47,
+            434.88
+          ]
+        },
+        {
+          "text": "Diminuir o volume geral do baixo elétrico",
+          "bbox": [
+            57.36,
+            522.08,
+            243.88,
+            533.06
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.36,
+            530.8
+          ]
+        },
+        {
+          "text": "Phaser",
+          "bbox": [
+            57.25,
+            637.96,
+            88.57,
+            648.94
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.25,
+            646.68
+          ]
+        },
+        {
+          "text": "Panning",
+          "bbox": [
+            54.54,
+            759.85,
+            93.2,
+            770.83
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            54.54,
+            768.57
+          ]
+        },
+        {
+          "text": "Realçar as frequências médias para tornar o som mais presente",
+          "bbox": [
+            57.47,
+            444.29,
+            343.71,
+            455.27
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.47,
+            453.01
+          ]
+        },
+        {
+          "text": "Aumentar a distorção do som",
+          "bbox": [
+            57.36,
+            540.21,
+            191.5,
+            551.18
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.36,
+            548.92
+          ]
+        },
+        {
+          "text": "Flanger",
+          "bbox": [
+            57.25,
+            656.09,
+            92.0,
+            667.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.25,
+            664.81
+          ]
+        },
+        {
+          "text": "Compressão",
+          "bbox": [
+            54.54,
+            777.98,
+            111.12,
+            788.95
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            54.54,
+            786.69
+          ]
+        },
+        {
+          "text": "Eliminar completamente as frequências mais baixas",
+          "bbox": [
+            57.58,
+            461.05,
+            293.38,
+            472.02
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.58,
+            469.76
+          ]
+        },
+        {
+          "text": "Aumentar o sustain das notas",
+          "bbox": [
+            57.47,
+            556.97,
+            192.01,
+            567.94
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.47,
+            565.68
+          ]
+        },
+        {
+          "text": "Chorus",
+          "bbox": [
+            57.36,
+            672.85,
+            89.65,
+            683.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            57.36,
+            681.56
+          ]
+        },
+        {
+          "text": "EQ",
+          "bbox": [
+            54.65,
+            794.74,
+            68.23,
+            805.71
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            54.65,
+            803.45
+          ]
+        },
+        {
+          "text": "Verifique seu conhecimento respondendo a algumas perguntas",
+          "bbox": [
+            37.73,
+            150.96,
+            390.94,
+            164.36
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 15857145,
+          "flags": 4,
+          "origin": [
+            37.73,
+            161.6
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 34
+    },
+    {
+      "page": 13,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Questionário\n05 | Questionário\n05 - Qual é o efeito de modulação que adiciona um som levemente 'coral' ao baixo\nelétrico?\n06 - Qual é a técnica de mixagem que permite criar um efeito dinâmico no baixo\nelétrico?\nPhaser\nEQ\nChorus\nPanning\nFlanger\nCompressão\nVerifique seu conhecimento respondendo a algumas perguntas\nParabéns!\nParabéns por concluir este curso! Você deu um passo importante para liberar todo o seu\npotencial. Concluir este curso não é apenas adquirir conhecimento; trata-se de colocar esse\nconhecimento em prática e causar um impacto positivo no mundo ao seu redor.\n",
+      "spans": [
+        {
+          "text": "Questionário",
+          "bbox": [
+            37.62,
+            106.25,
+            236.19,
+            142.25
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.62,
+            136.43
+          ]
+        },
+        {
+          "text": "05 | Questionário",
+          "bbox": [
+            47.86,
+            263.86,
+            141.53,
+            277.27
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            47.86,
+            274.51
+          ]
+        },
+        {
+          "text": "05 - Qual é o efeito de modulação que adiciona um som levemente 'coral' ao baixo",
+          "bbox": [
+            38.98,
+            317.68,
+            532.32,
+            332.87
+          ],
+          "font": "Montserrat-Regular",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.98,
+            330.41
+          ]
+        },
+        {
+          "text": "elétrico?",
+          "bbox": [
+            38.98,
+            334.94,
+            89.43,
+            350.13
+          ],
+          "font": "Montserrat-Regular",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.98,
+            347.67
+          ]
+        },
+        {
+          "text": "06 - Qual é a técnica de mixagem que permite criar um efeito dinâmico no baixo",
+          "bbox": [
+            38.76,
+            426.06,
+            522.24,
+            441.25
+          ],
+          "font": "Montserrat-Regular",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.76,
+            438.8
+          ]
+        },
+        {
+          "text": "elétrico?",
+          "bbox": [
+            38.76,
+            443.32,
+            89.21,
+            458.51
+          ],
+          "font": "Montserrat-Regular",
+          "size": 12.66,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.76,
+            456.05
+          ]
+        },
+        {
+          "text": "Phaser",
+          "bbox": [
+            55.27,
+            358.55,
+            86.59,
+            369.52
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            55.27,
+            367.26
+          ]
+        },
+        {
+          "text": "EQ",
+          "bbox": [
+            54.54,
+            471.43,
+            68.12,
+            482.4
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            54.54,
+            480.15
+          ]
+        },
+        {
+          "text": "Chorus",
+          "bbox": [
+            55.27,
+            376.68,
+            87.56,
+            387.65
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            55.27,
+            385.39
+          ]
+        },
+        {
+          "text": "Panning",
+          "bbox": [
+            54.54,
+            489.56,
+            93.2,
+            500.53
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            54.54,
+            498.27
+          ]
+        },
+        {
+          "text": "Flanger",
+          "bbox": [
+            55.38,
+            393.43,
+            90.13,
+            404.41
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            55.38,
+            402.15
+          ]
+        },
+        {
+          "text": "Compressão",
+          "bbox": [
+            54.65,
+            506.31,
+            111.23,
+            517.29
+          ],
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            54.65,
+            515.03
+          ]
+        },
+        {
+          "text": "Verifique seu conhecimento respondendo a algumas perguntas",
+          "bbox": [
+            37.73,
+            150.96,
+            390.94,
+            164.36
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 15857145,
+          "flags": 4,
+          "origin": [
+            37.73,
+            161.6
+          ]
+        },
+        {
+          "text": "Parabéns!",
+          "bbox": [
+            37.62,
+            617.02,
+            223.68,
+            665.04
+          ],
+          "font": "Montserrat-Regular",
+          "size": 40.01,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            657.27
+          ]
+        },
+        {
+          "text": "Parabéns por concluir este curso! Você deu um passo importante para liberar todo o seu",
+          "bbox": [
+            38.36,
+            678.29,
+            558.6,
+            691.7
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.36,
+            688.94
+          ]
+        },
+        {
+          "text": "potencial. Concluir este curso não é apenas adquirir conhecimento; trata-se de colocar esse",
+          "bbox": [
+            38.36,
+            693.29,
+            558.6,
+            706.7
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.36,
+            703.94
+          ]
+        },
+        {
+          "text": "conhecimento em prática e causar um impacto positivo no mundo ao seu redor.",
+          "bbox": [
+            38.36,
+            708.3,
+            481.86,
+            721.71
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.36,
+            718.95
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 22
+    }
+  ],
+  "contact_sheet": "tmp\\pdfs\\inspection\\o-código-dos-timbres-baixo-contact-sheet.png"
+}

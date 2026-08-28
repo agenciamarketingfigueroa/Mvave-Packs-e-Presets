@@ -1,0 +1,3575 @@
+{
+  "source": "output\\pdf\\El Código de los Tonos (Guitarra Acústica).pdf",
+  "pages": 10,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "El Código de los Tonos (Guitarra Acústica)",
+    "author": "Felipe Figueroa Santos",
+    "subject": "",
+    "keywords": "DAFlRVotc-A,BADVP53gQZ4",
+    "creator": "Canva",
+    "producer": "Canva",
+    "creationDate": "D:20260828174834+00'00'",
+    "modDate": "D:20260828174834+00'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "fonts": [
+    "Montserrat-Thin"
+  ],
+  "text_characters": 14058,
+  "pages_data": [
+    {
+      "page": 1,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "EL CÓDIGO DE LOS\nTONOS\nDomina el arte de crear sonidos increíbles\nen la guitarra acústica\n",
+      "spans": [
+        {
+          "text": "EL CÓDIGO DE LOS",
+          "bbox": [
+            28.04,
+            93.5,
+            567.46,
+            158.52
+          ],
+          "font": "Montserrat-Thin",
+          "size": 53.34,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            28.04,
+            145.13
+          ]
+        },
+        {
+          "text": "TONOS",
+          "bbox": [
+            192.97,
+            159.69,
+            402.53,
+            227.27
+          ],
+          "font": "Montserrat-Thin",
+          "size": 55.44,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            192.97,
+            213.36
+          ]
+        },
+        {
+          "text": "Domina el arte de crear sonidos increíbles",
+          "bbox": [
+            66.96,
+            721.59,
+            528.54,
+            748.37
+          ],
+          "font": "Montserrat-Thin",
+          "size": 21.97,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            66.96,
+            742.86
+          ]
+        },
+        {
+          "text": "en la guitarra acústica",
+          "bbox": [
+            176.04,
+            751.89,
+            419.46,
+            778.67
+          ],
+          "font": "Montserrat-Thin",
+          "size": 21.97,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            176.04,
+            773.16
+          ]
+        }
+      ],
+      "images": 1,
+      "drawings": 2
+    },
+    {
+      "page": 2,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Aprende a explorar diferentes tonos\nen la guitarra acústica.\nTonos para\nguitarra acústica\nDescripción general\nEste curso tiene como objetivo enseñar a los alumnos a explorar diferentes tonos en la\nguitarra acústica mediante técnicas de ejecución y variaciones de afinación. Al finalizar el\ncurso, podrán crear arreglos musicales más complejos y ricos en matices sonoros.\nTécnicas de\nejecución\n01 | Técnicas de ejecución\nEn este módulo abordaremos técnicas de ejecución para guitarra acústica que permiten\nexplorar diferentes tonos y matices sonoros. Estas técnicas son fundamentales para crear\narreglos musicales más complejos y expresivos.\n",
+      "spans": [
+        {
+          "text": "Aprende a explorar diferentes tonos",
+          "bbox": [
+            309.31,
+            172.89,
+            507.24,
+            186.3
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            309.31,
+            183.54
+          ]
+        },
+        {
+          "text": "en la guitarra acústica.",
+          "bbox": [
+            309.31,
+            184.07,
+            433.53,
+            197.48
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            309.31,
+            194.72
+          ]
+        },
+        {
+          "text": "Tonos para",
+          "bbox": [
+            309.31,
+            98.36,
+            470.8,
+            132.37
+          ],
+          "font": "Montserrat-Thin",
+          "size": 27.9,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            309.31,
+            125.36
+          ]
+        },
+        {
+          "text": "guitarra acústica",
+          "bbox": [
+            309.31,
+            126.71,
+            556.84,
+            160.72
+          ],
+          "font": "Montserrat-Thin",
+          "size": 27.9,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            309.31,
+            153.72
+          ]
+        },
+        {
+          "text": "Descripción general",
+          "bbox": [
+            40.34,
+            290.04,
+            214.49,
+            311.15
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            40.34,
+            306.81
+          ]
+        },
+        {
+          "text": "Este curso tiene como objetivo enseñar a los alumnos a explorar diferentes tonos en la",
+          "bbox": [
+            37.73,
+            326.82,
+            512.63,
+            340.23
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            337.47
+          ]
+        },
+        {
+          "text": "guitarra acústica mediante técnicas de ejecución y variaciones de afinación. Al finalizar el",
+          "bbox": [
+            37.73,
+            338.0,
+            527.3,
+            351.41
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            348.65
+          ]
+        },
+        {
+          "text": "curso, podrán crear arreglos musicales más complejos y ricos en matices sonoros.",
+          "bbox": [
+            37.73,
+            349.18,
+            485.98,
+            362.59
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            359.83
+          ]
+        },
+        {
+          "text": "Técnicas de",
+          "bbox": [
+            40.34,
+            448.09,
+            225.65,
+            484.66
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            40.34,
+            477.13
+          ]
+        },
+        {
+          "text": "ejecución",
+          "bbox": [
+            40.34,
+            478.58,
+            192.89,
+            515.15
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            40.34,
+            507.62
+          ]
+        },
+        {
+          "text": "01 | Técnicas de ejecución",
+          "bbox": [
+            49.28,
+            591.91,
+            190.37,
+            605.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            49.28,
+            602.56
+          ]
+        },
+        {
+          "text": "En este módulo abordaremos técnicas de ejecución para guitarra acústica que permiten",
+          "bbox": [
+            37.73,
+            639.46,
+            525.78,
+            652.87
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            650.11
+          ]
+        },
+        {
+          "text": "explorar diferentes tonos y matices sonoros. Estas técnicas son fundamentales para crear",
+          "bbox": [
+            37.73,
+            650.64,
+            528.44,
+            664.05
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            661.29
+          ]
+        },
+        {
+          "text": "arreglos musicales más complejos y expresivos.",
+          "bbox": [
+            37.73,
+            661.82,
+            298.41,
+            675.23
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            672.47
+          ]
+        }
+      ],
+      "images": 1,
+      "drawings": 27
+    },
+    {
+      "page": 3,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Técnica de fingerpicking\nEl fingerpicking es una técnica de ejecución en la que el músico utiliza los dedos de la mano\nderecha para tocar las cuerdas de la guitarra acústica. Permite controlar la intensidad del\nsonido y crear variaciones de tono y matices en la música.\nExisten diferentes tipos de fingerpicking, como el alternado, en el que se alternan los dedos\níndice y medio para tocar las cuerdas, y el estilo fingerstyle, en el que se utilizan todos los\ndedos de la mano derecha.\nTécnica de palm muting\nTécnica de vibrato\nTécnica de slide\nEl palm muting es una técnica en la que se utiliza la palma de la mano derecha para apagar\nparcialmente las cuerdas de la guitarra acústica, creando un sonido más percusivo y marcado.\nSe usa mucho en estilos como el rock y el heavy metal.\nEl vibrato es una técnica en la que el músico realiza pequeñas variaciones en la afinación de la\nnota, creando un efecto de vibración. Puede ejecutarse con los dedos de la mano izquierda o\ncon la mano derecha y se utiliza mucho en estilos como el blues y el jazz.\nEl slide es una técnica en la que el músico desliza el dedo por la cuerda de la guitarra acústica,\ncreando una variación en la afinación de la nota. Puede realizarse con los dedos de la mano\nizquierda o con la mano derecha y se utiliza mucho en estilos como el blues y el rock.\nVariaciones de\nafinación\n",
+      "spans": [
+        {
+          "text": "Técnica de fingerpicking",
+          "bbox": [
+            37.73,
+            57.54,
+            251.76,
+            78.65
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            74.3
+          ]
+        },
+        {
+          "text": "El fingerpicking es una técnica de ejecución en la que el músico utiliza los dedos de la mano",
+          "bbox": [
+            37.73,
+            94.32,
+            545.1,
+            107.73
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            104.97
+          ]
+        },
+        {
+          "text": "derecha para tocar las cuerdas de la guitarra acústica. Permite controlar la intensidad del",
+          "bbox": [
+            37.73,
+            105.5,
+            528.18,
+            118.91
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            116.15
+          ]
+        },
+        {
+          "text": "sonido y crear variaciones de tono y matices en la música.",
+          "bbox": [
+            37.73,
+            116.68,
+            354.97,
+            130.09
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            127.33
+          ]
+        },
+        {
+          "text": "Existen diferentes tipos de fingerpicking, como el alternado, en el que se alternan los dedos",
+          "bbox": [
+            37.73,
+            154.34,
+            540.78,
+            167.75
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            164.99
+          ]
+        },
+        {
+          "text": "índice y medio para tocar las cuerdas, y el estilo fingerstyle, en el que se utilizan todos los",
+          "bbox": [
+            37.73,
+            165.52,
+            525.45,
+            178.93
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            176.17
+          ]
+        },
+        {
+          "text": "dedos de la mano derecha.",
+          "bbox": [
+            37.73,
+            176.7,
+            186.74,
+            190.11
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            187.35
+          ]
+        },
+        {
+          "text": "Técnica de palm muting",
+          "bbox": [
+            37.73,
+            228.13,
+            250.32,
+            249.24
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            244.89
+          ]
+        },
+        {
+          "text": "Técnica de vibrato",
+          "bbox": [
+            37.73,
+            353.47,
+            196.35,
+            374.58
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            370.24
+          ]
+        },
+        {
+          "text": "Técnica de slide",
+          "bbox": [
+            37.73,
+            478.82,
+            175.48,
+            499.93
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            495.58
+          ]
+        },
+        {
+          "text": "El palm muting es una técnica en la que se utiliza la palma de la mano derecha para apagar",
+          "bbox": [
+            37.73,
+            264.91,
+            543.11,
+            278.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            275.56
+          ]
+        },
+        {
+          "text": "parcialmente las cuerdas de la guitarra acústica, creando un sonido más percusivo y marcado.",
+          "bbox": [
+            37.73,
+            276.09,
+            555.47,
+            289.5
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            286.74
+          ]
+        },
+        {
+          "text": "Se usa mucho en estilos como el rock y el heavy metal.",
+          "bbox": [
+            37.73,
+            287.27,
+            338.39,
+            300.68
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            297.92
+          ]
+        },
+        {
+          "text": "El vibrato es una técnica en la que el músico realiza pequeñas variaciones en la afinación de la",
+          "bbox": [
+            37.73,
+            390.25,
+            554.44,
+            403.66
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            400.9
+          ]
+        },
+        {
+          "text": "nota, creando un efecto de vibración. Puede ejecutarse con los dedos de la mano izquierda o",
+          "bbox": [
+            37.73,
+            401.43,
+            547.91,
+            414.84
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            412.08
+          ]
+        },
+        {
+          "text": "con la mano derecha y se utiliza mucho en estilos como el blues y el jazz.",
+          "bbox": [
+            37.73,
+            412.61,
+            437.55,
+            426.02
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            423.26
+          ]
+        },
+        {
+          "text": "El slide es una técnica en la que el músico desliza el dedo por la cuerda de la guitarra acústica,",
+          "bbox": [
+            37.73,
+            515.6,
+            554.95,
+            529.01
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            526.25
+          ]
+        },
+        {
+          "text": "creando una variación en la afinación de la nota. Puede realizarse con los dedos de la mano",
+          "bbox": [
+            37.73,
+            526.78,
+            539.42,
+            540.19
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            537.43
+          ]
+        },
+        {
+          "text": "izquierda o con la mano derecha y se utiliza mucho en estilos como el blues y el rock.",
+          "bbox": [
+            37.73,
+            537.96,
+            504.95,
+            551.37
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            548.61
+          ]
+        },
+        {
+          "text": "Variaciones de",
+          "bbox": [
+            37.73,
+            726.14,
+            269.27,
+            762.71
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.73,
+            755.18
+          ]
+        },
+        {
+          "text": "afinación",
+          "bbox": [
+            37.73,
+            756.63,
+            183.26,
+            793.2
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.73,
+            785.67
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 8
+    },
+    {
+      "page": 4,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Afinación estándar\nAfinaciones alternativas\nLa afinación estándar de la guitarra acústica es la más común y consiste en afinar las cuerdas\nen las notas E, A, D, G, B y E, de la más gruesa a la más fina. Permite tocar una gran variedad\nde acordes y escalas, aunque también puede limitar algunas posibilidades sonoras.\nLas afinaciones alternativas son variaciones que permiten explorar diferentes sonoridades y\ntonos. Entre las más comunes se encuentran:\nAfinación Open D: consiste en afinar las cuerdas en D, A, D, F#, A y D, de la más gruesa a la\nmás fina. Se utiliza mucho en blues y rock.\nAfinación Open G: consiste en afinar las cuerdas en D, G, D, G, B y D, de la más gruesa a la\nmás fina. Se utiliza mucho en blues y country.\nAfinación Drop D: la cuerda más gruesa se afina en D y las demás permanecen en la\nafinación estándar. Permite tocar acordes con más peso y se utiliza mucho en rock y metal.\nAfinación DADGAD: consiste en afinar las cuerdas en D, A, D, G, A y D, de la más gruesa a la\nmás fina. Se utiliza mucho en folk y música celta.\nEn este módulo abordaremos las variaciones de afinación de la guitarra acústica y cómo\npueden utilizarse para explorar diferentes tonos y sonoridades. Es un recurso empleado por\nmúsicos de muchos estilos, desde el blues hasta el folk.\nNota: comentario del profesor\nQuizás no lo sepas, pero hoy tengo el curso en video sobre afinación DADGAD más grande de\nBrasil. Si te interesa formar parte de la mayor comunidad dedicada al DADGAD, a\ncontinuación encontrarás el enlace de Descomplicando o DADGAD para inscribirte con casi\nun 50% de descuento exclusivo para alumnos.\nhttps://www.descomplicandodadgad.com.br\n",
+      "spans": [
+        {
+          "text": "Afinación estándar",
+          "bbox": [
+            37.73,
+            127.96,
+            200.91,
+            149.07
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            144.73
+          ]
+        },
+        {
+          "text": "Afinaciones alternativas",
+          "bbox": [
+            37.73,
+            271.08,
+            244.03,
+            292.19
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            287.84
+          ]
+        },
+        {
+          "text": "La afinación estándar de la guitarra acústica es la más común y consiste en afinar las cuerdas",
+          "bbox": [
+            37.73,
+            176.0,
+            549.66,
+            189.41
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            186.65
+          ]
+        },
+        {
+          "text": "en las notas E, A, D, G, B y E, de la más gruesa a la más fina. Permite tocar una gran variedad",
+          "bbox": [
+            37.73,
+            187.18,
+            542.35,
+            200.59
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            197.83
+          ]
+        },
+        {
+          "text": "de acordes y escalas, aunque también puede limitar algunas posibilidades sonoras.",
+          "bbox": [
+            37.73,
+            198.36,
+            494.68,
+            211.77
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            209.01
+          ]
+        },
+        {
+          "text": "Las afinaciones alternativas son variaciones que permiten explorar diferentes sonoridades y",
+          "bbox": [
+            37.73,
+            315.18,
+            540.58,
+            328.59
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            325.82
+          ]
+        },
+        {
+          "text": "tonos. Entre las más comunes se encuentran:",
+          "bbox": [
+            37.73,
+            326.36,
+            287.58,
+            339.77
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            337.01
+          ]
+        },
+        {
+          "text": "Afinación Open D: consiste en afinar las cuerdas en D, A, D, F#, A y D, de la más gruesa a la",
+          "bbox": [
+            56.43,
+            360.19,
+            551.04,
+            373.6
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            370.84
+          ]
+        },
+        {
+          "text": "más fina. Se utiliza mucho en blues y rock.",
+          "bbox": [
+            56.43,
+            371.37,
+            288.07,
+            384.78
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            382.02
+          ]
+        },
+        {
+          "text": "Afinación Open G: consiste en afinar las cuerdas en D, G, D, G, B y D, de la más gruesa a la",
+          "bbox": [
+            56.43,
+            420.22,
+            545.36,
+            433.63
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            430.86
+          ]
+        },
+        {
+          "text": "más fina. Se utiliza mucho en blues y country.",
+          "bbox": [
+            56.43,
+            431.4,
+            306.75,
+            444.81
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            442.04
+          ]
+        },
+        {
+          "text": "Afinación Drop D: la cuerda más gruesa se afina en D y las demás permanecen en la",
+          "bbox": [
+            56.43,
+            480.24,
+            518.46,
+            493.65
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            490.89
+          ]
+        },
+        {
+          "text": "afinación estándar. Permite tocar acordes con más peso y se utiliza mucho en rock y metal.",
+          "bbox": [
+            56.43,
+            491.42,
+            557.46,
+            504.83
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            502.07
+          ]
+        },
+        {
+          "text": "Afinación DADGAD: consiste en afinar las cuerdas en D, A, D, G, A y D, de la más gruesa a la",
+          "bbox": [
+            56.43,
+            540.26,
+            553.72,
+            553.67
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            550.91
+          ]
+        },
+        {
+          "text": "más fina. Se utiliza mucho en folk y música celta.",
+          "bbox": [
+            56.43,
+            551.44,
+            324.04,
+            564.85
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            562.09
+          ]
+        },
+        {
+          "text": "En este módulo abordaremos las variaciones de afinación de la guitarra acústica y cómo",
+          "bbox": [
+            37.62,
+            57.56,
+            522.67,
+            70.97
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            68.2
+          ]
+        },
+        {
+          "text": "pueden utilizarse para explorar diferentes tonos y sonoridades. Es un recurso empleado por",
+          "bbox": [
+            37.62,
+            68.74,
+            540.85,
+            82.15
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            79.39
+          ]
+        },
+        {
+          "text": "músicos de muchos estilos, desde el blues hasta el folk.",
+          "bbox": [
+            37.62,
+            79.92,
+            340.81,
+            93.33
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            90.57
+          ]
+        },
+        {
+          "text": "Nota: comentario del profesor",
+          "bbox": [
+            37.73,
+            613.2,
+            231.5,
+            628.97
+          ],
+          "font": "Montserrat-Thin",
+          "size": 12.94,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            625.72
+          ]
+        },
+        {
+          "text": "Quizás no lo sepas, pero hoy tengo el curso en video sobre afinación DADGAD más grande de",
+          "bbox": [
+            37.73,
+            644.62,
+            551.8,
+            658.03
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            655.27
+          ]
+        },
+        {
+          "text": "Brasil. Si te interesa formar parte de la mayor comunidad dedicada al DADGAD, a",
+          "bbox": [
+            37.73,
+            655.8,
+            484.24,
+            669.21
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            666.45
+          ]
+        },
+        {
+          "text": "continuación encontrarás el enlace de Descomplicando o DADGAD para inscribirte con casi",
+          "bbox": [
+            37.73,
+            666.98,
+            542.29,
+            680.39
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            677.63
+          ]
+        },
+        {
+          "text": "un 50% de descuento exclusivo para alumnos.",
+          "bbox": [
+            37.73,
+            678.16,
+            290.72,
+            691.57
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            688.81
+          ]
+        },
+        {
+          "text": "https://www.descomplicandodadgad.com.br",
+          "bbox": [
+            37.73,
+            718.63,
+            327.71,
+            734.41
+          ],
+          "font": "Montserrat-Thin",
+          "size": 12.94,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            731.16
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 7
+    },
+    {
+      "page": 5,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Explorando\nnuevos tonos\nTécnica de tapping\nTécnica de armónicos\nTécnica de rasgueado\nTécnica de slide armónico\nEn este módulo abordaremos técnicas y estrategias para explorar nuevos tonos en la guitarra\nacústica. Son fundamentales para crear arreglos musicales más complejos y expresivos, y\npermiten desarrollar una variedad de sonoridades y texturas.\nEl tapping es una técnica en la que el músico utiliza las manos para producir sonidos\npercusivos en las cuerdas de la guitarra acústica, creando un efecto similar al de una batería.\nSe utiliza mucho en rock y metal, pero también puede aplicarse a otros estilos.\nEl armónico es una técnica en la que se tocan las cuerdas de la guitarra acústica en puntos\nespecíficos para producir un sonido agudo y cristalino. Se utiliza mucho en jazz y música\nclásica, aunque también puede aplicarse a otros estilos.\nEl rasgueado es una técnica en la que se utilizan los dedos de la mano derecha para tocar las\ncuerdas en una secuencia rápida de movimientos, creando un sonido percusivo y rítmico. Es\nmuy común en el flamenco, pero también puede aplicarse a otros estilos.\nEl slide armónico es una técnica en la que el músico desliza el dedo por la cuerda de la\nguitarra acústica para producir un sonido agudo y cristalino. Puede combinarse con otras\ntécnicas, como el tapping y el rasgueado, para crear nuevas texturas sonoras.\n",
+      "spans": [
+        {
+          "text": "Explorando",
+          "bbox": [
+            37.62,
+            104.75,
+            217.56,
+            141.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            133.79
+          ]
+        },
+        {
+          "text": "nuevos tonos",
+          "bbox": [
+            37.62,
+            135.24,
+            248.91,
+            171.81
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            164.28
+          ]
+        },
+        {
+          "text": "Técnica de tapping",
+          "bbox": [
+            37.73,
+            318.58,
+            204.47,
+            339.7
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            335.35
+          ]
+        },
+        {
+          "text": "Técnica de armónicos",
+          "bbox": [
+            37.73,
+            426.67,
+            227.34,
+            447.79
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            443.44
+          ]
+        },
+        {
+          "text": "Técnica de rasgueado",
+          "bbox": [
+            37.62,
+            534.76,
+            227.8,
+            555.87
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            551.53
+          ]
+        },
+        {
+          "text": "Técnica de slide armónico",
+          "bbox": [
+            37.62,
+            657.86,
+            263.29,
+            678.97
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            674.62
+          ]
+        },
+        {
+          "text": "En este módulo abordaremos técnicas y estrategias para explorar nuevos tonos en la guitarra",
+          "bbox": [
+            37.73,
+            247.28,
+            551.58,
+            260.69
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            257.93
+          ]
+        },
+        {
+          "text": "acústica. Son fundamentales para crear arreglos musicales más complejos y expresivos, y",
+          "bbox": [
+            37.73,
+            258.46,
+            527.83,
+            271.87
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            269.11
+          ]
+        },
+        {
+          "text": "permiten desarrollar una variedad de sonoridades y texturas.",
+          "bbox": [
+            37.73,
+            269.64,
+            372.18,
+            283.05
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            280.29
+          ]
+        },
+        {
+          "text": "El tapping es una técnica en la que el músico utiliza las manos para producir sonidos",
+          "bbox": [
+            37.73,
+            355.37,
+            503.83,
+            368.78
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            366.02
+          ]
+        },
+        {
+          "text": "percusivos en las cuerdas de la guitarra acústica, creando un efecto similar al de una batería.",
+          "bbox": [
+            37.73,
+            366.55,
+            545.92,
+            379.96
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            377.2
+          ]
+        },
+        {
+          "text": "Se utiliza mucho en rock y metal, pero también puede aplicarse a otros estilos.",
+          "bbox": [
+            37.73,
+            377.73,
+            468.34,
+            391.14
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            388.38
+          ]
+        },
+        {
+          "text": "El armónico es una técnica en la que se tocan las cuerdas de la guitarra acústica en puntos",
+          "bbox": [
+            37.73,
+            463.46,
+            537.35,
+            476.86
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            474.1
+          ]
+        },
+        {
+          "text": "específicos para producir un sonido agudo y cristalino. Se utiliza mucho en jazz y música",
+          "bbox": [
+            37.73,
+            474.64,
+            523.24,
+            488.05
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            485.28
+          ]
+        },
+        {
+          "text": "clásica, aunque también puede aplicarse a otros estilos.",
+          "bbox": [
+            37.73,
+            485.82,
+            342.92,
+            499.23
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            496.46
+          ]
+        },
+        {
+          "text": "El rasgueado es una técnica en la que se utilizan los dedos de la mano derecha para tocar las",
+          "bbox": [
+            37.62,
+            571.54,
+            548.01,
+            584.95
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            582.19
+          ]
+        },
+        {
+          "text": "cuerdas en una secuencia rápida de movimientos, creando un sonido percusivo y rítmico. Es",
+          "bbox": [
+            37.62,
+            582.73,
+            545.63,
+            596.13
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            593.37
+          ]
+        },
+        {
+          "text": "muy común en el flamenco, pero también puede aplicarse a otros estilos.",
+          "bbox": [
+            37.62,
+            593.91,
+            440.6,
+            607.31
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            604.55
+          ]
+        },
+        {
+          "text": "El slide armónico es una técnica en la que el músico desliza el dedo por la cuerda de la",
+          "bbox": [
+            37.62,
+            694.64,
+            512.88,
+            708.05
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            705.29
+          ]
+        },
+        {
+          "text": "guitarra acústica para producir un sonido agudo y cristalino. Puede combinarse con otras",
+          "bbox": [
+            37.62,
+            705.82,
+            529.71,
+            719.23
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            716.47
+          ]
+        },
+        {
+          "text": "técnicas, como el tapping y el rasgueado, para crear nuevas texturas sonoras.",
+          "bbox": [
+            37.62,
+            717.0,
+            461.65,
+            730.41
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            727.65
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 8
+    },
+    {
+      "page": 6,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Conoce en detalle\ncada uno de los\nprincipales efectos\nReverb\nEl reverb, también llamado reverberación, es uno de los efectos más utilizados en la guitarra\nacústica y otros instrumentos. Simula el sonido reflejado en un ambiente y añade una\nsensación de espacio y profundidad. Se crea mediante la repetición y atenuación gradual de\nreflexiones sonoras, como ocurre en una sala con paredes y objetos que reflejan el sonido.\nPuede ir desde una reverberación corta y discreta, adecuada para añadir un poco de\nambiente, hasta una larga y expansiva que transmite la sensación de tocar en una sala de\nconciertos o una catedral. Se utiliza en muchos estilos, desde música clásica y jazz hasta rock y\npop, para añadir profundidad y una cualidad más envolvente al sonido.\nLos guitarristas suelen ajustar los parámetros del reverb según sus preferencias y el contexto\nmusical. Los controles habituales incluyen el tiempo de reverberación, que determina la\nduración de las reflexiones; la mezcla, que controla cuánto efecto se combina con la señal\noriginal; y la ecualización, que permite moldear su carácter tonal. Puede aplicarse tanto en\nvivo como en grabaciones de estudio para crear una sensación de espacio y situar la guitarra\nacústica en un ambiente más envolvente. Con la variedad actual de pedales, procesadores y\nplugins, existe una amplia gama de opciones para explorar diferentes tipos y configuraciones\nde reverb y crear sonidos personalizados.\n",
+      "spans": [
+        {
+          "text": "Conoce en detalle",
+          "bbox": [
+            37.62,
+            73.99,
+            320.91,
+            110.56
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            103.03
+          ]
+        },
+        {
+          "text": "cada uno de los",
+          "bbox": [
+            37.62,
+            104.48,
+            283.89,
+            141.05
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            133.52
+          ]
+        },
+        {
+          "text": "principales efectos",
+          "bbox": [
+            37.62,
+            134.97,
+            335.19,
+            171.54
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            164.01
+          ]
+        },
+        {
+          "text": "Reverb",
+          "bbox": [
+            37.62,
+            256.38,
+            99.15,
+            277.49
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            273.14
+          ]
+        },
+        {
+          "text": "El reverb, también llamado reverberación, es uno de los efectos más utilizados en la guitarra",
+          "bbox": [
+            37.62,
+            293.16,
+            543.87,
+            306.57
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            303.81
+          ]
+        },
+        {
+          "text": "acústica y otros instrumentos. Simula el sonido reflejado en un ambiente y añade una",
+          "bbox": [
+            37.62,
+            304.34,
+            509.06,
+            317.75
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            314.99
+          ]
+        },
+        {
+          "text": "sensación de espacio y profundidad. Se crea mediante la repetición y atenuación gradual de",
+          "bbox": [
+            37.62,
+            315.52,
+            545.07,
+            328.93
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            326.17
+          ]
+        },
+        {
+          "text": "reflexiones sonoras, como ocurre en una sala con paredes y objetos que reflejan el sonido.",
+          "bbox": [
+            37.62,
+            326.7,
+            530.52,
+            340.11
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            337.35
+          ]
+        },
+        {
+          "text": "Puede ir desde una reverberación corta y discreta, adecuada para añadir un poco de",
+          "bbox": [
+            37.62,
+            337.88,
+            501.77,
+            351.29
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            348.53
+          ]
+        },
+        {
+          "text": "ambiente, hasta una larga y expansiva que transmite la sensación de tocar en una sala de",
+          "bbox": [
+            37.62,
+            349.06,
+            530.06,
+            362.47
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            359.71
+          ]
+        },
+        {
+          "text": "conciertos o una catedral. Se utiliza en muchos estilos, desde música clásica y jazz hasta rock y",
+          "bbox": [
+            37.62,
+            360.24,
+            556.41,
+            373.65
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            370.89
+          ]
+        },
+        {
+          "text": "pop, para añadir profundidad y una cualidad más envolvente al sonido.",
+          "bbox": [
+            37.62,
+            371.42,
+            427.88,
+            384.83
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            382.07
+          ]
+        },
+        {
+          "text": "Los guitarristas suelen ajustar los parámetros del reverb según sus preferencias y el contexto",
+          "bbox": [
+            37.62,
+            458.22,
+            547.67,
+            471.63
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            468.87
+          ]
+        },
+        {
+          "text": "musical. Los controles habituales incluyen el tiempo de reverberación, que determina la",
+          "bbox": [
+            37.62,
+            469.4,
+            521.16,
+            482.81
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            480.05
+          ]
+        },
+        {
+          "text": "duración de las reflexiones; la mezcla, que controla cuánto efecto se combina con la señal",
+          "bbox": [
+            37.62,
+            480.58,
+            530.05,
+            493.99
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            491.23
+          ]
+        },
+        {
+          "text": "original; y la ecualización, que permite moldear su carácter tonal. Puede aplicarse tanto en",
+          "bbox": [
+            37.62,
+            491.76,
+            534.79,
+            505.17
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            502.41
+          ]
+        },
+        {
+          "text": "vivo como en grabaciones de estudio para crear una sensación de espacio y situar la guitarra",
+          "bbox": [
+            37.62,
+            502.94,
+            547.41,
+            516.35
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            513.59
+          ]
+        },
+        {
+          "text": "acústica en un ambiente más envolvente. Con la variedad actual de pedales, procesadores y",
+          "bbox": [
+            37.62,
+            514.12,
+            543.33,
+            527.53
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            524.77
+          ]
+        },
+        {
+          "text": "plugins, existe una amplia gama de opciones para explorar diferentes tipos y configuraciones",
+          "bbox": [
+            37.62,
+            525.31,
+            550.49,
+            538.71
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            535.95
+          ]
+        },
+        {
+          "text": "de reverb y crear sonidos personalizados.",
+          "bbox": [
+            37.62,
+            536.49,
+            262.94,
+            549.89
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            547.13
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 8
+    },
+    {
+      "page": 7,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "El delay se utiliza ampliamente en la guitarra acústica para añadir textura y profundidad. Crea\nrepeticiones de la señal original con un pequeño retraso entre ellas. El tiempo puede ajustarse\npara producir diferentes ritmos y patrones. El efecto puede ser sutil y aportar una sensación\nde espacio, o más marcado y generar un eco perceptible. Los guitarristas pueden usarlo para\ndestacar partes de una canción, crear capas sonoras más complejas o incluso como\nherramienta de improvisación, explorando la interacción entre las repeticiones y las notas que\nse tocan después.\nAdemás del tiempo, el delay ofrece otros parámetros ajustables, como la cantidad de\nrepeticiones (feedback), su volumen en relación con la señal original y, en algunos casos, el\ntono de las repeticiones. Esto abre muchas posibilidades creativas. Puede encontrarse en\npedales dedicados o en unidades de procesamiento más complejas. Se utiliza en géneros que\nvan del rock y el blues a la música electrónica y experimental, y es una herramienta versátil\npara añadir profundidad y personalidad al sonido de la guitarra acústica.\nEl chorus se utiliza para añadir un tono más rico y denso a la guitarra acústica. Funciona\nduplicando la señal y retrasando ligeramente una de las copias. Esa diferencia genera un\ndesfase entre ambas, con pequeñas variaciones de afinación y amplitud. El resultado es un\nsonido más lleno, parecido al de varias guitarras tocando al mismo tiempo. El chorus puede\najustarse mediante la velocidad de modulación, la amplitud del efecto y la mezcla entre la\nseñal original y la modulada.\nEste efecto se utiliza en géneros como rock, pop, jazz y música acústica. Es especialmente\neficaz en arpegios y acordes abiertos, donde añade brillo y una dimensión adicional. También\npuede combinarse con reverb y delay para crear paisajes sonoros más complejos. Muchos\namplificadores y pedales incorporan chorus, lo que permite explorar fácilmente diferentes\nvariaciones del efecto.\nDelay\nChorus\n",
+      "spans": [
+        {
+          "text": "El delay se utiliza ampliamente en la guitarra acústica para añadir textura y profundidad. Crea",
+          "bbox": [
+            37.73,
+            102.83,
+            553.5,
+            116.24
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            113.48
+          ]
+        },
+        {
+          "text": "repeticiones de la señal original con un pequeño retraso entre ellas. El tiempo puede ajustarse",
+          "bbox": [
+            37.73,
+            114.01,
+            556.23,
+            127.42
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            124.66
+          ]
+        },
+        {
+          "text": "para producir diferentes ritmos y patrones. El efecto puede ser sutil y aportar una sensación",
+          "bbox": [
+            37.73,
+            125.19,
+            541.85,
+            138.6
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            135.84
+          ]
+        },
+        {
+          "text": "de espacio, o más marcado y generar un eco perceptible. Los guitarristas pueden usarlo para",
+          "bbox": [
+            37.73,
+            136.37,
+            548.74,
+            149.78
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            147.02
+          ]
+        },
+        {
+          "text": "destacar partes de una canción, crear capas sonoras más complejas o incluso como",
+          "bbox": [
+            37.73,
+            147.55,
+            497.03,
+            160.96
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            158.2
+          ]
+        },
+        {
+          "text": "herramienta de improvisación, explorando la interacción entre las repeticiones y las notas que",
+          "bbox": [
+            37.73,
+            158.73,
+            554.96,
+            172.14
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            169.38
+          ]
+        },
+        {
+          "text": "se tocan después.",
+          "bbox": [
+            37.73,
+            169.91,
+            135.66,
+            183.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            180.56
+          ]
+        },
+        {
+          "text": "Además del tiempo, el delay ofrece otros parámetros ajustables, como la cantidad de",
+          "bbox": [
+            37.73,
+            252.89,
+            505.44,
+            266.3
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            263.53
+          ]
+        },
+        {
+          "text": "repeticiones (feedback), su volumen en relación con la señal original y, en algunos casos, el",
+          "bbox": [
+            37.73,
+            264.07,
+            535.94,
+            277.48
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            274.71
+          ]
+        },
+        {
+          "text": "tono de las repeticiones. Esto abre muchas posibilidades creativas. Puede encontrarse en",
+          "bbox": [
+            37.73,
+            275.25,
+            528.37,
+            288.66
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            285.9
+          ]
+        },
+        {
+          "text": "pedales dedicados o en unidades de procesamiento más complejas. Se utiliza en géneros que",
+          "bbox": [
+            37.73,
+            286.43,
+            554.27,
+            299.84
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            297.08
+          ]
+        },
+        {
+          "text": "van del rock y el blues a la música electrónica y experimental, y es una herramienta versátil",
+          "bbox": [
+            37.73,
+            297.61,
+            537.12,
+            311.02
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            308.26
+          ]
+        },
+        {
+          "text": "para añadir profundidad y personalidad al sonido de la guitarra acústica.",
+          "bbox": [
+            37.73,
+            308.79,
+            435.84,
+            322.2
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            319.44
+          ]
+        },
+        {
+          "text": "El chorus se utiliza para añadir un tono más rico y denso a la guitarra acústica. Funciona",
+          "bbox": [
+            37.73,
+            450.56,
+            520.82,
+            463.97
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            461.21
+          ]
+        },
+        {
+          "text": "duplicando la señal y retrasando ligeramente una de las copias. Esa diferencia genera un",
+          "bbox": [
+            37.73,
+            461.74,
+            526.2,
+            475.15
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            472.39
+          ]
+        },
+        {
+          "text": "desfase entre ambas, con pequeñas variaciones de afinación y amplitud. El resultado es un",
+          "bbox": [
+            37.73,
+            472.92,
+            536.62,
+            486.33
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            483.57
+          ]
+        },
+        {
+          "text": "sonido más lleno, parecido al de varias guitarras tocando al mismo tiempo. El chorus puede",
+          "bbox": [
+            37.73,
+            484.1,
+            541.01,
+            497.51
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            494.75
+          ]
+        },
+        {
+          "text": "ajustarse mediante la velocidad de modulación, la amplitud del efecto y la mezcla entre la",
+          "bbox": [
+            37.73,
+            495.28,
+            532.71,
+            508.69
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            505.93
+          ]
+        },
+        {
+          "text": "señal original y la modulada.",
+          "bbox": [
+            37.73,
+            506.46,
+            194.36,
+            519.87
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            517.11
+          ]
+        },
+        {
+          "text": "Este efecto se utiliza en géneros como rock, pop, jazz y música acústica. Es especialmente",
+          "bbox": [
+            37.73,
+            570.61,
+            531.51,
+            584.01
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            581.25
+          ]
+        },
+        {
+          "text": "eficaz en arpegios y acordes abiertos, donde añade brillo y una dimensión adicional. También",
+          "bbox": [
+            37.73,
+            581.79,
+            550.42,
+            595.19
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            592.43
+          ]
+        },
+        {
+          "text": "puede combinarse con reverb y delay para crear paisajes sonoros más complejos. Muchos",
+          "bbox": [
+            37.73,
+            592.97,
+            531.79,
+            606.38
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            603.61
+          ]
+        },
+        {
+          "text": "amplificadores y pedales incorporan chorus, lo que permite explorar fácilmente diferentes",
+          "bbox": [
+            37.73,
+            604.15,
+            533.54,
+            617.56
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            614.79
+          ]
+        },
+        {
+          "text": "variaciones del efecto.",
+          "bbox": [
+            37.73,
+            615.33,
+            159.27,
+            628.74
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            625.97
+          ]
+        },
+        {
+          "text": "Delay",
+          "bbox": [
+            37.73,
+            57.54,
+            86.77,
+            78.65
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            74.3
+          ]
+        },
+        {
+          "text": "Chorus",
+          "bbox": [
+            37.73,
+            405.27,
+            99.62,
+            426.38
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            422.03
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 2
+    },
+    {
+      "page": 8,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "El phaser es otro efecto popular para añadir movimiento y textura a la guitarra acústica. Divide\nla señal en dos partes y retrasa una de ellas. Después vuelve a combinarlas, produciendo\ninterferencias y cancelaciones de fase en ciertas frecuencias. Esto crea un efecto de barrido u\nondulación. Puede ajustarse mediante la velocidad del barrido, el número de etapas, que\ndetermina su intensidad, y la mezcla entre la señal original y la modulada.\nEl phaser se usa con frecuencia en rock, funk y música experimental para aportar un carácter\ndistintivo y psicodélico. Resulta especialmente eficaz en riffs y partes rítmicas, donde genera\nmovimiento y dinamismo. Como otros efectos, puede combinarse con delay y reverb para\ncrear texturas más complejas y atmosféricas. Muchos pedales y procesadores ofrecen\ncontroles flexibles para personalizarlo según el estilo musical.\nEl tremolo es un efecto de modulación que modifica el volumen de la guitarra acústica de\nforma regular y rítmica. Crea variaciones cíclicas en la amplitud de la señal y produce una\nsensación de vibración o pulsación. Se ajusta mediante la velocidad de modulación y la\nprofundidad de las variaciones. Se utiliza en estilos como rock, surf, country y música vintage\npara añadir un carácter nostálgico y dinámico.\nEl tremolo puede usarse de forma sutil para aportar movimiento y textura a arpegios y\nacordes, o de manera más marcada para crear un efecto expresivo en solos y melodías.\nTambién puede combinarse con reverb y delay para añadir profundidad y ambiente. Existen\npedales y amplificadores con controles específicos que permiten personalizar el ritmo y la\nintensidad del efecto.\nPhaser\nTremolo\n",
+      "spans": [
+        {
+          "text": "El phaser es otro efecto popular para añadir movimiento y textura a la guitarra acústica. Divide",
+          "bbox": [
+            37.73,
+            102.83,
+            557.81,
+            116.24
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            113.48
+          ]
+        },
+        {
+          "text": "la señal en dos partes y retrasa una de ellas. Después vuelve a combinarlas, produciendo",
+          "bbox": [
+            37.73,
+            114.01,
+            523.36,
+            127.42
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            124.66
+          ]
+        },
+        {
+          "text": "interferencias y cancelaciones de fase en ciertas frecuencias. Esto crea un efecto de barrido u",
+          "bbox": [
+            37.73,
+            125.19,
+            549.28,
+            138.6
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            135.84
+          ]
+        },
+        {
+          "text": "ondulación. Puede ajustarse mediante la velocidad del barrido, el número de etapas, que",
+          "bbox": [
+            37.73,
+            136.37,
+            527.06,
+            149.78
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            147.02
+          ]
+        },
+        {
+          "text": "determina su intensidad, y la mezcla entre la señal original y la modulada.",
+          "bbox": [
+            37.73,
+            147.55,
+            443.39,
+            160.96
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            158.2
+          ]
+        },
+        {
+          "text": "El phaser se usa con frecuencia en rock, funk y música experimental para aportar un carácter",
+          "bbox": [
+            37.73,
+            222.87,
+            549.88,
+            236.28
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            233.52
+          ]
+        },
+        {
+          "text": "distintivo y psicodélico. Resulta especialmente eficaz en riffs y partes rítmicas, donde genera",
+          "bbox": [
+            37.73,
+            234.06,
+            544.98,
+            247.46
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            244.7
+          ]
+        },
+        {
+          "text": "movimiento y dinamismo. Como otros efectos, puede combinarse con delay y reverb para",
+          "bbox": [
+            37.73,
+            245.24,
+            532.16,
+            258.64
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            255.88
+          ]
+        },
+        {
+          "text": "crear texturas más complejas y atmosféricas. Muchos pedales y procesadores ofrecen",
+          "bbox": [
+            37.73,
+            256.42,
+            507.99,
+            269.83
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            267.06
+          ]
+        },
+        {
+          "text": "controles flexibles para personalizarlo según el estilo musical.",
+          "bbox": [
+            37.73,
+            267.6,
+            374.25,
+            281.01
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            278.24
+          ]
+        },
+        {
+          "text": "El tremolo es un efecto de modulación que modifica el volumen de la guitarra acústica de",
+          "bbox": [
+            37.73,
+            412.1,
+            532.87,
+            425.51
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            422.75
+          ]
+        },
+        {
+          "text": "forma regular y rítmica. Crea variaciones cíclicas en la amplitud de la señal y produce una",
+          "bbox": [
+            37.73,
+            423.28,
+            528.48,
+            436.69
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            433.93
+          ]
+        },
+        {
+          "text": "sensación de vibración o pulsación. Se ajusta mediante la velocidad de modulación y la",
+          "bbox": [
+            37.73,
+            434.46,
+            515.97,
+            447.87
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            445.11
+          ]
+        },
+        {
+          "text": "profundidad de las variaciones. Se utiliza en estilos como rock, surf, country y música vintage",
+          "bbox": [
+            37.73,
+            445.64,
+            546.86,
+            459.05
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            456.29
+          ]
+        },
+        {
+          "text": "para añadir un carácter nostálgico y dinámico.",
+          "bbox": [
+            37.73,
+            456.83,
+            292.8,
+            470.23
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            467.47
+          ]
+        },
+        {
+          "text": "El tremolo puede usarse de forma sutil para aportar movimiento y textura a arpegios y",
+          "bbox": [
+            37.73,
+            517.14,
+            513.01,
+            530.55
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            527.79
+          ]
+        },
+        {
+          "text": "acordes, o de manera más marcada para crear un efecto expresivo en solos y melodías.",
+          "bbox": [
+            37.73,
+            528.32,
+            515.67,
+            541.73
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            538.97
+          ]
+        },
+        {
+          "text": "También puede combinarse con reverb y delay para añadir profundidad y ambiente. Existen",
+          "bbox": [
+            37.73,
+            539.5,
+            545.35,
+            552.91
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            550.15
+          ]
+        },
+        {
+          "text": "pedales y amplificadores con controles específicos que permiten personalizar el ritmo y la",
+          "bbox": [
+            37.73,
+            550.68,
+            530.93,
+            564.09
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            561.33
+          ]
+        },
+        {
+          "text": "intensidad del efecto.",
+          "bbox": [
+            37.73,
+            561.86,
+            156.14,
+            575.27
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            572.51
+          ]
+        },
+        {
+          "text": "Phaser",
+          "bbox": [
+            37.73,
+            57.54,
+            97.96,
+            78.65
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            74.3
+          ]
+        },
+        {
+          "text": "Tremolo",
+          "bbox": [
+            37.73,
+            366.81,
+            109.84,
+            387.92
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            383.58
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 2
+    },
+    {
+      "page": 9,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "La distorsión o el overdrive se utilizan en la guitarra acústica para añadir saturación a la señal\noriginal. Son especialmente populares en rock, blues y metal, donde ayudan a crear tonos\nagresivos y llenos de energía. La distorsión se logra aumentando la intensidad de la señal\nhasta que los transistores o válvulas del amplificador se saturan, lo que produce un sonido\nmás sucio y con sustain prolongado.\nExisten varias formas de obtener distorsión u overdrive: pedales dedicados, amplificadores con\ncanales de ganancia o plugins en grabaciones de estudio. La intensidad se controla mediante\nla ganancia o la cantidad de saturación. Puede ir desde un overdrive suave hasta una\ndistorsión pesada y agresiva, según las preferencias y el estilo del músico. También puede\ncombinarse con delay y reverb para crear texturas más complejas y densas.\nLas Impulse Responses (Respuestas al Impulso) son un recurso importante en la producción\nde audio y han cambiado la forma de trabajar el tono de la guitarra acústica. Una Impulse\nResponse es una representación digital del comportamiento acústico de un entorno real,\ncomo una sala de conciertos, una iglesia o un estudio. Captura sus características de\nreverberación y respuesta en frecuencia para aplicarlas al instrumento durante una grabación\no presentación en vivo.\nPara utilizar una Impulse Response se necesita un dispositivo o software capaz de cargarla.\nNormalmente se emplea un plugin de simulación de amplificador o un procesador de efectos\ndigital. Una de las opciones más accesibles y utilizadas actualmente es M-VAVE. El músico\npuede elegir la respuesta que mejor se adapte al sonido deseado y aplicarla a la guitarra\nacústica para añadir profundidad, espacio y realismo, y conseguir que se integre de una forma\nmás natural y envolvente en la mezcla.\nLas Impulse Responses cambiaron la manera de trabajar el tono porque ofrecen acceso a una\ngran variedad de entornos acústicos. Antes, obtener el sonido de un espacio específico exigía\ngrabar en un lugar real o utilizar salas de reverberación físicas. Ahora es posible recrear esos\nespacios digitalmente sin salir del estudio o del escenario, con mucha más flexibilidad. Se\npuede elegir desde ambientes pequeños e íntimos hasta grandes salas de conciertos y\nadaptar el tono al estilo y a la intención artística. También permiten explorar entornos únicos y\ncreativos que quizá no existan en la vida real.\nDistorsión / Overdrive\nImpulse Responses\n",
+      "spans": [
+        {
+          "text": "La distorsión o el overdrive se utilizan en la guitarra acústica para añadir saturación a la señal",
+          "bbox": [
+            37.73,
+            102.83,
+            547.43,
+            116.24
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            113.48
+          ]
+        },
+        {
+          "text": "original. Son especialmente populares en rock, blues y metal, donde ayudan a crear tonos",
+          "bbox": [
+            37.73,
+            114.01,
+            530.59,
+            127.42
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            124.66
+          ]
+        },
+        {
+          "text": "agresivos y llenos de energía. La distorsión se logra aumentando la intensidad de la señal",
+          "bbox": [
+            37.73,
+            125.19,
+            526.94,
+            138.6
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            135.84
+          ]
+        },
+        {
+          "text": "hasta que los transistores o válvulas del amplificador se saturan, lo que produce un sonido",
+          "bbox": [
+            37.73,
+            136.37,
+            532.59,
+            149.78
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            147.02
+          ]
+        },
+        {
+          "text": "más sucio y con sustain prolongado.",
+          "bbox": [
+            37.73,
+            147.55,
+            237.22,
+            160.96
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            158.2
+          ]
+        },
+        {
+          "text": "Existen varias formas de obtener distorsión u overdrive: pedales dedicados, amplificadores con",
+          "bbox": [
+            37.73,
+            207.87,
+            557.63,
+            221.28
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            218.52
+          ]
+        },
+        {
+          "text": "canales de ganancia o plugins en grabaciones de estudio. La intensidad se controla mediante",
+          "bbox": [
+            37.73,
+            219.05,
+            552.67,
+            232.46
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            229.7
+          ]
+        },
+        {
+          "text": "la ganancia o la cantidad de saturación. Puede ir desde un overdrive suave hasta una",
+          "bbox": [
+            37.73,
+            230.23,
+            504.97,
+            243.64
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            240.88
+          ]
+        },
+        {
+          "text": "distorsión pesada y agresiva, según las preferencias y el estilo del músico. También puede",
+          "bbox": [
+            37.73,
+            241.41,
+            530.36,
+            254.82
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            252.06
+          ]
+        },
+        {
+          "text": "combinarse con delay y reverb para crear texturas más complejas y densas.",
+          "bbox": [
+            37.73,
+            252.59,
+            451.88,
+            266.0
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            263.24
+          ]
+        },
+        {
+          "text": "Las Impulse Responses (Respuestas al Impulso) son un recurso importante en la producción",
+          "bbox": [
+            37.62,
+            389.03,
+            544.97,
+            402.44
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            399.68
+          ]
+        },
+        {
+          "text": "de audio y han cambiado la forma de trabajar el tono de la guitarra acústica. Una Impulse",
+          "bbox": [
+            37.62,
+            400.21,
+            530.29,
+            413.62
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            410.86
+          ]
+        },
+        {
+          "text": "Response es una representación digital del comportamiento acústico de un entorno real,",
+          "bbox": [
+            37.62,
+            411.39,
+            528.24,
+            424.8
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            422.04
+          ]
+        },
+        {
+          "text": "como una sala de conciertos, una iglesia o un estudio. Captura sus características de",
+          "bbox": [
+            37.62,
+            422.57,
+            500.58,
+            435.98
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            433.22
+          ]
+        },
+        {
+          "text": "reverberación y respuesta en frecuencia para aplicarlas al instrumento durante una grabación",
+          "bbox": [
+            37.62,
+            433.75,
+            554.97,
+            447.16
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            444.4
+          ]
+        },
+        {
+          "text": "o presentación en vivo.",
+          "bbox": [
+            37.62,
+            444.93,
+            163.76,
+            458.34
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            455.58
+          ]
+        },
+        {
+          "text": "Para utilizar una Impulse Response se necesita un dispositivo o software capaz de cargarla.",
+          "bbox": [
+            37.62,
+            509.08,
+            537.54,
+            522.48
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            519.72
+          ]
+        },
+        {
+          "text": "Normalmente se emplea un plugin de simulación de amplificador o un procesador de efectos",
+          "bbox": [
+            37.62,
+            520.26,
+            553.96,
+            533.66
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            530.9
+          ]
+        },
+        {
+          "text": "digital. Una de las opciones más accesibles y utilizadas actualmente es M-VAVE. El músico",
+          "bbox": [
+            37.62,
+            531.44,
+            532.88,
+            544.84
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            542.08
+          ]
+        },
+        {
+          "text": "puede elegir la respuesta que mejor se adapte al sonido deseado y aplicarla a la guitarra",
+          "bbox": [
+            37.62,
+            542.62,
+            522.33,
+            556.03
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            553.26
+          ]
+        },
+        {
+          "text": "acústica para añadir profundidad, espacio y realismo, y conseguir que se integre de una forma",
+          "bbox": [
+            37.62,
+            553.8,
+            555.81,
+            567.21
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            564.44
+          ]
+        },
+        {
+          "text": "más natural y envolvente en la mezcla.",
+          "bbox": [
+            37.62,
+            564.98,
+            250.53,
+            578.39
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            575.62
+          ]
+        },
+        {
+          "text": "Las Impulse Responses cambiaron la manera de trabajar el tono porque ofrecen acceso a una",
+          "bbox": [
+            37.62,
+            644.13,
+            553.29,
+            657.53
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            654.77
+          ]
+        },
+        {
+          "text": "gran variedad de entornos acústicos. Antes, obtener el sonido de un espacio específico exigía",
+          "bbox": [
+            37.62,
+            655.31,
+            549.3,
+            668.72
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            665.95
+          ]
+        },
+        {
+          "text": "grabar en un lugar real o utilizar salas de reverberación físicas. Ahora es posible recrear esos",
+          "bbox": [
+            37.62,
+            666.49,
+            541.08,
+            679.9
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            677.13
+          ]
+        },
+        {
+          "text": "espacios digitalmente sin salir del estudio o del escenario, con mucha más flexibilidad. Se",
+          "bbox": [
+            37.62,
+            677.67,
+            528.57,
+            691.08
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            688.32
+          ]
+        },
+        {
+          "text": "puede elegir desde ambientes pequeños e íntimos hasta grandes salas de conciertos y",
+          "bbox": [
+            37.62,
+            688.85,
+            515.16,
+            702.26
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            699.5
+          ]
+        },
+        {
+          "text": "adaptar el tono al estilo y a la intención artística. También permiten explorar entornos únicos y",
+          "bbox": [
+            37.62,
+            700.03,
+            556.19,
+            713.44
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            710.68
+          ]
+        },
+        {
+          "text": "creativos que quizá no existan en la vida real.",
+          "bbox": [
+            37.62,
+            711.21,
+            284.28,
+            724.62
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            721.86
+          ]
+        },
+        {
+          "text": "Distorsión / Overdrive",
+          "bbox": [
+            37.73,
+            57.54,
+            225.07,
+            78.65
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            74.3
+          ]
+        },
+        {
+          "text": "Impulse Responses",
+          "bbox": [
+            37.73,
+            351.43,
+            205.95,
+            372.54
+          ],
+          "font": "Montserrat-Thin",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            368.19
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 2
+    },
+    {
+      "page": 10,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Resumen\nLas técnicas de ejecución de este módulo son fundamentales para explorar diferentes\ntonos y matices en la guitarra acústica. La práctica constante es esencial para\ndesarrollarlas, y cada músico puede adaptarlas a su estilo y sus preferencias. Al dominarlas,\npodrá crear arreglos más complejos y expresivos y enriquecer su interpretación.\nLas variaciones de afinación son un recurso fundamental para explorar diferentes tonos y\nsonoridades. Cada afinación alternativa ofrece nuevas posibilidades de expresión y permite\ncrear arreglos más complejos. Sin embargo, cada una requiere aprendizaje, práctica y\nadaptación. Al dominarlas, el músico podrá explorar todo el potencial sonoro de la guitarra\nacústica.\nLas técnicas presentadas permiten explorar nuevos tonos, sonoridades y texturas. Al\nexperimentar y combinarlas, el músico puede crear arreglos más complejos y expresivos.\nLa práctica constante es esencial, y cada técnica puede adaptarse al estilo y las\npreferencias personales. Al dominarlas, será posible aprovechar todo el potencial sonoro de\nla guitarra acústica y crear música única e innovadora.\nRepasemos lo que hemos visto hasta ahora\n¡Felicitaciones!\n¡Felicitaciones por completar este curso! Has dado un paso importante para liberar todo tu\npotencial. Completarlo no significa solamente adquirir conocimientos, sino ponerlos en\npráctica y generar un impacto positivo en el mundo que te rodea.\n",
+      "spans": [
+        {
+          "text": "Resumen",
+          "bbox": [
+            37.62,
+            104.75,
+            186.27,
+            141.32
+          ],
+          "font": "Montserrat-Thin",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.62,
+            133.79
+          ]
+        },
+        {
+          "text": "Las técnicas de ejecución de este módulo son fundamentales para explorar diferentes",
+          "bbox": [
+            56.43,
+            246.21,
+            529.83,
+            259.61
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            256.85
+          ]
+        },
+        {
+          "text": "tonos y matices en la guitarra acústica. La práctica constante es esencial para",
+          "bbox": [
+            56.43,
+            257.39,
+            481.98,
+            270.8
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            268.03
+          ]
+        },
+        {
+          "text": "desarrollarlas, y cada músico puede adaptarlas a su estilo y sus preferencias. Al dominarlas,",
+          "bbox": [
+            56.43,
+            268.57,
+            554.96,
+            281.98
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            279.21
+          ]
+        },
+        {
+          "text": "podrá crear arreglos más complejos y expresivos y enriquecer su interpretación.",
+          "bbox": [
+            56.43,
+            279.75,
+            495.12,
+            293.16
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            290.39
+          ]
+        },
+        {
+          "text": "Las variaciones de afinación son un recurso fundamental para explorar diferentes tonos y",
+          "bbox": [
+            56.43,
+            351.25,
+            546.65,
+            364.65
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            361.89
+          ]
+        },
+        {
+          "text": "sonoridades. Cada afinación alternativa ofrece nuevas posibilidades de expresión y permite",
+          "bbox": [
+            56.43,
+            362.43,
+            556.82,
+            375.83
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            373.07
+          ]
+        },
+        {
+          "text": "crear arreglos más complejos. Sin embargo, cada una requiere aprendizaje, práctica y",
+          "bbox": [
+            56.43,
+            373.61,
+            526.64,
+            387.02
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            384.25
+          ]
+        },
+        {
+          "text": "adaptación. Al dominarlas, el músico podrá explorar todo el potencial sonoro de la guitarra",
+          "bbox": [
+            56.43,
+            384.79,
+            554.26,
+            398.2
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            395.43
+          ]
+        },
+        {
+          "text": "acústica.",
+          "bbox": [
+            56.43,
+            395.97,
+            104.32,
+            409.38
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            406.61
+          ]
+        },
+        {
+          "text": "Las técnicas presentadas permiten explorar nuevos tonos, sonoridades y texturas. Al",
+          "bbox": [
+            56.43,
+            471.29,
+            519.14,
+            484.7
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            481.94
+          ]
+        },
+        {
+          "text": "experimentar y combinarlas, el músico puede crear arreglos más complejos y expresivos.",
+          "bbox": [
+            56.43,
+            482.47,
+            544.92,
+            495.88
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            493.12
+          ]
+        },
+        {
+          "text": "La práctica constante es esencial, y cada técnica puede adaptarse al estilo y las",
+          "bbox": [
+            56.43,
+            493.65,
+            489.33,
+            507.06
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            504.3
+          ]
+        },
+        {
+          "text": "preferencias personales. Al dominarlas, será posible aprovechar todo el potencial sonoro de",
+          "bbox": [
+            56.43,
+            504.83,
+            557.73,
+            518.24
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            515.48
+          ]
+        },
+        {
+          "text": "la guitarra acústica y crear música única e innovadora.",
+          "bbox": [
+            56.43,
+            516.01,
+            354.71,
+            529.42
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            526.66
+          ]
+        },
+        {
+          "text": "Repasemos lo que hemos visto hasta ahora",
+          "bbox": [
+            37.73,
+            146.57,
+            276.51,
+            159.98
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.73,
+            157.22
+          ]
+        },
+        {
+          "text": "¡Felicitaciones!",
+          "bbox": [
+            37.73,
+            638.41,
+            331.81,
+            687.18
+          ],
+          "font": "Montserrat-Thin",
+          "size": 40.01,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            677.14
+          ]
+        },
+        {
+          "text": "¡Felicitaciones por completar este curso! Has dado un paso importante para liberar todo tu",
+          "bbox": [
+            38.47,
+            699.68,
+            536.92,
+            713.09
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.47,
+            710.32
+          ]
+        },
+        {
+          "text": "potencial. Completarlo no significa solamente adquirir conocimientos, sino ponerlos en",
+          "bbox": [
+            38.47,
+            710.86,
+            518.12,
+            724.27
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.47,
+            721.51
+          ]
+        },
+        {
+          "text": "práctica y generar un impacto positivo en el mundo que te rodea.",
+          "bbox": [
+            38.47,
+            722.04,
+            399.66,
+            735.45
+          ],
+          "font": "Montserrat-Thin",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.47,
+            732.69
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 11
+    }
+  ],
+  "contact_sheet": "tmp\\pdfs\\final-inspection\\el-código-de-los-tonos-guitarra-acústica-contact-sheet.png"
+}

@@ -1,0 +1,4410 @@
+{
+  "source": "C:\\Users\\Felipe\\Desktop\\O Código dos Timbres (Violão).pdf",
+  "pages": 10,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Guia definitivo dos Timbres ",
+    "author": "Felipe Figueroa Santos",
+    "subject": "",
+    "keywords": "DAFlRVotc-A,BADVP53gQZ4",
+    "creator": "Canva",
+    "producer": "Canva",
+    "creationDate": "D:20260828174834+00'00'",
+    "modDate": "D:20260828174834+00'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "fonts": [
+    "Montserrat-Bold",
+    "Montserrat-Regular",
+    "Now-Bold"
+  ],
+  "text_characters": 17600,
+  "pages_data": [
+    {
+      "page": 1,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "O CÓDIGO DOS\nTIMBRES\nDomine a Arte de Criar Sons Incríveis\nno Violão\n",
+      "spans": [
+        {
+          "text": "O CÓDIGO DOS",
+          "bbox": [
+            72.53,
+            97.5,
+            522.98,
+            164.03
+          ],
+          "font": "Now-Bold",
+          "size": 55.44,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            72.53,
+            147.39
+          ]
+        },
+        {
+          "text": "TIMBRES",
+          "bbox": [
+            182.36,
+            163.69,
+            423.78,
+            230.22
+          ],
+          "font": "Now-Bold",
+          "size": 55.44,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            182.36,
+            213.59
+          ]
+        },
+        {
+          "text": "Domine a Arte de Criar Sons Incríveis",
+          "bbox": [
+            96.49,
+            725.59,
+            499.0,
+            751.96
+          ],
+          "font": "Montserrat-Regular",
+          "size": 21.97,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            96.49,
+            747.7
+          ]
+        },
+        {
+          "text": "no Violão",
+          "bbox": [
+            246.64,
+            755.89,
+            348.84,
+            782.26
+          ],
+          "font": "Montserrat-Regular",
+          "size": 21.97,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            246.64,
+            777.99
+          ]
+        }
+      ],
+      "images": 1,
+      "drawings": 2
+    },
+    {
+      "page": 2,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Aprenda a explorar diferentes timbres\nno violão.\nTimbres para\nViolão\nVisão geral\nEste curso tem como objetivo ensinar aos alunos como explorar diferentes timbres no violão,\nutilizando técnicas de execução e variações na afinação. Ao final do curso, os alunos serão\ncapazes de criar arranjos musicais mais complexos e ricos em nuances sonoras.\nTécnicas de\nexecução\n01 | Técnicas de execução\nNeste módulo, vamos abordar técnicas de execução para violão que permitem ao músico\nexplorar diferentes timbres e nuances sonoras. Essas técnicas são fundamentais para a\ncriação de arranjos musicais mais complexos e expressivos.\n",
+      "spans": [
+        {
+          "text": "Aprenda a explorar diferentes timbres",
+          "bbox": [
+            309.31,
+            174.39,
+            518.97,
+            187.8
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            309.31,
+            185.04
+          ]
+        },
+        {
+          "text": "no violão.",
+          "bbox": [
+            309.31,
+            189.39,
+            361.02,
+            202.8
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            309.31,
+            200.04
+          ]
+        },
+        {
+          "text": "Timbres para",
+          "bbox": [
+            309.31,
+            99.86,
+            511.21,
+            135.86
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 0,
+          "flags": 20,
+          "origin": [
+            309.31,
+            130.04
+          ]
+        },
+        {
+          "text": "Violão",
+          "bbox": [
+            309.31,
+            126.12,
+            406.37,
+            162.12
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 0,
+          "flags": 20,
+          "origin": [
+            309.31,
+            156.3
+          ]
+        },
+        {
+          "text": "Visão geral",
+          "bbox": [
+            40.34,
+            291.54,
+            134.12,
+            312.32
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            40.34,
+            308.96
+          ]
+        },
+        {
+          "text": "Este curso tem como objetivo ensinar aos alunos como explorar diferentes timbres no violão,",
+          "bbox": [
+            37.73,
+            328.32,
+            557.98,
+            341.73
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            338.97
+          ]
+        },
+        {
+          "text": "utilizando técnicas de execução e variações na afinação. Ao final do curso, os alunos serão",
+          "bbox": [
+            37.73,
+            343.33,
+            557.98,
+            356.74
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            353.98
+          ]
+        },
+        {
+          "text": "capazes de criar arranjos musicais mais complexos e ricos em nuances sonoras.",
+          "bbox": [
+            37.73,
+            358.33,
+            474.61,
+            371.74
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            368.98
+          ]
+        },
+        {
+          "text": "Técnicas de",
+          "bbox": [
+            40.34,
+            449.59,
+            211.45,
+            485.6
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            40.34,
+            479.78
+          ]
+        },
+        {
+          "text": "execução",
+          "bbox": [
+            40.34,
+            480.35,
+            180.1,
+            516.36
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            40.34,
+            510.54
+          ]
+        },
+        {
+          "text": "01 | Técnicas de execução",
+          "bbox": [
+            49.28,
+            593.41,
+            189.32,
+            606.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            49.28,
+            604.06
+          ]
+        },
+        {
+          "text": "Neste módulo, vamos abordar técnicas de execução para violão que permitem ao músico",
+          "bbox": [
+            37.73,
+            640.96,
+            555.38,
+            654.37
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            651.61
+          ]
+        },
+        {
+          "text": "explorar diferentes timbres e nuances sonoras. Essas técnicas são fundamentais para a",
+          "bbox": [
+            37.73,
+            655.97,
+            555.38,
+            669.37
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            666.61
+          ]
+        },
+        {
+          "text": "criação de arranjos musicais mais complexos e expressivos.",
+          "bbox": [
+            37.73,
+            670.97,
+            362.94,
+            684.38
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            681.62
+          ]
+        }
+      ],
+      "images": 1,
+      "drawings": 27
+    },
+    {
+      "page": 3,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Técnica do dedilhado\nO dedilhado é uma técnica de execução em que o músico utiliza os dedos da mão direita para\ntocar as cordas do violão. Essa técnica permite ao músico controlar a intensidade do som, criando\nvariações nos timbres e nas nuances sonoras da música.\nExistem diferentes tipos de dedilhado, como o dedilhado alternado, em que o músico alterna\nentre os dedos indicador e médio para tocar as cordas, e o dedilhado fingerstyle, em que o\nmúsico utiliza todos os dedos da mão direita para tocar as cordas.\nTécnica do palm-muting\nTécnica do vibrato\nTécnica do slide\nO palm-muting é uma técnica de execução em que o músico utiliza a palma da mão\ndireita para abafar parcialmente as cordas do violão, criando um som mais percussivo\ne marcado. Essa técnica é muito utilizada em estilos musicais como o rock e o heavy\nmetal.\nO vibrato é uma técnica de execução em que o músico realiza pequenas variações na\nafinação da nota tocada, criando um efeito de vibração no som. Essa técnica pode ser\nrealizada tanto com os dedos da mão esquerda quanto com a mão direita, e é muito\nutilizada em estilos musicais como o blues e o jazz.\nO slide é uma técnica de execução em que o músico desliza o dedo pela corda do\nviolão, criando uma variação na afinação da nota tocada. Essa técnica pode ser\nrealizada tanto com os dedos da mão esquerda quanto com a mão direita, e é muito\nutilizada em estilos musicais como o blues e o rock.\nVariações na\nafinação\n",
+      "spans": [
+        {
+          "text": "Técnica do dedilhado",
+          "bbox": [
+            37.73,
+            59.04,
+            215.56,
+            79.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            76.46
+          ]
+        },
+        {
+          "text": "O dedilhado é uma técnica de execução em que o músico utiliza os dedos da mão direita para",
+          "bbox": [
+            37.73,
+            95.82,
+            558.26,
+            109.23
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            106.47
+          ]
+        },
+        {
+          "text": "tocar as cordas do violão. Essa técnica permite ao músico controlar a intensidade do som, criando",
+          "bbox": [
+            37.73,
+            110.82,
+            558.26,
+            124.23
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            121.47
+          ]
+        },
+        {
+          "text": "variações nos timbres e nas nuances sonoras da música.",
+          "bbox": [
+            37.73,
+            125.83,
+            332.48,
+            139.24
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            136.48
+          ]
+        },
+        {
+          "text": "Existem diferentes tipos de dedilhado, como o dedilhado alternado, em que o músico alterna",
+          "bbox": [
+            37.73,
+            155.84,
+            557.98,
+            169.25
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            166.49
+          ]
+        },
+        {
+          "text": "entre os dedos indicador e médio para tocar as cordas, e o dedilhado fingerstyle, em que o",
+          "bbox": [
+            37.73,
+            170.85,
+            557.98,
+            184.25
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            181.49
+          ]
+        },
+        {
+          "text": "músico utiliza todos os dedos da mão direita para tocar as cordas.",
+          "bbox": [
+            37.73,
+            185.85,
+            398.61,
+            199.26
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            196.5
+          ]
+        },
+        {
+          "text": "Técnica do palm-muting",
+          "bbox": [
+            37.73,
+            229.63,
+            241.86,
+            250.41
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            247.05
+          ]
+        },
+        {
+          "text": "Técnica do vibrato",
+          "bbox": [
+            37.73,
+            354.97,
+            188.86,
+            375.75
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            372.39
+          ]
+        },
+        {
+          "text": "Técnica do slide",
+          "bbox": [
+            37.73,
+            480.32,
+            169.25,
+            501.1
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            497.74
+          ]
+        },
+        {
+          "text": "O palm-muting é uma técnica de execução em que o músico utiliza a palma da mão",
+          "bbox": [
+            37.73,
+            266.41,
+            514.12,
+            279.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            277.06
+          ]
+        },
+        {
+          "text": "direita para abafar parcialmente as cordas do violão, criando um som mais percussivo",
+          "bbox": [
+            37.73,
+            281.41,
+            514.13,
+            294.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            292.06
+          ]
+        },
+        {
+          "text": "e marcado. Essa técnica é muito utilizada em estilos musicais como o rock e o heavy",
+          "bbox": [
+            37.73,
+            296.42,
+            514.13,
+            309.83
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            307.07
+          ]
+        },
+        {
+          "text": "metal.",
+          "bbox": [
+            37.73,
+            311.42,
+            72.29,
+            324.83
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            322.07
+          ]
+        },
+        {
+          "text": "O vibrato é uma técnica de execução em que o músico realiza pequenas variações na",
+          "bbox": [
+            37.73,
+            391.75,
+            514.12,
+            405.16
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            402.4
+          ]
+        },
+        {
+          "text": "afinação da nota tocada, criando um efeito de vibração no som. Essa técnica pode ser",
+          "bbox": [
+            37.73,
+            406.76,
+            514.12,
+            420.17
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            417.41
+          ]
+        },
+        {
+          "text": "realizada tanto com os dedos da mão esquerda quanto com a mão direita, e é muito",
+          "bbox": [
+            37.73,
+            421.76,
+            514.12,
+            435.17
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            432.41
+          ]
+        },
+        {
+          "text": "utilizada em estilos musicais como o blues e o jazz.",
+          "bbox": [
+            37.73,
+            436.77,
+            316.83,
+            450.18
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            447.42
+          ]
+        },
+        {
+          "text": "O slide é uma técnica de execução em que o músico desliza o dedo pela corda do",
+          "bbox": [
+            37.73,
+            517.1,
+            514.12,
+            530.51
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            527.75
+          ]
+        },
+        {
+          "text": "violão, criando uma variação na afinação da nota tocada. Essa técnica pode ser",
+          "bbox": [
+            37.73,
+            532.1,
+            514.12,
+            545.51
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            542.75
+          ]
+        },
+        {
+          "text": "realizada tanto com os dedos da mão esquerda quanto com a mão direita, e é muito",
+          "bbox": [
+            37.73,
+            547.11,
+            514.12,
+            560.52
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            557.76
+          ]
+        },
+        {
+          "text": "utilizada em estilos musicais como o blues e o rock.",
+          "bbox": [
+            37.73,
+            562.12,
+            320.2,
+            575.52
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            572.76
+          ]
+        },
+        {
+          "text": "Variações na",
+          "bbox": [
+            37.73,
+            727.64,
+            232.32,
+            763.64
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.73,
+            757.82
+          ]
+        },
+        {
+          "text": "afinação",
+          "bbox": [
+            37.73,
+            758.4,
+            168.81,
+            794.4
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.73,
+            788.58
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 8
+    },
+    {
+      "page": 4,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Afinação padrão\nAfinação alternativa\nA afinação padrão do violão é a mais comum e consiste em afinar as cordas nas notas E, A, D,\nG, B e E, da corda mais grossa para a mais fina, respectivamente. Essa afinação permite ao\nmúsico tocar uma grande variedade de acordes e escalas, mas também pode ser limitante\nem termos de sonoridade.\nAs afinações alternativas são variações na afinação do violão que permitem ao músico explorar\ndiferentes sonoridades e timbres. Algumas das afinações alternativas mais comuns incluem:\nAfinação Open D: essa afinação consiste em afinar as cordas nas notas D, A, D, F#, A e D, da\ncorda mais grossa para a mais fina, respectivamente. Essa afinação é muito utilizada no blues e\nno rock.\nAfinação Open G: essa afinação consiste em afinar as cordas nas notas D, G, D, G, B e D, da corda\nmais grossa para a mais fina, respectivamente. Essa afinação é muito utilizada no blues e no\ncountry.\nAfinação Drop D: nessa afinação, a corda mais grossa é afinada na nota D, enquanto as outras\ncordas permanecem na afinação padrão. Essa afinação permite ao músico tocar acordes mais\npesados e é muito utilizada no rock e no metal.\nAfinação DADGAD: essa afinação consiste em afinar as cordas nas notas D, A, D, G, A e D, da\ncorda mais grossa para a mais fina, respectivamente. Essa afinação é muito utilizada no folk e\nnas músicas celtas.\nNeste módulo, vamos abordar as variações na afinação do violão e como elas podem ser\nutilizadas para explorar diferentes timbres e sonoridades. Essa técnica é muito utilizada por\nmúsicos em diversos estilos musicais, desde o blues até o folk.\nObs.: Comentário do Professor\nNão sei se sabe, mas hoje, tenho o maior curso sobre afinação DADGAD em vídeos do Brasil.\nCaso tenha interesse em fazer parte da maior comunidade sobre DADGAD, segue abaixo o Link do\nDescomplicando o DADGAD para você se inscrever com quase 50% de desconto, exclusivo para\nvocê, aluno.\nhttps://www.descomplicandodadgad.com.br\n",
+      "spans": [
+        {
+          "text": "Afinação padrão",
+          "bbox": [
+            37.73,
+            129.46,
+            173.67,
+            150.24
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            146.88
+          ]
+        },
+        {
+          "text": "Afinação alternativa",
+          "bbox": [
+            37.73,
+            272.58,
+            202.12,
+            293.36
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            290.0
+          ]
+        },
+        {
+          "text": "A afinação padrão do violão é a mais comum e consiste em afinar as cordas nas notas E, A, D,",
+          "bbox": [
+            37.73,
+            177.5,
+            557.98,
+            190.91
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            188.15
+          ]
+        },
+        {
+          "text": "G, B e E, da corda mais grossa para a mais fina, respectivamente. Essa afinação permite ao",
+          "bbox": [
+            37.73,
+            192.51,
+            557.98,
+            205.92
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            203.15
+          ]
+        },
+        {
+          "text": "músico tocar uma grande variedade de acordes e escalas, mas também pode ser limitante",
+          "bbox": [
+            37.73,
+            207.51,
+            557.99,
+            220.92
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            218.16
+          ]
+        },
+        {
+          "text": "em termos de sonoridade.",
+          "bbox": [
+            37.73,
+            222.52,
+            182.59,
+            235.93
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            233.17
+          ]
+        },
+        {
+          "text": "As afinações alternativas são variações na afinação do violão que permitem ao músico explorar",
+          "bbox": [
+            37.73,
+            316.68,
+            558.26,
+            330.08
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            327.32
+          ]
+        },
+        {
+          "text": "diferentes sonoridades e timbres. Algumas das afinações alternativas mais comuns incluem:",
+          "bbox": [
+            37.73,
+            331.68,
+            521.49,
+            345.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            342.33
+          ]
+        },
+        {
+          "text": "Afinação Open D: essa afinação consiste em afinar as cordas nas notas D, A, D, F#, A e D, da",
+          "bbox": [
+            56.43,
+            361.69,
+            558.26,
+            375.1
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            372.34
+          ]
+        },
+        {
+          "text": "corda mais grossa para a mais fina, respectivamente. Essa afinação é muito utilizada no blues e",
+          "bbox": [
+            56.43,
+            376.7,
+            558.26,
+            390.11
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            387.35
+          ]
+        },
+        {
+          "text": "no rock.",
+          "bbox": [
+            56.43,
+            391.7,
+            98.16,
+            405.11
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            402.35
+          ]
+        },
+        {
+          "text": "Afinação Open G: essa afinação consiste em afinar as cordas nas notas D, G, D, G, B e D, da corda",
+          "bbox": [
+            56.43,
+            421.72,
+            558.26,
+            435.12
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            432.36
+          ]
+        },
+        {
+          "text": "mais grossa para a mais fina, respectivamente. Essa afinação é muito utilizada no blues e no",
+          "bbox": [
+            56.43,
+            436.72,
+            558.26,
+            450.13
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            447.37
+          ]
+        },
+        {
+          "text": "country.",
+          "bbox": [
+            56.43,
+            451.73,
+            99.6,
+            465.14
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            462.37
+          ]
+        },
+        {
+          "text": "Afinação Drop D: nessa afinação, a corda mais grossa é afinada na nota D, enquanto as outras",
+          "bbox": [
+            56.43,
+            481.74,
+            558.26,
+            495.15
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            492.39
+          ]
+        },
+        {
+          "text": "cordas permanecem na afinação padrão. Essa afinação permite ao músico tocar acordes mais",
+          "bbox": [
+            56.43,
+            496.74,
+            558.26,
+            510.15
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            507.39
+          ]
+        },
+        {
+          "text": "pesados e é muito utilizada no rock e no metal.",
+          "bbox": [
+            56.43,
+            511.75,
+            302.83,
+            525.16
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            522.4
+          ]
+        },
+        {
+          "text": "Afinação DADGAD: essa afinação consiste em afinar as cordas nas notas D, A, D, G, A e D, da",
+          "bbox": [
+            56.43,
+            541.76,
+            558.26,
+            555.17
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            552.41
+          ]
+        },
+        {
+          "text": "corda mais grossa para a mais fina, respectivamente. Essa afinação é muito utilizada no folk e",
+          "bbox": [
+            56.43,
+            556.77,
+            558.26,
+            570.18
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            567.41
+          ]
+        },
+        {
+          "text": "nas músicas celtas.",
+          "bbox": [
+            56.43,
+            571.77,
+            156.46,
+            585.18
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            582.42
+          ]
+        },
+        {
+          "text": "Neste módulo, vamos abordar as variações na afinação do violão e como elas podem ser",
+          "bbox": [
+            37.62,
+            59.06,
+            557.87,
+            72.46
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            69.7
+          ]
+        },
+        {
+          "text": "utilizadas para explorar diferentes timbres e sonoridades. Essa técnica é muito utilizada por",
+          "bbox": [
+            37.62,
+            74.06,
+            557.87,
+            87.47
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            84.71
+          ]
+        },
+        {
+          "text": "músicos em diversos estilos musicais, desde o blues até o folk.",
+          "bbox": [
+            37.62,
+            89.07,
+            378.41,
+            102.48
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            99.72
+          ]
+        },
+        {
+          "text": "Obs.: Comentário do Professor",
+          "bbox": [
+            37.73,
+            614.7,
+            222.35,
+            630.23
+          ],
+          "font": "Montserrat-Regular",
+          "size": 12.94,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            627.72
+          ]
+        },
+        {
+          "text": "Não sei se sabe, mas hoje, tenho o maior curso sobre afinação DADGAD em vídeos do Brasil.",
+          "bbox": [
+            37.73,
+            646.12,
+            519.31,
+            659.53
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            656.77
+          ]
+        },
+        {
+          "text": "Caso tenha interesse em fazer parte da maior comunidade sobre DADGAD, segue abaixo o Link do",
+          "bbox": [
+            37.73,
+            661.13,
+            558.26,
+            674.54
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            671.78
+          ]
+        },
+        {
+          "text": "Descomplicando o DADGAD para você se inscrever com quase 50% de desconto, exclusivo para",
+          "bbox": [
+            37.73,
+            676.13,
+            558.26,
+            689.54
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            686.78
+          ]
+        },
+        {
+          "text": "você, aluno.",
+          "bbox": [
+            37.73,
+            691.14,
+            99.13,
+            704.55
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            701.79
+          ]
+        },
+        {
+          "text": "https://www.descomplicandodadgad.com.br",
+          "bbox": [
+            37.73,
+            720.13,
+            314.76,
+            735.67
+          ],
+          "font": "Montserrat-Regular",
+          "size": 12.94,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            733.15
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 7
+    },
+    {
+      "page": 5,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Explorando\nnovos timbres\nTécnica do tapping\nTécnica do harmônico\nTécnica do rasgueado\nTécnica do slide harmônico\nNeste módulo, vamos abordar técnicas e estratégias para explorar novos timbres no violão.\nEssa técnica é fundamental para a criação de arranjos musicais mais complexos e expressivos,\npermitindo ao músico criar uma variedade de sonoridades e texturas na sua música.\nO tapping é uma técnica de execução em que o músico utiliza as mãos para produzir sons\npercussivos nas cordas do violão, criando um efeito de bateria. Essa técnica é muito utilizada\nno rock e no metal, mas também pode ser aplicada em outros estilos musicais.\nO harmônico é uma técnica de execução em que o músico toca as cordas do violão em\npontos específicos, produzindo um som agudo e cristalino. Essa técnica é muito utilizada no\njazz e na música clássica, mas também pode ser aplicada em outros estilos musicais.\nO rasgueado é uma técnica de execução em que o músico utiliza os dedos da mão direita\npara tocar as cordas do violão em uma sequência rápida de movimentos, criando um som\npercussivo e ritmado. Essa técnica é muito utilizada na música flamenca, mas também pode\nser aplicada em outros estilos musicais.\nO slide harmônico é uma técnica de execução em que o músico desliza o dedo pela corda do\nviolão, produzindo um som agudo e cristalino. Essa técnica pode ser realizada em combinação\ncom outras técnicas de execução, como o tapping e o rasgueado, criando novas texturas\nsonoras.\n",
+      "spans": [
+        {
+          "text": "Explorando",
+          "bbox": [
+            37.62,
+            106.25,
+            216.01,
+            142.25
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.62,
+            136.43
+          ]
+        },
+        {
+          "text": "novos timbres",
+          "bbox": [
+            37.62,
+            137.01,
+            255.81,
+            173.02
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.62,
+            167.19
+          ]
+        },
+        {
+          "text": "Técnica do tapping",
+          "bbox": [
+            37.73,
+            320.08,
+            196.46,
+            340.87
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            337.51
+          ]
+        },
+        {
+          "text": "Técnica do harmônico",
+          "bbox": [
+            37.73,
+            428.17,
+            221.79,
+            448.96
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            445.6
+          ]
+        },
+        {
+          "text": "Técnica do rasgueado",
+          "bbox": [
+            37.62,
+            536.26,
+            217.72,
+            557.04
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            553.68
+          ]
+        },
+        {
+          "text": "Técnica do slide harmônico",
+          "bbox": [
+            37.62,
+            659.36,
+            263.71,
+            680.14
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            676.78
+          ]
+        },
+        {
+          "text": "Neste módulo, vamos abordar técnicas e estratégias para explorar novos timbres no violão.",
+          "bbox": [
+            37.73,
+            248.78,
+            557.98,
+            262.19
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            259.43
+          ]
+        },
+        {
+          "text": "Essa técnica é fundamental para a criação de arranjos musicais mais complexos e expressivos,",
+          "bbox": [
+            37.73,
+            263.78,
+            557.98,
+            277.19
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            274.43
+          ]
+        },
+        {
+          "text": "permitindo ao músico criar uma variedade de sonoridades e texturas na sua música.",
+          "bbox": [
+            37.73,
+            278.79,
+            501.9,
+            292.2
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            289.44
+          ]
+        },
+        {
+          "text": "O tapping é uma técnica de execução em que o músico utiliza as mãos para produzir sons",
+          "bbox": [
+            37.73,
+            356.87,
+            557.99,
+            370.28
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            367.51
+          ]
+        },
+        {
+          "text": "percussivos nas cordas do violão, criando um efeito de bateria. Essa técnica é muito utilizada",
+          "bbox": [
+            37.73,
+            371.87,
+            557.99,
+            385.28
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            382.52
+          ]
+        },
+        {
+          "text": "no rock e no metal, mas também pode ser aplicada em outros estilos musicais.",
+          "bbox": [
+            37.73,
+            386.88,
+            471.61,
+            400.29
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            397.53
+          ]
+        },
+        {
+          "text": "O harmônico é uma técnica de execução em que o músico toca as cordas do violão em",
+          "bbox": [
+            37.73,
+            464.96,
+            557.98,
+            478.36
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            475.6
+          ]
+        },
+        {
+          "text": "pontos específicos, produzindo um som agudo e cristalino. Essa técnica é muito utilizada no",
+          "bbox": [
+            37.73,
+            479.96,
+            557.99,
+            493.37
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            490.61
+          ]
+        },
+        {
+          "text": "jazz e na música clássica, mas também pode ser aplicada em outros estilos musicais.",
+          "bbox": [
+            37.73,
+            494.97,
+            503.39,
+            508.38
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            505.61
+          ]
+        },
+        {
+          "text": "O rasgueado é uma técnica de execução em que o músico utiliza os dedos da mão direita",
+          "bbox": [
+            37.62,
+            573.04,
+            557.87,
+            586.45
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            583.69
+          ]
+        },
+        {
+          "text": "para tocar as cordas do violão em uma sequência rápida de movimentos, criando um som",
+          "bbox": [
+            37.62,
+            588.05,
+            557.88,
+            601.46
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            598.7
+          ]
+        },
+        {
+          "text": "percussivo e ritmado. Essa técnica é muito utilizada na música flamenca, mas também pode",
+          "bbox": [
+            37.62,
+            603.06,
+            557.87,
+            616.46
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            613.7
+          ]
+        },
+        {
+          "text": "ser aplicada em outros estilos musicais.",
+          "bbox": [
+            37.62,
+            618.06,
+            254.11,
+            631.47
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            628.71
+          ]
+        },
+        {
+          "text": "O slide harmônico é uma técnica de execução em que o músico desliza o dedo pela corda do",
+          "bbox": [
+            37.62,
+            696.14,
+            557.87,
+            709.55
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            706.79
+          ]
+        },
+        {
+          "text": "violão, produzindo um som agudo e cristalino. Essa técnica pode ser realizada em combinação",
+          "bbox": [
+            37.62,
+            711.14,
+            557.87,
+            724.55
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            721.79
+          ]
+        },
+        {
+          "text": "com outras técnicas de execução, como o tapping e o rasgueado, criando novas texturas",
+          "bbox": [
+            37.62,
+            726.15,
+            557.88,
+            739.56
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            736.8
+          ]
+        },
+        {
+          "text": "sonoras.",
+          "bbox": [
+            37.62,
+            741.16,
+            82.84,
+            754.56
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            751.8
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 8
+    },
+    {
+      "page": 6,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Conheça em\ndetalhes cada um\ndos principais\nefeitos\nReverb\nO efeito de reverb, também conhecido como reverberação, é um dos efeitos mais\namplamente utilizados no violão e em outros instrumentos musicais. Ele simula o som\nrefletido em um ambiente e adiciona uma sensação de espaço e profundidade ao som do\nviolão. O reverb é criado através da repetição e atenuação gradual das reflexões sonoras,\nsemelhante ao que ocorre em uma sala com paredes e objetos refletindo o som. Esse efeito\npode variar desde um reverb curto e discreto, adequado para adicionar uma pequena\nquantidade de ambiente ao som, até um reverb longo e expansivo, que cria uma sensação de\nestar tocando em uma sala de concerto ou catedral. O reverb é amplamente utilizado em\numa variedade de estilos musicais, desde música clássica e jazz até rock e pop, para adicionar\nprofundidade e uma qualidade mais imersiva ao som do violão.\nOs violonistas geralmente ajustam os parâmetros do reverb de acordo com suas preferências\ne com o contexto musical. Os controles típicos incluem o tempo de reverberação, que\ndetermina a duração das reflexões sonoras; a mistura, que controla a quantidade de sinal de\nreverberação misturado ao sinal original do violão; e a equalização, que permite moldar o\ncaráter tonal do reverb. O reverb pode ser aplicado tanto em performances ao vivo quanto em\ngravações de estúdio, sendo muitas vezes utilizado para criar uma sensação de espaço e\ncolocar o violão em um ambiente acústico mais envolvente. Com a ampla variedade de pedais\nde efeito, processadores de sinal e plugins de software disponíveis atualmente, os violonistas\ntêm uma ampla gama de opções para explorar e experimentar diferentes tipos e\nconfigurações de reverb, permitindo a criação de sonoridades únicas e personalizadas para se\nadequarem ao seu estilo e intenção musical.\n",
+      "spans": [
+        {
+          "text": "Conheça em",
+          "bbox": [
+            37.62,
+            75.49,
+            227.08,
+            111.49
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.62,
+            105.67
+          ]
+        },
+        {
+          "text": "detalhes cada um",
+          "bbox": [
+            37.62,
+            106.25,
+            309.1,
+            142.25
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.62,
+            136.43
+          ]
+        },
+        {
+          "text": "dos principais",
+          "bbox": [
+            37.62,
+            137.01,
+            252.0,
+            173.02
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.62,
+            167.19
+          ]
+        },
+        {
+          "text": "efeitos",
+          "bbox": [
+            37.62,
+            167.77,
+            142.21,
+            203.78
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.62,
+            197.96
+          ]
+        },
+        {
+          "text": "Reverb",
+          "bbox": [
+            37.62,
+            257.88,
+            96.03,
+            278.66
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            275.3
+          ]
+        },
+        {
+          "text": "O efeito de reverb, também conhecido como reverberação, é um dos efeitos mais",
+          "bbox": [
+            37.62,
+            294.66,
+            557.87,
+            308.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            305.31
+          ]
+        },
+        {
+          "text": "amplamente utilizados no violão e em outros instrumentos musicais. Ele simula o som",
+          "bbox": [
+            37.62,
+            309.67,
+            557.87,
+            323.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            320.31
+          ]
+        },
+        {
+          "text": "refletido em um ambiente e adiciona uma sensação de espaço e profundidade ao som do",
+          "bbox": [
+            37.62,
+            324.67,
+            557.87,
+            338.08
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            335.32
+          ]
+        },
+        {
+          "text": "violão. O reverb é criado através da repetição e atenuação gradual das reflexões sonoras,",
+          "bbox": [
+            37.62,
+            339.68,
+            557.87,
+            353.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            350.32
+          ]
+        },
+        {
+          "text": "semelhante ao que ocorre em uma sala com paredes e objetos refletindo o som. Esse efeito",
+          "bbox": [
+            37.62,
+            354.68,
+            557.88,
+            368.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            365.33
+          ]
+        },
+        {
+          "text": "pode variar desde um reverb curto e discreto, adequado para adicionar uma pequena",
+          "bbox": [
+            37.62,
+            369.69,
+            557.87,
+            383.1
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            380.34
+          ]
+        },
+        {
+          "text": "quantidade de ambiente ao som, até um reverb longo e expansivo, que cria uma sensação de",
+          "bbox": [
+            37.62,
+            384.69,
+            557.87,
+            398.1
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            395.34
+          ]
+        },
+        {
+          "text": "estar tocando em uma sala de concerto ou catedral. O reverb é amplamente utilizado em",
+          "bbox": [
+            37.62,
+            399.7,
+            557.87,
+            413.11
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            410.35
+          ]
+        },
+        {
+          "text": "uma variedade de estilos musicais, desde música clássica e jazz até rock e pop, para adicionar",
+          "bbox": [
+            37.62,
+            414.71,
+            557.87,
+            428.11
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            425.35
+          ]
+        },
+        {
+          "text": "profundidade e uma qualidade mais imersiva ao som do violão.",
+          "bbox": [
+            37.62,
+            429.71,
+            385.95,
+            443.12
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            440.36
+          ]
+        },
+        {
+          "text": "Os violonistas geralmente ajustam os parâmetros do reverb de acordo com suas preferências",
+          "bbox": [
+            37.62,
+            459.72,
+            557.87,
+            473.13
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            470.37
+          ]
+        },
+        {
+          "text": "e com o contexto musical. Os controles típicos incluem o tempo de reverberação, que",
+          "bbox": [
+            37.62,
+            474.73,
+            557.88,
+            488.14
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            485.38
+          ]
+        },
+        {
+          "text": "determina a duração das reflexões sonoras; a mistura, que controla a quantidade de sinal de",
+          "bbox": [
+            37.62,
+            489.73,
+            557.87,
+            503.14
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            500.38
+          ]
+        },
+        {
+          "text": "reverberação misturado ao sinal original do violão; e a equalização, que permite moldar o",
+          "bbox": [
+            37.62,
+            504.74,
+            557.87,
+            518.15
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            515.39
+          ]
+        },
+        {
+          "text": "caráter tonal do reverb. O reverb pode ser aplicado tanto em performances ao vivo quanto em",
+          "bbox": [
+            37.62,
+            519.75,
+            557.88,
+            533.15
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            530.39
+          ]
+        },
+        {
+          "text": "gravações de estúdio, sendo muitas vezes utilizado para criar uma sensação de espaço e",
+          "bbox": [
+            37.62,
+            534.75,
+            557.87,
+            548.16
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            545.4
+          ]
+        },
+        {
+          "text": "colocar o violão em um ambiente acústico mais envolvente. Com a ampla variedade de pedais",
+          "bbox": [
+            37.62,
+            549.76,
+            557.87,
+            563.16
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            560.4
+          ]
+        },
+        {
+          "text": "de efeito, processadores de sinal e plugins de software disponíveis atualmente, os violonistas",
+          "bbox": [
+            37.62,
+            564.76,
+            557.87,
+            578.17
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            575.41
+          ]
+        },
+        {
+          "text": "têm uma ampla gama de opções para explorar e experimentar diferentes tipos e",
+          "bbox": [
+            37.62,
+            579.77,
+            557.87,
+            593.18
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            590.42
+          ]
+        },
+        {
+          "text": "configurações de reverb, permitindo a criação de sonoridades únicas e personalizadas para se",
+          "bbox": [
+            37.62,
+            594.77,
+            557.87,
+            608.18
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            605.42
+          ]
+        },
+        {
+          "text": "adequarem ao seu estilo e intenção musical.",
+          "bbox": [
+            37.62,
+            609.78,
+            282.2,
+            623.19
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            620.43
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 8
+    },
+    {
+      "page": 7,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "O efeito de delay é amplamente utilizado no violão para adicionar textura e profundidade ao\nsom. Ele cria repetições do sinal original com um pequeno atraso entre cada repetição. O\ntempo de atraso pode ser ajustado para criar diferentes ritmos e padrões de repetição. O\ndelay pode variar desde um efeito sutil, adicionando uma sensação de espaço e\npreenchimento ao som, até um delay mais pronunciado, que cria um efeito de eco\nperceptível. Os violonistas podem usar o delay de várias maneiras, como acentuar certas\npartes de uma música, criar camadas sonoras mais complexas ou até mesmo como uma\nferramenta de improvisação, explorando a interação entre as repetições e as notas tocadas\nposteriormente.\nAlém do tempo de atraso, o delay também possui outros parâmetros ajustáveis, como a\nquantidade de repetições (feedback), o volume relativo das repetições em relação ao sinal\noriginal e, em alguns casos, a possibilidade de ajustar os tons das repetições. Isso permite uma\nampla variedade de possibilidades criativas ao utilizar o efeito de delay no violão. O delay pode\nser encontrado tanto em pedais de efeito dedicados quanto em unidades de processamento\nde sinal mais complexas. Ele é usado em diversos gêneros musicais, desde rock e blues até\nmúsica eletrônica e experimental, sendo uma ferramenta versátil para adicionar profundidade\ne personalidade ao som do violão.\nO efeito de chorus é amplamente utilizado no violão para adicionar um timbre mais rico e\nespesso ao som. Ele funciona duplicando o sinal do violão e atrasando ligeiramente uma das\ncópias. Essa diferença de tempo cria um efeito de desfasamento entre as duas cópias,\nresultando em variações sutis de afinação e amplitude. O resultado é um som mais cheio,\nsemelhante a várias guitarras tocando simultaneamente. O chorus pode ser ajustado em\ntermos de velocidade de modulação, largura do efeito e mixagem entre o sinal original e o\nsinal modulado.\nEsse efeito é amplamente utilizado em uma variedade de gêneros musicais, incluindo rock,\npop, jazz e música acústica. Ele é particularmente eficaz em arpejos e acordes abertos,\nadicionando um brilho e uma dimensão extra ao som do violão. O chorus também pode ser\ncombinado com outros efeitos, como reverb e delay, para criar paisagens sonoras ainda mais\ncomplexas e envolventes. Muitos amplificadores e pedais de efeito possuem a opção de\nchorus embutida, tornando-o facilmente acessível para os violonistas explorarem e\nexperimentarem diferentes variações desse efeito.\nDelay\nChorus\n",
+      "spans": [
+        {
+          "text": "O efeito de delay é amplamente utilizado no violão para adicionar textura e profundidade ao",
+          "bbox": [
+            37.73,
+            104.33,
+            557.98,
+            117.74
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            114.98
+          ]
+        },
+        {
+          "text": "som. Ele cria repetições do sinal original com um pequeno atraso entre cada repetição. O",
+          "bbox": [
+            37.73,
+            119.34,
+            557.98,
+            132.74
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            129.98
+          ]
+        },
+        {
+          "text": "tempo de atraso pode ser ajustado para criar diferentes ritmos e padrões de repetição. O",
+          "bbox": [
+            37.73,
+            134.34,
+            557.99,
+            147.75
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            144.99
+          ]
+        },
+        {
+          "text": "delay pode variar desde um efeito sutil, adicionando uma sensação de espaço e",
+          "bbox": [
+            37.73,
+            149.35,
+            557.98,
+            162.75
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            159.99
+          ]
+        },
+        {
+          "text": "preenchimento ao som, até um delay mais pronunciado, que cria um efeito de eco",
+          "bbox": [
+            37.73,
+            164.35,
+            557.98,
+            177.76
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            175.0
+          ]
+        },
+        {
+          "text": "perceptível. Os violonistas podem usar o delay de várias maneiras, como acentuar certas",
+          "bbox": [
+            37.73,
+            179.36,
+            557.98,
+            192.77
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            190.01
+          ]
+        },
+        {
+          "text": "partes de uma música, criar camadas sonoras mais complexas ou até mesmo como uma",
+          "bbox": [
+            37.73,
+            194.36,
+            557.98,
+            207.77
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            205.01
+          ]
+        },
+        {
+          "text": "ferramenta de improvisação, explorando a interação entre as repetições e as notas tocadas",
+          "bbox": [
+            37.73,
+            209.37,
+            557.98,
+            222.78
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            220.02
+          ]
+        },
+        {
+          "text": "posteriormente.",
+          "bbox": [
+            37.73,
+            224.37,
+            126.43,
+            237.78
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            235.02
+          ]
+        },
+        {
+          "text": "Além do tempo de atraso, o delay também possui outros parâmetros ajustáveis, como a",
+          "bbox": [
+            37.73,
+            254.39,
+            557.98,
+            267.79
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            265.03
+          ]
+        },
+        {
+          "text": "quantidade de repetições (feedback), o volume relativo das repetições em relação ao sinal",
+          "bbox": [
+            37.73,
+            269.39,
+            557.98,
+            282.8
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            280.04
+          ]
+        },
+        {
+          "text": "original e, em alguns casos, a possibilidade de ajustar os tons das repetições. Isso permite uma",
+          "bbox": [
+            37.73,
+            284.4,
+            557.98,
+            297.81
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            295.04
+          ]
+        },
+        {
+          "text": "ampla variedade de possibilidades criativas ao utilizar o efeito de delay no violão. O delay pode",
+          "bbox": [
+            37.73,
+            299.4,
+            557.98,
+            312.81
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            310.05
+          ]
+        },
+        {
+          "text": "ser encontrado tanto em pedais de efeito dedicados quanto em unidades de processamento",
+          "bbox": [
+            37.73,
+            314.41,
+            557.98,
+            327.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            325.06
+          ]
+        },
+        {
+          "text": "de sinal mais complexas. Ele é usado em diversos gêneros musicais, desde rock e blues até",
+          "bbox": [
+            37.73,
+            329.41,
+            557.99,
+            342.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            340.06
+          ]
+        },
+        {
+          "text": "música eletrônica e experimental, sendo uma ferramenta versátil para adicionar profundidade",
+          "bbox": [
+            37.73,
+            344.42,
+            557.99,
+            357.83
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            355.07
+          ]
+        },
+        {
+          "text": "e personalidade ao som do violão.",
+          "bbox": [
+            37.73,
+            359.43,
+            223.61,
+            372.83
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            370.07
+          ]
+        },
+        {
+          "text": "O efeito de chorus é amplamente utilizado no violão para adicionar um timbre mais rico e",
+          "bbox": [
+            37.73,
+            452.06,
+            557.98,
+            465.47
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            462.71
+          ]
+        },
+        {
+          "text": "espesso ao som. Ele funciona duplicando o sinal do violão e atrasando ligeiramente uma das",
+          "bbox": [
+            37.73,
+            467.07,
+            557.98,
+            480.47
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            477.71
+          ]
+        },
+        {
+          "text": "cópias. Essa diferença de tempo cria um efeito de desfasamento entre as duas cópias,",
+          "bbox": [
+            37.73,
+            482.07,
+            557.98,
+            495.48
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            492.72
+          ]
+        },
+        {
+          "text": "resultando em variações sutis de afinação e amplitude. O resultado é um som mais cheio,",
+          "bbox": [
+            37.73,
+            497.08,
+            557.98,
+            510.48
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            507.72
+          ]
+        },
+        {
+          "text": "semelhante a várias guitarras tocando simultaneamente. O chorus pode ser ajustado em",
+          "bbox": [
+            37.73,
+            512.08,
+            557.98,
+            525.49
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            522.73
+          ]
+        },
+        {
+          "text": "termos de velocidade de modulação, largura do efeito e mixagem entre o sinal original e o",
+          "bbox": [
+            37.73,
+            527.09,
+            557.98,
+            540.5
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            537.74
+          ]
+        },
+        {
+          "text": "sinal modulado.",
+          "bbox": [
+            37.73,
+            542.09,
+            125.39,
+            555.5
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            552.74
+          ]
+        },
+        {
+          "text": "Esse efeito é amplamente utilizado em uma variedade de gêneros musicais, incluindo rock,",
+          "bbox": [
+            37.73,
+            572.11,
+            557.98,
+            585.51
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            582.75
+          ]
+        },
+        {
+          "text": "pop, jazz e música acústica. Ele é particularmente eficaz em arpejos e acordes abertos,",
+          "bbox": [
+            37.73,
+            587.11,
+            557.99,
+            600.52
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            597.76
+          ]
+        },
+        {
+          "text": "adicionando um brilho e uma dimensão extra ao som do violão. O chorus também pode ser",
+          "bbox": [
+            37.73,
+            602.12,
+            557.98,
+            615.52
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            612.76
+          ]
+        },
+        {
+          "text": "combinado com outros efeitos, como reverb e delay, para criar paisagens sonoras ainda mais",
+          "bbox": [
+            37.73,
+            617.12,
+            557.98,
+            630.53
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            627.77
+          ]
+        },
+        {
+          "text": "complexas e envolventes. Muitos amplificadores e pedais de efeito possuem a opção de",
+          "bbox": [
+            37.73,
+            632.13,
+            557.98,
+            645.54
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            642.78
+          ]
+        },
+        {
+          "text": "chorus embutida, tornando-o facilmente acessível para os violonistas explorarem e",
+          "bbox": [
+            37.73,
+            647.13,
+            557.99,
+            660.54
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            657.78
+          ]
+        },
+        {
+          "text": "experimentarem diferentes variações desse efeito.",
+          "bbox": [
+            37.73,
+            662.14,
+            314.99,
+            675.55
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            672.79
+          ]
+        },
+        {
+          "text": "Delay",
+          "bbox": [
+            37.73,
+            59.04,
+            84.06,
+            79.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            76.46
+          ]
+        },
+        {
+          "text": "Chorus",
+          "bbox": [
+            37.73,
+            406.77,
+            96.32,
+            427.55
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            424.19
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 2
+    },
+    {
+      "page": 8,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "O efeito de phaser é outro efeito popular utilizado no violão para adicionar movimento e\ntextura ao som. Ele funciona dividindo o sinal do violão em duas partes, uma das quais é\natrasada em relação à outra. Em seguida, essas duas partes são combinadas novamente,\nresultando em interferências e cancelamentos de fase em certas frequências. Isso cria um\nefeito de \"varredura\" ou \"ondulação\" no som do violão. O phaser pode ser ajustado em termos\nde velocidade de varredura, número de estágios (que determina a intensidade do efeito) e\nmixagem entre o sinal original e o sinal modulado.\nO phaser é frequentemente usado em gêneros como rock, funk e música experimental para\nadicionar um caráter distintivo e psicodélico ao som do violão. Ele é especialmente eficaz\nquando aplicado a riffs e partes rítmicas, proporcionando uma sensação de movimento e\ndinamismo. Assim como outros efeitos, o phaser pode ser combinado com outros efeitos,\ncomo delay e reverb, para criar texturas sonoras mais complexas e atmosféricas. Muitos pedais\nde efeito e processadores de sinal oferecem controles flexíveis de phaser, permitindo que os\nviolonistas personalizem o efeito de acordo com suas preferências e estilo musical.\nO efeito de tremolo é um efeito de modulação que modifica o volume do som do violão de\nforma regular e rítmica. Ele cria variações cíclicas na amplitude do sinal, resultando em um\nefeito de vibração ou pulsação. O tremolo pode ser ajustado em termos de taxa (velocidade da\nmodulação) e profundidade (amplitude das variações). Esse efeito é amplamente utilizado em\numa variedade de estilos musicais, como rock, surf, country e música vintage, para adicionar\num caráter nostálgico e dinâmico ao som do violão.\nO tremolo pode ser usado de várias maneiras criativas no violão. Ele pode fornecer uma\nsensação sutil de movimento e textura ao tocar arpejos e acordes, ou pode ser usado de forma\nmais pronunciada para criar um efeito de trêmulo expressivo em solos e partes melódicas.\nAlém disso, o tremolo pode ser combinado com outros efeitos, como reverb e delay, para\nadicionar ainda mais profundidade e ambiente ao som. Existem pedais de efeito dedicados e\namplificadores que oferecem controles específicos para o tremolo, permitindo que os\nviolonistas personalizem o ritmo e a intensidade do efeito para se adequar ao estilo musical e\nàs preferências individuais.\nPhaser\nTremolo\n",
+      "spans": [
+        {
+          "text": "O efeito de phaser é outro efeito popular utilizado no violão para adicionar movimento e",
+          "bbox": [
+            37.73,
+            104.33,
+            557.99,
+            117.74
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            114.98
+          ]
+        },
+        {
+          "text": "textura ao som. Ele funciona dividindo o sinal do violão em duas partes, uma das quais é",
+          "bbox": [
+            37.73,
+            119.34,
+            557.98,
+            132.74
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            129.98
+          ]
+        },
+        {
+          "text": "atrasada em relação à outra. Em seguida, essas duas partes são combinadas novamente,",
+          "bbox": [
+            37.73,
+            134.34,
+            557.98,
+            147.75
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            144.99
+          ]
+        },
+        {
+          "text": "resultando em interferências e cancelamentos de fase em certas frequências. Isso cria um",
+          "bbox": [
+            37.73,
+            149.35,
+            557.98,
+            162.75
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            159.99
+          ]
+        },
+        {
+          "text": "efeito de \"varredura\" ou \"ondulação\" no som do violão. O phaser pode ser ajustado em termos",
+          "bbox": [
+            37.73,
+            164.35,
+            557.98,
+            177.76
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            175.0
+          ]
+        },
+        {
+          "text": "de velocidade de varredura, número de estágios (que determina a intensidade do efeito) e",
+          "bbox": [
+            37.73,
+            179.36,
+            557.98,
+            192.77
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            190.01
+          ]
+        },
+        {
+          "text": "mixagem entre o sinal original e o sinal modulado.",
+          "bbox": [
+            37.73,
+            194.36,
+            315.31,
+            207.77
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            205.01
+          ]
+        },
+        {
+          "text": "O phaser é frequentemente usado em gêneros como rock, funk e música experimental para",
+          "bbox": [
+            37.73,
+            224.37,
+            557.99,
+            237.78
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            235.02
+          ]
+        },
+        {
+          "text": "adicionar um caráter distintivo e psicodélico ao som do violão. Ele é especialmente eficaz",
+          "bbox": [
+            37.73,
+            239.38,
+            557.98,
+            252.79
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            250.03
+          ]
+        },
+        {
+          "text": "quando aplicado a riffs e partes rítmicas, proporcionando uma sensação de movimento e",
+          "bbox": [
+            37.73,
+            254.39,
+            557.98,
+            267.79
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            265.03
+          ]
+        },
+        {
+          "text": "dinamismo. Assim como outros efeitos, o phaser pode ser combinado com outros efeitos,",
+          "bbox": [
+            37.73,
+            269.39,
+            557.98,
+            282.8
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            280.04
+          ]
+        },
+        {
+          "text": "como delay e reverb, para criar texturas sonoras mais complexas e atmosféricas. Muitos pedais",
+          "bbox": [
+            37.73,
+            284.4,
+            557.99,
+            297.81
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            295.04
+          ]
+        },
+        {
+          "text": "de efeito e processadores de sinal oferecem controles flexíveis de phaser, permitindo que os",
+          "bbox": [
+            37.73,
+            299.4,
+            557.98,
+            312.81
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            310.05
+          ]
+        },
+        {
+          "text": "violonistas personalizem o efeito de acordo com suas preferências e estilo musical.",
+          "bbox": [
+            37.73,
+            314.41,
+            491.5,
+            327.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            325.06
+          ]
+        },
+        {
+          "text": "O efeito de tremolo é um efeito de modulação que modifica o volume do som do violão de",
+          "bbox": [
+            37.73,
+            413.6,
+            557.98,
+            427.01
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            424.25
+          ]
+        },
+        {
+          "text": "forma regular e rítmica. Ele cria variações cíclicas na amplitude do sinal, resultando em um",
+          "bbox": [
+            37.73,
+            428.61,
+            557.98,
+            442.02
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            439.26
+          ]
+        },
+        {
+          "text": "efeito de vibração ou pulsação. O tremolo pode ser ajustado em termos de taxa (velocidade da",
+          "bbox": [
+            37.73,
+            443.61,
+            557.99,
+            457.02
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            454.26
+          ]
+        },
+        {
+          "text": "modulação) e profundidade (amplitude das variações). Esse efeito é amplamente utilizado em",
+          "bbox": [
+            37.73,
+            458.62,
+            557.99,
+            472.03
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            469.27
+          ]
+        },
+        {
+          "text": "uma variedade de estilos musicais, como rock, surf, country e música vintage, para adicionar",
+          "bbox": [
+            37.73,
+            473.63,
+            557.98,
+            487.03
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            484.27
+          ]
+        },
+        {
+          "text": "um caráter nostálgico e dinâmico ao som do violão.",
+          "bbox": [
+            37.73,
+            488.63,
+            321.01,
+            502.04
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            499.28
+          ]
+        },
+        {
+          "text": "O tremolo pode ser usado de várias maneiras criativas no violão. Ele pode fornecer uma",
+          "bbox": [
+            37.73,
+            518.64,
+            557.98,
+            532.05
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            529.29
+          ]
+        },
+        {
+          "text": "sensação sutil de movimento e textura ao tocar arpejos e acordes, ou pode ser usado de forma",
+          "bbox": [
+            37.73,
+            533.65,
+            557.98,
+            547.06
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            544.3
+          ]
+        },
+        {
+          "text": "mais pronunciada para criar um efeito de trêmulo expressivo em solos e partes melódicas.",
+          "bbox": [
+            37.73,
+            548.65,
+            557.99,
+            562.06
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            559.3
+          ]
+        },
+        {
+          "text": "Além disso, o tremolo pode ser combinado com outros efeitos, como reverb e delay, para",
+          "bbox": [
+            37.73,
+            563.66,
+            557.98,
+            577.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            574.31
+          ]
+        },
+        {
+          "text": "adicionar ainda mais profundidade e ambiente ao som. Existem pedais de efeito dedicados e",
+          "bbox": [
+            37.73,
+            578.67,
+            557.98,
+            592.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            589.31
+          ]
+        },
+        {
+          "text": "amplificadores que oferecem controles específicos para o tremolo, permitindo que os",
+          "bbox": [
+            37.73,
+            593.67,
+            557.98,
+            607.08
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            604.32
+          ]
+        },
+        {
+          "text": "violonistas personalizem o ritmo e a intensidade do efeito para se adequar ao estilo musical e",
+          "bbox": [
+            37.73,
+            608.68,
+            557.98,
+            622.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            619.32
+          ]
+        },
+        {
+          "text": "às preferências individuais.",
+          "bbox": [
+            37.73,
+            623.68,
+            185.49,
+            637.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            634.33
+          ]
+        },
+        {
+          "text": "Phaser",
+          "bbox": [
+            37.73,
+            59.04,
+            94.1,
+            79.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            76.46
+          ]
+        },
+        {
+          "text": "Tremolo",
+          "bbox": [
+            37.73,
+            368.31,
+            106.98,
+            389.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            385.73
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 2
+    },
+    {
+      "page": 9,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "O efeito de distorção/overdrive é amplamente utilizado no violão para adicionar um som de\nsaturação e distorção ao sinal original. Ele é especialmente popular em gêneros como rock,\nblues e metal, onde é usado para criar timbres agressivos e cheios de energia. A distorção é\nalcançada aumentando-se a intensidade do sinal do violão, fazendo com que os transistores\nou válvulas do amplificador entrem em saturação. Isso resulta em um som mais \"sujo\" e com\nsustain prolongado.\nOs violonistas têm uma variedade de opções para obter distorção/overdrive no violão. Isso\npode ser feito por meio de pedais de efeito dedicados, amplificadores com canais de ganho\nou até mesmo plugins de software em gravações de estúdio. A intensidade da distorção pode\nser controlada ajustando-se o ganho ou a quantidade de saturação. O efeito de distorção\npode variar desde um overdrive suave e levemente saturado até uma distorção pesada e\nagressiva, dependendo das preferências e do estilo musical do violonista. A distorção também\npode ser combinada com outros efeitos, como delay e reverb, para criar texturas mais\ncomplexas e densas.\nAs Impulse Responses (Respostas ao Impulso, em tradução literal) são um recurso importante\nno mundo da produção de áudio e têm tido um impacto significativo na forma como os\nviolonistas podem timbrar seus instrumentos. Uma Impulse Response é basicamente uma\nrepresentação digital do comportamento acústico de um ambiente real, como uma sala de\nconcertos, uma igreja ou um estúdio de gravação. Elas capturam as características de\nreverberação e resposta em frequência desses espaços e podem ser aplicadas ao som do\nviolão para simular a acústica desses ambientes durante a gravação ou apresentação ao vivo.\nPara utilizar uma Impulse Response no timbramento de um violão, é necessário um\ndispositivo ou software que permita a aplicação dessas respostas. Normalmente, um plugin\nde simulação de amplificador ou um processador de efeitos digital pode ser usado. O mais\nacessível e utilizado hoje em dia é o Mvave. O violonista pode escolher a Impulse Response\nque melhor se adequa à sonoridade desejada e aplicá-la ao som do violão, dando a impressão\nde que o instrumento está sendo tocado em um ambiente específico. Isso pode adicionar\nprofundidade, espaço e realismo ao som do violão, permitindo que ele se destaque em um\nmix de forma mais natural e envolvente.\nAs Impulse Responses mudaram a forma como os violonistas podem timbrar seus\ninstrumentos, pois agora eles têm acesso a uma ampla variedade de ambientes acústicos\npara experimentar e aplicar ao som do violão. Antes, a obtenção de uma sonoridade específica\nde um determinado ambiente acústico exigia a gravação em locais reais ou o uso de salas de\nreverberação físicas. Com as Impulse Responses, é possível recriar digitalmente esses espaços\nsem sair do estúdio ou palco, o que oferece uma enorme flexibilidade e conveniência. Os\nviolonistas podem escolher desde ambientes pequenos e íntimos até grandes salas de\nconcerto, adaptando o timbre do violão ao estilo musical e à intenção artística. Além disso, as\nImpulse Responses também permitem que o violonista explore ambientes sonoros únicos e\ncriativos que podem não ser encontrados na vida real, abrindo possibilidades para\nexperimentações sonoras.\nDistorção / Overdrive\nImpulse Responses\n",
+      "spans": [
+        {
+          "text": "O efeito de distorção/overdrive é amplamente utilizado no violão para adicionar um som de",
+          "bbox": [
+            37.73,
+            104.33,
+            557.99,
+            117.74
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            114.98
+          ]
+        },
+        {
+          "text": "saturação e distorção ao sinal original. Ele é especialmente popular em gêneros como rock,",
+          "bbox": [
+            37.73,
+            119.34,
+            557.97,
+            132.74
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            129.98
+          ]
+        },
+        {
+          "text": "blues e metal, onde é usado para criar timbres agressivos e cheios de energia. A distorção é",
+          "bbox": [
+            37.73,
+            134.34,
+            557.98,
+            147.75
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            144.99
+          ]
+        },
+        {
+          "text": "alcançada aumentando-se a intensidade do sinal do violão, fazendo com que os transistores",
+          "bbox": [
+            37.73,
+            149.35,
+            557.98,
+            162.75
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            159.99
+          ]
+        },
+        {
+          "text": "ou válvulas do amplificador entrem em saturação. Isso resulta em um som mais \"sujo\" e com",
+          "bbox": [
+            37.73,
+            164.35,
+            557.98,
+            177.76
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            175.0
+          ]
+        },
+        {
+          "text": "sustain prolongado.",
+          "bbox": [
+            37.73,
+            179.36,
+            146.9,
+            192.77
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            190.01
+          ]
+        },
+        {
+          "text": "Os violonistas têm uma variedade de opções para obter distorção/overdrive no violão. Isso",
+          "bbox": [
+            37.73,
+            209.37,
+            557.99,
+            222.78
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            220.02
+          ]
+        },
+        {
+          "text": "pode ser feito por meio de pedais de efeito dedicados, amplificadores com canais de ganho",
+          "bbox": [
+            37.73,
+            224.37,
+            557.98,
+            237.78
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            235.02
+          ]
+        },
+        {
+          "text": "ou até mesmo plugins de software em gravações de estúdio. A intensidade da distorção pode",
+          "bbox": [
+            37.73,
+            239.38,
+            557.98,
+            252.79
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            250.03
+          ]
+        },
+        {
+          "text": "ser controlada ajustando-se o ganho ou a quantidade de saturação. O efeito de distorção",
+          "bbox": [
+            37.73,
+            254.39,
+            557.98,
+            267.79
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            265.03
+          ]
+        },
+        {
+          "text": "pode variar desde um overdrive suave e levemente saturado até uma distorção pesada e",
+          "bbox": [
+            37.73,
+            269.39,
+            557.99,
+            282.8
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            280.04
+          ]
+        },
+        {
+          "text": "agressiva, dependendo das preferências e do estilo musical do violonista. A distorção também",
+          "bbox": [
+            37.73,
+            284.4,
+            557.98,
+            297.81
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            295.04
+          ]
+        },
+        {
+          "text": "pode ser combinada com outros efeitos, como delay e reverb, para criar texturas mais",
+          "bbox": [
+            37.73,
+            299.4,
+            557.98,
+            312.81
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            310.05
+          ]
+        },
+        {
+          "text": "complexas e densas.",
+          "bbox": [
+            37.73,
+            314.41,
+            150.8,
+            327.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            325.06
+          ]
+        },
+        {
+          "text": "As Impulse Responses (Respostas ao Impulso, em tradução literal) são um recurso importante",
+          "bbox": [
+            37.62,
+            390.53,
+            557.88,
+            403.94
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            401.18
+          ]
+        },
+        {
+          "text": "no mundo da produção de áudio e têm tido um impacto significativo na forma como os",
+          "bbox": [
+            37.62,
+            405.54,
+            557.87,
+            418.94
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            416.18
+          ]
+        },
+        {
+          "text": "violonistas podem timbrar seus instrumentos. Uma Impulse Response é basicamente uma",
+          "bbox": [
+            37.62,
+            420.54,
+            557.87,
+            433.95
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            431.19
+          ]
+        },
+        {
+          "text": "representação digital do comportamento acústico de um ambiente real, como uma sala de",
+          "bbox": [
+            37.62,
+            435.55,
+            557.88,
+            448.95
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            446.19
+          ]
+        },
+        {
+          "text": "concertos, uma igreja ou um estúdio de gravação. Elas capturam as características de",
+          "bbox": [
+            37.62,
+            450.55,
+            557.87,
+            463.96
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            461.2
+          ]
+        },
+        {
+          "text": "reverberação e resposta em frequência desses espaços e podem ser aplicadas ao som do",
+          "bbox": [
+            37.62,
+            465.56,
+            557.87,
+            478.97
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            476.21
+          ]
+        },
+        {
+          "text": "violão para simular a acústica desses ambientes durante a gravação ou apresentação ao vivo.",
+          "bbox": [
+            37.62,
+            480.56,
+            549.41,
+            493.97
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            491.21
+          ]
+        },
+        {
+          "text": "Para utilizar uma Impulse Response no timbramento de um violão, é necessário um",
+          "bbox": [
+            37.62,
+            510.57,
+            557.87,
+            523.98
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            521.22
+          ]
+        },
+        {
+          "text": "dispositivo ou software que permita a aplicação dessas respostas. Normalmente, um plugin",
+          "bbox": [
+            37.62,
+            525.58,
+            557.87,
+            538.99
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            536.23
+          ]
+        },
+        {
+          "text": "de simulação de amplificador ou um processador de efeitos digital pode ser usado. O mais",
+          "bbox": [
+            37.62,
+            540.59,
+            557.87,
+            553.99
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            551.23
+          ]
+        },
+        {
+          "text": "acessível e utilizado hoje em dia é o Mvave. O violonista pode escolher a Impulse Response",
+          "bbox": [
+            37.62,
+            555.59,
+            557.87,
+            569.0
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            566.24
+          ]
+        },
+        {
+          "text": "que melhor se adequa à sonoridade desejada e aplicá-la ao som do violão, dando a impressão",
+          "bbox": [
+            37.62,
+            570.6,
+            557.87,
+            584.01
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            581.24
+          ]
+        },
+        {
+          "text": "de que o instrumento está sendo tocado em um ambiente específico. Isso pode adicionar",
+          "bbox": [
+            37.62,
+            585.6,
+            557.87,
+            599.01
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            596.25
+          ]
+        },
+        {
+          "text": "profundidade, espaço e realismo ao som do violão, permitindo que ele se destaque em um",
+          "bbox": [
+            37.62,
+            600.61,
+            557.87,
+            614.02
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            611.26
+          ]
+        },
+        {
+          "text": "mix de forma mais natural e envolvente.",
+          "bbox": [
+            37.62,
+            615.61,
+            258.86,
+            629.02
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            626.26
+          ]
+        },
+        {
+          "text": "As Impulse Responses mudaram a forma como os violonistas podem timbrar seus",
+          "bbox": [
+            37.62,
+            645.63,
+            557.87,
+            659.03
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            656.27
+          ]
+        },
+        {
+          "text": "instrumentos, pois agora eles têm acesso a uma ampla variedade de ambientes acústicos",
+          "bbox": [
+            37.62,
+            660.63,
+            557.87,
+            674.04
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            671.28
+          ]
+        },
+        {
+          "text": "para experimentar e aplicar ao som do violão. Antes, a obtenção de uma sonoridade específica",
+          "bbox": [
+            37.62,
+            675.64,
+            557.87,
+            689.05
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            686.28
+          ]
+        },
+        {
+          "text": "de um determinado ambiente acústico exigia a gravação em locais reais ou o uso de salas de",
+          "bbox": [
+            37.62,
+            690.64,
+            557.88,
+            704.05
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            701.29
+          ]
+        },
+        {
+          "text": "reverberação físicas. Com as Impulse Responses, é possível recriar digitalmente esses espaços",
+          "bbox": [
+            37.62,
+            705.65,
+            557.87,
+            719.06
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            716.3
+          ]
+        },
+        {
+          "text": "sem sair do estúdio ou palco, o que oferece uma enorme flexibilidade e conveniência. Os",
+          "bbox": [
+            37.62,
+            720.65,
+            557.87,
+            734.06
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            731.3
+          ]
+        },
+        {
+          "text": "violonistas podem escolher desde ambientes pequenos e íntimos até grandes salas de",
+          "bbox": [
+            37.62,
+            735.66,
+            557.87,
+            749.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            746.31
+          ]
+        },
+        {
+          "text": "concerto, adaptando o timbre do violão ao estilo musical e à intenção artística. Além disso, as",
+          "bbox": [
+            37.62,
+            750.67,
+            557.87,
+            764.07
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            761.31
+          ]
+        },
+        {
+          "text": "Impulse Responses também permitem que o violonista explore ambientes sonoros únicos e",
+          "bbox": [
+            37.62,
+            765.67,
+            557.87,
+            779.08
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            776.32
+          ]
+        },
+        {
+          "text": "criativos que podem não ser encontrados na vida real, abrindo possibilidades para",
+          "bbox": [
+            37.62,
+            780.68,
+            557.87,
+            794.08
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            791.32
+          ]
+        },
+        {
+          "text": "experimentações sonoras.",
+          "bbox": [
+            37.62,
+            795.68,
+            181.51,
+            809.09
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.62,
+            806.33
+          ]
+        },
+        {
+          "text": "Distorção / Overdrive",
+          "bbox": [
+            37.73,
+            59.04,
+            208.6,
+            79.82
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            76.46
+          ]
+        },
+        {
+          "text": "Impulse Responses",
+          "bbox": [
+            37.73,
+            352.93,
+            196.46,
+            373.71
+          ],
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            370.35
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 2
+    },
+    {
+      "page": 10,
+      "width": 595.5,
+      "height": 842.25,
+      "text": "Resumo\nAs técnicas de execução abordadas neste módulo são fundamentais para a exploração de\ndiferentes timbres e nuances sonoras no violão. É importante lembrar que a prática constante é\nessencial para o desenvolvimento dessas técnicas, e que cada músico pode adaptá-las de\nacordo com seu estilo musical e sua preferência pessoal. Ao dominar essas técnicas, o músico\nestará apto a criar arranjos musicais mais complexos e expressivos, enriquecendo ainda mais a\nsua performance no violão.\nAs variações na afinação do violão são uma técnica fundamental para explorar diferentes\ntimbres e sonoridades. Cada afinação alternativa pode oferecer ao músico novas possibilidades\nde expressão musical e permitir a criação de arranjos mais complexos e expressivos. No\nentanto, é importante lembrar que cada afinação exige um novo aprendizado e adaptação por\nparte do músico, exigindo prática e dedicação constantes. Ao dominar as variações na afinação,\no músico estará apto a explorar todo o potencial sonoro do violão, enriquecendo ainda mais sua\nperformance musical.\nAs técnicas abordadas neste módulo permitem ao músico explorar novos timbres e nuances\nsonoras no violão, criando uma variedade de sonoridades e texturas na sua música. Ao\nexperimentar e combinar essas técnicas, o músico pode criar arranjos musicais mais complexos\ne expressivos, enriquecendo ainda mais sua performance musical. É importante lembrar que a\nprática constante é essencial para o desenvolvimento dessas técnicas, e que cada músico pode\nadaptá-las de acordo com seu estilo musical e sua preferência pessoal. Ao dominar essas\ntécnicas, o músico estará apto a explorar todo o potencial sonoro do violão, criando uma\nmúsica única e inovadora.\nVamos revisar o que acabamos de ver até agora\nParabéns!\nParabéns por concluir este curso! Você deu um passo importante para liberar todo o seu\npotencial. Concluir este curso não é apenas adquirir conhecimento; trata-se de colocar esse\nconhecimento em prática e causar um impacto positivo no mundo ao seu redor.\n",
+      "spans": [
+        {
+          "text": "Resumo",
+          "bbox": [
+            37.62,
+            106.25,
+            162.91,
+            142.25
+          ],
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "flags": 20,
+          "origin": [
+            37.62,
+            136.43
+          ]
+        },
+        {
+          "text": "As técnicas de execução abordadas neste módulo são fundamentais para a exploração de",
+          "bbox": [
+            56.43,
+            247.71,
+            558.26,
+            261.11
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            258.35
+          ]
+        },
+        {
+          "text": "diferentes timbres e nuances sonoras no violão. É importante lembrar que a prática constante é",
+          "bbox": [
+            56.43,
+            262.71,
+            558.25,
+            276.12
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            273.36
+          ]
+        },
+        {
+          "text": "essencial para o desenvolvimento dessas técnicas, e que cada músico pode adaptá-las de",
+          "bbox": [
+            56.43,
+            277.72,
+            558.26,
+            291.12
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            288.36
+          ]
+        },
+        {
+          "text": "acordo com seu estilo musical e sua preferência pessoal. Ao dominar essas técnicas, o músico",
+          "bbox": [
+            56.43,
+            292.72,
+            558.26,
+            306.13
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            303.37
+          ]
+        },
+        {
+          "text": "estará apto a criar arranjos musicais mais complexos e expressivos, enriquecendo ainda mais a",
+          "bbox": [
+            56.43,
+            307.73,
+            558.25,
+            321.14
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            318.38
+          ]
+        },
+        {
+          "text": "sua performance no violão.",
+          "bbox": [
+            56.43,
+            322.73,
+            198.26,
+            336.14
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            333.38
+          ]
+        },
+        {
+          "text": "As variações na afinação do violão são uma técnica fundamental para explorar diferentes",
+          "bbox": [
+            56.43,
+            352.75,
+            558.26,
+            366.15
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            363.39
+          ]
+        },
+        {
+          "text": "timbres e sonoridades. Cada afinação alternativa pode oferecer ao músico novas possibilidades",
+          "bbox": [
+            56.43,
+            367.75,
+            558.26,
+            381.16
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            378.4
+          ]
+        },
+        {
+          "text": "de expressão musical e permitir a criação de arranjos mais complexos e expressivos. No",
+          "bbox": [
+            56.43,
+            382.76,
+            558.25,
+            396.16
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            393.4
+          ]
+        },
+        {
+          "text": "entanto, é importante lembrar que cada afinação exige um novo aprendizado e adaptação por",
+          "bbox": [
+            56.43,
+            397.76,
+            558.25,
+            411.17
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            408.41
+          ]
+        },
+        {
+          "text": "parte do músico, exigindo prática e dedicação constantes. Ao dominar as variações na afinação,",
+          "bbox": [
+            56.43,
+            412.77,
+            558.26,
+            426.18
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            423.42
+          ]
+        },
+        {
+          "text": "o músico estará apto a explorar todo o potencial sonoro do violão, enriquecendo ainda mais sua",
+          "bbox": [
+            56.43,
+            427.77,
+            558.26,
+            441.18
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            438.42
+          ]
+        },
+        {
+          "text": "performance musical.",
+          "bbox": [
+            56.43,
+            442.78,
+            171.43,
+            456.19
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            453.43
+          ]
+        },
+        {
+          "text": "As técnicas abordadas neste módulo permitem ao músico explorar novos timbres e nuances",
+          "bbox": [
+            56.43,
+            472.79,
+            558.26,
+            486.2
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            483.44
+          ]
+        },
+        {
+          "text": "sonoras no violão, criando uma variedade de sonoridades e texturas na sua música. Ao",
+          "bbox": [
+            56.43,
+            487.8,
+            558.26,
+            501.2
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            498.44
+          ]
+        },
+        {
+          "text": "experimentar e combinar essas técnicas, o músico pode criar arranjos musicais mais complexos",
+          "bbox": [
+            56.43,
+            502.8,
+            558.26,
+            516.21
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            513.45
+          ]
+        },
+        {
+          "text": "e expressivos, enriquecendo ainda mais sua performance musical. É importante lembrar que a",
+          "bbox": [
+            56.43,
+            517.81,
+            558.26,
+            531.22
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            528.45
+          ]
+        },
+        {
+          "text": "prática constante é essencial para o desenvolvimento dessas técnicas, e que cada músico pode",
+          "bbox": [
+            56.43,
+            532.81,
+            558.26,
+            546.22
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            543.46
+          ]
+        },
+        {
+          "text": "adaptá-las de acordo com seu estilo musical e sua preferência pessoal. Ao dominar essas",
+          "bbox": [
+            56.43,
+            547.82,
+            558.26,
+            561.23
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            558.47
+          ]
+        },
+        {
+          "text": "técnicas, o músico estará apto a explorar todo o potencial sonoro do violão, criando uma",
+          "bbox": [
+            56.43,
+            562.82,
+            558.26,
+            576.23
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            573.47
+          ]
+        },
+        {
+          "text": "música única e inovadora.",
+          "bbox": [
+            56.43,
+            577.83,
+            193.0,
+            591.24
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            56.43,
+            588.48
+          ]
+        },
+        {
+          "text": "Vamos revisar o que acabamos de ver até agora",
+          "bbox": [
+            37.73,
+            148.07,
+            301.1,
+            161.48
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 16777215,
+          "flags": 4,
+          "origin": [
+            37.73,
+            158.72
+          ]
+        },
+        {
+          "text": "Parabéns!",
+          "bbox": [
+            37.73,
+            639.91,
+            223.79,
+            687.92
+          ],
+          "font": "Montserrat-Regular",
+          "size": 40.01,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            37.73,
+            680.16
+          ]
+        },
+        {
+          "text": "Parabéns por concluir este curso! Você deu um passo importante para liberar todo o seu",
+          "bbox": [
+            38.47,
+            701.18,
+            558.71,
+            714.58
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.47,
+            711.82
+          ]
+        },
+        {
+          "text": "potencial. Concluir este curso não é apenas adquirir conhecimento; trata-se de colocar esse",
+          "bbox": [
+            38.47,
+            716.18,
+            558.71,
+            729.59
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.47,
+            726.83
+          ]
+        },
+        {
+          "text": "conhecimento em prática e causar um impacto positivo no mundo ao seu redor.",
+          "bbox": [
+            38.47,
+            731.19,
+            481.97,
+            744.6
+          ],
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "flags": 4,
+          "origin": [
+            38.47,
+            741.84
+          ]
+        }
+      ],
+      "images": 0,
+      "drawings": 11
+    }
+  ],
+  "contact_sheet": "tmp\\pdfs\\inspection\\o-código-dos-timbres-violão-contact-sheet.png"
+}

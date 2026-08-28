@@ -1,0 +1,2396 @@
+{
+  "source": "C:\\Users\\Felipe\\Desktop\\O Código dos Timbres (Guitarra).pdf",
+  "page_count": 16,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "id": "p01-b00",
+          "bbox": [
+            72.53,
+            97.5,
+            522.98,
+            164.03
+          ],
+          "text_pt": "O CÓDIGO DOS",
+          "font": "Now-Bold",
+          "size": 55.44,
+          "color": 16777215,
+          "line_count": 1
+        },
+        {
+          "id": "p01-b01",
+          "bbox": [
+            182.36,
+            163.69,
+            423.78,
+            230.22
+          ],
+          "text_pt": "TIMBRES",
+          "font": "Now-Bold",
+          "size": 55.44,
+          "color": 16777215,
+          "line_count": 1
+        },
+        {
+          "id": "p01-b02",
+          "bbox": [
+            96.49,
+            725.59,
+            499.0,
+            751.96
+          ],
+          "text_pt": "Domine a Arte de Criar Sons Incríveis",
+          "font": "Montserrat-Regular",
+          "size": 21.97,
+          "color": 16777215,
+          "line_count": 1
+        },
+        {
+          "id": "p01-b03",
+          "bbox": [
+            236.65,
+            755.89,
+            358.83,
+            782.26
+          ],
+          "text_pt": "na Guitarra",
+          "font": "Montserrat-Regular",
+          "size": 21.97,
+          "color": 16777215,
+          "line_count": 1
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "id": "p02-b00",
+          "bbox": [
+            309.31,
+            174.39,
+            522.72,
+            202.8
+          ],
+          "text_pt": "Aprenda a criar diferentes sonoridades\nna guitarra!",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p02-b01",
+          "bbox": [
+            309.31,
+            99.86,
+            511.21,
+            162.12
+          ],
+          "text_pt": "Timbres para\nguitarra",
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p02-b02",
+          "bbox": [
+            40.34,
+            291.54,
+            134.12,
+            312.32
+          ],
+          "text_pt": "Visão geral",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p02-b03",
+          "bbox": [
+            37.73,
+            328.32,
+            557.98,
+            371.74
+          ],
+          "text_pt": "Este curso é destinado a guitarristas que desejam explorar novas possibilidades sonoras em\nseus instrumentos. Através deste curso, os alunos aprenderão conceitos teóricos e práticos\npara criar diferentes timbres na guitarra. O curso é dividido em três módulos principais:",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 3
+        },
+        {
+          "id": "p02-b04",
+          "bbox": [
+            40.34,
+            449.59,
+            275.9,
+            547.12
+          ],
+          "text_pt": "Introdução aos\ntimbres da\nguitarra",
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "line_count": 3
+        },
+        {
+          "id": "p02-b05",
+          "bbox": [
+            51.88,
+            622.16,
+            264.47,
+            635.56
+          ],
+          "text_pt": "01 | Introdução aos timbres da guitarra",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p02-b06",
+          "bbox": [
+            40.34,
+            669.7,
+            557.98,
+            713.12
+          ],
+          "text_pt": "O módulo de \"Introdução aos Timbres da Guitarra\" é o primeiro passo para guitarristas que\ndesejam explorar diferentes sonoridades em seus instrumentos. Neste módulo, os alunos\nterão um entendimento básico sobre o que são timbres e como eles são criados na guitarra.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 3
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "id": "p03-b00",
+          "bbox": [
+            37.73,
+            59.04,
+            207.65,
+            79.82
+          ],
+          "text_pt": "O Que são Timbres?",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p03-b01",
+          "bbox": [
+            37.73,
+            95.82,
+            557.99,
+            169.25
+          ],
+          "text_pt": "Timbre é uma qualidade sonora que permite distinguir sons diferentes produzidos por\ndiferentes fontes sonoras. Por exemplo, quando duas pessoas cantam a mesma nota ao\nmesmo tempo, podemos distinguir as vozes delas pelo seu timbre. Na guitarra, o timbre é\nresponsável por criar diferentes sonoridades que podem ser identificadas como limpas,\ndistorcidas, brilhantes, graves, entre outras.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p03-b02",
+          "bbox": [
+            37.73,
+            197.0,
+            401.16,
+            217.78
+          ],
+          "text_pt": "Como os Timbres São Criados na Guitarra?",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p03-b03",
+          "bbox": [
+            37.73,
+            470.15,
+            460.72,
+            490.93
+          ],
+          "text_pt": "Entendendo a Importância dos Timbres na Guitarra",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p03-b04",
+          "bbox": [
+            37.73,
+            233.78,
+            558.26,
+            292.2
+          ],
+          "text_pt": "Os timbres na guitarra são criados através de diversos elementos, como o tipo de madeira utilizado\nno corpo e no braço do instrumento, o tipo de corda utilizado, o captador da guitarra, o\namplificador e os efeitos utilizados. Cada elemento contribui para a criação de uma sonoridade\nespecífica.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p03-b05",
+          "bbox": [
+            37.73,
+            308.81,
+            558.26,
+            352.23
+          ],
+          "text_pt": "Na guitarra elétrica, os captadores são responsáveis ​ por transformar a vibração das cordas em\nsinais elétricos que são enviados para o amplificador. Existem diferentes tipos de captadores\ndisponíveis no mercado, cada um com suas características sonoras específicas.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 3
+        },
+        {
+          "id": "p03-b06",
+          "bbox": [
+            37.73,
+            368.83,
+            558.26,
+            427.26
+          ],
+          "text_pt": "Os amplificadores também possuem um papel fundamental na criação dos timbres da guitarra.\nEles são responsáveis ​ por amplificar o sinal elétrico enviado pelos captadores e transformá-lo em\nsom audível. Assim como os captadores, existem diversos tipos de amplificadores disponíveis no\nmercado com diferentes características sonoras.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p03-b07",
+          "bbox": [
+            37.73,
+            506.93,
+            514.41,
+            565.36
+          ],
+          "text_pt": "O timbre é um aspecto fundamental da guitarra e pode ser utilizado para criar diferentes\natmosferas e sensações musicais. Por exemplo, um timbre mais limpo e brilhante é\nfrequentemente usado em músicas mais pop ou funk, enquanto que um timbre mais\ndistorcido é usado em gêneros como o rock e o metal.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p03-b08",
+          "bbox": [
+            37.73,
+            581.96,
+            514.4,
+            625.38
+          ],
+          "text_pt": "Aprender a criar diferentes timbres na guitarra é uma habilidade importante para\nqualquer guitarrista. Além de permitir uma maior variedade musical, também permite\nque o músico se expresse de maneira mais completa por meio de seu instrumento.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 3
+        },
+        {
+          "id": "p03-b09",
+          "bbox": [
+            37.73,
+            727.64,
+            354.41,
+            794.4
+          ],
+          "text_pt": "Captadores e sua\nInfluência no Timbre",
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "line_count": 2
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "id": "p04-b00",
+          "bbox": [
+            37.73,
+            59.04,
+            483.17,
+            79.82
+          ],
+          "text_pt": "Single Coil: O Clássico Timbre \"Twangy\" e Estridente",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p04-b01",
+          "bbox": [
+            37.73,
+            602.64,
+            515.9,
+            623.42
+          ],
+          "text_pt": "Humbuckers: A Potência e a Suavidade do Som \"Gordo\"",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p04-b02",
+          "bbox": [
+            37.73,
+            107.12,
+            557.99,
+            165.55
+          ],
+          "text_pt": "Os captadores single coil são conhecidos por seu timbre característico, brilhante e definido.\nEles são amplamente utilizados em estilos musicais como rockabilly, country, blues e pop.\nAqui estão as principais características dos captadores single coil e sua influência no timbre da\nguitarra:",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p04-b03",
+          "bbox": [
+            37.73,
+            182.15,
+            557.99,
+            240.58
+          ],
+          "text_pt": "Sons Claros e Brilhantes: Os captadores single coil produzem um som limpo, com uma\nresposta de frequência equilibrada. Os agudos são nítidos e brilhantes, permitindo que cada\nnota se destaque com clareza. Essa característica é ideal para arpejos, riffs rápidos e solos que\nexigem definição e articulação.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p04-b04",
+          "bbox": [
+            37.73,
+            257.18,
+            557.98,
+            315.6
+          ],
+          "text_pt": "\"Twang\": Os captadores single coil são conhecidos pelo famoso \"twang\", um som rico em\nharmônicos e com um toque de percussão. Esse timbre é especialmente apreciado no\nrockabilly e na música country. Ele fornece uma qualidade rítmica distinta e uma sensação de\nenergia e dinamismo.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p04-b05",
+          "bbox": [
+            37.73,
+            332.21,
+            557.98,
+            390.63
+          ],
+          "text_pt": "Menor Sustentação: Comparados aos captadores humbucker, os captadores single coil\ngeralmente têm menos saída e sustentação. As notas podem soar mais curtas e menos\nencorpadas. No entanto, isso pode ser uma vantagem em certos estilos musicais que exigem\num som mais rápido e \"chamativo\".",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p04-b06",
+          "bbox": [
+            37.73,
+            407.24,
+            557.98,
+            480.67
+          ],
+          "text_pt": "Sensibilidade ao Ruído: Uma característica importante dos captadores single coil é sua\ntendência a captar ruídos e interferências elétricas, conhecidos como \"hum\". Esse ruído é mais\nperceptível em ambientes com muitas fontes de interferência, como luzes fluorescentes ou\neletrônicos próximos. Para minimizar esse problema, muitos guitarristas usam captadores\ncom cancelamento de ruído ou recorrem ao uso de blindagens nas cavidades do instrumento.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p04-b07",
+          "bbox": [
+            37.73,
+            497.27,
+            557.99,
+            570.7
+          ],
+          "text_pt": "Versatilidade: Embora os captadores single coil sejam frequentemente associados a estilos\nmusicais específicos, eles também podem ser versáteis. Com o uso de pedais de efeitos e\najustes adequados no amplificador, é possível obter uma ampla gama de timbres com\ncaptadores single coil. Eles podem se adaptar bem a gêneros como rock, funk, jazz e até\nmesmo metal, dependendo da abordagem e configuração utilizadas.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p04-b08",
+          "bbox": [
+            37.73,
+            648.34,
+            557.99,
+            706.77
+          ],
+          "text_pt": "Os captadores humbuckers são conhecidos por seu timbre encorpado, potente e suave. Eles\nsão amplamente utilizados em estilos musicais como rock, blues, jazz e metal. Vamos explorar\nas principais características dos captadores humbuckers e sua influência no timbre da\nguitarra:",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p04-b09",
+          "bbox": [
+            37.73,
+            723.37,
+            557.98,
+            781.79
+          ],
+          "text_pt": "Timbre Encorpado e Potente: Os humbuckers são projetados para fornecer um som mais\npesado e cheio em comparação aos single coils. Eles oferecem maior saída e sustentação,\ncom uma resposta de frequência mais ampla. Isso resulta em um timbre encorpado, rico em\nmédios e graves, fornecendo uma base sólida para riffs pesados e solos impactantes.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "id": "p05-b00",
+          "bbox": [
+            37.73,
+            59.06,
+            557.99,
+            132.49
+          ],
+          "text_pt": "Cancelamento de Ruído e Menor Sensibilidade: A principal característica dos captadores\nhumbuckers é a capacidade de cancelar ruídos e interferências elétricas. Essa é uma grande\nvantagem em relação aos captadores single coil, pois ajuda a reduzir o famoso \"hum\". A\nconstrução dos humbuckers, com duas bobinas e polaridades opostas, resulta em uma maior\nimunidade a ruídos externos.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p05-b01",
+          "bbox": [
+            37.73,
+            149.09,
+            557.99,
+            222.52
+          ],
+          "text_pt": "Timbre Suave e Sustentação Longa: Os humbuckers são conhecidos por oferecer uma\nsustentação prolongada, permitindo que as notas soem de maneira contínua e expressiva.\nEsse aspecto é particularmente valorizado em solos e melodias prolongadas. Além disso, os\nhumbuckers tendem a fornecer um som mais suave e arredondado, com médios mais\nequilibrados em comparação aos single coils.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p05-b02",
+          "bbox": [
+            37.73,
+            239.12,
+            557.99,
+            312.56
+          ],
+          "text_pt": "Versatilidade: Os captadores humbuckers também são apreciados por sua versatilidade em\ndiferentes estilos musicais. Embora sejam frequentemente associados a gêneros mais\npesados, eles podem se adaptar bem a uma ampla gama de estilos. Os humbuckers podem\nfornecer desde um som cheio de blues até um timbre pesado de rock ou metal, dependendo\nda configuração do amplificador e dos efeitos utilizados.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p05-b03",
+          "bbox": [
+            37.73,
+            329.16,
+            557.98,
+            402.59
+          ],
+          "text_pt": "Split Coil e Coil Tap: Alguns humbuckers possuem recursos adicionais, como a capacidade de\ndividir a bobina em um modo single coil. Isso permite que você obtenha uma variedade de\nsons, combinando o melhor dos dois mundos. O split coil proporciona um timbre mais\nbrilhante e com mais definição, semelhante ao de um single coil, enquanto o modo\nhumbucking oferece a potência e o peso característicos.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p05-b04",
+          "bbox": [
+            37.62,
+            434.65,
+            423.94,
+            455.43
+          ],
+          "text_pt": "P-90: A Ponte Entre Single Coil e Humbucker",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p05-b05",
+          "bbox": [
+            37.62,
+            480.35,
+            557.87,
+            538.78
+          ],
+          "text_pt": "Os captadores P-90 são conhecidos por oferecer um timbre versátil que combina\ncaracterísticas dos captadores single coil e humbuckers. Eles são amplamente utilizados em\numa variedade de estilos musicais, desde rock e blues até jazz e indie. Vamos explorar as\nprincipais características dos captadores P-90 e sua influência no timbre da guitarra:",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p05-b06",
+          "bbox": [
+            37.62,
+            555.38,
+            557.87,
+            628.81
+          ],
+          "text_pt": "Timbre Encorpado com Presença de Single Coil: Os captadores P-90 oferecem um som\nencorpado, com uma resposta de frequência mais equilibrada em relação aos single coils. Eles\nsão capazes de produzir médios proeminentes e um punch característico, que se destaca em\nmixagens musicais. Os P-90 fornecem um som mais \"gordo\" e potente do que os single coils,\nmas com uma clareza e definição distintas.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p05-b07",
+          "bbox": [
+            37.62,
+            645.41,
+            557.87,
+            718.84
+          ],
+          "text_pt": "Sustentação e Resposta Dinâmica: Os captadores P-90 têm uma ótima sustentação,\npermitindo que as notas ressoem por um período mais longo. Eles também oferecem uma\nresposta dinâmica impressionante, capturando nuances de ataque e articulação com\nprecisão. Essas características tornam os P-90 ideais para músicos que desejam expressar-se\ncom uma ampla gama de dinâmicas.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "id": "p06-b00",
+          "bbox": [
+            37.73,
+            59.06,
+            557.99,
+            132.49
+          ],
+          "text_pt": "Timbre Versátil: Os captadores P-90 são valorizados por sua versatilidade sonora. Eles são\ncapazes de se adaptar a diversos estilos musicais e combinar bem com diferentes gêneros. Os\nP-90 podem fornecer desde um timbre quente e encorpado, ideal para blues e rock clássico,\naté um som mais suave e articulado, perfeito para estilos de música mais limpos e melódicos,\ncomo jazz e indie.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p06-b01",
+          "bbox": [
+            37.73,
+            149.09,
+            557.99,
+            222.52
+          ],
+          "text_pt": "Sensibilidade ao Ruído Moderada: Em comparação com os single coils, os captadores P-90\npossuem uma sensibilidade moderada ao ruído. Embora não sejam totalmente imunes a\ninterferências elétricas, eles apresentam um desempenho melhor em relação ao \"hum\" em\ncomparação com os single coils tradicionais. No entanto, em ambientes com muitas fontes de\ninterferência, é aconselhável tomar medidas para minimizar o ruído indesejado.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p06-b02",
+          "bbox": [
+            37.73,
+            239.12,
+            557.98,
+            327.56
+          ],
+          "text_pt": "Experimentação e Personalização: Os captadores P-90 oferecem a oportunidade de\npersonalizar ainda mais o timbre da guitarra. Muitos fabricantes oferecem diferentes\nvariações e designs de P-90, permitindo que você encontre o som que melhor se adapta às\nsuas preferências. Além disso, os captadores P-90 podem ser combinados com outros\ncaptadores, como humbuckers ou single coils, para criar configurações híbridas e explorar\nnovas possibilidades sonoras.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 6
+        },
+        {
+          "id": "p06-b03",
+          "bbox": [
+            37.73,
+            354.89,
+            562.6,
+            375.67
+          ],
+          "text_pt": "Captadores Ativos: Potência, Sustentação e Pré-amplificação.",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p06-b04",
+          "bbox": [
+            37.73,
+            400.59,
+            557.98,
+            459.01
+          ],
+          "text_pt": "Os captadores ativos são conhecidos por sua potência, alta saída e capacidade de pré-\namplificação do sinal. Eles são amplamente utilizados em estilos musicais como metal, rock e\nmúsica de alta energia. Vamos explorar as principais características dos captadores ativos e\nsua influência no timbre da guitarra:",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p06-b05",
+          "bbox": [
+            37.73,
+            475.61,
+            557.99,
+            549.04
+          ],
+          "text_pt": "Potência e Saída Elevada: Os captadores ativos são projetados para fornecer uma saída mais\nalta em comparação aos captadores passivos, como os single coils e humbuckers. Isso resulta\nem um timbre mais encorpado e poderoso, com uma resposta mais imediata e agressiva.\nEssa característica os torna ideais para estilos musicais que exigem um som pesado e\ndistorcido.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p06-b06",
+          "bbox": [
+            37.73,
+            565.65,
+            557.99,
+            639.08
+          ],
+          "text_pt": "Sustentação Longa e Ganho Adicional: Os captadores ativos são conhecidos por proporcionar\numa sustentação prolongada. Isso é particularmente útil para músicos que desejam estender\nas notas e criar solos expressivos. Além disso, os captadores ativos geralmente possuem um\ncircuito de pré-amplificação embutido, o que permite um ganho adicional, tornando-os ideais\npara estilos musicais que exigem distorção intensa, como o metal.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p06-b07",
+          "bbox": [
+            37.73,
+            655.68,
+            557.99,
+            729.11
+          ],
+          "text_pt": "Resposta de Frequência Ampliada: Os captadores ativos tendem a ter uma resposta de\nfrequência mais ampla em comparação aos captadores passivos. Isso significa que eles\npodem produzir agudos mais brilhantes, médios mais pronunciados e graves mais\nencorpados. Essa ampliação da resposta de frequência contribui para um som mais definido e\narticulado.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p06-b08",
+          "bbox": [
+            37.73,
+            745.72,
+            557.98,
+            819.15
+          ],
+          "text_pt": "Baixo Nível de Ruído: Devido ao circuito de pré-amplificação embutido, os captadores ativos\ntêm uma alta relação sinal-ruído, o que significa que produzem menos ruído indesejado em\ncomparação aos captadores passivos. Isso é especialmente benéfico em situações em que o\nambiente é propenso a interferências elétricas, como ambientes de alto ganho ou palcos com\nmuitos equipamentos eletrônicos.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "id": "p07-b00",
+          "bbox": [
+            37.73,
+            106.39,
+            557.98,
+            164.81
+          ],
+          "text_pt": "Os captadores de cerâmica são conhecidos por seu timbre potente, agressivo e com ênfase\nnos médios. Eles são amplamente utilizados em estilos musicais como rock, metal e outros\ngêneros que requerem um som pesado e distorcido. Vamos explorar as principais\ncaracterísticas dos captadores de cerâmica e sua influência no timbre da guitarra:",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p07-b01",
+          "bbox": [
+            37.73,
+            181.42,
+            557.98,
+            254.85
+          ],
+          "text_pt": "Potência e Alta Saída: Os captadores de cerâmica são projetados para fornecer uma saída alta,\no que resulta em um som potente e com uma pegada intensa. Essa característica é\nparticularmente desejável em estilos musicais que exigem distorção pesada e solos\nagressivos. Os captadores de cerâmica oferecem uma resposta rápida e uma entrega de sinal\nrobusta.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p07-b02",
+          "bbox": [
+            37.73,
+            271.45,
+            557.99,
+            344.88
+          ],
+          "text_pt": "Sons Encorpados e Com Ênfase nos Médios: Os captadores de cerâmica tendem a enfatizar os\nmédios, proporcionando um som mais encorpado e com mais presença. Essa característica é\nideal para se destacar em uma mixagem densa, cortando através de uma banda ou\nfornecendo uma base sólida para riffs poderosos. Os médios realçados também podem\nadicionar mais clareza e definição às notas e acordes.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p07-b03",
+          "bbox": [
+            37.73,
+            361.48,
+            557.98,
+            419.91
+          ],
+          "text_pt": "Resposta de Frequência Balanceada: Embora os captadores de cerâmica enfatizem os\nmédios, eles também oferecem uma resposta de frequência equilibrada, permitindo que as\nfrequências altas e baixas sejam reproduzidas com clareza. Isso resulta em um som articulado,\nque permite que cada nota seja distinta e bem definida.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p07-b04",
+          "bbox": [
+            37.73,
+            436.51,
+            557.98,
+            494.94
+          ],
+          "text_pt": "Timbre Distinto: Os captadores de cerâmica têm um timbre característico, com um ataque\npronunciado e uma pegada poderosa. Eles proporcionam um som mais brilhante e agressivo\nem comparação com outros tipos de captadores, como os de alnico. Esse timbre distintivo é\nfrequentemente associado a estilos musicais como rock e metal.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p07-b05",
+          "bbox": [
+            37.73,
+            511.54,
+            557.98,
+            584.97
+          ],
+          "text_pt": "Sensibilidade ao Toque e à Dinâmica: Os captadores de cerâmica são conhecidos por sua\nsensibilidade ao toque e à dinâmica do guitarrista. Eles respondem bem às nuances do\nataque, permitindo que o músico tenha um controle maior sobre a expressividade do\ninstrumento. É possível obter uma variedade de tons ao variar a intensidade e a forma como\nas cordas são tocadas.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p07-b06",
+          "bbox": [
+            37.73,
+            601.58,
+            557.98,
+            660.0
+          ],
+          "text_pt": "Versatilidade Limitada: Embora os captadores de cerâmica sejam excelentes para estilos\nmusicais mais pesados, sua versatilidade em outros gêneros pode ser um pouco limitada.\nDevido à sua ênfase nos médios e ao som mais agressivo, eles podem não ser a escolha ideal\npara estilos musicais que requerem um timbre mais suave ou clean.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p07-b07",
+          "bbox": [
+            37.73,
+            727.64,
+            278.36,
+            794.4
+          ],
+          "text_pt": "Efeitos e pedais\npara guitarra",
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "line_count": 2
+        },
+        {
+          "id": "p07-b08",
+          "bbox": [
+            37.73,
+            35.67,
+            538.46,
+            80.17
+          ],
+          "text_pt": "Captadores de Cerâmica: Potência, Agressividade e Ênfase\nnos Médios",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 2
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "id": "p08-b00",
+          "bbox": [
+            49.28,
+            70.07,
+            232.78,
+            83.48
+          ],
+          "text_pt": "02 | Efeitos e pedais para guitarra",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p08-b01",
+          "bbox": [
+            37.73,
+            117.62,
+            555.38,
+            161.04
+          ],
+          "text_pt": "O módulo de \"Efeitos e Pedais para Guitarra\" é uma parte essencial do curso de Timbres para\nGuitarra. Neste módulo, os alunos aprenderão sobre os diferentes efeitos disponíveis no\nmercado e como utilizá-los para criar timbres únicos em suas guitarras.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 3
+        },
+        {
+          "id": "p08-b02",
+          "bbox": [
+            37.73,
+            197.0,
+            191.4,
+            217.78
+          ],
+          "text_pt": "O Que São Efeitos?",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p08-b03",
+          "bbox": [
+            37.73,
+            450.64,
+            408.43,
+            471.42
+          ],
+          "text_pt": "Como utilizar os Pedais de Efeito na Guitarra?",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p08-b04",
+          "bbox": [
+            37.73,
+            657.08,
+            459.94,
+            677.86
+          ],
+          "text_pt": "Escolhendo os Efeitos Certos para Cada Sonoridade",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p08-b05",
+          "bbox": [
+            37.73,
+            233.78,
+            558.26,
+            277.2
+          ],
+          "text_pt": "Efeitos são drenados de som que alteram o sinal elétrico da guitarra antes de ser amplificado pelo\namplificador. Existem diversos tipos de efeitos disponíveis, cada um com sua própria função e\ncaracterística sonora. Alguns dos efeitos mais comuns incluem:",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 3
+        },
+        {
+          "id": "p08-b06",
+          "bbox": [
+            37.73,
+            293.8,
+            558.26,
+            322.22
+          ],
+          "text_pt": "Distorção/Overdrive: Cria um som distorcido na guitarra, comumente usado em gêneros como o\nrock e o metal.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p08-b07",
+          "bbox": [
+            37.73,
+            338.82,
+            545.53,
+            352.23
+          ],
+          "text_pt": "Reverb: Cria uma sensação de ambiente na guitarra, simulando a acústica de diferentes espaços.",
+          "font": "Montserrat-Medium",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p08-b08",
+          "bbox": [
+            37.73,
+            368.83,
+            395.28,
+            382.24
+          ],
+          "text_pt": "Delay: Repete o sinal original, criando um efeito de eco ou repetição.",
+          "font": "Montserrat-Medium",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p08-b09",
+          "bbox": [
+            37.73,
+            398.84,
+            510.73,
+            412.25
+          ],
+          "text_pt": "Wah-Wah: Altera a frequência selecionada pelo guitarrista, criando um som característico.",
+          "font": "Montserrat-Medium",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p08-b10",
+          "bbox": [
+            37.73,
+            487.42,
+            558.26,
+            530.84
+          ],
+          "text_pt": "Os pedais de efeito são dispositivos que permitem ao guitarrista controlar os diferentes efeitos\nutilizados em sua guitarra. Eles podem ser conectados entre a guitarra e o amplificador e\nacionados durante uma execução musical.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 3
+        },
+        {
+          "id": "p08-b11",
+          "bbox": [
+            37.73,
+            547.45,
+            558.26,
+            620.88
+          ],
+          "text_pt": "Existem diferentes configurações possíveis de pedais de efeito, cada uma criando uma sonoridade\núnica. Uma das configurações mais utilizadas é a cadeia de pedais em série, onde o sinal elétrico\npassa por cada pedal em sequência. Outra opção comum é a utilização de loops de efeito, onde o\nsinal elétrico é dividido em diferentes caminhos para que cada pedal possa ser acionado\nindividualmente.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p08-b12",
+          "bbox": [
+            37.73,
+            693.86,
+            558.26,
+            737.28
+          ],
+          "text_pt": "A escolha dos efeitos certos pode fazer toda a diferença na criação de timbres únicos na guitarra. É\nimportante entender as características sonoras de cada efeito e como elas podem se\ncomplementar ou interferir umas com as outras.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 3
+        },
+        {
+          "id": "p08-b13",
+          "bbox": [
+            37.73,
+            753.88,
+            557.99,
+            797.3
+          ],
+          "text_pt": "Alguns efeitos, como o reverb, são mais sutis e podem ser usados ​ para criar uma sensação de\nespaço e profundidade na música. Outros, como a distração, são mais agressivos e podem ser\nusados  para criar um som mais pesado e intenso.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 3
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "id": "p09-b00",
+          "bbox": [
+            37.62,
+            106.25,
+            320.22,
+            173.02
+          ],
+          "text_pt": "Conheça alguns\nEfeitos de guitarra",
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "line_count": 2
+        },
+        {
+          "id": "p09-b01",
+          "bbox": [
+            37.62,
+            257.88,
+            116.07,
+            278.66
+          ],
+          "text_pt": "Distorção",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p09-b02",
+          "bbox": [
+            37.62,
+            389.98,
+            83.95,
+            410.76
+          ],
+          "text_pt": "Delay",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p09-b03",
+          "bbox": [
+            37.73,
+            522.07,
+            96.14,
+            542.86
+          ],
+          "text_pt": "Reverb",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p09-b04",
+          "bbox": [
+            37.73,
+            654.17,
+            76.54,
+            674.95
+          ],
+          "text_pt": "Wah",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p09-b05",
+          "bbox": [
+            37.62,
+            294.66,
+            557.87,
+            353.09
+          ],
+          "text_pt": "A distorção é frequentemente usada em estilos de rock e metal para adicionar ganho e\nagressividade ao som. Ela comprime o sinal da guitarra, criando um timbre saturado e cheio\nde sustain. O overdrive, por sua vez, oferece um efeito de distorção mais suave e levemente\nsaturado, ideal para estilos de blues e rock clássico.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p09-b06",
+          "bbox": [
+            37.62,
+            426.76,
+            557.88,
+            485.18
+          ],
+          "text_pt": "O delay é um efeito de repetição de som que adiciona profundidade e espacialidade ao som\nda guitarra. Ele cria cópias do sinal original com diferentes atrasos, resultando em ecos\nrepetidos. O delay pode ser usado para criar paisagens sonoras expansivas, para enfatizar\ncertas partes musicais ou para adicionar um senso de profundidade ao som.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p09-b07",
+          "bbox": [
+            37.73,
+            558.86,
+            557.98,
+            617.28
+          ],
+          "text_pt": "O reverb é outro efeito que adiciona espaço e ambiente ao som. Ele simula a reverberação\nnatural de diferentes ambientes, como salas de concerto, estúdios ou espaços abertos. O\nreverb pode variar de sutis e naturais a exagerados e atmosféricos, dependendo das\npreferências do guitarrista e do estilo musical.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p09-b08",
+          "bbox": [
+            37.73,
+            690.95,
+            557.99,
+            764.38
+          ],
+          "text_pt": "O efeito wah-wah é conhecido por criar um som vocal ou \"wah\" quando o guitarrista\npressiona o pedal. Ele funciona filtrando certas frequências do sinal de guitarra,\nproporcionando um efeito que se assemelha ao som de uma voz humana que está abrindo e\nfechando a boca. O efeito wah é frequentemente usado em solos de guitarra e adiciona\nexpressão e dinâmica ao timbre.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "id": "p10-b00",
+          "bbox": [
+            37.62,
+            106.25,
+            320.22,
+            173.02
+          ],
+          "text_pt": "Conheça alguns\nEfeitos de guitarra",
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "line_count": 2
+        },
+        {
+          "id": "p10-b01",
+          "bbox": [
+            37.62,
+            257.88,
+            178.82,
+            278.66
+          ],
+          "text_pt": "Pedal de Volume",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p10-b02",
+          "bbox": [
+            37.73,
+            404.98,
+            94.1,
+            425.76
+          ],
+          "text_pt": "Phaser",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p10-b03",
+          "bbox": [
+            37.73,
+            552.08,
+            96.32,
+            572.87
+          ],
+          "text_pt": "Chorus",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p10-b04",
+          "bbox": [
+            37.73,
+            689.83,
+            106.98,
+            710.62
+          ],
+          "text_pt": "Tremolo",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p10-b05",
+          "bbox": [
+            37.62,
+            294.66,
+            557.88,
+            368.09
+          ],
+          "text_pt": "O pedal de volume é um controle que permite ao guitarrista ajustar manualmente o volume\ndo sinal de guitarra. Ele pode ser usado de várias maneiras, como criar swells suaves e\ntransições sutis entre partes musicais, bem como para controlar a intensidade dos efeitos.\nAlém disso, o pedal de volume pode ser usado como um meio de atenuar o som da guitarra\ndurante partes específicas de uma música.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p10-b06",
+          "bbox": [
+            37.73,
+            441.76,
+            557.99,
+            515.19
+          ],
+          "text_pt": "O efeito de phaser adiciona uma variação de fase ao sinal de guitarra, criando um som em\ncamadas e em movimento. Ele divide o sinal em duas partes, uma com um leve atraso e outra\nsem atraso, e depois as combina novamente. O resultado é um som espacial e cintilante, com\numa sensação de \"varredura\" nas frequências. O phaser é amplamente utilizado em estilos\ncomo rock, funk e música psicodélica.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p10-b07",
+          "bbox": [
+            37.73,
+            588.87,
+            557.98,
+            662.3
+          ],
+          "text_pt": "O efeito de chorus cria a ilusão de que várias guitarras estão tocando juntas, adicionando uma\n\"engrossada\" ao som original. Ele funciona duplicando o sinal de guitarra, atrasando uma das\ncópias e misturando-a com o sinal original. O resultado é um som mais cheio e expansivo,\nsemelhante ao de um coro vocal. O chorus é usado em uma variedade de estilos musicais\npara adicionar profundidade e textura ao som da guitarra.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p10-b08",
+          "bbox": [
+            37.73,
+            726.62,
+            557.99,
+            800.05
+          ],
+          "text_pt": "O efeito de tremolo modula o volume do sinal de guitarra, criando uma variação rítmica na\nintensidade sonora. Ele produz uma sensação de \"pulsar\" ou \"tremular\" no som, criando um\nefeito de ondulação. O tremolo pode ser ajustado para criar ritmos lentos e sutis ou efeitos de\ntremulação mais intensos, dependendo das preferências do guitarrista. É usado em vários\nestilos musicais para adicionar movimento e interesse ao som da guitarra.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "id": "p11-b00",
+          "bbox": [
+            37.62,
+            106.25,
+            368.53,
+            203.78
+          ],
+          "text_pt": "Entenda como\nFunciona a Cadeia de\nEfeitos",
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "line_count": 3
+        },
+        {
+          "id": "p11-b01",
+          "bbox": [
+            37.73,
+            291.79,
+            277.39,
+            312.57
+          ],
+          "text_pt": "Ordem e combinações ideias",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p11-b02",
+          "bbox": [
+            37.73,
+            337.76,
+            557.98,
+            381.18
+          ],
+          "text_pt": "A ordem e combinações ideais na cadeia de efeitos podem fazer uma diferença significativa\nno timbre final da guitarra. A sequência em que os efeitos são conectados afeta a interação\nentre eles e a forma como cada um é processado.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 3
+        },
+        {
+          "id": "p11-b03",
+          "bbox": [
+            37.73,
+            397.78,
+            557.98,
+            471.21
+          ],
+          "text_pt": "Uma das sequências mais comuns é começar com os efeitos de modulação, como chorus,\nflanger ou phaser, seguidos pelos efeitos de distorção e overdrive. Isso permite que os efeitos\nde modulação atuem sobre um sinal de guitarra limpo, adicionando textura e movimento ao\nsom antes que ele seja distorcido. Os efeitos de distorção e overdrive são então aplicados ao\nsinal modulado, criando um timbre distorcido com características moduladas.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        },
+        {
+          "id": "p11-b04",
+          "bbox": [
+            37.73,
+            487.82,
+            557.98,
+            546.24
+          ],
+          "text_pt": "Em seguida, podem ser adicionados efeitos de delay e reverb, que fornecem profundidade e\nambiente ao som geral. Esses efeitos são mais eficazes quando aplicados após a distorção,\npara que as repetições e reverberações sejam preservadas e não sejam distorcidas ou\ncomprimidas em excesso.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p11-b05",
+          "bbox": [
+            37.73,
+            562.84,
+            557.99,
+            621.27
+          ],
+          "text_pt": "No entanto, é importante ressaltar que não existem regras rígidas na ordem dos efeitos. Cada\nguitarrista tem suas preferências pessoais e pode experimentar diferentes combinações para\nalcançar o timbre desejado. Às vezes, inverter a ordem ou adicionar variações pode levar a\nresultados sonoros únicos e interessantes.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p11-b06",
+          "bbox": [
+            37.73,
+            637.87,
+            557.99,
+            711.3
+          ],
+          "text_pt": "Uma boa prática é ouvir atentamente o resultado ao adicionar ou alterar a ordem dos efeitos.\nÉ importante considerar a interação entre eles e ajustar as configurações de cada efeito para\nobter um equilíbrio sonoro agradável. Lembre-se de que o objetivo é criar um som que se\nadapte à música e realce a expressão musical, portanto, a experimentação é essencial para\ndescobrir as combinações ideais que atendam às suas necessidades e preferências.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 5
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "id": "p12-b00",
+          "bbox": [
+            37.62,
+            106.25,
+            276.09,
+            234.54
+          ],
+          "text_pt": "Técnicas\navançadas para\ncriação de\ntimbres",
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "line_count": 4
+        },
+        {
+          "id": "p12-b01",
+          "bbox": [
+            47.86,
+            362.68,
+            312.27,
+            376.09
+          ],
+          "text_pt": "03 | Técnicas avançadas para criação de timbres",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p12-b02",
+          "bbox": [
+            37.73,
+            414.0,
+            555.38,
+            457.42
+          ],
+          "text_pt": "O módulo de \"Técnicas Avançadas para Criação de Timbres\" é a última etapa do curso de\nTimbres para Guitarra. Neste módulo, os alunos aprenderão técnicas mais avançadas para\ncriar timbres únicos e personalizados em suas guitarras.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 3
+        },
+        {
+          "id": "p12-b03",
+          "bbox": [
+            37.62,
+            495.06,
+            330.98,
+            515.84
+          ],
+          "text_pt": "Utilização de Diferentes Captadores",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p12-b04",
+          "bbox": [
+            37.62,
+            531.84,
+            558.14,
+            560.26
+          ],
+          "text_pt": "A utilização de diferentes captadores na guitarra pode resultar em uma grande variedade de\ntimbres. Alguns dos tipos de captadores mais comuns incluem:",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p12-b05",
+          "bbox": [
+            37.62,
+            576.86,
+            558.15,
+            605.27
+          ],
+          "text_pt": "Single Coil: Produzem um som claro e brilhante, geralmente utilizado em gêneros como o pop e o\nfunk.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p12-b06",
+          "bbox": [
+            37.62,
+            621.88,
+            558.14,
+            650.29
+          ],
+          "text_pt": "Humbucker: Produzem um som mais incorporado e pesado, frequentemente usado em gêneros\ncomo o rock e o metal.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p12-b07",
+          "bbox": [
+            37.62,
+            666.89,
+            558.14,
+            695.31
+          ],
+          "text_pt": "P90: Produzem um som mais quente e vintage, utilizado principalmente em gêneros como o\nblues e o rock clássico.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 2
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "id": "p13-b00",
+          "bbox": [
+            37.73,
+            43.32,
+            332.53,
+            64.1
+          ],
+          "text_pt": "Utilização de Técnicas de Palhetada",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p13-b01",
+          "bbox": [
+            37.85,
+            89.22,
+            558.37,
+            117.63
+          ],
+          "text_pt": "As técnicas de palhetada também podem influenciar significativamente o timbre da guitarra.\nAlgumas das técnicas mais comuns incluem:",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p13-b02",
+          "bbox": [
+            37.85,
+            134.23,
+            526.26,
+            147.64
+          ],
+          "text_pt": "Palhetada alternada: Técnica de palhetada alternada, criando um som uniforme e articulado.",
+          "font": "Montserrat-Medium",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p13-b03",
+          "bbox": [
+            37.85,
+            164.25,
+            558.37,
+            192.66
+          ],
+          "text_pt": "Sweep picking: Técnica de palhetada em que se faz um movimento contínuo com a palheta sobre\nas cordas, criando uma sonoridade fluida e rápida.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p13-b04",
+          "bbox": [
+            37.85,
+            209.26,
+            558.09,
+            237.68
+          ],
+          "text_pt": "Colheita híbrida: Combinação de palhetada e dedilhada, permitindo uma maior variedade\nrítmica e melódica.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p13-b05",
+          "bbox": [
+            37.73,
+            262.67,
+            326.8,
+            283.46
+          ],
+          "text_pt": "Utilização de Técnica de Dedilhado",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p13-b06",
+          "bbox": [
+            37.85,
+            457.45,
+            316.85,
+            478.23
+          ],
+          "text_pt": "Utilização de Diferentes Afinações",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p13-b07",
+          "bbox": [
+            37.96,
+            676.71,
+            222.57,
+            692.25
+          ],
+          "text_pt": "Obs.: Comentário do Professor",
+          "font": "Montserrat-Regular",
+          "size": 12.94,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p13-b08",
+          "bbox": [
+            37.85,
+            308.46,
+            558.36,
+            336.88
+          ],
+          "text_pt": "A utilização de técnicas de dedilhado também é uma forma importante de criar diferentes timbres\nna guitarra. Algumas das técnicas mais comuns incluem:",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p13-b09",
+          "bbox": [
+            37.85,
+            353.48,
+            558.36,
+            381.89
+          ],
+          "text_pt": "Fingerstyle: Técnica de dedilhada em que cada dedo é utilizado para tocar uma corda diferente,\npermitindo uma maior versatilidade melódica e harmônica.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p13-b10",
+          "bbox": [
+            37.85,
+            398.5,
+            558.37,
+            426.91
+          ],
+          "text_pt": "Arpegios: Técnica de dedilhado em que as notas de um acorde são tocadas individualmente,\ncriando uma sonoridade clara e definida.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p13-b11",
+          "bbox": [
+            37.96,
+            503.24,
+            558.47,
+            531.65
+          ],
+          "text_pt": "O uso de alternativas de afinações pode resultar em uma grande variedade de timbres na guitarra.\nAlguns dos tipos de afinações mais comuns incluem:",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p13-b12",
+          "bbox": [
+            37.96,
+            548.26,
+            408.61,
+            561.66
+          ],
+          "text_pt": "Drop D: Afinação em que a corda mais grave é afinada um tom abaixo.",
+          "font": "Montserrat-Medium",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p13-b13",
+          "bbox": [
+            37.96,
+            578.27,
+            558.47,
+            606.68
+          ],
+          "text_pt": "Afinação aberta: Afinação em que todas as cordas são afinadas para formar um acorde aberto,\npermitindo uma maior facilidade na criação de arranjos e harmonias.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p13-b14",
+          "bbox": [
+            37.96,
+            623.28,
+            558.47,
+            651.7
+          ],
+          "text_pt": "DADGAD: Afinação em que as cordas são afinadas para formar o acorde Dsus4, criando uma\nsonoridade característica utilizada principalmente em gêneros como o folk e o fingerstyle.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p13-b15",
+          "bbox": [
+            37.96,
+            708.14,
+            558.48,
+            766.56
+          ],
+          "text_pt": "Não sei se sabe, mas hoje, tenho o maior curso sobre afinação DADGAD em vídeos do Brasil.\nCaso tenha interesse em fazer parte da maior comunidade sobre DADGAD, segue abaixo o Link do\nDescomplicando o DADGAD para você se inscrever com quase 50% de desconto, exclusivo para\nvocê, aluno.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 4
+        },
+        {
+          "id": "p13-b16",
+          "bbox": [
+            37.96,
+            782.15,
+            314.98,
+            797.68
+          ],
+          "text_pt": "https://www.descomplicandodadgad.com.br",
+          "font": "Montserrat-Regular",
+          "size": 12.94,
+          "color": 0,
+          "line_count": 1
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "id": "p14-b00",
+          "bbox": [
+            37.62,
+            106.25,
+            193.77,
+            173.02
+          ],
+          "text_pt": "Exercícios\nPráticos",
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "line_count": 2
+        },
+        {
+          "id": "p14-b01",
+          "bbox": [
+            47.86,
+            310.91,
+            173.83,
+            324.32
+          ],
+          "text_pt": "04 | Exercícios Práticos",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p14-b02",
+          "bbox": [
+            37.73,
+            362.23,
+            555.38,
+            405.65
+          ],
+          "text_pt": "Nesta lição, colocaremos a teoria em prática por meio de atividades práticas. Clique nos itens\nabaixo para conferir cada exercício e desenvolver habilidades práticas que o ajudarão a ter\nsucesso na disciplina.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 3
+        },
+        {
+          "id": "p14-b03",
+          "bbox": [
+            37.62,
+            443.29,
+            459.57,
+            464.07
+          ],
+          "text_pt": "Identifique timbres em diferentes gêneros musicais",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p14-b04",
+          "bbox": [
+            37.73,
+            546.13,
+            430.14,
+            566.91
+          ],
+          "text_pt": "Experimente diferentes combinações de pedais",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p14-b05",
+          "bbox": [
+            37.73,
+            663.97,
+            249.22,
+            684.75
+          ],
+          "text_pt": "Use afinações alternativas",
+          "font": "Montserrat-Regular",
+          "size": 17.32,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p14-b06",
+          "bbox": [
+            37.62,
+            480.07,
+            557.87,
+            508.49
+          ],
+          "text_pt": "Ouça diferentes músicas de gêneros variados, como pop, rock, blues e jazz. Tente identificar as\ndiferenças nos timbres da guitarra usados ​ em cada uma delas.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p14-b07",
+          "bbox": [
+            37.73,
+            582.91,
+            557.99,
+            626.33
+          ],
+          "text_pt": "Conecte diferentes pedais de efeito em sua cadeia de sinal e experimente diferentes\ncombinações para criar novos timbres. Tente identificar como cada pedal afeta o som geral da\nguitarra.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 3
+        },
+        {
+          "id": "p14-b08",
+          "bbox": [
+            37.73,
+            700.75,
+            557.98,
+            744.17
+          ],
+          "text_pt": "Experimente diferentes afinações na guitarra, como a afinação Open D ou a DADGAD. Tente\ncriar acordes e melodias utilizando essas afinações e notas como elas podem impactar o\ntimbre geral da guitarra.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 3
+        },
+        {
+          "id": "p14-b09",
+          "bbox": [
+            37.73,
+            760.78,
+            248.59,
+            774.18
+          ],
+          "text_pt": "Obs.: DADGAD é Melhor hein!!! kkkkkk",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p14-b10",
+          "bbox": [
+            37.73,
+            183.13,
+            293.71,
+            196.54
+          ],
+          "text_pt": "Vamos colocar seus conhecimentos na prática",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 15857145,
+          "line_count": 1
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "id": "p15-b00",
+          "bbox": [
+            37.62,
+            106.25,
+            236.19,
+            142.25
+          ],
+          "text_pt": "Questionário",
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b01",
+          "bbox": [
+            47.86,
+            263.86,
+            141.53,
+            277.27
+          ],
+          "text_pt": "05 | Questionário",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b02",
+          "bbox": [
+            37.73,
+            315.18,
+            555.38,
+            358.6
+          ],
+          "text_pt": "Nesta lição, colocaremos a teoria em prática por meio de atividades práticas. Clique nos itens\nabaixo para conferir cada exercício e desenvolver habilidades práticas que o ajudarão a ter\nsucesso na disciplina.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 3
+        },
+        {
+          "id": "p15-b03",
+          "bbox": [
+            37.73,
+            397.76,
+            304.85,
+            412.95
+          ],
+          "text_pt": "01 - Qual é a definição de timbre de guitarra?",
+          "font": "Montserrat-Regular",
+          "size": 12.66,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b04",
+          "bbox": [
+            37.62,
+            493.68,
+            508.26,
+            508.87
+          ],
+          "text_pt": "02 - Qual é um exemplo de efeito utilizado em gêneros como o rock e o metal?",
+          "font": "Montserrat-Regular",
+          "size": 12.66,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b05",
+          "bbox": [
+            38.87,
+            592.6,
+            494.24,
+            607.79
+          ],
+          "text_pt": "03 - Como as técnicas de palhetada podem influenciar o timbre da guitarra?",
+          "font": "Montserrat-Regular",
+          "size": 12.66,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b06",
+          "bbox": [
+            38.76,
+            697.52,
+            537.42,
+            729.96
+          ],
+          "text_pt": "04 - Qual é uma técnica de dedilhado utilizada principalmente em gêneros como o\nfolk e o fingerstyle?",
+          "font": "Montserrat-Regular",
+          "size": 12.66,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p15-b07",
+          "bbox": [
+            57.47,
+            426.16,
+            301.87,
+            437.14
+          ],
+          "text_pt": "A velocidade do som produzido pela corda da guitarra",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b08",
+          "bbox": [
+            57.36,
+            522.08,
+            103.62,
+            533.06
+          ],
+          "text_pt": "Wah-Wah",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b09",
+          "bbox": [
+            57.25,
+            621.0,
+            320.43,
+            631.97
+          ],
+          "text_pt": "Podem influenciar significativamente o timbre da guitarra",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b10",
+          "bbox": [
+            54.54,
+            742.89,
+            139.87,
+            753.86
+          ],
+          "text_pt": "Seleção alternativa",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b11",
+          "bbox": [
+            57.47,
+            444.29,
+            198.69,
+            455.27
+          ],
+          "text_pt": "O formato do corpo da guitarra",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b12",
+          "bbox": [
+            57.36,
+            540.21,
+            147.51,
+            551.18
+          ],
+          "text_pt": "Distorção/Overdrive",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b13",
+          "bbox": [
+            57.25,
+            639.13,
+            256.01,
+            650.1
+          ],
+          "text_pt": "Podem criar uma sonoridade fluida e rápida",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b14",
+          "bbox": [
+            54.54,
+            761.01,
+            118.08,
+            771.99
+          ],
+          "text_pt": "estilo de dedo",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b15",
+          "bbox": [
+            57.58,
+            461.05,
+            506.84,
+            472.02
+          ],
+          "text_pt": "A qualidade sonora que permite distinguir sons diferentes produzidos por diferentes fontes sonoras",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b16",
+          "bbox": [
+            57.47,
+            556.97,
+            114.17,
+            567.94
+          ],
+          "text_pt": "Ressonância",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b17",
+          "bbox": [
+            57.36,
+            655.88,
+            183.39,
+            666.86
+          ],
+          "text_pt": "Não há influência no timbre",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b18",
+          "bbox": [
+            54.65,
+            777.77,
+            121.5,
+            788.74
+          ],
+          "text_pt": "Sweep Picking",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p15-b19",
+          "bbox": [
+            37.73,
+            150.96,
+            390.94,
+            164.36
+          ],
+          "text_pt": "Verifique seu conhecimento respondendo a algumas perguntas",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 15857145,
+          "line_count": 1
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "id": "p16-b00",
+          "bbox": [
+            37.62,
+            106.25,
+            236.19,
+            142.25
+          ],
+          "text_pt": "Questionário",
+          "font": "Montserrat-Bold",
+          "size": 30.0,
+          "color": 16777215,
+          "line_count": 1
+        },
+        {
+          "id": "p16-b01",
+          "bbox": [
+            47.86,
+            263.86,
+            141.53,
+            277.27
+          ],
+          "text_pt": "05 | Questionário",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p16-b02",
+          "bbox": [
+            38.98,
+            317.68,
+            531.57,
+            332.87
+          ],
+          "text_pt": "05 - Que tipo de captador produz um som mais incorporado e pesado na guitarra?",
+          "font": "Montserrat-Regular",
+          "size": 12.66,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p16-b03",
+          "bbox": [
+            38.87,
+            413.6,
+            539.76,
+            446.04
+          ],
+          "text_pt": "06 - Qual é uma técnica avançada de criação de timbres que envolve a utilização de\nalternativas de afinações?",
+          "font": "Montserrat-Regular",
+          "size": 12.66,
+          "color": 0,
+          "line_count": 2
+        },
+        {
+          "id": "p16-b04",
+          "bbox": [
+            58.72,
+            346.08,
+            303.11,
+            357.06
+          ],
+          "text_pt": "A velocidade do som produzido pela corda da guitarra",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p16-b05",
+          "bbox": [
+            54.65,
+            458.97,
+            121.5,
+            469.94
+          ],
+          "text_pt": "Sweep Picking",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p16-b06",
+          "bbox": [
+            58.72,
+            364.21,
+            199.93,
+            375.19
+          ],
+          "text_pt": "O formato do corpo da guitarra",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p16-b07",
+          "bbox": [
+            54.65,
+            477.09,
+            212.52,
+            488.07
+          ],
+          "text_pt": "Utilização de afinações alternativas",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p16-b08",
+          "bbox": [
+            58.83,
+            380.97,
+            508.09,
+            391.94
+          ],
+          "text_pt": "A qualidade sonora que permite distinguir sons diferentes produzidos por diferentes fontes sonoras",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p16-b09",
+          "bbox": [
+            54.76,
+            493.85,
+            140.09,
+            504.83
+          ],
+          "text_pt": "Seleção alternativa",
+          "font": "Montserrat-Regular",
+          "size": 9.0,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p16-b10",
+          "bbox": [
+            37.73,
+            150.96,
+            390.94,
+            164.36
+          ],
+          "text_pt": "Verifique seu conhecimento respondendo a algumas perguntas",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 15857145,
+          "line_count": 1
+        },
+        {
+          "id": "p16-b11",
+          "bbox": [
+            37.62,
+            617.02,
+            223.68,
+            665.04
+          ],
+          "text_pt": "Parabéns!",
+          "font": "Montserrat-Regular",
+          "size": 40.01,
+          "color": 0,
+          "line_count": 1
+        },
+        {
+          "id": "p16-b12",
+          "bbox": [
+            38.36,
+            678.29,
+            558.6,
+            721.71
+          ],
+          "text_pt": "Parabéns por concluir este curso! Você deu um passo importante para liberar todo o seu\npotencial. Concluir este curso não é apenas adquirir conhecimento; trata-se de colocar esse\nconhecimento em prática e causar um impacto positivo no mundo ao seu redor.",
+          "font": "Montserrat-Regular",
+          "size": 11.0,
+          "color": 0,
+          "line_count": 3
+        }
+      ]
+    }
+  ]
+}
