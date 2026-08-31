@@ -1,0 +1,7966 @@
+# Lista completa de IRs disponíveis
+
+Inventário atualizado em **31/08/2026**, a partir dos arquivos disponibilizados no Pack Completo público da M-VAVE BR.
+
+## Resumo
+
+| Grupo | WAV | SYX | Total |
+|---|---:|---:|---:|
+| Guitarra | 3.139 | 2.163 | 5.302 |
+| Baixo | 2.135 | 0 | 2.135 |
+| Violão | 97 | 0 | 97 |
+| Meus IRS | 8 | 0 | 8 |
+| **Total** | **5.379** | **2.163** | **7.542** |
+
+> Cada ocorrência foi mantida no caminho em que é entregue. Portanto, um mesmo nome pode aparecer mais de uma vez quando pertence a coleções, formatos ou pastas diferentes.
+
+> O inventário público verificável nesta data contém 7.542 IRs. Esse total é diferente dos 14.064 arquivos mencionados em alguns textos comerciais do site; a lista abaixo registra somente os arquivos efetivamente encontrados na entrega atual.
+
+## Índice
+
+- [Guitarra](#guitarra)
+- [Baixo](#baixo)
+- [Violão](#violao)
+- [Meus IRS](#meus-irs)
+
+## Guitarra (5.302)
+
+### Allure (7)
+
+#### '59 Tweed e coleção Allure (7)
+
+- `04 - Allure_59_Tweed_P10N.wav`
+- `Allure-Pack-IRs/Allure Pack/Allure_59_Tweed_P10N.wav`
+- `Allure-Pack-IRs/Allure Pack/Allure_64_A30_G12.wav`
+- `Allure-Pack-IRs/Allure Pack/Allure_64_USDeluxe_P12N.wav`
+- `Allure-Pack-IRs/Allure Pack/Allure_67_Brit_Greenback.wav`
+- `Allure-Pack-IRs/Allure Pack/Allure_70s_WhoWatt_100.wav`
+- `Allure-Pack-IRs/Allure Pack/Allure_90s_Cali_V30.wav`
+
+### Bogner (14)
+
+#### Bogner 2x12 (14)
+
+- `1- Top 8 IR Pack/5 - Bogner 4x12 SPKR 1 position 1.wav`
+- `05 - Bogner 1 2x12 SPKR 1 position 2.wav`
+- `ZETA IR PACK/Bogner 1 2x12 SPKR 1 position 1.wav`
+- `ZETA IR PACK/Bogner 1 2x12 SPKR 1 position 2.wav`
+- `ZETA IR PACK/Bogner 1 2x12 SPKR 2 position 1.wav`
+- `ZETA IR PACK/Bogner 1 2x12 SPKR 2 position 2.wav`
+- `ZETA IR PACK/Bogner 2 2x12 SPKR 1 position 1.wav`
+- `ZETA IR PACK/Bogner 2 2x12 SPKR 1 position 2.wav`
+- `ZETA IR PACK/Bogner 2 2x12 SPKR 2 position 1.wav`
+- `ZETA IR PACK/Bogner 2 2x12 SPKR 2 position 2.wav`
+- `ZETA IR PACK/Bogner 4x12 SPKR 1 position 1.wav`
+- `ZETA IR PACK/Bogner 4x12 SPKR 1 position 2.wav`
+- `ZETA IR PACK/Bogner 4x12 SPKR 2 position 1.wav`
+- `ZETA IR PACK/Bogner 4x12 SPKR 2 position 2.wav`
+
+### Coleção independente (3.584)
+
+#### God's Cab 1.4 (3.584)
+
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_1.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_2.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_3.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_4.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_5.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_1.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_2.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_3.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_4.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_5.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_1.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_2.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_3.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_4.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_5.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_1.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_2.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_3.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_4.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_5.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_1.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_2.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_3.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_4.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_5.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_1.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_2.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_3.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_4.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_5.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_1.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_2.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_3.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_4.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_5.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_1.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_2.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_3.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_4.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_5.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_1.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_2.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_3.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_4.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_5.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/Room/M3_room_1.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/Room/M3_room_2.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/Room/M3_room_3.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_1.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_2.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_3.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_4.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_5.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_1.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_2.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_3.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_4.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_5.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_1.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_2.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_3.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_4.wav`
+- `Gods_Cab_1.4/44.1/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_5.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_foot_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_foot_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_foot_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_foot_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_foot_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_foot_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_foot_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_foot_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_foot_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_foot_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_4_foot_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_4_foot_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_4_foot_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_4_foot_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_4_foot_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/NO-TS/C414_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_foot_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_foot_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_foot_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_foot_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_foot_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_foot_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_foot_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_foot_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_foot_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_foot_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_4_foot_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_4_foot_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_4_foot_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_4_foot_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_4_foot_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/C414/TS/C414_TS_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/NO-TS/MD421_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/MD421/TS/MD421_TS_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_left_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_left_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_left_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_left_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_left_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_left_live_room_pres_1.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_left_live_room_pres_2.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_left_live_room_pres_3.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_left_live_room_pres_4.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_left_live_room_pres_5.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_right_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_right_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_right_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_right_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_right_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_right_live_room_pres_1.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_right_live_room_pres_2.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_right_live_room_pres_3.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_right_live_room_pres_4.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/NO-TS/NT5_right_live_room_pres_5.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_left_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_left_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_left_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_left_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_left_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_left_live_room_pres_1.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_left_live_room_pres_2.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_left_live_room_pres_3.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_left_live_room_pres_4.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_left_live_room_pres_5.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_right_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_right_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_right_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_right_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_right_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_right_live_room_pres_1.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_right_live_room_pres_2.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_right_live_room_pres_3.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_right_live_room_pres_4.wav`
+- `Gods_Cab_1.4/44.1/NT5/Mono/TS/NT5_TS_right_live_room_pres_5.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_1.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_2.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_3.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_4.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_5.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_1.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_2.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_3.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_4.wav`
+- `Gods_Cab_1.4/44.1/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/NO-TS/SM7B_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM7B/TS/SM7B_TS_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/NO-TS/57_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/SM57/TS/57_TS_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_1_foot_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_1_foot_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_1_foot_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_1_foot_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_1_foot_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_2_foot_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_2_foot_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_2_foot_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_2_foot_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_2_foot_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_4_foot_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_4_foot_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_4_foot_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_4_foot_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_4_foot_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_room_1_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_room_1_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_room_1_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_room_1_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_room_1_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_room_2_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_room_2_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_room_2_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_room_2_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/NO-TS/U87_room_2_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_1_foot_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_1_foot_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_1_foot_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_1_foot_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_1_foot_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_2_foot_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_2_foot_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_2_foot_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_2_foot_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_2_foot_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_4_foot_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_4_foot_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_4_foot_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_4_foot_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_4_foot_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_room_1_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_room_1_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_room_1_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_room_1_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_room_1_pres_5.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_room_2_pres_1.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_room_2_pres_2.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_room_2_pres_3.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_room_2_pres_4.wav`
+- `Gods_Cab_1.4/44.1/U87/TS/U87_TS_room_2_pres_5.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_1.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_2.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_3.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_4.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_5.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_1.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_2.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_3.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_4.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_5.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_1.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_2.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_3.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_4.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_5.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_1.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_2.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_3.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_4.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_5.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_1.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_2.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_3.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_4.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_5.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_1.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_2.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_3.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_4.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_5.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_1.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_2.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_3.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_4.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_5.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_1.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_2.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_3.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_4.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_5.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_1.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_2.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_3.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_4.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_5.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/Room/M3_room_1.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/Room/M3_room_2.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/Room/M3_room_3.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_1.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_2.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_3.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_4.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_5.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_1.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_2.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_3.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_4.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_5.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_1.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_2.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_3.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_4.wav`
+- `Gods_Cab_1.4/48/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_5.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_foot_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_foot_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_foot_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_foot_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_foot_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_foot_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_foot_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_foot_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_foot_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_foot_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_4_foot_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_4_foot_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_4_foot_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_4_foot_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_4_foot_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/NO-TS/C414_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_foot_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_foot_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_foot_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_foot_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_foot_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_foot_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_foot_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_foot_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_foot_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_foot_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_4_foot_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_4_foot_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_4_foot_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_4_foot_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_4_foot_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_TS_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/C414/TS/C414_T~8.WAV`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/NO-TS/MD421_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/MD421/TS/MD421_TS_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_left_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_left_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_left_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_left_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_left_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_left_live_room_pres_1.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_left_live_room_pres_2.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_left_live_room_pres_3.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_left_live_room_pres_4.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_left_live_room_pres_5.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_right_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_right_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_right_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_right_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_right_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_right_live_room_pres_1.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_right_live_room_pres_2.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_right_live_room_pres_3.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_right_live_room_pres_4.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/NO-TS/NT5_right_live_room_pres_5.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_left_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_left_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_left_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_left_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_left_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_left_live_room_pres_1.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_left_live_room_pres_2.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_left_live_room_pres_3.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_left_live_room_pres_4.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_left_live_room_pres_5.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_right_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_right_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_right_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_right_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_right_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_right_live_room_pres_1.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_right_live_room_pres_2.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_right_live_room_pres_3.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_right_live_room_pres_4.wav`
+- `Gods_Cab_1.4/48/NT5/Mono/TS/NT5_TS_right_live_room_pres_5.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_1.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_2.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_3.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_4.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_5.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_1.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_2.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_3.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_4.wav`
+- `Gods_Cab_1.4/48/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/NO-TS/SM7B_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/SM7B/TS/SM7B_TS_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/NO-TS/57_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/SM57/TS/57_TS_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_1_foot_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_1_foot_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_1_foot_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_1_foot_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_1_foot_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_2_foot_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_2_foot_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_2_foot_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_2_foot_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_2_foot_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_4_foot_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_4_foot_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_4_foot_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_4_foot_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_4_foot_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_room_1_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_room_1_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_room_1_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_room_1_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_room_1_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_room_2_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_room_2_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_room_2_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_room_2_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/NO-TS/U87_room_2_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_1_foot_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_1_foot_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_1_foot_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_1_foot_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_1_foot_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_2_foot_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_2_foot_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_2_foot_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_2_foot_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_2_foot_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_4_foot_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_4_foot_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_4_foot_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_4_foot_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_4_foot_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_room_1_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_room_1_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_room_1_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_room_1_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_room_1_pres_5.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_room_2_pres_1.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_room_2_pres_2.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_room_2_pres_3.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_room_2_pres_4.wav`
+- `Gods_Cab_1.4/48/U87/TS/U87_TS_room_2_pres_5.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_1.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_2.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_3.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_4.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_5.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_1.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_2.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_3.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_4.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_5.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_1.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_2.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_3.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_4.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_5.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_1.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_2.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_3.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_4.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_5.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_1.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_2.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_3.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_4.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_5.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_1.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_2.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_3.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_4.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_5.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_1.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_2.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_3.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_4.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_5.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_1.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_2.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_3.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_4.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_5.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_1.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_2.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_3.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_4.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_5.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/Room/M3_room_1.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/Room/M3_room_2.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/Room/M3_room_3.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_1.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_2.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_3.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_4.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_5.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_1.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_2.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_3.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_4.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_5.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_1.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_2.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_3.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_4.wav`
+- `Gods_Cab_1.4/96/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_5.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_foot_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_foot_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_foot_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_foot_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_foot_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_foot_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_foot_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_foot_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_foot_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_foot_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_4_foot_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_4_foot_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_4_foot_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_4_foot_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_4_foot_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/NO-TS/C414_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_foot_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_foot_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_foot_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_foot_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_foot_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_foot_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_foot_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_foot_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_foot_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_foot_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_4_foot_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_4_foot_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_4_foot_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_4_foot_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_4_foot_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_TS_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/C414/TS/C414_T~8.WAV`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/NO-TS/MD421_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/MD421/TS/MD421_TS_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_left_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_left_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_left_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_left_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_left_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_left_live_room_pres_1.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_left_live_room_pres_2.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_left_live_room_pres_3.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_left_live_room_pres_4.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_left_live_room_pres_5.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_right_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_right_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_right_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_right_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_right_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_right_live_room_pres_1.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_right_live_room_pres_2.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_right_live_room_pres_3.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_right_live_room_pres_4.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/NO-TS/NT5_right_live_room_pres_5.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_left_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_left_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_left_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_left_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_left_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_left_live_room_pres_1.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_left_live_room_pres_2.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_left_live_room_pres_3.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_left_live_room_pres_4.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_left_live_room_pres_5.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_right_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_right_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_right_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_right_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_right_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_right_live_room_pres_1.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_right_live_room_pres_2.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_right_live_room_pres_3.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_right_live_room_pres_4.wav`
+- `Gods_Cab_1.4/96/NT5/Mono/TS/NT5_TS_right_live_room_pres_5.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_1.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_2.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_3.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_4.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_5.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_1.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_2.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_3.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_4.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_5.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_1.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_2.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_3.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_4.wav`
+- `Gods_Cab_1.4/96/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/NO-TS/SM7B_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/SM7B/TS/SM7B_TS_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/NO-TS/57_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_1_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_2_inch_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/SM57/TS/57_TS_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_1_foot_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_1_foot_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_1_foot_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_1_foot_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_1_foot_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_2_foot_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_2_foot_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_2_foot_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_2_foot_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_2_foot_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_4_foot_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_4_foot_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_4_foot_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_4_foot_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_4_foot_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_room_1_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_room_1_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_room_1_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_room_1_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_room_1_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_room_2_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_room_2_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_room_2_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_room_2_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/NO-TS/U87_room_2_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_1_foot_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_1_foot_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_1_foot_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_1_foot_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_1_foot_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_2_foot_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_2_foot_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_2_foot_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_2_foot_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_2_foot_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_4_foot_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_4_foot_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_4_foot_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_4_foot_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_4_foot_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_cap_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_cap_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_cap_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_cap_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_cap_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_cone_far_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_cone_far_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_cone_far_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_cone_far_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_cone_far_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_cone_near_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_cone_near_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_cone_near_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_cone_near_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_cone_near_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_edge_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_edge_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_edge_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_edge_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_grill_edge_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_room_1_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_room_1_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_room_1_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_room_1_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_room_1_pres_5.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_room_2_pres_1.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_room_2_pres_2.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_room_2_pres_3.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_room_2_pres_4.wav`
+- `Gods_Cab_1.4/96/U87/TS/U87_TS_room_2_pres_5.wav`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_left_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/NO-TS/C02_mono_right_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_left_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Mono/TS/C02_mono_TS_right_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/NO-TS/C02_stereo_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/C02 (Inferior to NT5 IRs)/Stereo/TS/C02_stereo_TS_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_1_foot_presence_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_2_foot_presence_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/NO-TS/M3_4_foot_presence_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/Room/M3_room_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/Room/M3_room_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/Room/M3_room_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_1_foot_presence_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_2_foot_presence_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/1.0_Legacy_IRs/M3 (Inferior to U87 IRs)/TS/M3_TS_4_foot_presence_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_1_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_2_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_4_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_4_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_4_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_4_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_4_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/NO-TS/C414_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_1_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_2_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_4_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_4_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_4_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_4_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_4_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/C414/TS/C414_TS_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_1_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_2_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/NO-TS/MD421_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_1_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_2_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/MD421/TS/MD421_TS_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_left_dead_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_left_dead_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_left_dead_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_left_dead_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_left_dead_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_left_live_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_left_live_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_left_live_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_left_live_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_left_live_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_right_dead_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_right_dead_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_right_dead_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_right_dead_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_right_dead_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_right_live_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_right_live_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_right_live_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_right_live_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/NO-TS/NT5_right_live_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_left_dead_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_left_dead_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_left_dead_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_left_dead_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_left_dead_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_left_live_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_left_live_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_left_live_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_left_live_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_left_live_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_right_dead_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_right_dead_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_right_dead_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_right_dead_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_right_dead_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_right_live_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_right_live_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_right_live_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_right_live_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Mono/TS/NT5_TS_right_live_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/NO-TS/NT5_stereo_dead_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/NO-TS/NT5_stereo_live_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/TS/NT5_TS_stereo_dead_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/NT5/Stereo/TS/NT5_TS_stereo_live_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_1_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_2_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/NO-TS/SM7B_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_1_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_2_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM7B/TS/SM7B_TS_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_1_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_2_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/NO-TS/57_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_1_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_2_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/SM57/TS/57_TS_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_1_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_1_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_1_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_1_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_1_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_2_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_2_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_2_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_2_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_2_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_4_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_4_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_4_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_4_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_4_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_room_1_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_room_1_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_room_1_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_room_1_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_room_1_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_room_2_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_room_2_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_room_2_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_room_2_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/NO-TS/U87_room_2_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_1_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_1_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_1_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_1_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_1_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_2_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_2_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_2_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_2_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_2_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_4_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_4_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_4_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_4_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_4_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_room_1_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_room_1_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_room_1_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_room_1_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_room_1_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_room_2_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_room_2_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_room_2_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_room_2_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX II/U87/TS/U87_TS_room_2_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_1_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_2_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_4_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_4_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_4_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_4_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_4_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/NO-TS/C414_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_1_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_2_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_4_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_4_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_4_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_4_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_4_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/C414/TS/C414_TS_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/NO-TS/C02_mono_left_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/NO-TS/C02_mono_left_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/NO-TS/C02_mono_left_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/NO-TS/C02_mono_left_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/NO-TS/C02_mono_left_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/NO-TS/C02_mono_right_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/NO-TS/C02_mono_right_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/NO-TS/C02_mono_right_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/NO-TS/C02_mono_right_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/NO-TS/C02_mono_right_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/TS/C02_mono_TS_left_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/TS/C02_mono_TS_left_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/TS/C02_mono_TS_left_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/TS/C02_mono_TS_left_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/TS/C02_mono_TS_left_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/TS/C02_mono_TS_right_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/TS/C02_mono_TS_right_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/TS/C02_mono_TS_right_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/TS/C02_mono_TS_right_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/C02/TS/C02_mono_TS_right_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/NO-TS/M3_1_foot_presence_1.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/NO-TS/M3_1_foot_presence_2.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/NO-TS/M3_1_foot_presence_3.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/NO-TS/M3_1_foot_presence_4.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/NO-TS/M3_1_foot_presence_5.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/NO-TS/M3_2_foot_presence_1.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/NO-TS/M3_2_foot_presence_2.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/NO-TS/M3_2_foot_presence_3.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/NO-TS/M3_2_foot_presence_4.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/NO-TS/M3_2_foot_presence_5.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/NO-TS/M3_4_foot_presence_1.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/NO-TS/M3_4_foot_presence_2.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/NO-TS/M3_4_foot_presence_3.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/NO-TS/M3_4_foot_presence_4.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/NO-TS/M3_4_foot_presence_5.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/Room/M3_room_1.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/Room/M3_room_2.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/Room/M3_room_3.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/TS/M3_TS_1_foot_presence_1.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/TS/M3_TS_1_foot_presence_2.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/TS/M3_TS_1_foot_presence_3.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/TS/M3_TS_1_foot_presence_4.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/TS/M3_TS_1_foot_presence_5.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/TS/M3_TS_2_foot_presence_1.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/TS/M3_TS_2_foot_presence_2.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/TS/M3_TS_2_foot_presence_3.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/TS/M3_TS_2_foot_presence_4.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/TS/M3_TS_2_foot_presence_5.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/TS/M3_TS_4_foot_presence_1.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/TS/M3_TS_4_foot_presence_2.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/TS/M3_TS_4_foot_presence_3.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/TS/M3_TS_4_foot_presence_4.syx`
+- `Gods_Cab_1.4/AXE-FX/Legacy_IRs/M3/TS/M3_TS_4_foot_presence_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_1_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_2_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/NO-TS/MD421_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_1_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_2_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/MD421/TS/MD421_TS_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_left_dead_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_left_dead_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_left_dead_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_left_dead_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_left_dead_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_left_live_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_left_live_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_left_live_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_left_live_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_left_live_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_right_dead_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_right_dead_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_right_dead_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_right_dead_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_right_dead_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_right_live_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_right_live_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_right_live_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_right_live_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/NO-TS/NT5_right_live_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_left_dead_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_left_dead_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_left_dead_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_left_dead_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_left_dead_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_left_live_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_left_live_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_left_live_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_left_live_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_left_live_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_right_dead_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_right_dead_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_right_dead_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_right_dead_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_right_dead_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_right_live_room_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_right_live_room_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_right_live_room_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_right_live_room_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/NT5/TS/NT5_TS_right_live_room_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_1_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_2_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/NO-TS/SM7B_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_1_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_2_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM7B/TS/SM7B_TS_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_1_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_2_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/NO-TS/57_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_1_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_2_inch_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/SM57/TS/57_TS_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_1_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_1_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_1_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_1_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_1_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_2_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_2_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_2_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_2_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_2_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_4_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_4_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_4_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_4_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_4_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_room_1_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_room_1_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_room_1_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_room_1_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_room_1_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_room_2_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_room_2_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_room_2_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_room_2_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/NO-TS/U87_room_2_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_1_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_1_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_1_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_1_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_1_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_2_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_2_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_2_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_2_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_2_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_4_foot_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_4_foot_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_4_foot_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_4_foot_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_4_foot_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_cap_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_cap_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_cap_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_cap_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_cap_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_cone_far_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_cone_far_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_cone_far_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_cone_far_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_cone_far_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_cone_near_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_cone_near_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_cone_near_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_cone_near_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_cone_near_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_edge_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_edge_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_edge_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_edge_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_grill_edge_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_room_1_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_room_1_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_room_1_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_room_1_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_room_1_pres_5.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_room_2_pres_1.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_room_2_pres_2.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_room_2_pres_3.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_room_2_pres_4.syx`
+- `Gods_Cab_1.4/AXE-FX/U87/TS/U87_TS_room_2_pres_5.syx`
+
+### Diezel (9)
+
+#### Diezel 4x12 (9)
+
+- `06 - Diezel 2 4x12 SPKR 1 position 2.wav`
+- `ZETA IR PACK/Diezel 1 4x12 SPKR 1 position 1.wav`
+- `ZETA IR PACK/Diezel 1 4x12 SPKR 1 position 2.wav`
+- `ZETA IR PACK/Diezel 1 4x12 SPKR 2 position 1.wav`
+- `ZETA IR PACK/Diezel 1 4x12 SPKR 2 position 2.wav`
+- `ZETA IR PACK/Diezel 2 4x12 SPKR 1 position 1.wav`
+- `ZETA IR PACK/Diezel 2 4x12 SPKR 1 position 2.wav`
+- `ZETA IR PACK/Diezel 2 4x12 SPKR 2 position 1.wav`
+- `ZETA IR PACK/Diezel 2 4x12 SPKR 2 position 2.wav`
+
+### faIR (37)
+
+#### Modern Rock (10)
+
+- `faIR_Modern_Rock_Wav/Wav/faIR_AliceInBones.wav`
+- `faIR_Modern_Rock_Wav/Wav/faIR_BlackSunGarden.wav`
+- `faIR_Modern_Rock_Wav/Wav/faIR_CornOnTheLeash.wav`
+- `faIR_Modern_Rock_Wav/Wav/faIR_FooToFly.wav`
+- `faIR_Modern_Rock_Wav/Wav/faIR_GreedSacrifice.wav`
+- `faIR_Modern_Rock_Wav/Wav/faIR_GreenBasketCase.wav`
+- `faIR_Modern_Rock_Wav/Wav/faIR_ScorpYouLikeAHurricane.wav`
+- `faIR_Modern_Rock_Wav/Wav/faIR_SpoonGarden.wav`
+- `faIR_Modern_Rock_Wav/Wav/faIR_SweetChildOfGun.wav`
+- `faIR_Modern_Rock_Wav/Wav/faIR_ToolPot.wav`
+
+#### Post Grunge (27)
+
+- `faIR_Post_Grunge_Wav/Wav/Fredman_Mono_Vintage30_Solid.wav`
+- `faIR_Post_Grunge_Wav/Wav/Fredman_Mono_Vintage30_SPARC.wav`
+- `faIR_Post_Grunge_Wav/Wav/Fredman_Mono_Vintage30_Tube.wav`
+- `faIR_Post_Grunge_Wav/Wav/Mono_3DoorTonite_Solid.wav`
+- `faIR_Post_Grunge_Wav/Wav/Mono_3DoorTonite_SPARC.wav`
+- `faIR_Post_Grunge_Wav/Wav/Mono_3DoorTonite_Tube.wav`
+- `faIR_Post_Grunge_Wav/Wav/Mono_AlterYourEyes_Solid.wav`
+- `faIR_Post_Grunge_Wav/Wav/Mono_AlterYourEyes_SPARC.wav`
+- `faIR_Post_Grunge_Wav/Wav/Mono_AlterYourEyes_Tube.wav`
+- `faIR_Post_Grunge_Wav/Wav/Mono_Bushlyerine_Solid.wav`
+- `faIR_Post_Grunge_Wav/Wav/Mono_Bushlyerine_SPARC.wav`
+- `faIR_Post_Grunge_Wav/Wav/Mono_Bushlyerine_Tube.wav`
+- `faIR_Post_Grunge_Wav/Wav/Mono_TheSpringsArentAlright_Solid.wav`
+- `faIR_Post_Grunge_Wav/Wav/Mono_TheSpringsArentAlright_SPARC.wav`
+- `faIR_Post_Grunge_Wav/Wav/Mono_TheSpringsArentAlright_Tube.wav`
+- `faIR_Post_Grunge_Wav/Wav/Stereo_FooTender_Solid.wav`
+- `faIR_Post_Grunge_Wav/Wav/Stereo_FooTender_SPARC.wav`
+- `faIR_Post_Grunge_Wav/Wav/Stereo_FooTender_Tube.wav`
+- `faIR_Post_Grunge_Wav/Wav/Stereo_NickelOnTheFloor_Solid.wav`
+- `faIR_Post_Grunge_Wav/Wav/Stereo_NickelOnTheFloor_SPARC.wav`
+- `faIR_Post_Grunge_Wav/Wav/Stereo_NickelOnTheFloor_Tube.wav`
+- `faIR_Post_Grunge_Wav/Wav/Stereo_PaddleControl_Solid.wav`
+- `faIR_Post_Grunge_Wav/Wav/Stereo_PaddleControl_SPARC.wav`
+- `faIR_Post_Grunge_Wav/Wav/Stereo_PaddleControl_Tube.wav`
+- `faIR_Post_Grunge_Wav/Wav/Stereo_ThreeDaysAnimal_Solid.wav`
+- `faIR_Post_Grunge_Wav/Wav/Stereo_ThreeDaysAnimal_SPARC.wav`
+- `faIR_Post_Grunge_Wav/Wav/Stereo_ThreeDaysAnimal_Tube.wav`
+
+### Fender (117)
+
+#### Combos e gabinetes Fender (117)
+
+- `1- Top 8 IR Pack/2 - Fender 57 Edge, 12 in.wav`
+- `2- Top 7 IR Pack/Fender Bassman.wav`
+- `2- Top 7 IR Pack/Fender Twin.wav`
+- `Fender Bassman/Fender Bassman.wav`
+- `Fender Princeton/Princeton floor_00.wav`
+- `Fender Princeton/Princeton floor_01.wav`
+- `Fender Princeton/Princeton floor_02.wav`
+- `Fender Princeton/Princeton floor_03.wav`
+- `Fender Princeton/Princeton floor_04.wav`
+- `Fender Princeton/Princeton floor_05.wav`
+- `Fender Princeton/Princeton floor_06.wav`
+- `Fender Princeton/Princeton floor_07.wav`
+- `Fender Princeton/Princeton floor_08.wav`
+- `Fender Princeton/Princeton floor_09.wav`
+- `Fender Princeton/Princeton floor_10.wav`
+- `Fender Princeton/Princeton floor_11.wav`
+- `Fender Princeton/Princeton floor_12.wav`
+- `Fender Princeton/Princeton floor_13.wav`
+- `Fender Princeton/Princeton floor_14.wav`
+- `Fender Princeton/Princeton floor_15.wav`
+- `Fender Princeton/Princeton floor_16.wav`
+- `Fender Princeton/Princeton floor_17.wav`
+- `Fender Princeton/Princeton floor_18.wav`
+- `Fender Princeton/Princeton up_00.wav`
+- `Fender Princeton/Princeton up_01.wav`
+- `Fender Princeton/Princeton up_02.wav`
+- `Fender Princeton/Princeton up_03.wav`
+- `Fender Princeton/Princeton up_04.wav`
+- `Fender Princeton/Princeton up_05.wav`
+- `Fender Princeton/Princeton up_06.wav`
+- `Fender Princeton/Princeton up_07.wav`
+- `Fender Princeton/Princeton up_08.wav`
+- `Fender Princeton/Princeton up_09.wav`
+- `Fender Princeton/Princeton up_10.wav`
+- `Fender Princeton/Princeton up_11.wav`
+- `Fender Princeton/Princeton up_12.wav`
+- `Fender Princeton/Princeton up_13.wav`
+- `Fender Princeton/Princeton up_14.wav`
+- `Fender Princeton/Princeton up_15.wav`
+- `Fender Princeton/Princeton up_16.wav`
+- `Fender Pro Junior/Pro Jr floor_00.wav`
+- `Fender Pro Junior/Pro Jr floor_01.wav`
+- `Fender Pro Junior/Pro Jr floor_02.wav`
+- `Fender Pro Junior/Pro Jr floor_03.wav`
+- `Fender Pro Junior/Pro Jr floor_04.wav`
+- `Fender Pro Junior/Pro Jr floor_05.wav`
+- `Fender Pro Junior/Pro Jr floor_06.wav`
+- `Fender Pro Junior/Pro Jr floor_07.wav`
+- `Fender Pro Junior/Pro Jr floor_08.wav`
+- `Fender Pro Junior/Pro Jr floor_09.wav`
+- `Fender Pro Junior/Pro Jr floor_10.wav`
+- `Fender Pro Junior/Pro Jr floor_11.wav`
+- `Fender Pro Junior/Pro Jr floor_12.wav`
+- `Fender Pro Junior/Pro Jr floor_13.wav`
+- `Fender Pro Junior/Pro Jr floor_14.wav`
+- `Fender Pro Junior/Pro Jr floor_15.wav`
+- `Fender Pro Junior/Pro Jr floor_16.wav`
+- `Fender Pro Junior/Pro Jr floor_17.wav`
+- `Fender Pro Junior/Pro Jr floor_18.wav`
+- `Fender Pro Junior/Pro Jr up_01.wav`
+- `Fender Pro Junior/Pro Jr up_02.wav`
+- `Fender Pro Junior/Pro Jr up_03.wav`
+- `Fender Pro Junior/Pro Jr up_04.wav`
+- `Fender Pro Junior/Pro Jr up_05.wav`
+- `Fender Pro Junior/Pro Jr up_06.wav`
+- `Fender Pro Junior/Pro Jr up_07.wav`
+- `Fender Pro Junior/Pro Jr up_08.wav`
+- `Fender Pro Junior/Pro Jr up_09.wav`
+- `Fender Pro Junior/Pro Jr up_10.wav`
+- `Fender Pro Junior/Pro Jr up_11.wav`
+- `Fender Pro Junior/Pro Jr up_12.wav`
+- `Fender Pro Junior/Pro Jr up_13.wav`
+- `Fender Pro Junior/Pro Jr up_14.wav`
+- `Fender Pro Junior/Pro Jr up_15.wav`
+- `Fender Pro Junior/Pro Jr up_16.wav`
+- `Fender_Twin_73_IR_Pack/01_Twin73_dome_edge_L19.wav`
+- `Fender_Twin_73_IR_Pack/02_Twin73_dome_edge_e609.wav`
+- `Fender_Twin_73_IR_Pack/03_Twin73_center_L19.wav`
+- `Fender_Twin_73_IR_Pack/04_Twin73_center_e609.wav`
+- `Fender_Twin_73_IR_Pack/05_Twin73_cone20_L19.wav`
+- `Fender_Twin_73_IR_Pack/06_Twin73_cone20_e609.wav`
+- `Fender_Twin_73_IR_Pack/07_Twin73_cone_L19.wav`
+- `Fender_Twin_73_IR_Pack/08_Twin73_cone_e609.wav`
+- `Fender_Twin_73_IR_Pack/09_Twin73_cab_plusback_L19.wav`
+- `Fender_Twin_73_IR_Pack/10_Twin73_dome_edge_plusback_e609.wav`
+- `POD/Black Panel (Fender Deluxe)/Blackface Deluxe.wav`
+- `POD/Black Panel (Fender Deluxe)/Blackface Twin.wav`
+- `POD/Black Panel (Fender Deluxe)/Line6 Flextone.wav`
+- `POD/Black Panel (Fender Deluxe)/Marshall Off Axis.wav`
+- `POD/Black Panel (Fender Deluxe)/Marshall Stock 70.wav`
+- `POD/Black Panel (Fender Deluxe)/Marshall Vintage 30.wav`
+- `POD/Black Panel (Fender Deluxe)/Matchless Chieftain.wav`
+- `POD/Black Panel (Fender Deluxe)/No Cabinet.wav`
+- `POD/Black Panel (Fender Deluxe)/Pod 2X12.wav`
+- `POD/Black Panel (Fender Deluxe)/Pod 4X10.wav`
+- `POD/Black Panel (Fender Deluxe)/Pod 4X12.wav`
+- `POD/Black Panel (Fender Deluxe)/Tweed Champ.wav`
+- `POD/Black Panel (Fender Deluxe)/Tweed Deluxe.wav`
+- `POD/Black Panel (Fender Deluxe)/Vox AC15.wav`
+- `POD/Tube Preamp/Fender Bassman.wav`
+- `POD/Tube Preamp/Tweed Champ.wav`
+- `POD/Tweed Blues (Fender Bassman)/Blackface Deluxe.wav`
+- `POD/Tweed Blues (Fender Bassman)/Blackface Twin.wav`
+- `POD/Tweed Blues (Fender Bassman)/Fender Bassman.wav`
+- `POD/Tweed Blues (Fender Bassman)/Line6 Flextone.wav`
+- `POD/Tweed Blues (Fender Bassman)/Marshall off axis.wav`
+- `POD/Tweed Blues (Fender Bassman)/Marshall Stock 70.wav`
+- `POD/Tweed Blues (Fender Bassman)/Marshall Vintage 30.wav`
+- `POD/Tweed Blues (Fender Bassman)/Matchless Chieftain.wav`
+- `POD/Tweed Blues (Fender Bassman)/No Cabinet.wav`
+- `POD/Tweed Blues (Fender Bassman)/Pod 4x10.wav`
+- `POD/Tweed Blues (Fender Bassman)/Pod 4x12.wav`
+- `POD/Tweed Blues (Fender Bassman)/Tweed Blues (pod 2x12) imp.wav`
+- `POD/Tweed Blues (Fender Bassman)/Tweed Champ.wav`
+- `POD/Tweed Blues (Fender Bassman)/Tweed Deluxe.wav`
+- `POD/Tweed Blues (Fender Bassman)/Vox AC15.wav`
+- `Princeton/princeton 2x12.wav`
+
+### Line 6 (35)
+
+#### Vetta Cabinet (35)
+
+- `Vetta floor SC_00.wav`
+- `Vetta floor SC_01.wav`
+- `Vetta floor SC_02.wav`
+- `Vetta floor SC_03.wav`
+- `Vetta floor SC_04.wav`
+- `Vetta floor SC_05.wav`
+- `Vetta floor SC_06.wav`
+- `Vetta floor SC_07.wav`
+- `Vetta floor SC_08.wav`
+- `Vetta floor SC_09.wav`
+- `Vetta floor SC_10.wav`
+- `Vetta floor SC_11.wav`
+- `Vetta floor SC_12.wav`
+- `Vetta floor SC_13.wav`
+- `Vetta floor SC_14.wav`
+- `Vetta floor SC_15.wav`
+- `Vetta floor SC_16.wav`
+- `Vetta floor SC_17.wav`
+- `Vetta up SC_00.wav`
+- `Vetta up SC_01.wav`
+- `Vetta up SC_02.wav`
+- `Vetta up SC_03.wav`
+- `Vetta up SC_04.wav`
+- `Vetta up SC_05.wav`
+- `Vetta up SC_06.wav`
+- `Vetta up SC_07.wav`
+- `Vetta up SC_08.wav`
+- `Vetta up SC_09.wav`
+- `Vetta up SC_10.wav`
+- `Vetta up SC_11.wav`
+- `Vetta up SC_12.wav`
+- `Vetta up SC_13.wav`
+- `Vetta up SC_14.wav`
+- `Vetta up SC_15.wav`
+- `Vetta up SC_16.wav`
+
+### Marshall (867)
+
+#### 1960A G12M - Fractal (749)
+
+- `1- Top 8 IR Pack/3 - Marshall1960A-G12Ms-SM57-Cap-0in.wav`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Coles 4038/Marshall1960A-G12Ms-4038-Cap-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Coles 4038/Marshall1960A-G12Ms-4038-Cap-24in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Coles 4038/Marshall1960A-G12Ms-4038-Cap-36in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Coles 4038/Marshall1960A-G12Ms-4038-Cap-48in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Coles 4038/Marshall1960A-G12Ms-4038-Room.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Coles 4038/Marshall1960A-G12Ms-4038-RoomAway.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CenterCab-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-12in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx II/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cap-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cap-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cap-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cap-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cap-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cap-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cap-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cap-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cone-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cone-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cone-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cone-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cone-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cone-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cone-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-Cone-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/AKG C414B-ULS/Marshall1960A-G12Ms-C414-ConeEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Ambient Mics/Marshall1960A-G12Ms-D6-BackCab-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Ambient Mics/Marshall1960A-G12Ms-D6-BackCab-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Ambient Mics/Marshall1960A-G12Ms-KM84-BackCab-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Ambient Mics/Marshall1960A-G12Ms-KM84-BackCab-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Ambient Mics/Marshall1960A-G12Ms-KM84-BackCab-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Ambient Mics/Marshall1960A-G12Ms-KM84-BackCab-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Ambient Mics/Marshall1960A-G12Ms-KM84-Room-L.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Ambient Mics/Marshall1960A-G12Ms-KM84-Room-R.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Ambient Mics/Marshall1960A-G12Ms-KM84-Stereo-Room.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Ambient Mics/Marshall1960A-G12Ms-R121-NullAndWall-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cap-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-Cone-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix D6/Marshall1960A-G12Ms-D6-ConeEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cap-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapEdgeOffAxis-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-CapOffAxis-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-Cone-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Audix i5/Marshall1960A-G12Ms-i5-ConeEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Coles 4038/Marshall1960A-G12Ms-4038-Cap-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Coles 4038/Marshall1960A-G12Ms-4038-Cap-24in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Coles 4038/Marshall1960A-G12Ms-4038-Cap-36in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Coles 4038/Marshall1960A-G12Ms-4038-Cap-48in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Coles 4038/Marshall1960A-G12Ms-4038-Room.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Coles 4038/Marshall1960A-G12Ms-4038-RoomAway.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cap-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-Cone-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Heil PR30/Marshall1960A-G12Ms-PR30-ConeEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cap-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cap-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cap-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cap-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cap-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cap-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cap-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cap-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cone-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cone-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cone-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cone-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cone-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cone-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cone-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-Cone-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann KM84/Marshall1960A-G12Ms-KM84-ConeEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cap-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cap-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cap-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cap-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cap-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cap-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cap-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cap-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cone-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cone-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cone-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cone-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cone-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cone-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cone-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Cone-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-ConeEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-Room.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U47/Marshall1960A-G12Ms-U47-RoomAway.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cap-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cap-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cap-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cap-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cap-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cap-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cap-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cap-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cone-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cone-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cone-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cone-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cone-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cone-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cone-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Cone-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-ConeEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-Room.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U67/Marshall1960A-G12Ms-U67-RoomAway.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cap-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cap-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cap-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cap-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cap-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cap-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cap-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cap-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cone-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cone-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cone-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cone-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cone-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cone-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cone-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-Cone-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Neumann U87/Marshall1960A-G12Ms-U87-ConeEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cap-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapEdgeOffAxis-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CapOffAxis-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-CenterCab-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-Cone-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Royer R121/Marshall1960A-G12Ms-R121-ConeEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cap-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-Cone-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM7/Marshall1960A-G12Ms-SM7-ConeEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cap-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdge-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapEdgeOffAxis-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-CapOffAxis-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-Cone-12in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-0.5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-0in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-1in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-2in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-3in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-4in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-5in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-6in.syx`
+- `RW Impulses/Axe-Fx/Marshall1960A-G12Ms/Shure SM57/Marshall1960A-G12Ms-SM57-ConeEdge-12in.syx`
+
+#### JCM900 (9)
+
+- `JCM900 1-nt2.wav`
+- `JCM900 1-rm.wav`
+- `JCM900 1-sm57.wav`
+- `JCM900 2-nt2.wav`
+- `JCM900 2-rm.wav`
+- `JCM900 2-sm57.wav`
+- `JCM900 3-nt2.wav`
+- `JCM900 3-rm.wav`
+- `JCM900 3-sm57.wav`
+
+#### JCM2000 (2)
+
+- `Marshall JCM2000 SM57 off Axis.wav`
+- `Marshall JCM2000 SM57.wav`
+
+#### Outras coleções 1960A (72)
+
+- `AEmpulses_v1/AEmpulses v1/Beta 52/BETA52 9100A 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/Beta 52/BETA52 9100A 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/Beta 52/BETA52 9100A 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/Beta 52/BETA52 9100B 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/Beta 52/BETA52 9100B 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/Beta 52/BETA52 9100B 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/Bluebird/BBIRD 9100A 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/Bluebird/BBIRD 9100A 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/Bluebird/BBIRD 9100A 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/Bluebird/BBIRD 9100B 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/Bluebird/BBIRD 9100B 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/Bluebird/BBIRD 9100B 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/C214/C214 9100A 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/C214/C214 9100A 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/C214/C214 9100A 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/C214/C214 9100B 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/C214/C214 9100B 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/C214/C214 9100B 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/E906/E906Mode1 9100A 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/E906/E906Mode1 9100A 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/E906/E906Mode1 9100A 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/E906/E906Mode1 9100A 1960A P4_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/E906/E906Mode2 9100A 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/E906/E906Mode2 9100A 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/E906/E906Mode2 9100A 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/E906/E906Mode2 9100A 1960A P4_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/E906/E906Mode3 9100A 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/E906/E906Mode3 9100A 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/E906/E906Mode3 9100A 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/E906/E906Mode3 9100A 1960A P4_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/I5/I5 9100A 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/I5/I5 9100A 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/I5/I5 9100A 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/I5/I5 9100B 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/I5/I5 9100B 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/I5/I5 9100B 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/MD421 MKII/MD421 9100A 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/MD421 MKII/MD421 9100A 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/MD421 MKII/MD421 9100A 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/OM5/OM5 9100A 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/OM5/OM5 9100A 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/OM5/OM5 9100A 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/SM81/SM81 9100A 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/SM81/SM81 9100A 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/SM81/SM81 9100A 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/SM81/SM81 9100B 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/SM81/SM81 9100B 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/SM81/SM81 9100B 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/Sputnik/SPUT-C 9100A 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/Sputnik/SPUT-C 9100A 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/Sputnik/SPUT-C 9100A 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/ST59/ST59-C 9100A 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/ST59/ST59-C 9100A 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/ST59/ST59-C 9100A 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/ST59/ST59-F8 9100A 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/ST59/ST59-F8 9100A 1960A P2 WHAAAT_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/ST59/ST59-F8 9100A 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/ST59/ST59-F8 9100A 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/ST59/ST59-O 9100A 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/ST59/ST59-O 9100A 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/ST59/ST59-O 9100A 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P1_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P2_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P3_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P4_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P5_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P6_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P7_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P8_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P9_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P10_dc.wav`
+- `AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A Way Far Back_dc.wav`
+
+#### Plexi 1960A T75 (35)
+
+- `57 10_00.wav`
+- `57 45_00.wav`
+- `57 +1_00.wav`
+- `57 +2_04.wav`
+- `57 +3_00.wav`
+- `57 C 12_02.wav`
+- `57B 10_00.wav`
+- `57B 45_00.wav`
+- `57B +1_01.wav`
+- `57B +2_00.wav`
+- `57B +3_01.wav`
+- `57B C +1__02.wav`
+- `57B C_00.wav`
+- `+0 45 1_00.wav`
+- `+0 +1Left 0P-0R.wav`
+- `+0 off axis 2_00.wav`
+- `+0 off axis 3_01.wav`
+- `+0 on axis +1_00.wav`
+- `+0 on axis +2_00.wav`
+- `+0 on axis +3_00.wav`
+- `+0 on axis +4_00.wav`
+- `+0 on axis loud_01.wav`
+- `+1 +1Left 0P-0R.wav`
+- `+1 Center 0P-0R.wav`
+- `+1 on axis +1_00.wav`
+- `+1 on axis +2_00.wav`
+- `+1 on axis +3_01.wav`
+- `+1 on axis +4_00.wav`
+- `+1 on axis _00.wav`
+- `+ 1 off axis 1_00.wav`
+- `+ 1 off axis 2_00.wav`
+- `+ 1 off axis 3_01.wav`
+- `D+1 On Axis+1Left.wav`
+- `Marshall Plexi SM57 off Axis.wav`
+- `Marshall Plexi SM57.wav`
+
+### Mesa-Boogie (126)
+
+#### Rectifier e V30 (126)
+
+- `1- Top 8 IR Pack/6 - Brohymn-Mesa-4x12-SM57-V30-5.wav`
+- `2- Top 7 IR Pack/Celestion V30.wav`
+- `07 - Mesa 4x12 SPKR 2 position 1.wav`
+- `08 - Mesa 4x12 SPKR 2 position 2.wav`
+- `BestpluginsIrPack2/Mesa Boogie Mark V.wav`
+- `Emissary/RKH 4x12 V30 SHR SM57 Center.wav`
+- `Emissary/RKH 4x12 V30 SHR SM57 Off axis 2.wav`
+- `Emissary/RKH 4x12 V30 SNH 441U Center.wav`
+- `Emissary/RKH 4x12 V30 SNH 441U Off axis.wav`
+- `Emissary/RKH 4x12 V30 SNH MD421W 45 deg.wav`
+- `Emissary/RKH 4x12 V30 SNH MD421W Center.wav`
+- `Kalthallen IRs/001a-SM57-V30-4x12.wav`
+- `Kalthallen IRs/001b-SM57-V30-4x12.wav`
+- `Kalthallen IRs/001c-SM57-V30-4x12.wav`
+- `Kalthallen IRs/001d-SM57-V30-4x12.wav`
+- `Kalthallen IRs/002a-SM57-V30-4x12.wav`
+- `Kalthallen IRs/002b-SM57-V30-4x12.wav`
+- `Kalthallen IRs/002c-SM57-V30-4x12.wav`
+- `Kalthallen IRs/002d-SM57-V30-4x12.wav`
+- `Kalthallen IRs/003a-SM57-V30-4x12.wav`
+- `Kalthallen IRs/003b-SM57-V30-4x12.wav`
+- `Kalthallen IRs/003c-SM57-V30-4x12.wav`
+- `Kalthallen IRs/003d-SM57-V30-4x12.wav`
+- `Kalthallen IRs/004a-SM57-V30-4x12.wav`
+- `Kalthallen IRs/004b-SM57-V30-4x12.wav`
+- `Kalthallen IRs/004c-SM57-V30-4x12.wav`
+- `Kalthallen IRs/004d-SM57-V30-4x12.wav`
+- `Kalthallen IRs/005a-SM57-V30-4x12.wav`
+- `Kalthallen IRs/005b-SM57-V30-4x12.wav`
+- `Kalthallen IRs/005c-SM57-V30-4x12.wav`
+- `Kalthallen IRs/005d-SM57-V30-4x12.wav`
+- `Kalthallen IRs/006a-SM57-V30-4x12.wav`
+- `Kalthallen IRs/006b-SM57-V30-4x12.wav`
+- `Kalthallen IRs/006c-SM57-V30-4x12.wav`
+- `Kalthallen IRs/006d-SM57-V30-4x12.wav`
+- `Kalthallen IRs/007a-SM57-V30-4x12.wav`
+- `Kalthallen IRs/007b-SM57-V30-4x12.wav`
+- `Kalthallen IRs/007c-SM57-V30-4x12.wav`
+- `Kalthallen IRs/007d-SM57-V30-4x12.wav`
+- `Kalthallen IRs/008a-SM57-V30-4x12.wav`
+- `Kalthallen IRs/008b-SM57-V30-4x12.wav`
+- `Kalthallen IRs/008c-SM57-V30-4x12.wav`
+- `Kalthallen IRs/008d-SM57-V30-4x12.wav`
+- `Kalthallen IRs/013a-MD421-V30-4x12.wav`
+- `Kalthallen IRs/013b-MD421-V30-4x12.wav`
+- `Kalthallen IRs/013c-MD421-V30-4x12.wav`
+- `Kalthallen IRs/013d-MD421-V30-4x12.wav`
+- `Kalthallen IRs/014a-MD421-V30-4x12.wav`
+- `Kalthallen IRs/014b-MD421-V30-4x12.wav`
+- `Kalthallen IRs/014c-MD421-V30-4x12.wav`
+- `Kalthallen IRs/014d-MD421-V30-4x12.wav`
+- `Kalthallen IRs/015a-MD421-V30-4x12.wav`
+- `Kalthallen IRs/015b-MD421-V30-4x12.wav`
+- `Kalthallen IRs/015c-MD421-V30-4x12.wav`
+- `Kalthallen IRs/015d-MD421-V30-4x12.wav`
+- `Kalthallen IRs/018a-AT4050-V30-4x12.wav`
+- `Kalthallen IRs/018b-AT4050-V30-4x12.wav`
+- `Kalthallen IRs/018c-AT4050-V30-4x12.wav`
+- `Kalthallen IRs/018d-AT4050-V30-4x12.wav`
+- `Kalthallen IRs/019a-AT4050-V30-4x12.wav`
+- `Kalthallen IRs/019b-AT4050-V30-4x12.wav`
+- `Kalthallen IRs/019c-AT4050-V30-4x12.wav`
+- `Kalthallen IRs/019d-AT4050-V30-4x12.wav`
+- `Kalthallen IRs/020a-AT4050-V30-4x12.wav`
+- `Kalthallen IRs/020b-AT4050-V30-4x12.wav`
+- `Kalthallen IRs/020c-AT4050-V30-4x12.wav`
+- `Kalthallen IRs/020d-AT4050-V30-4x12.wav`
+- `Kalthallen IRs/022a-MD21-V30-4x12.wav`
+- `Kalthallen IRs/022b-MD21-V30-4x12.wav`
+- `Kalthallen IRs/022c-MD21-V30-4x12.wav`
+- `Kalthallen IRs/022d-MD21-V30-4x12.wav`
+- `Kalthallen IRs/023a-MD21-V30-4x12.wav`
+- `Kalthallen IRs/023b-MD21-V30-4x12.wav`
+- `Kalthallen IRs/023c-MD21-V30-4x12.wav`
+- `Kalthallen IRs/023d-MD21-V30-4x12.wav`
+- `Kalthallen IRs/027a-i5-V30-4x12.wav`
+- `Kalthallen IRs/027b-i5-V30-4x12.wav`
+- `Kalthallen IRs/027c-i5-V30-4x12.wav`
+- `Kalthallen IRs/027d-i5-V30-4x12.wav`
+- `Kalthallen IRs/028a-SM7-V30-4x12.wav`
+- `Kalthallen IRs/028b-SM7-V30-4x12.wav`
+- `Kalthallen IRs/028c-SM7-V30-4x12.wav`
+- `Kalthallen IRs/028d-SM7-V30-4x12.wav`
+- `Kalthallen IRs/029a-SM7-V30-4x12.wav`
+- `Kalthallen IRs/029b-SM7-V30-4x12.wav`
+- `Kalthallen IRs/029c-SM7-V30-4x12.wav`
+- `Kalthallen IRs/029d-SM7-V30-4x12.wav`
+- `Kalthallen IRs/030a-SM7-V30-4x12.wav`
+- `Kalthallen IRs/030b-SM7-V30-4x12.wav`
+- `Kalthallen IRs/030c-SM7-V30-4x12.wav`
+- `Kalthallen IRs/030d-SM7-V30-4x12.wav`
+- `Kalthallen IRs/031a-SM7-V30-4x12.wav`
+- `Kalthallen IRs/031b-SM7-V30-4x12.wav`
+- `Kalthallen IRs/031c-SM7-V30-4x12.wav`
+- `Kalthallen IRs/031d-SM7-V30-4x12.wav`
+- `Kalthallen IRs/034a-SM58-V30-4x12.wav`
+- `Kalthallen IRs/034b-SM58-V30-4x12.wav`
+- `Kalthallen IRs/034c-SM58-V30-4x12.wav`
+- `Kalthallen IRs/034d-SM58-V30-4x12.wav`
+- `Mesa Boogie 4x12 v30/Fora do Eixo/Holy Grail ll 4x12 44.1 Khz Mesaboogie 4x12 Oversized SM57 V30 off.wav`
+- `Mesa Boogie 4x12 v30/Fora do Eixo/Holy Grail ll 4x12 Mesaboogie 4x12 Oversized SM57 V30 off.wav`
+- `Mesa Boogie 4x12 v30/No Eixo/Holy Grail 4x12 Mesaboogie 4x12 Oversized SM57 V30.wav`
+- `Mesa Boogie 4x12 v30/No Eixo/Holy Grayl 4x12 44.1 Khz Mesaboogie 4x12 Oversized V30 SM57.wav`
+- `Mesa Nomad 55/Mesa_00.wav`
+- `Mesa Nomad 55/Mesa_01.wav`
+- `Mesa Nomad 55/Mesa_02.wav`
+- `Mesa Nomad 55/Mesa_03.wav`
+- `Mesa Nomad 55/Mesa_04.wav`
+- `Mesa Nomad 55/Mesa_05.wav`
+- `Mesa Nomad 55/Mesa_06.wav`
+- `Mesa Nomad 55/Mesa_07.wav`
+- `Mesa Nomad 55/Mesa_08.wav`
+- `Mesa Nomad 55/Mesa_09.wav`
+- `Mesa Nomad 55/Mesa_10.wav`
+- `Mesa Nomad 55/Mesa_11.wav`
+- `Mesa Nomad 55/Mesa_12.wav`
+- `Mesa Nomad 55/Mesa_13.wav`
+- `Mesa Nomad 55/Mesa_14.wav`
+- `Mesa Nomad 55/Mesa_15.wav`
+- `Mesa Nomad 55/Mesa_16.wav`
+- `Mesa Nomad 55/Mesa_17.wav`
+- `Mesa Nomad 55/Mesa_18.wav`
+- `ZETA IR PACK/Mesa 4x12 SPKR 1 position 1.wav`
+- `ZETA IR PACK/Mesa 4x12 SPKR 1 position 2.wav`
+- `ZETA IR PACK/Mesa 4x12 SPKR 2 position 1.wav`
+- `ZETA IR PACK/Mesa 4x12 SPKR 2 position 2.wav`
+
+### Outras coleções (374)
+
+#### 1- Top 8 IR Pack (3)
+
+- `4 - Orange cust_m930 1.wav`
+- `7 - GuitarHack JJ CENTRE45 0.wav`
+- `8 - Catharsis s-preshigh.wav`
+
+#### 2- Top 7 IR Pack (3)
+
+- `AC15.wav`
+- `Celestion H30.wav`
+- `Marshall G12.wav`
+
+#### AEmpulses_v1 (47)
+
+- `AEmpulses v1/Beta 52/BETA52 9100A 1960B P1_dc.wav`
+- `AEmpulses v1/Beta 52/BETA52 9100A 1960B P2_dc.wav`
+- `AEmpulses v1/Beta 52/BETA52 9100A 1960B P3_dc.wav`
+- `AEmpulses v1/Beta 52/BETA52 9100B 1960B P1_dc.wav`
+- `AEmpulses v1/Beta 52/BETA52 9100B 1960B P2_dc.wav`
+- `AEmpulses v1/Beta 52/BETA52 9100B 1960B P3_dc.wav`
+- `AEmpulses v1/Bluebird/BBIRD 9100A 1960B P1_dc.wav`
+- `AEmpulses v1/Bluebird/BBIRD 9100A 1960B P2_dc.wav`
+- `AEmpulses v1/Bluebird/BBIRD 9100A 1960B P3_dc.wav`
+- `AEmpulses v1/Bluebird/BBIRD 9100B 1960B P1_dc.wav`
+- `AEmpulses v1/Bluebird/BBIRD 9100B 1960B P2_dc.wav`
+- `AEmpulses v1/Bluebird/BBIRD 9100B 1960B P3_dc.wav`
+- `AEmpulses v1/C214/C214 9100A 1960B P1_dc.wav`
+- `AEmpulses v1/C214/C214 9100A 1960B P2_dc.wav`
+- `AEmpulses v1/C214/C214 9100A 1960B P3_dc.wav`
+- `AEmpulses v1/C214/C214 9100B 1960B P1_dc.wav`
+- `AEmpulses v1/C214/C214 9100B 1960B P2_dc.wav`
+- `AEmpulses v1/C214/C214 9100B 1960B P3_dc.wav`
+- `AEmpulses v1/I5/I5 9100A 1960B P1_dc.wav`
+- `AEmpulses v1/I5/I5 9100A 1960B P2_dc.wav`
+- `AEmpulses v1/I5/I5 9100A 1960B P3_dc.wav`
+- `AEmpulses v1/I5/I5 9100B 1960B P1_dc.wav`
+- `AEmpulses v1/I5/I5 9100B 1960B P2_dc.wav`
+- `AEmpulses v1/I5/I5 9100B 1960B P3_dc.wav`
+- `AEmpulses v1/MD421 MKII/MD421 9100A 1960B P1_dc.wav`
+- `AEmpulses v1/MD421 MKII/MD421 9100A 1960B P2_dc.wav`
+- `AEmpulses v1/MD421 MKII/MD421 9100A 1960B P3_dc.wav`
+- `AEmpulses v1/OM5/OM5 9100A 1960B P1_dc.wav`
+- `AEmpulses v1/OM5/OM5 9100A 1960B P2_dc.wav`
+- `AEmpulses v1/OM5/OM5 9100A 1960B P3_dc.wav`
+- `AEmpulses v1/SM81/SM81 9100A 1960B P1_dc.wav`
+- `AEmpulses v1/SM81/SM81 9100A 1960B P2_dc.wav`
+- `AEmpulses v1/SM81/SM81 9100A 1960B P3_dc.wav`
+- `AEmpulses v1/SM81/SM81 9100B 1960B P1_dc.wav`
+- `AEmpulses v1/SM81/SM81 9100B 1960B P2_dc.wav`
+- `AEmpulses v1/SM81/SM81 9100B 1960B P3_dc.wav`
+- `AEmpulses v1/TLM103/TLM103 9100A 1960B P1_dc.wav`
+- `AEmpulses v1/TLM103/TLM103 9100A 1960B P2_dc.wav`
+- `AEmpulses v1/TLM103/TLM103 9100A 1960B P3_dc.wav`
+- `AEmpulses v1/TLM103/TLM103 9100A 1960B P4_dc.wav`
+- `AEmpulses v1/TLM103/TLM103 9100A 1960B P5_dc.wav`
+- `AEmpulses v1/TLM103/TLM103 9100A 1960B P6_dc.wav`
+- `AEmpulses v1/TLM103/TLM103 9100A 1960B P7_dc.wav`
+- `AEmpulses v1/TLM103/TLM103 9100A 1960B P8_dc.wav`
+- `AEmpulses v1/TLM103/TLM103 9100A 1960B P9_dc.wav`
+- `AEmpulses v1/TLM103/TLM103 9100A 1960B P10_dc.wav`
+- `AEmpulses v1/TLM103/TLM103 9100A 1960B Way Far Back_dc.wav`
+
+#### Allston (3)
+
+- `allston 2x10.wav`
+- `allston 2x12.wav`
+- `allston classic.wav`
+
+#### Bachatta IR (1)
+
+- `5 Batchata.wav`
+
+#### Behringer Ultra-G (1)
+
+- `Behringer Ultra-G Cabinet.wav`
+
+#### BestpluginsIrPack1 (44)
+
+- `ArchEnemyDoomsdayMachine.wav`
+- `AsILayDyingAwakened.wav`
+- `AskingAlexandriaStandUpAndScream.wav`
+- `AvengedSevenfoldNightmare.wav`
+- `BelphegorBondageGoatZombie.wav`
+- `BulletForMyValentineTemperTemper.wav`
+- `CannibalCorpseVile.wav`
+- `CarnifexUntilIFeelNothing.wav`
+- `ChimairaRessurrection.wav`
+- `DaathTheHinderers.wav`
+- `DarkTranquilityCharacter.wav`
+- `DeicideTheStenchOfRedemption.wav`
+- `DevildriverTheLastKindWords.wav`
+- `DimmuBorgirEnthroneDarknessTriumphant.wav`
+- `DisturbedIndestructible.wav`
+- `DivineHeresyBringerOfPlagues.wav`
+- `DownNola.wav`
+- `DreamTheaterBlackCloudsSilverLinings.wav`
+- `DyingFetusWarOfAttrition.wav`
+- `EvileFiveSerpentsTeeth.wav`
+- `ExodusExhibitBTheHumanCondition.wav`
+- `FearFactoryDemanufacture.wav`
+- `FirewindDaysOfDefiance.wav`
+- `GodsmackTheOracle.wav`
+- `GreenDayDookie.wav`
+- `HamletAmnesia.wav`
+- `HexenBeingAndNothingness.wav`
+- `HoraZuluSiempreSoSaberSobreNadieNegNuncaNada.wav`
+- `InFlamesWhoracle.wav`
+- `KillswitchEngageAsDaylightDies.wav`
+- `KreatorViolentRevolution.wav`
+- `LegionOfTheDamnedDescentIntoChaos.wav`
+- `MachineHeadThroughTheAshesOfEmpires.wav`
+- `ManowarBattleHymnsMmxi.wav`
+- `MastodonCurlOfTheBurl.wav`
+- `MegadethYouthtanasia.wav`
+- `NapalmDeathTimeWaitsForNoSlave.wav`
+- `PanteraVulgarDisplayOfPower.wav`
+- `ParadiseLostTragicIdol.wav`
+- `SepulturaArise.wav`
+- `SlayerChristIllusion.wav`
+- `StoneSourHouseOfGoldAndBones.wav`
+- `TheSorrowMiseryEscape.wav`
+- `WarcryRevolucion.wav`
+
+#### BestpluginsIrPack2 (17)
+
+- `Blackat Leon S7.wav`
+- `Cicognani Imperivm Luxury.wav`
+- `DV Mark Triple 6.wav`
+- `Engl Retro Tube.wav`
+- `Engl Special Edition.wav`
+- `EVH 5150 III.wav`
+- `Fortin Natas.wav`
+- `Kaos Sludge 15.wav`
+- `Krank Krankenstein.wav`
+- `Laney ironheart.wav`
+- `MakosampCustomHatred.wav`
+- `Marshall JMP 2203 Jose Arredondo mod.wav`
+- `Marshall MG 15.wav`
+- `Peavey Vypyr 15.wav`
+- `Splawn Nitro.wav`
+- `Splawn Quick Rod.wav`
+- `Taurus Stomphead.wav`
+
+#### BestpluginsIRPack3 (26)
+
+- `Black dahlia murder Deflorate.wav`
+- `Black label Society order of the Black.wav`
+- `Children of Bodom Are You Dead Yet.wav`
+- `Decapitated Carnival Is Forever.wav`
+- `Exploited beat the Bastards.wav`
+- `GojiraLenfantSauvage.wav`
+- `hatebreed The divinity of purpose.wav`
+- `Helloween better than Raw.wav`
+- `Impending Doom The Serpent Servant.wav`
+- `Lamb of God Wrath.wav`
+- `NEWSTED.wav`
+- `Overkill The Years of Decay.wav`
+- `Pan de Higo.wav`
+- `Papa roach Getting away with murder.wav`
+- `Red Fang Murder the Mountains.wav`
+- `Slypknot Iowa.wav`
+- `Soulfly Enslaved.wav`
+- `Stratovarius legions.wav`
+- `Symphony X Iconoclast.wav`
+- `System of a Down Toxicity.wav`
+- `Testament dark Roots of Earth.wav`
+- `Textures Silhouettes.wav`
+- `Trivium In Waves.wav`
+- `Vader Necropolis.wav`
+- `Wayne Static Pighammer.wav`
+- `White Chappel Hate Creation.wav`
+
+#### BestpluginsIRPack4 (34)
+
+- `Adgar Tiempos de cambio.wav`
+- `Angeles del infierno Diabolicca.wav`
+- `Angelus Apatrida Clockwork.wav`
+- `Angelus apatrida The call.wav`
+- `Avalanch Los poetas han muerto.wav`
+- `Avulsed Gorespattered suicide.wav`
+- `Axhom Galaxy.wav`
+- `CONTRA Arma de asalto.wav`
+- `Crisix The menace.wav`
+- `Death over threat Sangre.wav`
+- `Down of the maya The truth is in front of you.wav`
+- `El reno Renardo babuinos del metal.wav`
+- `Exquisite pus Dead (Forgotten).wav`
+- `Hamlet Amnesia.wav`
+- `Hora Zulu Siempre soñé saber sobre nadie negó nunca nada.wav`
+- `Infernoise Chainsaws Law.wav`
+- `Mago de oz Finisterra.wav`
+- `Narco Versiones para no dormir.wav`
+- `Noctem Oblivion.wav`
+- `Piel de serpiente Inevitable.wav`
+- `Que desilusion A golpe de alfil.wav`
+- `Red wine Sueños y locura.wav`
+- `Saratoga Nemesis.wav`
+- `Skizoo Skizoo.wav`
+- `Sober Superbia.wav`
+- `Soziedad Alkoholika Tiempos Oscuros.wav`
+- `Sphinx Renacer.wav`
+- `Steelgar Xenocide.wav`
+- `Terroristars made in Hellspain.wav`
+- `Tierra Santa Apocalipsis.wav`
+- `Trocotombix Somormujo Lavanco.wav`
+- `Uzzhuaia Destino Perdicion.wav`
+- `Vita Imana Uluh.wav`
+- `Warcry Revolucion.wav`
+
+#### BestpluginsIRPack5 (32)
+
+- `AnnihilatorFeast.wav`
+- `Anthrax Spreading The Disease.wav`
+- `Born of Osiris Tomorrow We Die Alive.wav`
+- `Brain drill Quantum Catastrophe.wav`
+- `Bring me the Horizon Sempiternal.wav`
+- `Cattle decapitation Monolith Of Inhumanity.wav`
+- `Chimaira Ressurrection 2.wav`
+- `Cryptopsy Cryptopsy.wav`
+- `Diamond head Lightning to the Nations.wav`
+- `Disonance in design Neurotransmitting An Epiphany.wav`
+- `EdguyHellfireClub.wav`
+- `EpicaDesignYourUniverse.wav`
+- `Ghost B C Infestissumam.wav`
+- `Ignominious incarceration Of winter born.wav`
+- `Limp Bizkit Significant Other.wav`
+- `Metallica Master of puppets.wav`
+- `Nancys Rubias Ahora o nunca.wav`
+- `Nevermore The Obsidian Conspiracy.wav`
+- `PerspectivesPerspectives.wav`
+- `Revocation Revocation.wav`
+- `S O D Speak English Or Die.wav`
+- `Sanctity Road To Bloodshed.wav`
+- `Satyricon Now, Diabolical.wav`
+- `Slayer Hell awaits.wav`
+- `Steelhorse In the storm.wav`
+- `Structures Divided by.wav`
+- `SuperjointRitualUseOnceAndDestroy.wav`
+- `The Bronx IV.wav`
+- `Thirteen bled promises Heliopause Fleets.wav`
+- `Thy art is murder The adversary.wav`
+- `Trivium Shogun.wav`
+- `Trivium Vengeance falls.wav`
+
+#### Boxboro (3)
+
+- `boxboro 4x10.wav`
+- `boxboro combo.wav`
+- `boxboro jazz.wav`
+
+#### Brighton (1)
+
+- `brighton vintage.wav`
+
+#### Brockton (2)
+
+- `Brockton Modified.wav`
+- `brockton stack.wav`
+
+#### Cambridge (2)
+
+- `cambridge 1x12.wav`
+- `cambridge reissue.wav`
+
+#### Canton (1)
+
+- `canton boutique.wav`
+
+#### Catharsis Fredman Impulses (9)
+
+- `1on-pres5.wav`
+- `1on-pres8.wav`
+- `1on-preshigh.wav`
+- `2off-pres5.wav`
+- `2off-pres8.wav`
+- `2off-preshigh.wav`
+- `s-pres5.wav`
+- `s-pres8.wav`
+- `s-preshigh.wav`
+
+#### Chelsea (2)
+
+- `chelsea 2x10.wav`
+- `chelsea classic.wav`
+
+#### Electrovoice 4x12 (2)
+
+- `Electrovoice 4x12 big.wav`
+- `Electrovoice 4x12 close.wav`
+
+#### Electrovoice 12 (3)
+
+- `EV12L 4050 on ax 48 sec.wav`
+- `EV 12L 441 Cent 48s.wav`
+- `Ev 12L 441 Edge 48s .wav`
+
+#### Fearcomplexmusic Impulses (3)
+
+- `Marshall Mode Four Cab Impulse.wav`
+- `orange2x12.wav`
+- `orange_2_mics.wav`
+
+#### Fredman-Impulses (3)
+
+- `EDGE -1 I Inch ala Sneap pic.wav`
+- `Fredman Angled.wav`
+- `Fredman Straight.wav`
+
+#### Grafton (3)
+
+- `grafton bass deluxe.wav`
+- `grafton bass.wav`
+- `grafton standard.wav`
+
+#### Guitarhack Impulses (3)
+
+- `Original 3 Impulses/GuitarHack Original Between.wav`
+- `Original 3 Impulses/GuitarHack Original Centre.wav`
+- `Original 3 Impulses/GuitarHack Original Edge.wav`
+
+#### GuitarHacksImpulses (18)
+
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ BBAE 0.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ BBAE-1.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ BBAE-half.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ BETWEEN 0.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ BETWEEN-1.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ BETWEEN-HALF.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ CENTRE45 0.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ CENTRE45-1.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ CENTRE45-HALF.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ CENTRE 0.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ CENTRE-1.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ CENTRE-HALF.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ EDGE 0.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ EDGE-1.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ EDGE-HALF.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ FRED45 0.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ FRED45-1.wav`
+- `GuitarHacks Impulses/JJ Powertube Impulses/GuitarHack JJ FRED45-HALF.wav`
+
+#### Hannover (2)
+
+- `hannover bass.wav`
+- `hannover classic se.wav`
+
+#### Harvard (2)
+
+- `harvard combo.wav`
+- `harvard standard.wav`
+
+#### IR Clean forró (1)
+
+- `amp peavey rage 150_dc.wav`
+
+#### Jensen 10 inch (4)
+
+- `Jensen 10 441 Off ax 48s.wav`
+- `Jensen 10 441 onax 48s.wav`
+- `Jensen 10 4050 Off ax 48.wav`
+- `Jensen 10 4050 onax 48s.wav`
+
+#### Kalthallen IRs (48)
+
+- `009a-SM57-G12T75-4x12.wav`
+- `009b-SM57-G12T75-4x12.wav`
+- `009c-SM57-G12T75-4x12.wav`
+- `009d-SM57-G12T75-4x12.wav`
+- `010a-SM57-G12T75-4x12.wav`
+- `010b-SM57-G12T75-4x12.wav`
+- `010c-SM57-G12T75-4x12.wav`
+- `010d-SM57-G12T75-4x12.wav`
+- `011a-SM57-G12T75-4x12.wav`
+- `011b-SM57-G12T75-4x12.wav`
+- `011c-SM57-G12T75-4x12.wav`
+- `011d-SM57-G12T75-4x12.wav`
+- `012a-SM57-G12T75-4x12.wav`
+- `012b-SM57-G12T75-4x12.wav`
+- `012c-SM57-G12T75-4x12.wav`
+- `012d-SM57-G12T75-4x12.wav`
+- `016a-MD421-G12T75-4x12.wav`
+- `016b-MD421-G12T75-4x12.wav`
+- `016c-MD421-G12T75-4x12.wav`
+- `016d-MD421-G12T75-4x12.wav`
+- `017a-MD421-G12T75-4x12.wav`
+- `017b-MD421-G12T75-4x12.wav`
+- `017c-MD421-G12T75-4x12.wav`
+- `017d-MD421-G12T75-4x12.wav`
+- `021a-AT4050-G12T75-4x12.wav`
+- `021b-AT4050-G12T75-4x12.wav`
+- `021c-AT4050-G12T75-4x12.wav`
+- `021d-AT4050-G12T75-4x12.wav`
+- `024a-MD21-G12T75-4x12.wav`
+- `024b-MD21-G12T75-4x12.wav`
+- `024c-MD21-G12T75-4x12.wav`
+- `024d-MD21-G12T75-4x12.wav`
+- `025a-i5-G12T75-4x12.wav`
+- `025b-i5-G12T75-4x12.wav`
+- `025c-i5-G12T75-4x12.wav`
+- `025d-i5-G12T75-4x12.wav`
+- `026a-i5-G12T75-4x12.wav`
+- `026b-i5-G12T75-4x12.wav`
+- `026c-i5-G12T75-4x12.wav`
+- `026d-i5-G12T75-4x12.wav`
+- `032a-SM7-G12T75-4x12.wav`
+- `032b-SM7-G12T75-4x12.wav`
+- `032c-SM7-G12T75-4x12.wav`
+- `032d-SM7-G12T75-4x12.wav`
+- `033a-SM7-G12T75-4x12.wav`
+- `033b-SM7-G12T75-4x12.wav`
+- `033c-SM7-G12T75-4x12.wav`
+- `033d-SM7-G12T75-4x12.wav`
+
+#### Leicester (3)
+
+- `leicester boutique.wav`
+- `leicester combo.wav`
+- `leicester stack.wav`
+
+#### Lincoln (2)
+
+- `lincoln standard.wav`
+- `lincoln vintage.wav`
+
+#### Mansfield (2)
+
+- `mansfield deluxe.wav`
+- `mansfield vintage.wav`
+
+#### Marshall 4x12 (2)
+
+- `4x12 Metal 1 celestion 441Khz.wav`
+- `celestion Metal1 file_dc.wav`
+
+#### Marshall G15R (2)
+
+- `marshall G15R reverb.wav`
+- `marshall G15R.wav`
+
+#### Northbridge (2)
+
+- `northbridge 4x10.wav`
+- `northbridge 4x12.wav`
+
+#### Oakdale (4)
+
+- `oakdale 2x12.wav`
+- `oakdale bass.wav`
+- `oakdale modified.wav`
+- `oakdale vintage.wav`
+
+#### Oxford (2)
+
+- `oxford 2x10.wav`
+- `oxford classic.wav`
+
+#### POD (13)
+
+- `Tube Preamp/Blackface Deluxe.wav`
+- `Tube Preamp/Blackface Twin.wav`
+- `Tube Preamp/Line6 Flextone.wav`
+- `Tube Preamp/Marshall Off Axis.wav`
+- `Tube Preamp/Marshall Stcock 70.wav`
+- `Tube Preamp/Marshall Vintage 30.wav`
+- `Tube Preamp/Matchless Chieftain.wav`
+- `Tube Preamp/No Cabinet.wav`
+- `Tube Preamp/Pod 2X12.wav`
+- `Tube Preamp/Pod 4x10.wav`
+- `Tube Preamp/Pod 4x12.wav`
+- `Tube Preamp/Tweed Deluxe.wav`
+- `Tube Preamp/Vox AC15.wav`
+
+#### Rockport (2)
+
+- `rockport 2x10.wav`
+- `rockport combo.wav`
+
+#### Roslindale (2)
+
+- `roslindale 1x12.wav`
+- `roslindale bass.wav`
+
+#### Rutland (1)
+
+- `rutland 1x12.wav`
+
+#### Sterling (2)
+
+- `sterling boutique.wav`
+- `sterling combo.wav`
+
+#### Supermart (1)
+
+- `supermart special.wav`
+
+#### Waltham (2)
+
+- `waltham 2x12.wav`
+- `waltham 4x10.wav`
+
+#### Worcester (5)
+
+- `worcester bright.wav`
+- `worcester modified.wav`
+- `worcester reissue.wav`
+- `worcester stack.wav`
+- `worcester standard.wav`
+
+#### ZETA IR PACK (4)
+
+- `Orange 2x12 SPKR 1 position 1.wav`
+- `Orange 2x12 SPKR 1 position 2.wav`
+- `Orange 2x12 SPKR 2 position 1.wav`
+- `Orange 2x12 SPKR 2 position 2.wav`
+
+### Peavey (2)
+
+#### Peavey 4x10 (2)
+
+- `Peavey 4x10 big.wav`
+- `Peavey 4x10 close.wav`
+
+### Randall (17)
+
+#### Randall Cabinet (17)
+
+- `BestpluginsIrPack2/Randall Satan.wav`
+- `BestpluginsIrPack2/Randall thrasher.wav`
+- `Randall E609_new.wav`
+- `Randall MD421 new.wav`
+- `Randall RodeNT1 new.wav`
+- `Randall RodeNT1.wav`
+- `Randall SM57 new.wav`
+- `Randall SM57.wav`
+- `Randall SM58 new1.wav`
+- `Randall SM58 new2.wav`
+- `Randall SM58 new3.wav`
+- `Randall SM58.wav`
+- `Randall TLM103 new.wav`
+- `Randall TLM103.wav`
+- `Randall U87G.wav`
+- `Randall U87G_new.wav`
+- `Randall VM1 new.wav`
+
+### Soldano (25)
+
+#### 4x12B (25)
+
+- `HR-412-SM58-angle45-close-edge.wav`
+- `HR-412-SM58-angle45-close.wav`
+- `HR-412-SM58-angle45-far-edge.wav`
+- `HR-412-SM58-angle45-far.wav`
+- `HR-412-SM58-center-close.wav`
+- `HR-412-SM58-center-far.wav`
+- `HR-412-SM58-straigth-close-edge.wav`
+- `HR-412-SM58-straigth-far-edge.wav`
+- `IR1.wav`
+- `IR2.wav`
+- `IR3.wav`
+- `IR4.wav`
+- `IR5.wav`
+- `IR6.wav`
+- `IR7.wav`
+- `IR8.wav`
+- `IR9.wav`
+- `IR10.wav`
+- `IR11.wav`
+- `IR12.wav`
+- `IR13.wav`
+- `IR14.wav`
+- `IR15.wav`
+- `VS-412-SM58-angle45-close.wav`
+- `VS-412-SM58-center-close.wav`
+
+### Vox (88)
+
+#### AC30 (5)
+
+- `1- Top 8 IR Pack/1 - VOX AC30 brilliant+bass BX44 neve close_dc.wav`
+- `2- Top 7 IR Pack/AC30.wav`
+- `POD/Black Panel (Fender Deluxe)/Vox AC30.wav`
+- `POD/Tube Preamp/Vox AC30.wav`
+- `POD/Tweed Blues (Fender Bassman)/Vox AC30.wav`
+
+#### AC30 Bright Channel (45)
+
+- `AC30_Custom_4x12_bright/vox custom _bright GF1.wav`
+- `AC30_Custom_4x12_bright/vox custom _bright GF2.wav`
+- `AC30_Custom_4x12_bright/vox custom _bright GF flur.wav`
+- `AC30_Custom_4x12_bright/vox custom _bright GF front.wav`
+- `AC30_Custom_4x12_bright/vox custom _bright m930 off axis.wav`
+- `AC30_Custom_4x12_bright/vox custom _bright m930 on axis1.wav`
+- `AC30_Custom_4x12_bright/vox custom _bright m930 on axis2.wav`
+- `AC30_Custom_4x12_bright/vox custom _bright nt2 off axis.wav`
+- `AC30_Custom_4x12_bright/vox custom _bright nt2 on axis1.wav`
+- `AC30_Custom_4x12_bright/vox custom _bright nt2 on axis2.wav`
+- `AC30_Custom_4x12_bright/vox custom bright_u87 1.wav`
+- `AC30_Custom_4x12_bright/vox custom bright_u87 2.wav`
+- `AC 30 BRILHANTE SNB/AC30 brilliant bx44 neve close_dc.wav`
+- `AC 30 BRILHANTE SNB/AC30 brilliant bx44 stalevel close_dc.wav`
+- `AC 30 BRILHANTE SNB/AC30 brilliant+bass AT4033a neve_dc.wav`
+- `AC 30 BRILHANTE SNB/AC30 brilliant+bass AT4033a stalevel_dc.wav`
+- `AC 30 BRILHANTE SNB/AC30 brilliant+bass BX44 neve close_dc.wav`
+- `AC 30 BRILHANTE SNB/AC30 brilliant+bass bx44 neve far_dc.wav`
+- `AC 30 BRILHANTE SNB/AC30 brilliant+bass bx44 stalevel close_dc.wav`
+- `AC 30 BRILHANTE SNB/AC30 brilliant+bass bx44 stalevel far_dc.wav`
+- `AC 30 BRILHANTE SNB/AC30 brilliant+bass U67 neve_dc.wav`
+- `AC 30 BRILHANTE SNB/AC30 brilliant+bass U67 stalevel_dc.wav`
+- `vox intern bright beta91.wav`
+- `vox intern bright_441 off axis.wav`
+- `vox intern bright_441 on axis.wav`
+- `vox intern bright_beta91 rm.wav`
+- `vox intern bright_ed911 on axis.wav`
+- `vox intern bright_m930 on axis1.wav`
+- `vox intern bright_m930 on axis2.wav`
+- `vox intern bright_m930 rm1.wav`
+- `vox intern bright_m930 rm2.wav`
+- `vox intern bright_m930 rm3.wav`
+- `vox intern bright_m930 von hinten.wav`
+- `vox intern bright_mpc rm1.wav`
+- `vox intern bright_mpc rm2.wav`
+- `vox intern bright_mpc.wav`
+- `vox intern bright_nt2 on axis.wav`
+- `vox intern bright_nt2 rm.wav`
+- `vox intern bright_sm57 off axis1.wav`
+- `vox intern bright_sm57 off axis2.wav`
+- `vox intern bright_sm57 on axis1.wav`
+- `vox intern bright_sm57 on axis2.wav`
+- `vox intern bright_sm57 on axis3.wav`
+- `vox intern bright_sm57 on axis4.wav`
+- `vox intern bright_u87.wav`
+
+#### AC30 Normal Channel (38)
+
+- `AC30 NORMAL SNB/AC30 normal AT4033a neve_dc.wav`
+- `AC30 NORMAL SNB/AC30 normal AT4033a stalevel_dc.wav`
+- `AC30 NORMAL SNB/AC30 normal BX44 neve close_dc.wav`
+- `AC30 NORMAL SNB/AC30 normal bx44 neve far_dc.wav`
+- `AC30 NORMAL SNB/AC30 normal BX44 stalevel close_dc.wav`
+- `AC30 NORMAL SNB/AC30 normal bx44 stalevel far_dc.wav`
+- `AC30 NORMAL SNB/AC30 normal sm57 neve close_dc.wav`
+- `AC30 NORMAL SNB/AC30 normal sm57 neve closer_dc.wav`
+- `AC30 NORMAL SNB/AC30 normal sm57 stalevel close_dc.wav`
+- `AC30 NORMAL SNB/AC30 normal sm57 stalevel closer_dc.wav`
+- `AC30 NORMAL SNB/AC30 normal U67 neve_dc.wav`
+- `AC30 NORMAL SNB/AC30 normal U67 stalevel_dc.wav`
+- `AC30_Custom_4x12_normal/vox custom _normal m930 on axis.wav`
+- `AC30_Custom_4x12_normal/vox custom _normal m930 rm.wav`
+- `AC30_Custom_4x12_normal/vox custom normal_u87 1.wav`
+- `AC30_Custom_4x12_normal/vox custom normal_u87 2.wav`
+- `AC30_Custom_4x12_normal/vox normal raum the big bang.wav`
+- `AC30_Custom_4x12_normal/vox normal the big bang.wav`
+- `AC30_normal_channel/vox intern normal_441 on axis.wav`
+- `AC30_normal_channel/vox intern normal_ed911 on axis.wav`
+- `AC30_normal_channel/vox intern normal_m930 on axis1.wav`
+- `AC30_normal_channel/vox intern normal_m930 on axis2.wav`
+- `AC30_normal_channel/vox intern normal_m930 rm.wav`
+- `AC30_normal_channel/vox intern normal_m930 von hinten.wav`
+- `AC30_normal_channel/vox intern normal_sm57 on axis.wav`
+- `AC30_normal_channel/vox intern normal_u87.wav`
+- `Cópia de AC30 normal AT4033a neve_dc.wav`
+- `Cópia de AC30 normal AT4033a stalevel_dc.wav`
+- `Cópia de AC30 normal BX44 neve close_dc.wav`
+- `Cópia de AC30 normal bx44 neve far_dc.wav`
+- `Cópia de AC30 normal BX44 stalevel close_dc.wav`
+- `Cópia de AC30 normal bx44 stalevel far_dc.wav`
+- `Cópia de AC30 normal sm57 neve close_dc.wav`
+- `Cópia de AC30 normal sm57 neve closer_dc.wav`
+- `Cópia de AC30 normal sm57 stalevel close_dc.wav`
+- `Cópia de AC30 normal sm57 stalevel closer_dc.wav`
+- `Cópia de AC30 normal U67 neve_dc.wav`
+- `Cópia de AC30 normal U67 stalevel_dc.wav`
+
+
+## Baixo (2.135)
+
+### Ampeg (699)
+
+#### Outros modelos Ampeg (106)
+
+- `AFX/04_Ampeg_Heritage_B15_by_Shift_Line.wav`
+- `AFX/07_Ampeg_SVT-810E_by_Shift_Line.wav`
+- `AMPEG American/AMPGBT25-API_MD421-1.wav`
+- `AMPEG American/AMPGBT25-API_MD421-2.wav`
+- `AMPEG American/AMPGBT25-API_MD421-3.wav`
+- `AMPEG American/AMPGBT25-API_R121-1.wav`
+- `AMPEG American/AMPGBT25-API_R121-2.wav`
+- `AMPEG American/AMPGBT25-API_R121-3.wav`
+- `AMPEG American/AMPGBT25-API_SM57-1.wav`
+- `AMPEG American/AMPGBT25-API_SM57-2.wav`
+- `AMPEG American/AMPGBT25-API_SM57-3.wav`
+- `AMPEG American/AMPGSVT410-API_MD421-1.wav`
+- `AMPEG American/AMPGSVT410-API_MD421-2.wav`
+- `AMPEG American/AMPGSVT410-API_MD421-3.wav`
+- `AMPEG American/AMPGSVT410-API_R121-1.wav`
+- `AMPEG American/AMPGSVT410-API_R121-2.wav`
+- `AMPEG American/AMPGSVT410-API_R121-3.wav`
+- `AMPEG American/AMPGV9-API_MD421-1.wav`
+- `AMPEG American/AMPGV9-API_MD421-2.wav`
+- `AMPEG American/AMPGV9-API_MD421-3.wav`
+- `AMPEG American/AMPGV9-API_R121-1.wav`
+- `AMPEG American/AMPGV9-API_R121-2.wav`
+- `AMPEG American/AMPGV9-API_R121-3.wav`
+- `AMPEG American/AMPGV9-API_SM57-1.wav`
+- `AMPEG American/AMPGV9-API_SM57-2.wav`
+- `AMPEG American/AMPGV9-API_SM57-3.wav`
+- `Ampeg British/B15N/B15N-C15N-Neve_MD421-1.wav`
+- `Ampeg British/B15N/B15N-C15N-Neve_MD421-2.wav`
+- `Ampeg British/B15N/B15N-C15N-Neve_MD421-3.wav`
+- `Ampeg British/B15N/B15N-C15N-Neve_R121-1.wav`
+- `Ampeg British/B15N/B15N-C15N-Neve_R121-2.wav`
+- `Ampeg British/B15N/B15N-C15N-Neve_R121-3.wav`
+- `Ampeg British/B15N/B15N-C15N-Neve_SM57-1.wav`
+- `Ampeg British/B15N/B15N-C15N-Neve_SM57-2.wav`
+- `Ampeg British/B15N/B15N-C15N-Neve_SM57-3.wav`
+- `Ampeg British/B25B/BT25-Neve_MD421-1.wav`
+- `Ampeg British/B25B/BT25-Neve_MD421-2.wav`
+- `Ampeg British/B25B/BT25-Neve_MD421-3.wav`
+- `Ampeg British/B25B/BT25-Neve_R121-1.wav`
+- `Ampeg British/B25B/BT25-Neve_R121-2.wav`
+- `Ampeg British/B25B/BT25-Neve_R121-3.wav`
+- `Ampeg British/B25B/BT25-Neve_SM57-1.wav`
+- `Ampeg British/B25B/BT25-Neve_SM57-2.wav`
+- `Ampeg British/B25B/BT25-Neve_SM57-3.wav`
+- `Ampeg British/SVT8E/SVT8E-Neve_MD421-1.wav`
+- `Ampeg British/SVT8E/SVT8E-Neve_MD421-2.wav`
+- `Ampeg British/SVT8E/SVT8E-Neve_MD421-3.wav`
+- `Ampeg British/SVT8E/SVT8E-Neve_R121-1.wav`
+- `Ampeg British/SVT8E/SVT8E-Neve_R121-2.wav`
+- `Ampeg British/SVT8E/SVT8E-Neve_R121-3.wav`
+- `Ampeg British/SVT8E/SVT8E-Neve_SM57-1.wav`
+- `Ampeg British/SVT8E/SVT8E-Neve_SM57-2.wav`
+- `Ampeg British/SVT8E/SVT8E-Neve_SM57-3.wav`
+- `Ampeg British/SVT410HE/SVT410HE-Neve_MD421-1.wav`
+- `Ampeg British/SVT410HE/SVT410HE-Neve_MD421-2.wav`
+- `Ampeg British/SVT410HE/SVT410HE-Neve_MD421-3.wav`
+- `Ampeg British/SVT410HE/SVT410HE-Neve_R121-1.wav`
+- `Ampeg British/SVT410HE/SVT410HE-Neve_R121-2.wav`
+- `Ampeg British/SVT410HE/SVT410HE-Neve_R121-3.wav`
+- `Ampeg British/SVT410HE/SVT410HE-Neve_SM57-1.wav`
+- `Ampeg British/SVT410HE/SVT410HE-Neve_SM57-2.wav`
+- `Ampeg British/SVT410HE/SVT410HE-Neve_SM57-3.wav`
+- `Ampeg Classic/Ampeg Classic B5 Left A 230 200 320.wav`
+- `Ampeg Classic/Ampeg Classic B5 Right A 230 200 320.wav`
+- `Ampeg Classic/Ampeg Classic BD300 B 22 32 -61.wav`
+- `Ampeg Classic/Ampeg Classic D6 B 24 30 -61.wav`
+- `Ampeg Classic/Ampeg Classic D11L HL A 1 42 24.wav`
+- `Ampeg Classic/Ampeg Classic Gemini 5 A 0 95 123.wav`
+- `Ampeg Classic/Ampeg Classic NT1-A A 22 5 16.wav`
+- `Ampeg Classic/Ampeg Classic SE4400a B 0 20 7.wav`
+- `Ampeg Classic/Ampeg Classic SM57 A 0 0 0 45.wav`
+- `Ampeg Classic/Ampeg Classic SM57 A 0 0 0.wav`
+- `Ampeg Classic/Ampeg Classic SM57 A 0 20 1.wav`
+- `Ampeg Classic/Ampeg Classic SM57 A 0 30 1.wav`
+- `Bass Ampeg Combo/ampeg combo 421-a_K.wav`
+- `Bass Ampeg Combo/ampeg combo 421-b_K.wav`
+- `Bass Ampeg Combo/ampeg combo m16-a_K.wav`
+- `Bass Ampeg Combo/ampeg combo m16-b_K.wav`
+- `Bass Ampeg SVT 8x10/Ampeg 8x10 57 A107.wav`
+- `Bass Ampeg SVT 8x10/Ampeg 8x10 57 AH.wav`
+- `Bass Ampeg SVT 8x10/Ampeg 8x10 4033 A107.wav`
+- `Bass Ampeg SVT 8x10/Ampeg 8x10 4033 AH.wav`
+- `Bass Ampeg SVT 8x10/Ampeg 8x10 D6 A107.wav`
+- `Bass Ampeg SVT 8x10/Ampeg 8x10 D6 AH.wav`
+- `Bass Ampeg SVT 8x10/Ampeg 8x10 e602 A107.wav`
+- `Bass Ampeg SVT 8x10/Ampeg 8x10 e602 AH.wav`
+- `Bass Ampeg SVT II/Sound 2.wav`
+- `Bass Ampeg SVT/Ampeg SVT Beta52.wav`
+- `Bass Ampeg SVT/Ampeg SVT Bright Beta52.wav`
+- `Bass Ampeg SVT/Ampeg SVT Bright Neumann.wav`
+- `Bass Ampeg SVT/Ampeg SVT D-I-Out Hot.wav`
+- `Bass Ampeg SVT/Ampeg SVT D-I-Out.wav`
+- `Bass Ampeg SVT/Ampeg SVT Neumann.wav`
+- `Bass Ampeg SVT/Ampeg SVT SM57 off Axis.wav`
+- `Bass Ampeg_V4B_Marshall_4x12/Ampeg V4-B_marshal_beta52.wav`
+- `Bass Ampeg_V4B_Marshall_4x12/Ampeg V4-B_marshal_M69N.wav`
+- `Bass Ampeg_V4B_Marshall_4x12/Ampeg V4-B_marshal_MD441.wav`
+- `Bass Ampeg_V4B_Marshall_4x12/Ampeg V4-B_marshal_mtg.wav`
+- `Bass Ampeg_V4B_Marshall_4x12/Ampeg V4-B_marshal_sm7.wav`
+- `Bass Ampeg_V4B_Marshall_4x12/Ampeg V4-B_marshal_tlm170-1.wav`
+- `Bass Ampeg_V4B_Marshall_4x12/Ampeg V4-B_marshal_tlm170-2.wav`
+- `Bass Ampeg_V4B_Marshall_4x12/Ampeg V4-B_marshal_u87.wav`
+- `Bass Ampeg_V4B_Trace_Elliot/Ampeg V4-B_TE-1.wav`
+- `Bass Ampeg_V4B_Trace_Elliot/Ampeg V4-B_TE_sm7.wav`
+- `Bass Ampeg_V4B_Trace_Elliot/Ampeg V4-B_TE_u87.wav`
+- `Bass Classics/12_Ampeg_SVT-810E_Olympic_MkIIIS_edition2.wav`
+
+#### SVT 810 (581)
+
+- `A8x10_57_A107.wav`
+- `A8x10_57_AH.wav`
+- `A8x10_4033_A107.wav`
+- `A8x10_4033_AH.wav`
+- `A8x10_D6_A107.wav`
+- `A8x10_D6_AH.wav`
+- `A8x10_e602_A107.wav`
+- `A8x10_e602_AH.wav`
+- `AMPEG American/AMPGSVT810-API_MD421-1.wav`
+- `AMPEG American/AMPGSVT810-API_MD421-2.wav`
+- `AMPEG American/AMPGSVT810-API_MD421-3.wav`
+- `AMPEG American/AMPGSVT810-API_R121-1.wav`
+- `AMPEG American/AMPGSVT810-API_R121-2.wav`
+- `AMPEG American/AMPGSVT810-API_R121-3.wav`
+- `AMPEG American/AMPGSVT810-API_SM57-1.wav`
+- `AMPEG American/AMPGSVT810-API_SM57-2.wav`
+- `AMPEG American/AMPGSVT810-API_SM57-3.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cap-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cap-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cap-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cap-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cap-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cap-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cap-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cap-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cone-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cone-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cone-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cone-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cone-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cone-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cone-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-Cone-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D12/SVT810-D12-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cap-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cap-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cap-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cap-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cap-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cap-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cap-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cap-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cone-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cone-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cone-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cone-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cone-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cone-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cone-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-Cone-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/AKG D112/SVT810-D112-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cap-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cap-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cap-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cap-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cap-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cap-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cap-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cap-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cone-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cone-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cone-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cone-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cone-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cone-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cone-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-Cone-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Audix D6/SVT810-D6-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cap-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cap-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cap-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cap-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cap-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cap-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cap-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cap-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cone-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cone-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cone-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cone-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cone-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cone-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cone-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-Cone-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Beyerdynamic M380/SVT810-M380-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-Cap-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-Cap-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-Cap-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-Cap-24in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-Cap-36in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-CapEdge-24in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-CapEdge-36in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-Cone-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-Cone-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-Cone-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-Cone-24in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-Cone-36in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-ConeEdge-24in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-ConeEdge-36in.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-FF0d-0inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-FF0d-12inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-FF0d-24inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-FF15d-0inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-FF15d-12inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-FF15d-24inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-FF30d-0inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-FF30d-12inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-FF30d-24inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-FF45d-0inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-FF45d-12inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-FF45d-24inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-Room.wav`
+- `Bass 48 KHz-24bit/SVT810/Coles 4038/SVT810-4038-RoomAway.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cap-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cap-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cap-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cap-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cap-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cap-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cap-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cap-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cone-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cone-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cone-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cone-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cone-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cone-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cone-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Cone-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-FF0d-0inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-FF0d-12inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-FF0d-24inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-FF15d-0inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-FF15d-12inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-FF15d-24inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-FF30d-0inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-FF30d-12inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-FF30d-24inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-FF45d-0inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-FF45d-12inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-FF45d-24inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-Room.wav`
+- `Bass 48 KHz-24bit/SVT810/Earthworks TC30/SVT810-TC30-RoomAway.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cap-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cap-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cap-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cap-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cap-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cap-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cap-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cap-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cone-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cone-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cone-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cone-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cone-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cone-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cone-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-Cone-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Electrovoice RE20/SVT810-RE20-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cap-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cap-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cap-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cap-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cap-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cap-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cap-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cap-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cone-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cone-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cone-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cone-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cone-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cone-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cone-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-Cone-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Heil PR40/SVT810-PR40-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cap-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cap-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cap-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cap-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cap-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cap-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cap-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cap-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cone-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cone-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cone-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cone-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cone-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cone-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cone-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Cone-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-FF0d-0inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-FF0d-12inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-FF0d-24inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-FF15d-0inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-FF15d-12inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-FF15d-24inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-FF30d-0inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-FF30d-12inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-FF30d-24inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-FF45d-0inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-FF45d-12inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-FF45d-24inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-Room.wav`
+- `Bass 48 KHz-24bit/SVT810/Neumann U47FET/SVT810-U47FET-RoomAway.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-Cap-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-Cap-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-Cap-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-Cap-24in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-Cap-36in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-CapEdge-24in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-CapEdge-36in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-Cone-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-Cone-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-Cone-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-Cone-24in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-Cone-36in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-ConeEdge-24in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-ConeEdge-36in.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-FF0d-0inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-FF0d-12inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-FF0d-24inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-FF15d-0inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-FF15d-12inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-FF15d-24inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-FF30d-0inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-FF30d-12inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-FF30d-24inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-FF45d-0inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-FF45d-12inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-FF45d-24inUp.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-Room.wav`
+- `Bass 48 KHz-24bit/SVT810/Royer R121/SVT810-R121-RoomAway.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cap-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cap-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cap-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cap-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cap-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cap-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cap-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cap-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cone-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cone-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cone-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cone-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cone-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cone-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cone-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-Cone-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser e602/SVT810-e602-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cap-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cap-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cap-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cap-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cap-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cap-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cap-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cap-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cone-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cone-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cone-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cone-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cone-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cone-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cone-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-Cone-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Sennheiser MD421/SVT810-421-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cap-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cap-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cap-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cap-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cap-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cap-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cap-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cap-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cone-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cone-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cone-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cone-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cone-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cone-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cone-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-Cone-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure Beta52/SVT810-Beta52-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cap-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cap-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cap-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cap-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cap-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cap-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cap-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cap-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cone-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cone-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cone-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cone-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cone-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cone-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cone-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-Cone-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM7/SVT810-SM7-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cap-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cap-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cap-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cap-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cap-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cap-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cap-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cap-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cone-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cone-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cone-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cone-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cone-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cone-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cone-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-Cone-12in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/SVT810/Shure SM57/SVT810-SM57-ConeEdge-12in.wav`
+
+#### V4B Custom (12)
+
+- `Bass Ampeg_V4B_Custom_4x12/Ampeg V4-B_custom beta52.wav`
+- `Bass Ampeg_V4B_Custom_4x12/Ampeg V4-B_custom M69N.wav`
+- `Bass Ampeg_V4B_Custom_4x12/Ampeg V4-B_custom MD441-1.wav`
+- `Bass Ampeg_V4B_Custom_4x12/Ampeg V4-B_custom MD441-2.wav`
+- `Bass Ampeg_V4B_Custom_4x12/Ampeg V4-B_custom mtg-1.wav`
+- `Bass Ampeg_V4B_Custom_4x12/Ampeg V4-B_custom mtg-2.wav`
+- `Bass Ampeg_V4B_Custom_4x12/Ampeg V4-B_custom mtg-3.wav`
+- `Bass Ampeg_V4B_Custom_4x12/Ampeg V4-B_custom sm7.wav`
+- `Bass Ampeg_V4B_Custom_4x12/Ampeg V4-B_custom tlm170-1.wav`
+- `Bass Ampeg_V4B_Custom_4x12/Ampeg V4-B_custom tlm170-2.wav`
+- `Bass Ampeg_V4B_Custom_4x12/Ampeg V4-B_custom u87-1.wav`
+- `Bass Ampeg_V4B_Custom_4x12/Ampeg V4-B_custom u87-2.wav`
+
+### Ashdown (12)
+
+#### ABM BP150 (12)
+
+- `Ashdown ABM BP150 B5 Left A 230 200 320.wav`
+- `Ashdown ABM BP150 B5 Right A 230 200 320.wav`
+- `Ashdown ABM BP150 BD300 C -15 14 -35.wav`
+- `Ashdown ABM BP150 D6 C 15 15 -35.wav`
+- `Ashdown ABM BP150 D11L HL C -4 -1 17.wav`
+- `Ashdown ABM BP150 Gemini 5 A 0 95 123.wav`
+- `Ashdown ABM BP150 NT1-A C 7 12 16.wav`
+- `Ashdown ABM BP150 SE4400a C -10 -4 13.wav`
+- `Ashdown ABM BP150 SM57 A 0 0 2.wav`
+- `Ashdown ABM BP150 SM57 A -2 0 3 45.wav`
+- `Ashdown ABM BP150 SM57 B 1 -1 1.wav`
+- `Ashdown ABM BP150 SM57 B 10 3 1.wav`
+
+### Darkglass (625)
+
+#### DG410C (625)
+
+- `API/Beyerdynamic M160/DC410C_API_M160-A0.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-A1.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-A2.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-A3.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-A4.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-A5.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-A6.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-A7.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-A8.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-A9.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-A10.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-B0.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-B1.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-B2.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-B3.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-B4.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-B5.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-B6.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-B7.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-B8.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-B9.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-B10.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-C0.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-C1.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-C2.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-C3.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-C4.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-C5.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-C6.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-C7.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-C8.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-C9.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-C10.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-R1.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-R2.wav`
+- `API/Beyerdynamic M160/DC410C_API_M160-R3.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-A0.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-A1.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-A2.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-A3.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-A4.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-A5.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-A6.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-A7.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-A8.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-A9.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-A10.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-B0.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-B1.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-B2.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-B3.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-B4.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-B5.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-B6.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-B7.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-B8.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-B9.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-B10.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-C0.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-C1.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-C2.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-C3.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-C4.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-C5.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-C6.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-C7.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-C8.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-C9.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-C10.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-R1.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-R2.wav`
+- `API/BLUE Dragonfly/DC410C_API_DragFly-R3.wav`
+- `API/DC410C_API_SKRM100.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-A0.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-A1.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-A2.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-A3.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-A4.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-A5.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-A6.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-A7.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-A8.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-A9.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-A10.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-B0.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-B1.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-B2.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-B3.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-B4.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-B5.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-B6.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-B7.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-B8.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-B9.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-B10.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-C0.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-C1.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-C2.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-C3.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-C4.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-C5.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-C6.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-C7.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-C8.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-C9.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-C10.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-R1.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-R2.wav`
+- `API/Electrovoice RE20/DC410C_API_RE20-R3.wav`
+- `API/Neumann U87/DC410C_API_U87-A0.wav`
+- `API/Neumann U87/DC410C_API_U87-A1.wav`
+- `API/Neumann U87/DC410C_API_U87-A2.wav`
+- `API/Neumann U87/DC410C_API_U87-A3.wav`
+- `API/Neumann U87/DC410C_API_U87-A4.wav`
+- `API/Neumann U87/DC410C_API_U87-A5.wav`
+- `API/Neumann U87/DC410C_API_U87-A6.wav`
+- `API/Neumann U87/DC410C_API_U87-A7.wav`
+- `API/Neumann U87/DC410C_API_U87-A8.wav`
+- `API/Neumann U87/DC410C_API_U87-A9.wav`
+- `API/Neumann U87/DC410C_API_U87-A10.wav`
+- `API/Neumann U87/DC410C_API_U87-B0.wav`
+- `API/Neumann U87/DC410C_API_U87-B1.wav`
+- `API/Neumann U87/DC410C_API_U87-B2.wav`
+- `API/Neumann U87/DC410C_API_U87-B3.wav`
+- `API/Neumann U87/DC410C_API_U87-B4.wav`
+- `API/Neumann U87/DC410C_API_U87-B5.wav`
+- `API/Neumann U87/DC410C_API_U87-B6.wav`
+- `API/Neumann U87/DC410C_API_U87-B7.wav`
+- `API/Neumann U87/DC410C_API_U87-B8.wav`
+- `API/Neumann U87/DC410C_API_U87-B9.wav`
+- `API/Neumann U87/DC410C_API_U87-B10.wav`
+- `API/Neumann U87/DC410C_API_U87-C0.wav`
+- `API/Neumann U87/DC410C_API_U87-C1.wav`
+- `API/Neumann U87/DC410C_API_U87-C2.wav`
+- `API/Neumann U87/DC410C_API_U87-C3.wav`
+- `API/Neumann U87/DC410C_API_U87-C4.wav`
+- `API/Neumann U87/DC410C_API_U87-C5.wav`
+- `API/Neumann U87/DC410C_API_U87-C6.wav`
+- `API/Neumann U87/DC410C_API_U87-C7.wav`
+- `API/Neumann U87/DC410C_API_U87-C8.wav`
+- `API/Neumann U87/DC410C_API_U87-C9.wav`
+- `API/Neumann U87/DC410C_API_U87-C10.wav`
+- `API/Neumann U87/DC410C_API_U87-R1.wav`
+- `API/Neumann U87/DC410C_API_U87-R2.wav`
+- `API/Neumann U87/DC410C_API_U87-R3.wav`
+- `API/Royer R121/DC410C_API_R121-A0.wav`
+- `API/Royer R121/DC410C_API_R121-A1.wav`
+- `API/Royer R121/DC410C_API_R121-A2.wav`
+- `API/Royer R121/DC410C_API_R121-A3.wav`
+- `API/Royer R121/DC410C_API_R121-A4.wav`
+- `API/Royer R121/DC410C_API_R121-A5.wav`
+- `API/Royer R121/DC410C_API_R121-A6.wav`
+- `API/Royer R121/DC410C_API_R121-A7.wav`
+- `API/Royer R121/DC410C_API_R121-A8.wav`
+- `API/Royer R121/DC410C_API_R121-A9.wav`
+- `API/Royer R121/DC410C_API_R121-A10.wav`
+- `API/Royer R121/DC410C_API_R121-B0.wav`
+- `API/Royer R121/DC410C_API_R121-B1.wav`
+- `API/Royer R121/DC410C_API_R121-B2.wav`
+- `API/Royer R121/DC410C_API_R121-B3.wav`
+- `API/Royer R121/DC410C_API_R121-B4.wav`
+- `API/Royer R121/DC410C_API_R121-B5.wav`
+- `API/Royer R121/DC410C_API_R121-B6.wav`
+- `API/Royer R121/DC410C_API_R121-B7.wav`
+- `API/Royer R121/DC410C_API_R121-B8.wav`
+- `API/Royer R121/DC410C_API_R121-B9.wav`
+- `API/Royer R121/DC410C_API_R121-B10.wav`
+- `API/Royer R121/DC410C_API_R121-C0.wav`
+- `API/Royer R121/DC410C_API_R121-C1.wav`
+- `API/Royer R121/DC410C_API_R121-C2.wav`
+- `API/Royer R121/DC410C_API_R121-C3.wav`
+- `API/Royer R121/DC410C_API_R121-C4.wav`
+- `API/Royer R121/DC410C_API_R121-C5.wav`
+- `API/Royer R121/DC410C_API_R121-C6.wav`
+- `API/Royer R121/DC410C_API_R121-C7.wav`
+- `API/Royer R121/DC410C_API_R121-C8.wav`
+- `API/Royer R121/DC410C_API_R121-C9.wav`
+- `API/Royer R121/DC410C_API_R121-C10.wav`
+- `API/Royer R121/DC410C_API_R121-R1.wav`
+- `API/Royer R121/DC410C_API_R121-R2.wav`
+- `API/Royer R121/DC410C_API_R121-R3.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-A0.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-A1.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-A2.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-A3.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-A4.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-A5.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-A6.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-A7.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-A8.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-A9.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-A10.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-B0.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-B1.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-B2.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-B3.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-B4.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-B5.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-B6.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-B7.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-B8.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-B9.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-B10.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-C0.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-C1.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-C2.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-C3.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-C4.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-C5.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-C6.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-C7.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-C8.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-C9.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-C10.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-R1.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-R2.wav`
+- `API/Sennheiser MD421/DC410C_API_MD421-R3.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-A0.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-A1.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-A2.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-A3.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-A4.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-A5.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-A6.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-A7.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-A8.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-A9.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-A10.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-B0.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-B1.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-B2.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-B3.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-B4.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-B5.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-B6.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-B7.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-B8.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-B9.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-B10.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-C0.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-C1.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-C2.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-C3.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-C4.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-C5.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-C6.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-C7.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-C8.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-C9.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-C10.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-R1.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-R2.wav`
+- `API/Shure BETA52a/DC410C_API_Beta52-R3.wav`
+- `API/Shure SM57/DC410C_API_SM57-A0.wav`
+- `API/Shure SM57/DC410C_API_SM57-A1.wav`
+- `API/Shure SM57/DC410C_API_SM57-A2.wav`
+- `API/Shure SM57/DC410C_API_SM57-A3.wav`
+- `API/Shure SM57/DC410C_API_SM57-A4.wav`
+- `API/Shure SM57/DC410C_API_SM57-A5.wav`
+- `API/Shure SM57/DC410C_API_SM57-A6.wav`
+- `API/Shure SM57/DC410C_API_SM57-A7.wav`
+- `API/Shure SM57/DC410C_API_SM57-A8.wav`
+- `API/Shure SM57/DC410C_API_SM57-A9.wav`
+- `API/Shure SM57/DC410C_API_SM57-A10.wav`
+- `API/Shure SM57/DC410C_API_SM57-B0.wav`
+- `API/Shure SM57/DC410C_API_SM57-B1.wav`
+- `API/Shure SM57/DC410C_API_SM57-B2.wav`
+- `API/Shure SM57/DC410C_API_SM57-B3.wav`
+- `API/Shure SM57/DC410C_API_SM57-B4.wav`
+- `API/Shure SM57/DC410C_API_SM57-B5.wav`
+- `API/Shure SM57/DC410C_API_SM57-B6.wav`
+- `API/Shure SM57/DC410C_API_SM57-B7.wav`
+- `API/Shure SM57/DC410C_API_SM57-B8.wav`
+- `API/Shure SM57/DC410C_API_SM57-B9.wav`
+- `API/Shure SM57/DC410C_API_SM57-B10.wav`
+- `API/Shure SM57/DC410C_API_SM57-C0.wav`
+- `API/Shure SM57/DC410C_API_SM57-C1.wav`
+- `API/Shure SM57/DC410C_API_SM57-C2.wav`
+- `API/Shure SM57/DC410C_API_SM57-C3.wav`
+- `API/Shure SM57/DC410C_API_SM57-C4.wav`
+- `API/Shure SM57/DC410C_API_SM57-C5.wav`
+- `API/Shure SM57/DC410C_API_SM57-C6.wav`
+- `API/Shure SM57/DC410C_API_SM57-C7.wav`
+- `API/Shure SM57/DC410C_API_SM57-C8.wav`
+- `API/Shure SM57/DC410C_API_SM57-C9.wav`
+- `API/Shure SM57/DC410C_API_SM57-C10.wav`
+- `API/Shure SM57/DC410C_API_SM57-R1.wav`
+- `API/Shure SM57/DC410C_API_SM57-R2.wav`
+- `API/Shure SM57/DC410C_API_SM57-R3.wav`
+- `API/Single Mic Mixes/DC410C_API_Beta52-Mix A.wav`
+- `API/Single Mic Mixes/DC410C_API_Beta52-Mix B.wav`
+- `API/Single Mic Mixes/DC410C_API_Beta52-Mix C.wav`
+- `API/Single Mic Mixes/DC410C_API_DraFly-Mix A.wav`
+- `API/Single Mic Mixes/DC410C_API_DraFly-Mix B.wav`
+- `API/Single Mic Mixes/DC410C_API_DraFly-Mix C.wav`
+- `API/Single Mic Mixes/DC410C_API_M160-Mix A.wav`
+- `API/Single Mic Mixes/DC410C_API_M160-Mix B.wav`
+- `API/Single Mic Mixes/DC410C_API_M160-Mix C.wav`
+- `API/Single Mic Mixes/DC410C_API_MD421-Mix A.wav`
+- `API/Single Mic Mixes/DC410C_API_MD421-Mix B.wav`
+- `API/Single Mic Mixes/DC410C_API_MD421-Mix C.wav`
+- `API/Single Mic Mixes/DC410C_API_R121-Mix A.wav`
+- `API/Single Mic Mixes/DC410C_API_R121-Mix B.wav`
+- `API/Single Mic Mixes/DC410C_API_R121-Mix C.wav`
+- `API/Single Mic Mixes/DC410C_API_RE20-Mix A.wav`
+- `API/Single Mic Mixes/DC410C_API_RE20-Mix B.wav`
+- `API/Single Mic Mixes/DC410C_API_RE20-Mix C.wav`
+- `API/Single Mic Mixes/DC410C_API_SM57-Mix A.wav`
+- `API/Single Mic Mixes/DC410C_API_SM57-Mix B.wav`
+- `API/Single Mic Mixes/DC410C_API_SM57-Mix C.wav`
+- `API/Single Mic Mixes/DC410C_API_U87-Mix A.wav`
+- `API/Single Mic Mixes/DC410C_API_U87-Mix B.wav`
+- `API/Single Mic Mixes/DC410C_API_U87-Mix C.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-A0.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-A1.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-A2.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-A3.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-A4.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-A5.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-A6.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-A7.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-A8.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-A9.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-A10.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-B0.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-B1.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-B2.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-B3.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-B4.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-B5.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-B6.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-B7.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-B8.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-B9.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-B10.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-C0.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-C1.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-C2.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-C3.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-C4.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-C5.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-C6.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-C7.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-C8.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-C9.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-C10.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-R1.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-R2.wav`
+- `Neve/Beyerdynamic M160/DC410C_NEV_M160-R3.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A0.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A1.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A2.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A3.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A4.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A5.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A6.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A7.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A8.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A9.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A10.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B0.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B1.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B2.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B3.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B4.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B5.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B6.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B7.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B8.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B9.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B10.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C0.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C1.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C2.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C3.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C4.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C5.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C6.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C7.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C8.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C9.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C10.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-R1.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-R2.wav`
+- `Neve/BLUE Dragonfly/DC410C_NEV_DraFly-R3.wav`
+- `Neve/DC410C_NEV_SKRM100.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-A0.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-A1.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-A2.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-A3.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-A4.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-A5.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-A6.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-A7.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-A8.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-A9.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-A10.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-B0.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-B1.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-B2.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-B3.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-B4.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-B5.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-B6.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-B7.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-B8.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-B9.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-B10.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-C0.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-C1.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-C2.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-C3.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-C4.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-C5.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-C6.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-C7.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-C8.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-C9.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-C10.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-R1.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-R2.wav`
+- `Neve/Electrovoice RE20/DC410C_NEV_RE20-R3.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-A0.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-A1.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-A2.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-A3.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-A4.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-A5.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-A6.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-A7.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-A8.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-A9.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-A10.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-B0.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-B1.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-B2.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-B3.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-B4.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-B5.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-B6.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-B7.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-B8.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-B9.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-B10.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-C0.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-C1.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-C2.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-C3.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-C4.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-C5.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-C6.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-C7.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-C8.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-C9.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-C10.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-R1.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-R2.wav`
+- `Neve/Neumann U87/DC410C_NEV_U87-R3.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-A0.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-A1.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-A2.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-A3.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-A4.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-A5.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-A6.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-A7.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-A8.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-A9.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-A10.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-B0.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-B1.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-B2.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-B3.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-B4.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-B5.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-B6.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-B7.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-B8.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-B9.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-B10.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-C0.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-C1.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-C2.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-C3.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-C4.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-C5.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-C6.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-C7.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-C9.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-C10.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-R1.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-R2.wav`
+- `Neve/Royer R121/DC410C_NEV_R121-R3.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-A0.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-A1.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-A2.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-A3.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-A4.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-A5.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-A6.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-A7.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-A8.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-A9.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-A10.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-B0.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-B1.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-B2.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-B3.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-B4.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-B5.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-B6.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-B7.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-B8.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-B9.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-B10.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-C0.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-C1.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-C2.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-C3.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-C4.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-C5.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-C6.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-C7.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-C8.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-C9.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-C10.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-R1.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-R2.wav`
+- `Neve/Sennheiser MD421/DC410C_NEV_MD421-R3.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-A0.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-A1.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-A2.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-A3.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-A4.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-A5.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-A6.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-A7.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-A8.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-A9.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-A10.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-B0.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-B1.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-B2.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-B3.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-B4.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-B5.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-B6.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-B7.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-B8.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-B9.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-B10.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-C0.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-C1.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-C2.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-C3.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-C4.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-C5.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-C6.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-C7.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-C8.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-C9.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-C10.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-R1.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-R2.wav`
+- `Neve/Shure BETA52a/DC410C_NEV_Beta52-R3.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-A0.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-A1.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-A2.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-A3.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-A4.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-A5.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-A6.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-A7.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-A8.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-A9.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-A10.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-B0.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-B1.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-B2.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-B3.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-B4.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-B5.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-B6.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-B7.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-B8.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-B9.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-B10.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-C0.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-C1.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-C2.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-C3.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-C4.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-C5.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-C6.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-C7.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-C8.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-C9.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-C10.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-R1.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-R2.wav`
+- `Neve/Shure SM57/DC410C_NEV_SM57-R3.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_Beta52-Mix A.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_Beta52-Mix B.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_Beta52-Mix C.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_DraFly-Mix A.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_DraFly-Mix B.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_DraFly-Mix C.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_M160-Mix A.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_M160-Mix B.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_M160-Mix C.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_MD421-Mix A.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_MD421-Mix B.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_MD421-Mix C.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_R121-Mix A.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_R121-Mix B.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_R121-Mix C.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_RE20-Mix A.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_RE20-Mix B.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_RE20-Mix C.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_SM57-Mix A.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_SM57-Mix B.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_SM57-Mix C.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_U87-Mix A.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_U87-Mix B.wav`
+- `Neve/Single Mic Mixes/DC410C_NEV_U87-Mix C.wav`
+
+### Eden (17)
+
+#### Eden e Nemesis 4x10 (17)
+
+- `Bass Eden 4x10/Eden 4x10 57 A107.wav`
+- `Bass Eden 4x10/Eden 4x10 57 AH.wav`
+- `Bass Eden 4x10/Eden 4x10 4033 A107.wav`
+- `Bass Eden 4x10/Eden 4x10 4033 AH.wav`
+- `Bass Eden 4x10/Eden 4x10 D6 A107.wav`
+- `Bass Eden 4x10/Eden 4x10 D6 AH.wav`
+- `Bass Eden 4x10/Eden 4x10 e602 A107.wav`
+- `Bass Eden 4x10/Eden 4x10 e602 AH.wav`
+- `DLS Digital - NEMESIS EDEN 4x10 base cab IRs/c414_dc.wav`
+- `DLS Digital - NEMESIS EDEN 4x10 base cab IRs/Coles_dc.wav`
+- `DLS Digital - NEMESIS EDEN 4x10 base cab IRs/D6_dc.wav`
+- `DLS Digital - NEMESIS EDEN 4x10 base cab IRs/D12_dc.wav`
+- `DLS Digital - NEMESIS EDEN 4x10 base cab IRs/RB100_dc.wav`
+- `DLS Digital - NEMESIS EDEN 4x10 base cab IRs/RE20_dc.wav`
+- `DLS Digital - NEMESIS EDEN 4x10 base cab IRs/Sennheiser 441_dc.wav`
+- `DLS Digital - NEMESIS EDEN 4x10 base cab IRs/SM7b - Horn_dc.wav`
+- `DLS Digital - NEMESIS EDEN 4x10 base cab IRs/SM7b - Speaker_dc.wav`
+
+### Gallien-Krueger (18)
+
+#### GK Collection (18)
+
+- `Bass Gallien Krueger Matamp_GK09/GK09 -Bass Orange1_K.wav`
+- `Bass Gallien Krueger Matamp_GK09/GK09 -Bass Orange2_K.wav`
+- `Bass Gallien Krueger Matamp_GK09/GK09 -Bass Orange3_K.wav`
+- `Bass Gallien Krueger Matamp_GK09/GK09 -Bass Orange4_K.wav`
+- `Bass Gallien Krueger Matamp_GK09/GK09 -Bass Orange5_K.wav`
+- `Bass Gallien Krueger Matamp_GK09/GK09 -Bass Orange6_K.wav`
+- `Gallien Krueger GK 250ML/Gallien Krueger GK 250ML B5 Left A 230 200 320.wav`
+- `Gallien Krueger GK 250ML/Gallien Krueger GK 250ML B5 Right A 230 200 320.wav`
+- `Gallien Krueger GK 250ML/Gallien Krueger GK 250ML BD300 A 0 3 -16.wav`
+- `Gallien Krueger GK 250ML/Gallien Krueger GK 250ML D6 B 8 3 1 45.wav`
+- `Gallien Krueger GK 250ML/Gallien Krueger GK 250ML D11L HL A 10 3 12 45.wav`
+- `Gallien Krueger GK 250ML/Gallien Krueger GK 250ML Gemini 5 A 0 95 123.wav`
+- `Gallien Krueger GK 250ML/Gallien Krueger GK 250ML NT1-A A 0 1 14.wav`
+- `Gallien Krueger GK 250ML/Gallien Krueger GK 250ML SE4400a A -5 0 1.wav`
+- `Gallien Krueger GK 250ML/Gallien Krueger GK 250ML SM57 A 0 0 3.wav`
+- `Gallien Krueger GK 250ML/Gallien Krueger GK 250ML SM57 A 0 -2 3 45.wav`
+- `Gallien Krueger GK 250ML/Gallien Krueger GK 250ML SM57 A 7 -3 2.wav`
+- `Gallien Krueger GK 250ML/Gallien Krueger GK 250ML SM57 B 0 -3 2.wav`
+
+### Hartke (613)
+
+#### 45XL (613)
+
+- `AFX/02_Hartke_XL410_by_Shift_Line.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cap-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cap-24in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cap-36in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-CapEdge-24in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-CapEdge-36in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cone-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cone-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cone-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cone-24in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cone-36in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-ConeEdge-24in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-ConeEdge-36in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF0d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF0d-12inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF0d-24inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF15d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF15d-12inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF15d-24inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF30d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF30d-12inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF30d-24inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF45d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF45d-12inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF45d-24inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Room.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-RoomAway.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inC-TC30-Cap-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inC-TC30-Cap-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inC-TC30-Cap-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inC-TC30-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inC-TC30-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inC-TC30-FF0d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF0d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF0d-12inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF0d-24inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF15d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF15d-12inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF15d-24inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF30d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF30d-12inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF30d-24inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF45d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF45d-12inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF45d-24inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Port-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Room.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-RoomAway.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF0d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF0d-12inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF0d-24inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF15d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF15d-12inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF15d-24inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF30d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF30d-12inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF30d-24inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF45d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF45d-12inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF45d-24inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Room.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-RoomAway.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cap-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cap-24in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cap-36in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-CapEdge-24in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-CapEdge-36in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cone-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cone-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cone-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cone-24in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cone-36in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-ConeEdge-24in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-ConeEdge-36in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF0d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF0d-12inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF0d-24inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF15d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF15d-12inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF15d-24inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF30d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF30d-12inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF30d-24inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF45d-0inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF45d-12inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF45d-24inUp.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Room.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-RoomAway.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-12in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-0_5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-0in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-1in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-2in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-3in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-4in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-5in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-6in.wav`
+- `Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-12in.wav`
+- `Bass Hartke/1x15 AKG Center.wav`
+- `Bass Hartke/1x15 AKG Edge .wav`
+- `Bass Hartke/1x15 Neumann Center - 6dB.wav`
+- `Bass Hartke/1x15 Neumann Edge Off ax 48s.wav`
+- `Bass Hartke/1x15 Neumann Edge off Ax louder.wav`
+
+### Markbass (21)
+
+#### Markbass Collection (21)
+
+- `2x10 4050 onax 48s.wav`
+- `2x10 onax 48s.wav`
+- `6in cent.wav`
+- `48sec edge 6in.wav`
+- `Center 1in 48s.wav`
+- `Edge 48 sec.wav`
+- `EV12L 4050 on ax 48 sec.wav`
+- `EV 12L 441 Cent 48s.wav`
+- `Ev 12L 441 Edge 48s .wav`
+- `off 48s.wav`
+- `Off ax 48s.wav`
+- `Off Ax Correct 4.wav`
+- `Off axis 48s.wav`
+- `Offax softer 48s.wav`
+- `Onax 6in 48s.wav`
+- `onax 48s.wav`
+- `Studio 22 441 Edge 48s.wav`
+- `Studio 22 441 On 48s.wav`
+- `Studio 4050 on ax 48s.wav`
+- `Work 15 441 Cent 48s.wav`
+- `Work 15 4050 48.wav`
+
+### Mesa-Boogie (12)
+
+#### PowerHouse (12)
+
+- `Rocksta Reactions Mesa Powerhouse B5 Left A 230 200 320.wav`
+- `Rocksta Reactions Mesa Powerhouse B5 Right A 230 200 320.wav`
+- `Rocksta Reactions Mesa Powerhouse BD300 G 0 0 49.wav`
+- `Rocksta Reactions Mesa Powerhouse D6 H 0 0 48 45.wav`
+- `Rocksta Reactions Mesa Powerhouse D11L HL C 0 -6 3 45.wav`
+- `Rocksta Reactions Mesa Powerhouse Gemini 5 A 0 95 123.wav`
+- `Rocksta Reactions Mesa Powerhouse NT1-A D 0 7 8.wav`
+- `Rocksta Reactions Mesa Powerhouse SE4400a E 0 0 5.wav`
+- `Rocksta Reactions Mesa Powerhouse SM57 A 0 0 1.wav`
+- `Rocksta Reactions Mesa Powerhouse SM57 A 1 -8 1 45.wav`
+- `Rocksta Reactions Mesa Powerhouse SM57 B 4 0 0.wav`
+- `Rocksta Reactions Mesa Powerhouse SM57 B 10 0 0.wav`
+
+### Orange (5)
+
+#### Orange Bass Setup (5)
+
+- `AFX/09_Orange_PPC212_bass_edition_by_Shift_Line.wav`
+- `Bass Setup_Zuhause_orange/Orange NT2 drive1.wav`
+- `Bass Setup_Zuhause_orange/Orange NT2 drive2.wav`
+- `Bass Setup_Zuhause_orange/Orange NT2 drive3.wav`
+- `Bass Setup_Zuhause_orange/Orange NT2 drive4.wav`
+
+### Outras coleções (35)
+
+#### AFX (6)
+
+- `01_EBS_PL_410_by_Shift_Line.wav`
+- `03_TC_Electronic_BC410_by_Shift_Line.wav`
+- `05_Sunn_200s_by_Shift_Line.wav`
+- `06_Mesa_RR215_by_Shift_Line.wav`
+- `08_ElectroVoice_EVM12L_by_Shift_Line.wav`
+- `10_Celestion_V30_bass_edition_by_Shift_Line.wav`
+
+#### Bass Classics (1)
+
+- `11_Sunn_200s_Olympic_MkIIIS_edition2.wav`
+
+#### Bass Grafton (3)
+
+- `grafton bass deluxe.wav`
+- `grafton bass.wav`
+- `grafton standard.wav`
+
+#### Bass Hannover (2)
+
+- `hannover bass.wav`
+- `hannover classic se.wav`
+
+#### Bass Oakdale 2x12 (4)
+
+- `oakdale 2x12.wav`
+- `oakdale bass.wav`
+- `oakdale modified.wav`
+- `oakdale vintage.wav`
+
+#### Bass Peavey 4x10 (2)
+
+- `Peavey 4x10 big.wav`
+- `Peavey 4x10 close.wav`
+
+#### Bass Setup_dr_norton (2)
+
+- `Musicman_Hardtke_m69.wav`
+- `Musicman_Hardtke_mtg.wav`
+
+#### Bass Setup_Zuhause_Hiwatt (7)
+
+- `Hiwatt Br1-SM7 zuhause.wav`
+- `Hiwatt Br2-NT2 zuhause.wav`
+- `Hiwatt Br2-SM7 zuhause.wav`
+- `Hiwatt N1-NT2 zuhause.wav`
+- `Hiwatt N1-SM7 zuhause.wav`
+- `Hiwatt N2-NT2 zuhause.wav`
+- `Hiwatt N2-SM7 zuhause.wav`
+
+#### Laney LV412A (8)
+
+- `Laney LV412A AKG D112.wav`
+- `Laney LV412A Røde NT4 L.wav`
+- `Laney LV412A Røde NT4 R.wav`
+- `Laney LV412A Se4 Close.wav`
+- `Laney LV412A Se4 Far.wav`
+- `Laney LV412A SM57 1.wav`
+- `Laney LV412A SM57 2.wav`
+- `Laney LV412A TC1.wav`
+
+### Peavey (12)
+
+#### 115BX (12)
+
+- `Peavey 115BXBW B5 Left A 230 200 320.wav`
+- `Peavey 115BXBW B5 Right A 230 200 320.wav`
+- `Peavey 115BXBW BD300 A -10 19 -46.wav`
+- `Peavey 115BXBW D6 A 13 22 -45.wav`
+- `Peavey 115BXBW D11L HL A -3 -4 22.wav`
+- `Peavey 115BXBW Gemini 5 A 0 95 123.wav`
+- `Peavey 115BXBW NT1-A A 10 10 17.wav`
+- `Peavey 115BXBW SE4400a A -12 1 5.wav`
+- `Peavey 115BXBW SM57 A 0 0 1.wav`
+- `Peavey 115BXBW SM57 A 1 -10 0.wav`
+- `Peavey 115BXBW SM57 A 10 -18 0.wav`
+- `Peavey 115BXBW SM57 A -3 0 1 45.wav`
+
+### Science Amplification (51)
+
+#### Science Amps (51)
+
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 15PR400/Science 2x15 15PR400 MD421/Science 2x15 15PR400 MD421 0IN_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 15PR400/Science 2x15 15PR400 MD421/Science 2x15 15PR400 MD421 1IN_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 15PR400/Science 2x15 15PR400 MD421/Science 2x15 15PR400 MD421 2IN_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 15PR400/Science 2x15 15PR400 MD421/Science 2x15 15PR400 MD421 3IN_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 15PR400/Science 2x15 15PR400 MD421/Science 2x15 15PR400 MD421 Port_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 15PR400/Science 2x15 15PR400 SM57/Science 2x15 15PR400 SM57 0IN_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 15PR400/Science 2x15 15PR400 SM57/Science 2x15 15PR400 SM57 1IN_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 15PR400/Science 2x15 15PR400 SM57/Science 2x15 15PR400 SM57 2IN_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 15PR400/Science 2x15 15PR400 SM57/Science 2x15 15PR400 SM57 3IN_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 15PR400/Science 2x15 15PR400 SM57/Science 2x15 15PR400 SM57 Port_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 15PR400/Science 2x15 15PR400 U87/Science 2x15 15PR400 U87 0IN_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 15PR400/Science 2x15 15PR400 U87/Science 2x15 15PR400 U87 1IN_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 15PR400/Science 2x15 15PR400 U87/Science 2x15 15PR400 U87 2IN_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 15PR400/Science 2x15 15PR400 U87/Science 2x15 15PR400 U87 3IN_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 15PR400/Science 2x15 15PR400 U87/Science 2x15 15PR400 U87 Port_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 MD421/Science 2x15 3015 MD421 0in_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 MD421/Science 2x15 3015 MD421 1in_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 MD421/Science 2x15 3015 MD421 2in_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 MD421/Science 2x15 3015 MD421 3in_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 MD421/Science 2x15 3015 MD421 Port_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 RE20/Science 2x15 3015 RE20 0in_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 RE20/Science 2x15 3015 RE20 1in_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 RE20/Science 2x15 3015 RE20 2in_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 RE20/Science 2x15 3015 RE20 3in_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 RE20/Science 2x15 3015 RE20 Port_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 SM57/Science 2x15 3015 SM57 0in_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 SM57/Science 2x15 3015 SM57 1in_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 SM57/Science 2x15 3015 SM57 2in_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 SM57/Science 2x15 3015 SM57 3in_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 SM57/Science 2x15 3015 SM57 Port_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 U87/Science 2x15 3015 U87 0in_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 U87/Science 2x15 3015 U87 1in_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 U87/Science 2x15 3015 U87 2in_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 U87/Science 2x15 3015 U87 3in_dc.wav`
+- `Science Bass Cab IRs/Science 2x15/Science 2x15 3015/Science 2x15 3015 U87/Science 2x15 3015 U87 Port_dc.wav`
+- `Science Bass Cab IRs/Science 6x10/Science 6x10 SC10 MD421/Science 6x10 SC10 MD421 0in_dc.wav`
+- `Science Bass Cab IRs/Science 6x10/Science 6x10 SC10 MD421/Science 6x10 SC10 MD421 1in_dc.wav`
+- `Science Bass Cab IRs/Science 6x10/Science 6x10 SC10 MD421/Science 6x10 SC10 MD421 2in_dc.wav`
+- `Science Bass Cab IRs/Science 6x10/Science 6x10 SC10 MD421/Science 6x10 SC10 MD421 3in_dc.wav`
+- `Science Bass Cab IRs/Science 6x10/Science 6x10 SC10 RE-20/Science 6x10 SC10 RE-20 0in_dc.wav`
+- `Science Bass Cab IRs/Science 6x10/Science 6x10 SC10 RE-20/Science 6x10 SC10 RE-20 1in_dc.wav`
+- `Science Bass Cab IRs/Science 6x10/Science 6x10 SC10 RE-20/Science 6x10 SC10 RE-20 2in_dc.wav`
+- `Science Bass Cab IRs/Science 6x10/Science 6x10 SC10 RE-20/Science 6x10 SC10 RE-20 3in_dc.wav`
+- `Science Bass Cab IRs/Science 6x10/Science 6x10 SC10 SM57/Science 6x10 SC10 SM57 0in_dc.wav`
+- `Science Bass Cab IRs/Science 6x10/Science 6x10 SC10 SM57/Science 6x10 SC10 SM57 1in_dc.wav`
+- `Science Bass Cab IRs/Science 6x10/Science 6x10 SC10 SM57/Science 6x10 SC10 SM57 2in_dc.wav`
+- `Science Bass Cab IRs/Science 6x10/Science 6x10 SC10 SM57/Science 6x10 SC10 SM57 3in_dc.wav`
+- `Science Bass Cab IRs/Science 6x10/Science 6x10 SC10 U87/Science 6x10 SC10 U87 0in_dc.wav`
+- `Science Bass Cab IRs/Science 6x10/Science 6x10 SC10 U87/Science 6x10 SC10 U87 1in_dc.wav`
+- `Science Bass Cab IRs/Science 6x10/Science 6x10 SC10 U87/Science 6x10 SC10 U87 2in_dc.wav`
+- `Science Bass Cab IRs/Science 6x10/Science 6x10 SC10 U87/Science 6x10 SC10 U87 3in_dc.wav`
+
+### SWR (3)
+
+#### SWR 15 (3)
+
+- `SWR 15 441 Cent 48s.wav`
+- `SWR 15 441 edge - 6dB.wav`
+- `SWR 15 4050 48.wav`
+
+### Vox (12)
+
+#### T-25 (12)
+
+- `Vox T25 B5 Left A 230 200 320.wav`
+- `Vox T25 B5 Right A 230 200 320.wav`
+- `Vox T25 BD300 A 8 -5 -29.wav`
+- `Vox T25 D6 A -3 0 -28.wav`
+- `Vox T25 D11L HL A -5 5 24.wav`
+- `Vox T25 Gemini 5 A 0 95 123.wav`
+- `Vox T25 NT1-A A -1 13 7.wav`
+- `Vox T25 SE4400a A -2 -8 4.wav`
+- `Vox T25 SM57 A 0 0 2.wav`
+- `Vox T25 SM57 A 4 -5 1.wav`
+- `Vox T25 SM57 A 9 0 1.wav`
+- `Vox T25 SM57 A -3 0 2 45.wav`
+
+
+## Violão (97)
+
+### Alvarez (6)
+
+#### ABT-60 Baritone (6)
+
+- `IR_Alvarez_ABT_60_Baritone_BB44100.wav`
+- `IR_Alvarez_ABT_60_Baritone_BB44100_Match1.wav`
+- `IR_Alvarez_ABT_60_Baritone_BB44100_Match2.wav`
+- `IR_Alvarez_ABT_60_Baritone_SM44100.wav`
+- `IR_Alvarez_ABT_60_Baritone_SM44100_Match1.wav`
+- `IR_Alvarez_ABT_60_Baritone_SM44100_Match2.wav`
+
+### Coleção D-TAR (16)
+
+#### Acoustic Shapes (16)
+
+- `Acoustic Impulses/From Peter/001_Dtar_parlor.wav`
+- `Acoustic Impulses/From Peter/002_Dtar_finger.wav`
+- `Acoustic Impulses/From Peter/003_Dtar_blues.wav`
+- `Acoustic Impulses/From Peter/004_Dtar_mag.wav`
+- `Acoustic Impulses/From Peter/005_Dtar_ros.wav`
+- `Acoustic Impulses/From Peter/006_Dtar_btq_finger.wav`
+- `Acoustic Impulses/From Peter/007_Dtar_dread.wav`
+- `Acoustic Impulses/From Peter/008_Dtar_GrAud.wav`
+- `Acoustic Impulses/From Peter/009_Dtar_slope_jumbo.wav`
+- `Acoustic Impulses/From Peter/010_Dtar_mah_dread.wav`
+- `Acoustic Impulses/From Peter/011_Dtar_ros_dread.wav`
+- `Acoustic Impulses/From Peter/012_Dtar_sup_jumbo.wav`
+- `Acoustic Impulses/From Peter/013_Dtar_hollow_arch_jazz.wav`
+- `Acoustic Impulses/From Peter/014_Dtar_gypsy_jazz.wav`
+- `Acoustic Impulses/From Peter/015_Dtar_blues_res.wav`
+- `Acoustic Impulses/From Peter/016_Dtar_tricone_res.wav`
+
+### Collings (10)
+
+#### D2H e OM2HA (10)
+
+- `01 - Collings D2H - DPA 4011.wav`
+- `Acoustic Impulses/Collings D2H/Collings D2H - DPA 4011.wav`
+- `Acoustic Impulses/Collings D2H/Collings D2H - Neumann KM84.wav`
+- `Acoustic Impulses/Collings D2H/Collings D2H - Neumann M147.wav`
+- `Acoustic Impulses/Collings D2H/Collings D2H - Sanken CU31.wav`
+- `Acoustic Impulses/Collings D2H/Collings OM2HA - AKG CS1000.wav`
+- `Acoustic Impulses/Collings D2H/Collings OM2HA - DPA 4011.wav`
+- `Acoustic Impulses/Collings D2H/Collings OM2HA - Schoeps CMC64G-XY.wav`
+- `Acoustic Impulses/Collings D2H/Collings OM2HA - Schoeps CMC64G.wav`
+- `Acoustic Impulses/Collings D2H/Collings OM2HA - Soundelux E47.wav`
+
+### Gibson (22)
+
+#### Hummingbird (5)
+
+- `Acoustic Impulses/Hummingbird/Hummingbird - DPA 4011-44k.wav`
+- `Acoustic Impulses/Hummingbird/Hummingbird - DPA 4011.wav`
+- `Acoustic Impulses/Hummingbird/Hummingbird - Neumann M147.wav`
+- `Acoustic Impulses/Hummingbird/Hummingbird - Shure Beta 58A.wav`
+- `Acoustic Impulses/Hummingbird/Hummingbird - Soundelux E47.wav`
+
+#### J-45 (4)
+
+- `Acoustic Impulses/J45/J45 - AKG CS1000.wav`
+- `Acoustic Impulses/J45/J45 - DPA 4011.wav`
+- `Acoustic Impulses/J45/J45 - Neumann M147.wav`
+- `Acoustic Impulses/J45/J45 - Soundelux E47.wav`
+
+#### J-200 Jumbo (10)
+
+- `Gibson J200 Jumbo/ACC JUMBO J200 01 MONO.wav`
+- `Gibson J200 Jumbo/ACC JUMBO J200 01 STEREO.wav`
+- `Gibson J200 Jumbo/ACC JUMBO J200 02 MONO.wav`
+- `Gibson J200 Jumbo/ACC JUMBO J200 02 STEREO.wav`
+- `Gibson J200 Jumbo/ACC JUMBO J200 03 MONO.wav`
+- `Gibson J200 Jumbo/ACC JUMBO J200 03 STEREO.wav`
+- `Gibson J200 Jumbo/ACC JUMBO J200 04 MONO.wav`
+- `Gibson J200 Jumbo/ACC JUMBO J200 04 STEREO.wav`
+- `Gibson J200 Jumbo/ACC JUMBO J200 05 MONO.wav`
+- `Gibson J200 Jumbo/ACC JUMBO J200 05 STEREO.wav`
+
+#### Wayne Benson Mandolin (3)
+
+- `Acoustic Impulses/Mandolin/Mandolin - Gibson Wayne Benson - DPA 4011.wav`
+- `Acoustic Impulses/Mandolin/Mandolin - Gibson Wayne Benson - Neumann M147.wav`
+- `Acoustic Impulses/Mandolin/Mandolin - Gibson Wayne Benson - Soundelux E47.wav`
+
+### LAVA (4)
+
+#### LAVA Nylon (4)
+
+- `ACC LAVA NYLON 01 MONO.wav`
+- `ACC LAVA NYLON 01 STEREO.wav`
+- `ACC LAVA NYLON 02 MONO.wav`
+- `ACC LAVA NYLON 02 STEREO.wav`
+
+### Martin (6)
+
+#### HD-28 (6)
+
+- `02 - MARTIN ACOUSTIC GUITAR DRG.wav`
+- `Acoustic Impulses/HD28/HD28 - AKG C414B-XLS.wav`
+- `Acoustic Impulses/HD28/HD28 - Neumann U47.wav`
+- `Acoustic Impulses/HD28/HD28 - Neumann U87.wav`
+- `Acoustic Impulses/HD28/HD28 - Schoeps CMC64G.wav`
+- `Acoustic Impulses/HD28/HD28 - Soundelux E47.wav`
+
+### Nylon (6)
+
+#### Violão clássico e Nylon Essentials (6)
+
+- `Acoustic Impulses/Classical/Classical - AmBu2F - AKG CS1000.wav`
+- `Acoustic Impulses/Classical/Classical - AmBu2F - DPA 4011.wav`
+- `Acoustic Impulses/Classical/Classical - AmBu2F - Neumann M147.wav`
+- `Nylon 1.wav`
+- `Nylon 2.wav`
+- `Nylon 3.wav`
+
+### Samick (15)
+
+#### JZ4 (15)
+
+- `ACC JZ4 01 MONO.wav`
+- `ACC JZ4 01 STEREO.wav`
+- `ACC JZ4 02 MONO.wav`
+- `ACC JZ4 02 STEREO.wav`
+- `ACC JZ4 03 STEREO.wav`
+- `ACC JZ4 04 MONO.wav`
+- `ACC JZ4 04 STEREO.wav`
+- `ACC JZ4 05 MONO.wav`
+- `ACC JZ4 05 STEREO.wav`
+- `ACC JZ4 06 MONO.wav`
+- `ACC JZ4 06 STEREO.wav`
+- `ACC JZ4 07 MONO.wav`
+- `ACC JZ4 07 STEREO.wav`
+- `ACC JZ4 08 MONO.wav`
+- `ACC JZ4 08 STEREO.wav`
+
+### Taylor (12)
+
+#### 314ce (8)
+
+- `03 - Taylor 314 ACOUSTIC GUITAR DRG.wav`
+- `Acoustic Impulses/Taylor 314ce/Taylor 314ce - DPA 4011.wav`
+- `Acoustic Impulses/Taylor 314ce/Taylor 314ce - Earthworks QTC30.wav`
+- `Acoustic Impulses/Taylor 314ce/Taylor 314ce - Neumann M147.wav`
+- `Acoustic Impulses/Taylor 314ce/Taylor 314ce - Neumann U87.wav`
+- `Acoustic Impulses/Taylor 314ce/Taylor 314ce - Scheops CMC64G.wav`
+- `Acoustic Impulses/Taylor 314ce/Taylor 314ce - Shure SM57.wav`
+- `Acoustic Impulses/Taylor 314ce/Taylor 314ce - Soundelux E47.wav`
+
+#### 814 (4)
+
+- `Acoustic Impulses/Taylor 814/Taylor 814 - DPA 4011.wav`
+- `Acoustic Impulses/Taylor 814/Taylor 814 - Neumann KM84.wav`
+- `Acoustic Impulses/Taylor 814/Taylor 814 - Neumann U87.wav`
+- `Acoustic Impulses/Taylor 814/Taylor 814 - Shure SM57.wav`
+
+
+## Meus IRS (8)
+
+### Arquivos avulsos (8)
+
+- `01 - Collings D2H - DPA 4011.wav`
+- `02 - MARTIN ACOUSTIC GUITAR DRG.wav`
+- `03 - Taylor 314 ACOUSTIC GUITAR DRG.wav`
+- `04 - Allure_59_Tweed_P10N.wav`
+- `05 - Bogner 1 2x12 SPKR 1 position 2.wav`
+- `06 - Diezel 2 4x12 SPKR 1 position 2.wav`
+- `07 - Mesa 4x12 SPKR 2 position 1.wav`
+- `08 - Mesa 4x12 SPKR 2 position 2.wav`
