@@ -1,0 +1,1 @@
+(() => { const c = window.NEW_PRODUCTS_CONFIG || {}; document.querySelectorAll('.js-price').forEach((el) => el.textContent = c.price || '[PRECO]'); document.querySelectorAll('.js-buy').forEach((el) => { if (c.checkout && c.checkout !== '[LINK_HOTMART]') { el.href = c.checkout; el.removeAttribute('aria-disabled'); el.textContent = 'Quero acessar'; } }); })();
