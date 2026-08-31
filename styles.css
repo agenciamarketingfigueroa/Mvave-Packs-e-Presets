@@ -708,6 +708,8 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
 .download-card-copy h2 { max-width: 740px; margin: 0; font-size: clamp(2rem, 4vw, 3.65rem); }
 .download-card-action { display: flex; align-items: center; justify-content: space-between; gap: 20px; margin-top: 28px; padding-top: 18px; border-top: 1px solid rgba(8,10,15,.1); color: #536071; font: 800 11px "Manrope", sans-serif; }
 .download-hub-completo .download-card-action { border-color: rgba(255,255,255,.12); color: #c2c8d2; }
+.download-hub-software { grid-column: 1 / -1; min-height: 330px; background: linear-gradient(135deg, #edf3ff, #fff); }
+.download-hub-software .download-card-wave i { background: var(--amber); }
 .download-card-action svg { width: 19px; transition: transform .2s; }
 .download-hub-card:hover .download-card-action svg { transform: translateX(5px); }
 .download-main-section { padding: 40px 0 85px; background: #e9edf4; }
@@ -757,6 +759,41 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
 .download-model-action svg { width: 13px; }
 .download-empty { padding: 65px 25px; border: 1px dashed #c9ced6; border-radius: 18px; text-align: center; }
 .download-empty p { margin: 7px 0 0; color: var(--muted-dark); }
+.download-software-page .download-library-section { padding-top: 70px; }
+.download-security-note { display: flex; align-items: flex-start; gap: 15px; margin-bottom: 70px; padding: 19px 21px; border: 1px solid #c8ddcf; border-radius: 16px; background: #eff9f2; }
+.download-security-note > span { width: 31px; height: 31px; display: grid; place-items: center; flex: 0 0 auto; border-radius: 50%; background: #278d51; color: #fff; font-weight: 900; }
+.download-security-note strong { display: block; margin-bottom: 4px; }
+.download-security-note p { margin: 0; color: #52655a; font-size: 12px; }
+.download-security-note a { display: inline-block; margin: 8px 16px 0 0; color: #1e7141; font-size: 11px; font-weight: 800; }
+.download-software-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+.download-software-card { min-height: 650px; display: flex; flex-direction: column; padding: 28px; border: 1px solid rgba(8,10,15,.11); border-radius: 22px; background: #fff; }
+.download-software-card:first-child { grid-column: 1 / -1; }
+.download-software-top { display: flex; align-items: center; gap: 17px; }
+.download-software-top h2 { margin: 5px 0 0; font-size: 2rem; }
+.download-software-code { width: 57px; height: 57px; display: grid; place-items: center; flex: 0 0 auto; border-radius: 15px; background: var(--ink); color: var(--amber); font: 900 9px "Manrope", sans-serif; letter-spacing: .05em; }
+.download-software-devices { min-height: 60px; margin: 28px 0; color: var(--muted-dark); }
+.download-software-card dl { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 0; padding-top: 20px; border-top: 1px solid var(--line-dark); }
+.download-software-card dt, .download-software-integrity span { color: #8b929d; font: 800 8px "Manrope", sans-serif; letter-spacing: .1em; text-transform: uppercase; }
+.download-software-card dd { margin: 6px 0 0; font-size: 12px; font-weight: 700; }
+.download-software-card dd small { display: block; margin-top: 4px; color: #78808b; font-size: 9px; }
+.download-software-platforms { display: grid; gap: 8px; margin-top: 20px; }
+.download-software-platform { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 14px; padding: 13px; border: 1px solid #dfe3e9; border-radius: 12px; background: #f7f8fa; }
+.download-software-platform > div { min-width: 0; }
+.download-software-platform strong, .download-software-platform small { display: block; }
+.download-software-platform strong { margin-bottom: 4px; font: 800 11px "Manrope", sans-serif; }
+.download-software-platform small { color: #727b88; font-size: 9px; line-height: 1.45; }
+.download-software-platform .btn { min-height: 40px; padding: 0 13px; font-size: 9px; }
+.download-software-unavailable { border-style: dashed; background: #fafafa; }
+.download-software-unavailable > span { color: #9198a2; font: 800 8px "Manrope", sans-serif; letter-spacing: .08em; text-transform: uppercase; }
+.download-software-integrity { display: grid; gap: 7px; margin: 22px 0; }
+.download-software-integrity code { padding: 12px; overflow-wrap: anywhere; border-radius: 9px; background: #f1f3f6; color: #4a5361; font-size: 9px; line-height: 1.5; }
+.download-software-integrity p { margin: 0; color: var(--muted-dark); font-size: 10px; }
+.download-software-source { display: inline-flex; margin-top: auto; }
+.download-software-actions { display: flex; align-items: center; justify-content: space-between; gap: 14px; margin-top: auto; }
+.download-software-actions .btn { min-height: 45px; padding: 0 16px; font-size: 11px; }
+.download-mobile-note { display: flex; align-items: center; justify-content: space-between; gap: 35px; margin-top: 16px; padding: 30px; border: 1px solid #d0d7e2; border-radius: 20px; background: #e9edf4; }
+.download-mobile-note h2 { margin: 8px 0; }
+.download-mobile-note p { max-width: 720px; margin: 0; color: var(--muted-dark); }
 
 .coming { position: relative; min-height: calc(100vh - 36px); display: grid; place-items: center; overflow: hidden; padding: 190px 0 100px; background: var(--ink); color: var(--white); text-align: center; }
 .coming::before { content: ""; position: absolute; inset: 20% -15%; opacity: .9; background: radial-gradient(circle at center, rgba(54,119,255,.3), transparent 45%); }
@@ -908,6 +945,8 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
   .download-system-card, .download-pack-display { width: min(100%, 560px); }
   .download-hub-heading, .download-library-heading { align-items: flex-start; flex-direction: column; }
   .download-model-grid { grid-template-columns: 1fr 1fr; }
+  .download-software-grid { grid-template-columns: 1fr; }
+  .download-software-card:first-child { grid-column: auto; }
   .download-primary { grid-template-columns: auto 1fr; }
   .download-primary-action { grid-column: 1 / -1; justify-items: start; }
   .download-alternatives { grid-template-columns: 1fr; }
@@ -1052,6 +1091,12 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
   .download-toolbar { position: static; grid-template-columns: 1fr; }
   .download-model-grid { grid-template-columns: 1fr; }
   .download-model-card { min-height: 255px; }
+  .download-software-card { min-height: 420px; padding: 23px; }
+  .download-software-card dl { grid-template-columns: 1fr; }
+  .download-software-platform { grid-template-columns: 1fr; }
+  .download-software-platform .btn { width: 100%; }
+  .download-software-actions, .download-mobile-note { align-items: stretch; flex-direction: column; }
+  .download-software-actions .btn, .download-mobile-note .btn { width: 100%; }
   .contact-grid { grid-template-columns: 1fr; }
   .support-hero { min-height: 520px; padding: 160px 0 72px; }
   .support-shell h1 { font-size: clamp(3.05rem, 15vw, 4.2rem); }

@@ -1,0 +1,8 @@
+# Pacotes macOS obtidos pelos links publicados em https://www.m-vave.com/appdownload
+# Revisão: 2026-08-31
+# M-EFCS é instalado pela Mac App Store e não possui pacote local.
+
+e60998896a1d6d7aa3fb813ee522ffa6b1f12b6256f0439e131ce9dd1905ca46  CubeSuite-oficial.dmg
+47a08093b1398a781146169743431881d31bb808b1a63781c0d119ff840dba32  M-UPGRADE-oficial.dmg
+1a887e3466f8c9d9a6a12f9cb1b21f081739d3a2cba9922bdd9ba5d54414066d  MidiSuite-latest-oficial.dmg
+a65cccd91cff7b5a93499f75e5f88aa5bcc75896288afdf8351968f8aef2ec4d  ANNlab-V2.0-oficial.zip

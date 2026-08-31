@@ -1,0 +1,18 @@
+SOFTWARE E ATUALIZAÇÕES — LEIA ANTES DE INSTALAR
+
+Este pack não inclui cópias locais de programas ou firmwares.
+Elas ficam desatualizadas e uma versão incorreta pode causar falhas no equipamento.
+
+Para identificar seu produto e acessar os links corretos e mais recentes, visite:
+
+https://mvave.com.br/atualizacoes/
+
+Antes de atualizar:
+1. Confirme o nome e a revisão exata do equipamento.
+2. Faça backup dos presets e configurações.
+3. Use um cabo USB de dados e alimentação estável.
+4. Não interrompa o processo.
+5. Não use firmware de um modelo parecido.
+
+A M-Vave BR é uma curadoria independente e não representa a fabricante M-Vave.
+Os downloads indicados em nossa página levam aos canais oficiais da fabricante.

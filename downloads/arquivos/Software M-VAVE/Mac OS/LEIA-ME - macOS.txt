@@ -1,0 +1,23 @@
+SOFTWARE M-VAVE PARA macOS
+Revisado em 31/08/2026
+
+1. CubeSuite, MidiSuite e M-UPGRADE
+Abra o arquivo DMG, siga a instalação apresentada pelo macOS e mantenha o aplicativo completo. Use somente com os produtos listados no portal oficial.
+
+2. M-EFCS
+A fabricante distribui a versão para Mac pela App Store. Abra o arquivo "M-EFCS - Mac App Store.webloc" para acessar a página oficial. Requer macOS 10.15 ou mais recente, conforme a Apple.
+
+3. ANNlab V2.0
+O ZIP oficial é combinado. A pasta "Mac OS" contém os componentes AU e VST3 para Mac. A versão interna identificada é 1.1.0.
+
+4. Sinco Connector
+Não há versão para macOS publicada no portal oficial. O utilitário é exclusivo para Windows 10/11.
+
+CUIDADOS
+- Confirme o modelo e a revisão exatos do equipamento.
+- Faça backup dos presets antes de atualizar firmware.
+- Use cabo USB de dados e conexão direta ao Mac.
+- Não desative o Gatekeeper nem use comandos para remover proteções do macOS.
+- Se o sistema bloquear um aplicativo, confirme novamente a origem oficial antes de prosseguir.
+
+Fonte: https://www.m-vave.com/appdownload

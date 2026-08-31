@@ -105,6 +105,114 @@ export const SOFTWARE_ITEMS = [
   }
 ];
 
+export const DOWNLOAD_SOFTWARE_ITEMS = [
+  {
+    name: "CubeSuite",
+    code: "CUBE",
+    kind: "Editor de pedais e controladores",
+    version: "Publicação oficial atual",
+    devices: "Cube Baby, Cube Baby AC/Bass, H8, IR Box, IMPULSE-R, loopers e Chocolate",
+    format: "ZIP portátil",
+    tamanho_bytes: 14785970,
+    sha256: "d9a1add312ae3fa82f93fefd32a723e541536dd7ed9b2434db364fe8c5a17423",
+    arquivo: "Software M-VAVE/Windows/CubeSuite-oficial.zip",
+    mac: {
+      format: "DMG",
+      tamanho_bytes: 22763381,
+      sha256: "e60998896a1d6d7aa3fb813ee522ffa6b1f12b6256f0439e131ce9dd1905ca46",
+      arquivo: "Software M-VAVE/Mac OS/CubeSuite-oficial.dmg"
+    },
+    official: "https://www.m-vave.com/appdownload"
+  },
+  {
+    name: "M-EFCS",
+    code: "EFCS",
+    kind: "Editor de pedaleiras e processadores",
+    version: "3.7.1319",
+    devices: "TANK-G/B, BLACKBOX, STATION-G/B, TANK MINI, POCKET AMP, SP100, MK-300 e MK-20",
+    format: "ZIP portátil",
+    tamanho_bytes: 146577055,
+    sha256: "541748b172e0f71e2eeb7a0e83c2a004ffd77a311e7d0a11c0fa3f7737a66b36",
+    url: "https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/pc/M-EFCS.zip?x-oss-traffic-limit=5192000",
+    mac: {
+      format: "Mac App Store",
+      version: "3.7.1411",
+      note: "macOS 10.15 ou mais recente",
+      url: "https://apps.apple.com/br/app/m-efcs/id6470352068"
+    },
+    official: "https://www.m-vave.com/appdownload"
+  },
+  {
+    name: "MidiSuite",
+    code: "MIDI",
+    kind: "Editor de controladores MIDI",
+    version: "1.12.0",
+    devices: "Chocolate/FootCtrl, SMC-PAD/Mixer, SMK, VMK, VMP, VMX, IR Box e IMPULSE-R",
+    format: "ZIP portátil",
+    tamanho_bytes: 15892507,
+    sha256: "494ee5bf82b3d35656310bb046a9069d75293088ec62e502f74e3c8b167d9e0d",
+    arquivo: "Software M-VAVE/Windows/MidiSuite-latest-oficial.zip",
+    mac: {
+      format: "DMG",
+      tamanho_bytes: 26483511,
+      sha256: "1a887e3466f8c9d9a6a12f9cb1b21f081739d3a2cba9922bdd9ba5d54414066d",
+      arquivo: "Software M-VAVE/Mac OS/MidiSuite-latest-oficial.dmg"
+    },
+    official: "https://www.m-vave.com/appdownload"
+  },
+  {
+    name: "M-UPGRADE",
+    code: "UP",
+    kind: "Atualizador de firmware",
+    version: "Publicação oficial atual",
+    devices: "Produtos com firmware de computador listado pela M-VAVE",
+    format: "ZIP portátil",
+    tamanho_bytes: 23596336,
+    sha256: "4065124e7488f397d7b3f9356d184cc5b1dd7c77ede4f1338867ee31765fdb0a",
+    arquivo: "Software M-VAVE/Windows/M-UPGRADE-oficial.zip",
+    mac: {
+      format: "DMG",
+      tamanho_bytes: 58541828,
+      sha256: "47a08093b1398a781146169743431881d31bb808b1a63781c0d119ff840dba32",
+      arquivo: "Software M-VAVE/Mac OS/M-UPGRADE-oficial.dmg"
+    },
+    official: "https://www.m-vave.com/appdownload"
+  },
+  {
+    name: "Sinco Connector",
+    code: "BLE",
+    kind: "Conector Bluetooth MIDI",
+    version: "1.0.0",
+    devices: "Chocolate/FootCtrl, SMK, SMC-Mixer/PAD e MKE-P37 no Windows 10/11",
+    format: "EXE",
+    tamanho_bytes: 2820323,
+    sha256: "41a774ad51f7c0fcd058a6d963c745ff26c645b87f4a25e765765a53b44b5eb0",
+    arquivo: "Software M-VAVE/Windows/Sinco-Connector-oficial.exe",
+    mac_note: "Sem versão para macOS publicada pela fabricante.",
+    official: "https://www.m-vave.com/appdownload"
+  },
+  {
+    name: "ANNlab",
+    code: "ANN",
+    kind: "Editor e treinamento de modelos ANN",
+    version: "V2.0 no portal · EXE 1.1.0",
+    devices: "Linha ANN e produtos indicados oficialmente como compatíveis com a tecnologia ANN",
+    format: "ZIP",
+    tamanho_bytes: 54495859,
+    sha256: "a65cccd91cff7b5a93499f75e5f88aa5bcc75896288afdf8351968f8aef2ec4d",
+    arquivo: "Software M-VAVE/Windows/ANNlab-V2.0-oficial.zip",
+    mac: {
+      format: "ZIP combinado",
+      version: "V2.0 no portal · componente 1.1.0",
+      tamanho_bytes: 54495859,
+      sha256: "a65cccd91cff7b5a93499f75e5f88aa5bcc75896288afdf8351968f8aef2ec4d",
+      arquivo: "Software M-VAVE/Mac OS/ANNlab-V2.0-oficial.zip",
+      note: "Inclui componentes AU e VST3 na pasta Mac OS"
+    },
+    official: "https://www.m-vave.com/appdownload"
+  }
+];
+
 export const FIRMWARE_ITEMS = [
   ["TANK-G", "V97", "31/01/2026", "M-UPGRADE", "https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/firmware/TANK-G.fwsc"],
   ["TANK-B", "V99", "31/01/2026", "M-UPGRADE", "https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/firmware/TANK-B.fwsc"],
