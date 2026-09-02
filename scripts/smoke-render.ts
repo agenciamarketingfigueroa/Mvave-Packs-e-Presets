@@ -1,7 +1,7 @@
 const routes = [
   "/", "/equipamentos/", "/equipamentos/chocolate/", "/equipamentos/cube-baby/",
   "/loja/", "/preview/", "/encontre-seu-setup/", "/comparar/", "/ferramentas/",
-  "/compatibilidade/", "/atualizacoes/como-atualizar/", "/suporte/"
+  "/compatibilidade/", "/atualizacoes/como-atualizar/", "/downloads/software/", "/suporte/"
 ];
 
 function node() {
@@ -33,6 +33,7 @@ for (let index = 0; index < routes.length; index += 1) {
   if (!app.innerHTML.includes("<main")) throw new Error("Route did not render: " + path);
   if (path === "/preview/" && !app.innerHTML.includes("Prévia não listada")) throw new Error("Unlisted preview unavailable: " + path);
   if (path === "/loja/" && (app.innerHTML.includes("Prévia não listada") || !app.innerHTML.includes("href='/loja/'"))) throw new Error("Listed store unavailable: " + path);
+  if (path === "/downloads/software/" && (!app.innerHTML.includes("Qual software M-VAVE usar?") || !app.innerHTML.includes("id='software-cube'"))) throw new Error("Public software download page unavailable: " + path);
   if (app.innerHTML.includes("api.whatsapp.com") || app.innerHTML.includes("5531999427901")) throw new Error("Public contact leak at: " + path);
   console.log("ok", path, documentMock.title);
 }
