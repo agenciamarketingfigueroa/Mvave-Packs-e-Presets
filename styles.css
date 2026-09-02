@@ -1424,3 +1424,53 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin-bottom: 12px; }
 @media (max-width:380px) {
   .store-grid .equipment-card-actions { grid-template-columns:1fr; }
 }
+
+/* Static access gate for the private download area. */
+.download-auth-pending body { visibility:hidden; }
+.download-auth-locked { overflow:hidden; }
+.download-auth-locked body { overflow:hidden; visibility:visible; }
+.download-auth-locked body> :not(.download-auth-gate) { visibility:hidden; }
+.download-auth-gate { position:fixed; z-index:10000; inset:0; display:grid; place-items:center; overflow:auto; padding:28px; background:radial-gradient(circle at 82% 18%,rgba(54,119,255,.22),transparent 31%),#080a0f; color:#fff; transition:opacity .26s ease,transform .26s ease; }
+.download-auth-gate::before { content:""; position:fixed; inset:0; pointer-events:none; opacity:.22; background-image:linear-gradient(rgba(255,255,255,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.04) 1px,transparent 1px); background-size:34px 34px; mask-image:linear-gradient(to bottom,#000,transparent 78%); }
+.download-auth-granted { opacity:0; transform:scale(1.015); }
+.download-auth-shell { position:relative; display:grid; grid-template-columns:minmax(0,530px) minmax(320px,430px); width:min(100%,960px); overflow:hidden; border:1px solid rgba(255,255,255,.14); border-radius:28px; background:#11151d; box-shadow:0 35px 100px rgba(0,0,0,.48); }
+.download-auth-card { padding:58px 60px; background:#f8f7f2; color:#080a0f; }
+.download-auth-brand { display:flex; align-items:center; gap:11px; margin-bottom:48px; font:800 15px "Manrope",sans-serif; letter-spacing:.08em; }
+.download-auth-brand>span { display:grid; place-items:center; width:40px; height:40px; border-radius:11px; background:#080a0f; color:#f3c94f; font-size:10px; }
+.download-auth-brand i { color:#3677ff; font-style:normal; }
+.download-auth-status { float:right; display:flex; align-items:center; gap:7px; margin-top:-78px; color:#737b87; font:800 8px "Manrope",sans-serif; letter-spacing:.1em; }
+.download-auth-status i { width:7px; height:7px; border-radius:50%; background:#f3c94f; box-shadow:0 0 0 4px rgba(243,201,79,.17); }
+.download-auth-kicker { color:#3677ff; font:800 9px "Manrope",sans-serif; letter-spacing:.13em; text-transform:uppercase; }
+.download-auth-card h1 { max-width:410px; margin:10px 0 13px; font:800 clamp(2.45rem,5vw,4.2rem)/.96 "Manrope",sans-serif; letter-spacing:-.06em; }
+.download-auth-card>p { max-width:390px; margin:0 0 30px; color:#626b78; font-size:13px; line-height:1.65; }
+.download-auth-form { display:grid; gap:17px; }
+.download-auth-form label>span { display:block; margin:0 0 7px 3px; color:#515a67; font:800 9px "Manrope",sans-serif; letter-spacing:.09em; text-transform:uppercase; }
+.download-auth-form input { width:100%; height:54px; padding:0 16px; border:1px solid #cfd4dc; border-radius:12px; outline:0; background:#fff; color:#080a0f; font:700 14px "DM Sans",sans-serif; }
+.download-auth-form input:focus { border-color:#3677ff; box-shadow:0 0 0 4px rgba(54,119,255,.11); }
+.download-auth-form button { display:flex; align-items:center; justify-content:space-between; width:100%; min-height:56px; margin-top:3px; padding:0 19px; border:0; border-radius:12px; background:#3677ff; color:#fff; cursor:pointer; font:800 11px "Manrope",sans-serif; letter-spacing:.015em; }
+.download-auth-form button:hover { background:#2465ec; }
+.download-auth-form button:focus-visible { outline:3px solid rgba(54,119,255,.3); outline-offset:3px; }
+.download-auth-form button:disabled { cursor:wait; opacity:.7; }
+.download-auth-error { min-height:18px; margin:-4px 1px -5px; color:#b52b35; font-size:11px; font-weight:700; }
+.download-auth-card>small { display:block; margin-top:19px; color:#858d98; font-size:9px; line-height:1.55; }
+.download-auth-art { display:flex; flex-direction:column; min-height:650px; padding:32px; background:linear-gradient(155deg,#192131,#0a0d13 68%); }
+.download-auth-art-top,.download-auth-art-foot { display:flex; justify-content:space-between; color:#8d98aa; font:800 8px "Manrope",sans-serif; letter-spacing:.11em; }
+.download-auth-art-top i { color:#f3c94f; font-style:normal; }
+.download-auth-art>strong { margin:auto 0 12px; color:#fff; font:800 clamp(5rem,11vw,8rem)/1 "Manrope",sans-serif; letter-spacing:-.09em; }
+.download-auth-bars { display:flex; align-items:center; gap:7px; height:100px; margin-bottom:auto; }
+.download-auth-bars i { flex:1; height:var(--bar); min-height:10px; border-radius:99px; background:linear-gradient(to top,#3677ff,#65d5ff); opacity:.8; }
+.download-auth-art-foot { padding-top:24px; border-top:1px solid rgba(255,255,255,.12); }
+@media (max-width:800px) {
+  .download-auth-gate { display:block; padding:18px; }
+  .download-auth-shell { display:block; max-width:540px; margin:0 auto; border-radius:22px; }
+  .download-auth-card { padding:38px 30px; }
+  .download-auth-brand { margin-bottom:40px; }
+  .download-auth-art { display:none; }
+}
+@media (max-width:420px) {
+  .download-auth-gate { padding:0; background:#f8f7f2; }
+  .download-auth-shell { min-height:100%; border:0; border-radius:0; }
+  .download-auth-card { min-height:100vh; padding:30px 22px; }
+  .download-auth-card h1 { font-size:2.75rem; }
+  .download-auth-status { display:none; }
+}
