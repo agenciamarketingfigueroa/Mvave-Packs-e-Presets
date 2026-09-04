@@ -171,6 +171,17 @@ function seoConfig(route, parts, productRoute) {
     "politica-privacidade": ["Política de Privacidade | M-Vave BR", "Saiba como a M-Vave BR trata informações de contato, dados relacionados às compras, cookies e solicitações de privacidade.", "/politica-privacidade/"]
   };
 
+  if (route === "downloads" && parts[1] === "software") {
+    return {
+      title: "Software M-VAVE: CubeSuite, M-EFCS e Mais | Download",
+      description: "Baixe softwares M-VAVE para Windows e macOS: CubeSuite, M-EFCS, MidiSuite, M-UPGRADE, Sinco Connector e ANNlab, com versões e integridade verificadas.",
+      path: "/downloads/software/",
+      type: "website",
+      softwareCollection: true,
+      imageAlt: "Pedais e equipamentos compatíveis com os softwares M-VAVE"
+    };
+  }
+
   if (route === "downloads") {
     const scope = ["completo", "guitarra", "baixo", "violao"].includes(parts[1]) ? parts[1] : "";
     const label = scope ? products[scope].label : "Central de Downloads";
@@ -231,7 +242,7 @@ function applySeo(config, article) {
   upsertMeta("property", "og:image", SEO_IMAGE);
   upsertMeta("property", "og:image:width", "1672");
   upsertMeta("property", "og:image:height", "941");
-  upsertMeta("property", "og:image:alt", "Equipamentos compatíveis com os packs de Impulse Responses da M-Vave BR");
+  upsertMeta("property", "og:image:alt", config.imageAlt || "Equipamentos compatíveis com os packs de Impulse Responses da M-Vave BR");
   upsertMeta("name", "twitter:card", "summary_large_image");
   upsertMeta("name", "twitter:title", config.title);
   upsertMeta("name", "twitter:description", config.description);
@@ -260,6 +271,33 @@ function applySeo(config, article) {
   }
 
   if (config.product) graph.push(productSchema(config.product, canonical));
+  if (config.softwareCollection) {
+    graph.push({
+      "@type": "CollectionPage",
+      "@id": canonical + "#collection",
+      name: config.title.replace(/ \|.*$/, ""),
+      description: config.description,
+      url: canonical,
+      inLanguage: "pt-BR",
+      mainEntity: {
+        "@type": "ItemList",
+        numberOfItems: DOWNLOAD_SOFTWARE_ITEMS.length,
+        itemListElement: DOWNLOAD_SOFTWARE_ITEMS.map(function(item, index) {
+          return {
+            "@type": "ListItem",
+            position: index + 1,
+            url: canonical + "#software-" + item.code.toLowerCase(),
+            item: {
+              "@type": "SoftwareApplication",
+              name: item.name,
+              applicationCategory: item.kind,
+              operatingSystem: item.mac ? "Windows, macOS" : "Windows"
+            }
+          };
+        })
+      }
+    });
+  }
   if (config.path === "/conteudos/" && !article) {
     graph.push({
       "@type": "CollectionPage",
@@ -1007,11 +1045,15 @@ function faqs(extraNylon) {
   }).join("") + "</div>";
 }
 
+function homeSoftwareSpotlight() {
+  return "<section class='home-software-spotlight' aria-labelledby='home-software-title'><div class='container'><div class='home-software-card'><div class='home-software-copy'><span class='eyebrow'>Downloads públicos · Windows e macOS</span><h2 id='home-software-title'>O software certo para o seu M-VAVE.</h2><p>Baixe CubeSuite, M-EFCS, MidiSuite, M-UPGRADE, Sinco Connector e ANNlab em uma página organizada por equipamento e sistema.</p>" + button("Abrir central de softwares", "/downloads/software/", "btn-dark", false) + "</div><div class='home-software-tools' aria-label='Softwares disponíveis'><span><strong>CubeSuite</strong><small>Pedais e IR loaders</small></span><span><strong>M-EFCS</strong><small>Pedaleiras e processadores</small></span><span><strong>MidiSuite</strong><small>Controladores MIDI</small></span><span><strong>M-UPGRADE</strong><small>Atualização de firmware</small></span><span><strong>Sinco Connector</strong><small>Bluetooth MIDI</small></span><span><strong>ANNlab</strong><small>Linha ANN</small></span></div></div></div></section>";
+}
+
 function homePage() {
   document.title = "M-Vave BR — Seu pedal pode soar muito melhor";
   return header("home", false) +
     "<main id='conteudo'>" +
-      "<section class='hero'><div class='container'><div class='hero-content'><span class='eyebrow'>Curadoria independente de IRs</span><h1>Seu equipamento pode soar <span>muito melhor.</span></h1><p class='hero-copy'>Impulse Responses testados para guitarra, baixo e violão — prontos para M-Vave, Quad Cortex, Fractal, Kemper, TONEX, Line 6 e outros equipamentos que carregam IRs.</p><div class='button-row'>" + button("Escolher meu pack", "#packs", "", false) + button("Entender os IRs", "#como-funciona", "btn-outline", false) + "</div>" + urgencyNotice(true) + "</div>" + proofStrip() + "</div></section>" +
+      "<section class='hero'><div class='container'><div class='hero-content'><span class='eyebrow'>Curadoria independente de IRs</span><h1>Seu equipamento pode soar <span>muito melhor.</span></h1><p class='hero-copy'>Impulse Responses testados para guitarra, baixo e violão — prontos para M-Vave, Quad Cortex, Fractal, Kemper, TONEX, Line 6 e outros equipamentos que carregam IRs.</p><div class='button-row'>" + button("Escolher meu pack", "#packs", "", false) + button("Entender os IRs", "#como-funciona", "btn-outline", false) + "</div>" + urgencyNotice(true) + "</div>" + proofStrip() + "</div></section>" + homeSoftwareSpotlight() +
       "<section class='section' id='packs'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Escolha seu caminho</span><h2>O pack certo para o som que você busca.</h2></div><p>Comece pelo seu instrumento ou leve a biblioteca completa com 14.064 arquivos de IR.</p></div>" + urgencyNotice(false) + packCards() + catalogQuickLinks() + "</div></section>" +
       "<section class='section home-equipment-section'><div class='container'><div class='section-heading'><div><span class='eyebrow'>Novo: central de equipamentos</span><h2>Já tem um pedal ou ainda está escolhendo?</h2></div><p>Guias por modelo, recomendador, comparador, softwares e firmware em um só lugar.</p></div><div class='home-equipment-grid'><a href='/equipamentos/'><span>01</span><h3>Central por equipamento</h3><p>Comece pelo modelo e encontre tudo que serve para ele.</p></a><a href='/encontre-seu-setup/'><span>02</span><h3>Recomendador</h3><p>Quatro perguntas para chegar a três boas opções.</p></a><a href='/comparar/'><span>03</span><h3>Comparador</h3><p>Coloque até três equipamentos lado a lado.</p></a></div></div></section>" +
       "<section class='section section-dark' id='como-funciona'><div class='container split'><div class='signal-panel reveal' aria-label='Representação visual de um Impulse Response'><div class='wave'>" + [1,2,3,5,8,4,7,10,5,3,7,4,2,8,5,3,2,1,4,2,1].map(function(n){ return "<i style='--n:" + n + "'></i>"; }).join("") + "</div><div class='signal-label'><span>Som de entrada</span><span>Resposta do gabinete</span></div></div><div><span class='eyebrow'>O detalhe que muda tudo</span><h2>O arquivo certo.<br><span class='display-accent'>A configuração certa.</span></h2><p class='text-muted'>O IR reproduz a resposta sonora de um gabinete, amplificador ou instrumento. Mas um bom arquivo sozinho não resolve: ganho, níveis e instalação fazem parte do resultado.</p><ul class='check-list'><li>Mais naturalidade e definição no som em linha</li><li>Menos tempo caçando arquivos sem contexto</li><li>Configuração explicada passo a passo</li></ul>" + button("Ver como começar", "/conteudos/#o-que-e-ir", "btn-light", false) + "</div></div></section>" +
@@ -1211,16 +1253,17 @@ function softwarePlatformRow(platform, download) {
 
 function downloadSoftwarePage() {
   const cards = DOWNLOAD_SOFTWARE_ITEMS.map(function(item) {
+    const softwareId = "software-" + item.code.toLowerCase();
     const windows = { format: item.format, tamanho_bytes: item.tamanho_bytes, arquivo: item.arquivo, url: item.url };
     const macRow = item.mac
       ? softwarePlatformRow("macOS", item.mac)
       : "<div class='download-software-platform download-software-unavailable'><div><strong>macOS</strong><small>" + escapeHtml(item.mac_note || "Sem versão publicada.") + "</small></div><span>Indisponível</span></div>";
     const macVersion = item.mac && item.mac.version ? "<small>macOS · " + escapeHtml(item.mac.version) + "</small>" : "";
     const macHash = item.mac && item.mac.sha256 ? "<span>SHA-256 macOS</span><code>" + escapeHtml(item.mac.sha256) + "</code>" : item.mac && item.mac.format === "Mac App Store" ? "<span>macOS</span><p>Integridade gerenciada pela App Store.</p>" : "";
-    return "<article class='download-software-card'><div class='download-software-top'><span class='download-software-code'>" + escapeHtml(item.code) + "</span><div><span class='kicker text-blue'>" + escapeHtml(item.kind) + "</span><h2>" + escapeHtml(item.name) + "</h2></div></div><p class='download-software-devices'>" + escapeHtml(item.devices) + "</p><dl><div><dt>Versão identificada</dt><dd>Windows · " + escapeHtml(item.version) + macVersion + "</dd></div><div><dt>Sistemas</dt><dd>" + (item.mac ? "Windows · macOS" : "Windows") + "</dd></div></dl><div class='download-software-platforms'>" + softwarePlatformRow("Windows", windows) + macRow + "</div><div class='download-software-integrity'><span>SHA-256 Windows</span><code>" + escapeHtml(item.sha256) + "</code>" + macHash + "</div><a class='source-link download-software-source' href='" + escapeHtml(item.official) + "' target='_blank' rel='noopener'>Ver fonte oficial ↗</a></article>";
+    return "<article class='download-software-card' id='" + softwareId + "'><div class='download-software-top'><span class='download-software-code'>" + escapeHtml(item.code) + "</span><div><span class='kicker text-blue'>" + escapeHtml(item.kind) + "</span><h2>" + escapeHtml(item.name) + "</h2></div></div><p class='download-software-devices'>" + escapeHtml(item.devices) + "</p><dl><div><dt>Versão identificada</dt><dd>Windows · " + escapeHtml(item.version) + macVersion + "</dd></div><div><dt>Sistemas</dt><dd>" + (item.mac ? "Windows · macOS" : "Windows") + "</dd></div></dl><div class='download-software-platforms'>" + softwarePlatformRow("Windows", windows) + macRow + "</div><div class='download-software-integrity'><span>SHA-256 Windows</span><code>" + escapeHtml(item.sha256) + "</code>" + macHash + "</div><a class='source-link download-software-source' href='" + escapeHtml(item.official) + "' target='_blank' rel='noopener'>Ver fonte oficial ↗</a></article>";
   }).join("");
   return header("", true) +
-    "<main id='conteudo' class='downloads-page download-software-page'><section class='downloads-hero downloads-pack-hero'><div class='container downloads-hero-grid'><div class='downloads-hero-copy'><span class='eyebrow'>Software M-VAVE · Windows e macOS</span><h1>O programa certo.<br><span class='display-accent'>No lugar certo.</span></h1><p>Editores e utilitários obtidos pelos links publicados no portal oficial da M-VAVE e organizados por finalidade.</p><div class='download-hero-pills'><span>6 ferramentas</span><span>Windows + Mac</span><span>Revisado em 31/08/2026</span></div></div><div class='download-pack-display download-software-display' aria-hidden='true'><div class='download-pack-display-top'><span>TOOLS / WIN + MAC</span><i>CHECKED</i></div><strong>APP</strong><div class='download-pack-eq'><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><div class='download-pack-display-foot'><span>006 FERRAMENTAS</span><span>ZIP / DMG / EXE</span></div></div></div></section><section class='download-library-section'><div class='container'><div class='download-security-note'><span>✓</span><div><strong>Origem e verificação</strong><p>Pacotes obtidos pelos links do portal oficial e verificados localmente sem detecções pelo Microsoft Defender em 31/08/2026. No Mac, mantenha o Gatekeeper ativo e confirme o desenvolvedor antes de abrir.</p><a href='/downloads/arquivos/Software%20M-VAVE/Windows/INSTRUCOES%20-%20Qual%20software%20usar.pdf' download>Instruções para Windows em PDF ↓</a><a href='/downloads/arquivos/Software%20M-VAVE/Mac%20OS/LEIA-ME%20-%20macOS.txt' download>Instruções para macOS ↓</a><a href='/downloads/arquivos/Software%20M-VAVE/Windows/SHA256SUMS.txt' download>Hashes Windows ↓</a><a href='/downloads/arquivos/Software%20M-VAVE/Mac%20OS/SHA256SUMS.txt' download>Hashes macOS ↓</a></div></div><div class='download-library-heading'><div><span class='eyebrow'>Configuração no computador</span><h2>Escolha pelo seu equipamento.</h2></div><p>No Windows, extraia o ZIP inteiro antes de abrir o EXE. No Mac, abra o DMG e siga a instalação do macOS. Não desative as proteções do sistema.</p></div><div class='download-software-grid'>" + cards + "</div><aside class='download-mobile-note'><div><span class='kicker text-blue'>Atualização pelo celular</span><h2>SincoOTA e aplicativos móveis</h2><p>SincoOTA não possui EXE ou DMG. Para firmware via Bluetooth, instale a versão móvel pelo portal oficial e confirme o nome exato do produto antes de escolher qualquer arquivo.</p></div><a class='btn btn-outline-dark' href='https://www.m-vave.com/appdownload' target='_blank' rel='noopener'>Abrir apps oficiais" + iconArrow() + "</a></aside></div></section></main>" + footer();
+    "<main id='conteudo' class='downloads-page download-software-page'><section class='downloads-hero downloads-pack-hero'><div class='container downloads-hero-grid'><div class='downloads-hero-copy'><span class='eyebrow'>Downloads M-VAVE · Windows e macOS</span><h1>Software M-VAVE.<br><span class='display-accent'>Baixe pelo seu equipamento.</span></h1><p>Encontre CubeSuite, M-EFCS, MidiSuite, M-UPGRADE, Sinco Connector e ANNlab organizados por finalidade, sistema e compatibilidade.</p><div class='download-hero-pills'><span>6 ferramentas</span><span>Windows + macOS</span><span>Revisado em 02/09/2026</span></div></div><div class='download-pack-display download-software-display' aria-hidden='true'><div class='download-pack-display-top'><span>TOOLS / WIN + MAC</span><i>CHECKED</i></div><strong>APP</strong><div class='download-pack-eq'><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><div class='download-pack-display-foot'><span>006 FERRAMENTAS</span><span>ZIP / DMG / EXE</span></div></div></div></section><section class='download-library-section'><div class='container'><section class='download-software-intro' aria-labelledby='software-choice-title'><div><span class='eyebrow'>Qual software M-VAVE usar?</span><h2 id='software-choice-title'>Comece pelo nome do seu equipamento.</h2><p><strong>CubeSuite</strong> atende Cube Baby, IR Box e outros dispositivos da família Cube. <strong>M-EFCS</strong> é o editor de TANK, BLACKBOX, MK e processadores compatíveis. <strong>MidiSuite</strong> configura controladores MIDI, enquanto <strong>M-UPGRADE</strong> atualiza o firmware de modelos indicados pela fabricante.</p></div><nav class='download-software-quicklinks' aria-label='Ir para um software'><a href='#software-cube'>CubeSuite</a><a href='#software-efcs'>M-EFCS</a><a href='#software-midi'>MidiSuite</a><a href='#software-up'>M-UPGRADE</a><a href='#software-ble'>Sinco Connector</a><a href='#software-ann'>ANNlab</a></nav></section><div class='download-security-note'><span>✓</span><div><strong>Origem e verificação</strong><p>Pacotes obtidos pelos links do portal oficial e verificados localmente sem detecções pelo Microsoft Defender em 31/08/2026. No Mac, mantenha o Gatekeeper ativo e confirme o desenvolvedor antes de abrir.</p><a href='/downloads/arquivos/Software%20M-VAVE/Windows/INSTRUCOES%20-%20Qual%20software%20usar.pdf' download>Instruções para Windows em PDF ↓</a><a href='/downloads/arquivos/Software%20M-VAVE/Mac%20OS/LEIA-ME%20-%20macOS.txt' download>Instruções para macOS ↓</a><a href='/downloads/arquivos/Software%20M-VAVE/Windows/SHA256SUMS.txt' download>Hashes Windows ↓</a><a href='/downloads/arquivos/Software%20M-VAVE/Mac%20OS/SHA256SUMS.txt' download>Hashes macOS ↓</a></div></div><div class='download-library-heading'><div><span class='eyebrow'>Downloads para computador</span><h2>Escolha pelo seu equipamento.</h2></div><p>No Windows, extraia o ZIP inteiro antes de abrir o EXE. No Mac, abra o DMG e siga a instalação do macOS. Não desative as proteções do sistema.</p></div><div class='download-software-grid'>" + cards + "</div><section class='download-software-help' aria-labelledby='software-help-title'><div><span class='eyebrow'>Dúvidas frequentes</span><h2 id='software-help-title'>Antes de instalar.</h2><p>O programa correto depende do modelo, do sistema operacional e da tarefa que você quer realizar.</p></div><div class='faq-list'><details><summary>Qual software usar na Cube Baby?</summary><p>Use o CubeSuite para Cube Baby, Cube Baby AC, Cube Baby Bass e outros modelos listados no cartão do programa.</p></details><details><summary>Qual programa configura TANK-G, TANK-B ou BLACKBOX?</summary><p>Esses processadores usam o M-EFCS. Confirme sempre o modelo exato antes de conectar ou atualizar.</p></details><details><summary>Como atualizar o firmware de um pedal M-VAVE?</summary><p>Alguns modelos usam o M-UPGRADE no computador; outros são atualizados por aplicativos móveis. Consulte a orientação do seu equipamento antes de escolher o arquivo.</p></details><details><summary>Os programas funcionam no macOS?</summary><p>A disponibilidade está indicada separadamente em cada cartão. Quando não existe versão publicada para Mac, a página mostra o programa como indisponível.</p></details></div></section><aside class='download-mobile-note'><div><span class='kicker text-blue'>Atualização pelo celular</span><h2>SincoOTA e aplicativos móveis</h2><p>SincoOTA não possui EXE ou DMG. Para firmware via Bluetooth, instale a versão móvel pelo portal oficial e confirme o nome exato do produto antes de escolher qualquer arquivo.</p></div><a class='btn btn-outline-dark' href='https://www.m-vave.com/appdownload' target='_blank' rel='noopener'>Abrir apps oficiais" + iconArrow() + "</a></aside></div></section></main>" + footer();
 }
 
 function downloadPackPage(scopeKey) {
