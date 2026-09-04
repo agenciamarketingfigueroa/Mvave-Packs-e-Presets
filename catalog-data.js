@@ -361,6 +361,38 @@ function noFirmwareGuide(id, name, family, editor, note) {
   };
 }
 
+function cubeBabyFirmwareGuide(id, name, useCase) {
+  return {
+    id: id,
+    name: name,
+    family: "Família Cube Baby",
+    method: "CubeSuite para edição · sem firmware avulso publicado",
+    status: "Não atualize o firmware",
+    version: "",
+    firmware: "",
+    official: OFFICIAL_DOWNLOADS,
+    reviewed: "04/09/2026",
+    prepareLabel: "Antes de usar o CubeSuite",
+    stepsIntro: "Neste modelo, as etapas abaixo servem para evitar uma gravação indevida. Sem firmware oficial específico, não há processo de atualização a executar.",
+    warning: "O centro oficial lista o CubeSuite como editor deste modelo, mas não publica um firmware separado para ele. Atualizar o CubeSuite no computador não atualiza o pedal.",
+    before: [
+      "Confira se o aparelho é CUBE BABY, CUBE BABY AC ou CUBE BABY BASS; os modelos não são intercambiáveis.",
+      "Baixe somente a versão atual do CubeSuite no centro oficial da M-VAVE.",
+      "Use um cabo USB que transmita dados e conecte o aparelho diretamente ao computador.",
+      "Anote ou fotografe os presets antes de alterar qualquer configuração."
+    ],
+    steps: [
+      ["Identifique o que precisa ser atualizado", "Se a intenção é editar presets, ajustar parâmetros ou importar IRs, atualize apenas o CubeSuite no computador. Essas tarefas não exigem regravar o firmware do pedal."],
+      ["Confira o centro oficial", "Procure uma publicação de firmware que repita exatamente o nome “" + name + "”. No momento desta revisão, não existe um arquivo específico publicado para esse modelo."],
+      ["Não use o modo antigo de firmware", "Não ligue o pedal segurando o footswitch C e não escolha variantes A, B ou C com base em vídeos antigos. Esse fluxo pertencia a versões antigas do CubeSuite."],
+      ["Não use programas ou pacotes arquivados", "Não instale CubeSuite 2.6.x ou 2.7.x, FlashLoader/Flash Loader, kits de recuperação compartilhados nem arquivos de outro modelo."],
+      ["Use o CubeSuite normalmente", "Com o pedal ligado no modo normal, abra o CubeSuite atual, confirme que o nome reconhecido corresponde a “" + name + "” e faça somente a tarefa de edição necessária" + useCase + "."],
+      ["Pare se não houver atualização oficial", "Uma versão nova do CubeSuite pode corrigir o próprio programa ou atender outros equipamentos. Sem arquivo ou aviso oficial específico para “" + name + "”, não há atualização de firmware a fazer."]
+    ],
+    recovery: "Se o pedal passou a aparecer como outro modelo, ficou apenas com uma luz acesa ou parou de responder depois de uma tentativa antiga, não repita o processo e não grave firmware de CUBE BABY, AC ou BASS por tentativa. Registre o nome impresso, o nome mostrado no CubeSuite, as luzes acesas, o sistema operacional e o arquivo usado; depois procure o suporte oficial para receber um procedimento compatível com a revisão da placa."
+  };
+}
+
 const CONNECTED_FIRMWARE_GUIDES = [
   noFirmwareGuide("tank-pro", "TANK-PRO", "Multi-efeitos", "M-EFCS", "Ainda não há firmware avulso do TANK-PRO no centro oficial. Aguarde uma publicação específica para esse nome."),
   pcGuide("tank-g", "TANK-G", "Multi-efeitos", "V97", "https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/firmware/TANK-G.fwsc", { identify: "Confirme que o corpo do aparelho diz TANK-G. Se houver indicação V2, escolha TANK-G V2 no seletor." }),
@@ -374,9 +406,9 @@ const CONNECTED_FIRMWARE_GUIDES = [
   pcGuide("tank-mini", "TANK MINI", "Multi-efeitos", "V09", "https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/firmware/TANK-MINI.fwsc"),
   pcGuide("silverbox", "SILVERBOX", "Multi-efeitos", "V17", "https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/firmware/SILVERBOX.fwsc"),
   pcGuide("sp100", "SP100", "Amplificador com efeitos", "V08", "https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/firmware/SP100.fwsc"),
-  noFirmwareGuide("cube-baby", "CUBE BABY", "Família Cube Baby", "CubeSuite"),
-  noFirmwareGuide("cube-baby-ac", "CUBE BABY AC", "Família Cube Baby", "CubeSuite"),
-  noFirmwareGuide("cube-baby-bass", "CUBE BABY BASS", "Família Cube Baby", "CubeSuite"),
+  cubeBabyFirmwareGuide("cube-baby", "CUBE BABY", ", usando apenas arquivos compatíveis com guitarra"),
+  cubeBabyFirmwareGuide("cube-baby-ac", "CUBE BABY AC", ", usando apenas arquivos e configurações destinados ao modelo acústico"),
+  cubeBabyFirmwareGuide("cube-baby-bass", "CUBE BABY BASS", ", usando apenas arquivos e configurações destinados ao modelo de baixo"),
   noFirmwareGuide("h8", "H8", "Multi-efeitos", "CubeSuite"),
   noFirmwareGuide("mini-x", "MINI-X", "Multi-efeitos", "CubeSuite"),
   noFirmwareGuide("ir-box", "IR BOX", "Pedais digitais", "CubeSuite"),

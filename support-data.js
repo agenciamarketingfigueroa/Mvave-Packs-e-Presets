@@ -114,9 +114,9 @@ export const SUPPORT_ENTRIES = [
   {
     id: "instalar-cube-baby", type: "Instalação", title: "Como instalar IR na Cube Baby, Cube Baby Bass ou AC?",
     keywords: "instalar ir cube baby cubebaby bass ac cubesuite usb importar enviar slot cab",
-    answer: "A família Cube Baby usa o CubeSuite no computador. Conecte o pedal por um cabo USB que também transmita dados, abra o editor, localize a seção IR/CAB, escolha o slot e importe um WAV compatível. Salve ou envie a alteração ao aparelho antes de desconectar.",
-    steps: ["Use Cube Baby para guitarra, Bass para baixo e AC para violão.", "Faça backup ou anote os slots atuais.", "Teste primeiro um único arquivo conhecido."],
-    notice: "O site oficial apresenta nove posições na seção de IR da Cube Baby, sendo uma delas a opção desligada. A interface pode variar conforme a versão do editor.",
+    answer: "A família Cube Baby usa o CubeSuite no computador. Instale a versão atual do editor, conecte o pedal no modo normal com um cabo USB de dados, confirme se o modelo reconhecido está correto, localize a seção IR/CAB e importe um WAV compatível. Salve a alteração antes de desconectar. Isso edita o conteúdo do pedal; não é uma atualização de firmware.",
+    steps: ["Use Cube Baby para guitarra, Bass para baixo e AC para violão.", "Faça backup ou anote os slots atuais.", "Teste primeiro um único arquivo conhecido.", "Não ligue o pedal segurando o footswitch C para importar IRs."],
+    notice: "O site oficial apresenta nove posições na seção de IR da Cube Baby, sendo uma delas a opção desligada. A interface pode variar conforme a versão do editor. Não use versões antigas do CubeSuite apenas porque um vídeo mostra menus diferentes.",
     links: [["Baixar CubeSuite oficial", "https://www.m-vave.com/download"], ["Guia dos slots", "/conteudos/cube-baby-nove-slots/"]]
   },
   {
@@ -215,9 +215,25 @@ export const SUPPORT_ENTRIES = [
     links: [["Downloads oficiais", "https://www.m-vave.com/download"], ["Contato oficial M-Vave", "https://www.m-vave.com/contact"]]
   },
   {
+    id: "atualizar-cube-baby", type: "Equipamento eletrônico", title: "Devo atualizar o firmware da Cube Baby, Cube Baby AC ou Bass?",
+    keywords: "atualizar firmware update cube baby cubebaby ac bass cubesuite flashloader flash loader 2.6 2.7 a b c footswitch c power",
+    answer: "Não há uma atualização de firmware a fazer enquanto o centro oficial não publicar um arquivo específico para o nome exato do seu modelo. A fabricante lista o CubeSuite atual como editor de Cube Baby, Cube Baby AC e Cube Baby Bass, mas não lista firmware avulso para esses pedais. Atualizar o CubeSuite no computador não atualiza o pedal.",
+    steps: ["Baixe o CubeSuite atual somente no centro oficial.", "Ligue o pedal normalmente e use o programa para editar presets, parâmetros ou IRs.", "Não entre no antigo modo de firmware segurando o footswitch C.", "Não use CubeSuite 2.6.x/2.7.x, FlashLoader, pacotes de recuperação ou firmware de outro modelo."],
+    notice: "Tutoriais antigos mostravam seleção de variantes A, B ou C e ferramentas que já não fazem parte do fluxo oficial atual. Sem uma publicação específica para o seu modelo, pare após atualizar o programa no computador.",
+    links: [["Ver orientação do modelo", "/atualizacoes/como-atualizar/?produto=cube-baby"], ["Centro oficial de downloads", "https://www.m-vave.com/download"]]
+  },
+  {
+    id: "cube-baby-modelo-incorreto", type: "Equipamento eletrônico", title: "A Cube Baby virou outro modelo ou parou de responder após uma atualização.",
+    keywords: "cube baby virou guitarra ac bass modelo errado luz branca brick travou morreu recuperacao recovery firmware incorreto",
+    answer: "Interrompa as tentativas. Não grave outro arquivo por tentativa e não use um pacote antigo para transformar novamente o modelo. Cube Baby, Cube Baby AC e Cube Baby Bass não devem receber arquivos umas das outras, e revisões internas diferentes podem exigir procedimentos distintos.",
+    steps: ["Anote o nome exato impresso no aparelho.", "Registre o nome que aparece no CubeSuite e quais luzes permanecem acesas.", "Anote a versão do sistema, do programa e o nome do arquivo usado.", "Envie essas informações ao suporte oficial e aguarde uma orientação compatível com a revisão da placa."],
+    notice: "Repetir gravações com arquivos antigos ou de outro modelo pode agravar a falha.",
+    links: [["Suporte oficial M-Vave", "https://www.m-vave.com/contact"], ["Centro oficial de downloads", "https://www.m-vave.com/download"]]
+  },
+  {
     id: "firmware", type: "Equipamento eletrônico", title: "Como atualizar o firmware com segurança?",
     keywords: "firmware atualizar update atualizacao pedal como atualizar meu pedal tutorial passo a passo tank g tank b v2 blackbox annblack mk300 mk20 pocket amp tank mini cube baby cube baby bass cube baby ac h8 ir box impulse r sp100 silverbox versao upgrade brick m upgrade mefcs cubesuite sincoota",
-    answer: "Abra o guia de atualização, selecione o nome exato do seu produto M-VAVE e siga o tutorial mostrado para ele. A página informa se o modelo usa M-UPGRADE, M-EFCS, CubeSuite ou se não possui firmware avulso publicado.",
+    answer: "Abra o guia de atualização, selecione o nome exato do seu produto M-VAVE e siga o tutorial mostrado para ele. A página informa se o modelo usa M-UPGRADE ou SincoOTA e também quando não existe firmware avulso publicado. Na família Cube Baby, o CubeSuite disponível atualmente é o editor; sua existência não significa que haja firmware novo para o pedal.",
     notice: "Versões parecidas podem usar arquivos diferentes. Se o aparelho funciona normalmente e você não precisa da correção publicada, evite atualizar apenas por curiosidade.",
     links: [["Escolher meu produto e ver o tutorial", "/atualizacoes/como-atualizar/"], ["Central de atualizações", "/atualizacoes/"], ["Downloads oficiais", "https://www.m-vave.com/download"]]
   },
@@ -260,7 +276,7 @@ export const SUPPORT_ENTRIES = [
     id: "software-correto", type: "Software", title: "Qual programa usar no meu produto M-VAVE?",
     keywords: "qual programa aplicativo software app cubesuite midi suite midisuite mefcs m efcs sincoota upgrade controlador",
     answer: "A ferramenta depende da família: CubeSuite atende Cube Baby, IR Box, loopers e controladores selecionados; M-EFCS atende TANK, ANNBLACK BOX, MK e outros processadores; MidiSuite atende teclados e superfícies MIDI; M-UPGRADE e SincoOTA cuidam de atualizações compatíveis.",
-    notice: "Confirme sempre o modelo na lista oficial. Produtos parecidos podem usar programas e firmwares diferentes.",
+    notice: "Confirme sempre o modelo na lista oficial. Produtos parecidos podem usar programas e firmwares diferentes. Uma versão nova do editor não indica, por si só, uma atualização de firmware do equipamento.",
     links: [["Abrir matriz de software", "/ferramentas/#software"], ["Downloads oficiais", "https://www.m-vave.com/appdownload"]]
   },
   {
