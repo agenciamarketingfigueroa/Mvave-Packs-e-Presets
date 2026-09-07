@@ -16,6 +16,18 @@ python scripts/gerar-downloads-individuais.py downloads/arquivos downloads/arqui
 
 Se o manifesto individual não puder ser carregado, o botão original continua apontando para o ZIP do modelo. Assim, a nova camada não interrompe os downloads existentes.
 
+## Permissões da área reservada
+
+A proteção de fachada em `download-auth.js` registra a permissão por escopo na sessão da aba:
+
+- `universal` e `friends`: central e todos os packs;
+- `guitarra`: somente `/downloads/guitarra/`;
+- `baixo`: somente `/downloads/baixo/`;
+- `violao`: somente `/downloads/violao/`;
+- `completo`: somente `/downloads/completo/`.
+
+A central `/downloads/` aceita apenas a credencial universal e a senha de amigos. Nas páginas dos packs, esses dois acessos veem o atalho de retorno à central; acessos restritos veem somente a opção de sair. As senhas são comparadas por SHA-256 e não são registradas em texto aberto no JavaScript.
+
 ## Software M-VAVE para Windows e macOS
 
 A rota `/downloads/software/` reúne seis pacotes oficiais revisados em 31/08/2026. CubeSuite, MidiSuite e M-UPGRADE são aplicativos portáteis: o usuário deve extrair o ZIP inteiro e manter o EXE junto das DLLs e subpastas. Sinco Connector é fornecido como EXE único. ANNlab V2.0 atende à linha ANN; o executável interno informa versão de produto 1.1.0.

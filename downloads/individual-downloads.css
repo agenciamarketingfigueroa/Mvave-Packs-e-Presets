@@ -8,6 +8,9 @@
   color: #080a0f;
   box-shadow: 0 28px 90px rgba(0, 0, 0, .38);
 }
+.download-access-navigation { display: flex; align-items: center; gap: 9px; margin-bottom: 18px; }
+.download-access-navigation a, .download-access-navigation button { min-height: 35px; display: inline-flex; align-items: center; padding: 0 12px; border: 1px solid rgba(255,255,255,.2); border-radius: 999px; background: rgba(255,255,255,.07); color: #fff; font: 800 9px "Manrope", sans-serif; letter-spacing: .04em; text-decoration: none; text-transform: uppercase; cursor: pointer; }
+.download-access-navigation a:hover, .download-access-navigation button:hover { border-color: rgba(255,255,255,.42); background: rgba(255,255,255,.13); }
 .individual-ir-dialog::backdrop { background: rgba(4, 6, 10, .78); backdrop-filter: blur(5px); }
 .individual-ir-shell { padding: 30px; }
 .individual-ir-shell > header { display: flex; align-items: flex-start; justify-content: space-between; gap: 25px; padding-bottom: 24px; border-bottom: 1px solid rgba(8, 10, 15, .12); }
