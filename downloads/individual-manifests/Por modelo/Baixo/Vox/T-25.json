@@ -1,0 +1,88 @@
+{
+  "arquivos": [
+    {
+      "nome": "Vox T25 B5 Left A 230 200 320.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Vox/T-25/Vox T25 B5 Left A 230 200 320.wav"
+    },
+    {
+      "nome": "Vox T25 B5 Right A 230 200 320.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Vox/T-25/Vox T25 B5 Right A 230 200 320.wav"
+    },
+    {
+      "nome": "Vox T25 BD300 A 8 -5 -29.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Vox/T-25/Vox T25 BD300 A 8 -5 -29.wav"
+    },
+    {
+      "nome": "Vox T25 D11L HL A -5 5 24.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Vox/T-25/Vox T25 D11L HL A -5 5 24.wav"
+    },
+    {
+      "nome": "Vox T25 D6 A -3 0 -28.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Vox/T-25/Vox T25 D6 A -3 0 -28.wav"
+    },
+    {
+      "nome": "Vox T25 Gemini 5 A 0 95 123.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Vox/T-25/Vox T25 Gemini 5 A 0 95 123.wav"
+    },
+    {
+      "nome": "Vox T25 NT1-A A -1 13 7.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Vox/T-25/Vox T25 NT1-A A -1 13 7.wav"
+    },
+    {
+      "nome": "Vox T25 SE4400a A -2 -8 4.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Vox/T-25/Vox T25 SE4400a A -2 -8 4.wav"
+    },
+    {
+      "nome": "Vox T25 SM57 A -3 0 2 45.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Vox/T-25/Vox T25 SM57 A -3 0 2 45.wav"
+    },
+    {
+      "nome": "Vox T25 SM57 A 0 0 2.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Vox/T-25/Vox T25 SM57 A 0 0 2.wav"
+    },
+    {
+      "nome": "Vox T25 SM57 A 4 -5 1.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Vox/T-25/Vox T25 SM57 A 4 -5 1.wav"
+    },
+    {
+      "nome": "Vox T25 SM57 A 9 0 1.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Vox/T-25/Vox T25 SM57 A 9 0 1.wav"
+    }
+  ]
+}

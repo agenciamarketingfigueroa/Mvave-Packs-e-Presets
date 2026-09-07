@@ -1,0 +1,823 @@
+{
+  "arquivos": [
+    {
+      "nome": "2 - Fender 57 Edge, 12 in.wav",
+      "grupo": "1- Top 8 IR Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 6188,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/1- Top 8 IR Pack/2 - Fender 57 Edge, 12 in.wav"
+    },
+    {
+      "nome": "Fender Bassman.wav",
+      "grupo": "2- Top 7 IR Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/2- Top 7 IR Pack/Fender Bassman.wav"
+    },
+    {
+      "nome": "Fender Twin.wav",
+      "grupo": "2- Top 7 IR Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 180144,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/2- Top 7 IR Pack/Fender Twin.wav"
+    },
+    {
+      "nome": "Fender Bassman.wav",
+      "grupo": "Fender Bassman",
+      "formato": "WAV",
+      "tamanho_bytes": 4616,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Bassman/Fender Bassman.wav"
+    },
+    {
+      "nome": "Princeton floor_00.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33606,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_00.wav"
+    },
+    {
+      "nome": "Princeton floor_01.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 32984,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_01.wav"
+    },
+    {
+      "nome": "Princeton floor_02.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 34622,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_02.wav"
+    },
+    {
+      "nome": "Princeton floor_03.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 34782,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_03.wav"
+    },
+    {
+      "nome": "Princeton floor_04.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33792,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_04.wav"
+    },
+    {
+      "nome": "Princeton floor_05.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33960,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_05.wav"
+    },
+    {
+      "nome": "Princeton floor_06.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 34338,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_06.wav"
+    },
+    {
+      "nome": "Princeton floor_07.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33180,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_07.wav"
+    },
+    {
+      "nome": "Princeton floor_08.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33980,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_08.wav"
+    },
+    {
+      "nome": "Princeton floor_09.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33750,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_09.wav"
+    },
+    {
+      "nome": "Princeton floor_10.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33360,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_10.wav"
+    },
+    {
+      "nome": "Princeton floor_11.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33276,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_11.wav"
+    },
+    {
+      "nome": "Princeton floor_12.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33836,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_12.wav"
+    },
+    {
+      "nome": "Princeton floor_13.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 34346,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_13.wav"
+    },
+    {
+      "nome": "Princeton floor_14.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 34278,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_14.wav"
+    },
+    {
+      "nome": "Princeton floor_15.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 34112,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_15.wav"
+    },
+    {
+      "nome": "Princeton floor_16.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33488,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_16.wav"
+    },
+    {
+      "nome": "Princeton floor_17.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33626,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_17.wav"
+    },
+    {
+      "nome": "Princeton floor_18.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 34406,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton floor_18.wav"
+    },
+    {
+      "nome": "Princeton up_00.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 34128,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_00.wav"
+    },
+    {
+      "nome": "Princeton up_01.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33884,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_01.wav"
+    },
+    {
+      "nome": "Princeton up_02.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33734,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_02.wav"
+    },
+    {
+      "nome": "Princeton up_03.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 34118,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_03.wav"
+    },
+    {
+      "nome": "Princeton up_04.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33996,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_04.wav"
+    },
+    {
+      "nome": "Princeton up_05.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33756,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_05.wav"
+    },
+    {
+      "nome": "Princeton up_06.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33398,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_06.wav"
+    },
+    {
+      "nome": "Princeton up_07.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 34688,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_07.wav"
+    },
+    {
+      "nome": "Princeton up_08.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33618,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_08.wav"
+    },
+    {
+      "nome": "Princeton up_09.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33828,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_09.wav"
+    },
+    {
+      "nome": "Princeton up_10.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 34460,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_10.wav"
+    },
+    {
+      "nome": "Princeton up_11.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33924,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_11.wav"
+    },
+    {
+      "nome": "Princeton up_12.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 33762,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_12.wav"
+    },
+    {
+      "nome": "Princeton up_13.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 34484,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_13.wav"
+    },
+    {
+      "nome": "Princeton up_14.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 34080,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_14.wav"
+    },
+    {
+      "nome": "Princeton up_15.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 34616,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_15.wav"
+    },
+    {
+      "nome": "Princeton up_16.wav",
+      "grupo": "Fender Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 34302,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Princeton/Princeton up_16.wav"
+    },
+    {
+      "nome": "Pro Jr floor_00.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33662,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_00.wav"
+    },
+    {
+      "nome": "Pro Jr floor_01.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33354,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_01.wav"
+    },
+    {
+      "nome": "Pro Jr floor_02.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 34166,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_02.wav"
+    },
+    {
+      "nome": "Pro Jr floor_03.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33858,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_03.wav"
+    },
+    {
+      "nome": "Pro Jr floor_04.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33884,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_04.wav"
+    },
+    {
+      "nome": "Pro Jr floor_05.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 34334,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_05.wav"
+    },
+    {
+      "nome": "Pro Jr floor_06.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 34470,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_06.wav"
+    },
+    {
+      "nome": "Pro Jr floor_07.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 34610,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_07.wav"
+    },
+    {
+      "nome": "Pro Jr floor_08.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33812,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_08.wav"
+    },
+    {
+      "nome": "Pro Jr floor_09.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33710,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_09.wav"
+    },
+    {
+      "nome": "Pro Jr floor_10.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33716,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_10.wav"
+    },
+    {
+      "nome": "Pro Jr floor_11.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33726,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_11.wav"
+    },
+    {
+      "nome": "Pro Jr floor_12.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33912,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_12.wav"
+    },
+    {
+      "nome": "Pro Jr floor_13.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33780,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_13.wav"
+    },
+    {
+      "nome": "Pro Jr floor_14.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 34308,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_14.wav"
+    },
+    {
+      "nome": "Pro Jr floor_15.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33810,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_15.wav"
+    },
+    {
+      "nome": "Pro Jr floor_16.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33594,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_16.wav"
+    },
+    {
+      "nome": "Pro Jr floor_17.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33704,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_17.wav"
+    },
+    {
+      "nome": "Pro Jr floor_18.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33834,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr floor_18.wav"
+    },
+    {
+      "nome": "Pro Jr up_01.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33602,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr up_01.wav"
+    },
+    {
+      "nome": "Pro Jr up_02.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 34158,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr up_02.wav"
+    },
+    {
+      "nome": "Pro Jr up_03.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33116,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr up_03.wav"
+    },
+    {
+      "nome": "Pro Jr up_04.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33434,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr up_04.wav"
+    },
+    {
+      "nome": "Pro Jr up_05.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33740,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr up_05.wav"
+    },
+    {
+      "nome": "Pro Jr up_06.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33798,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr up_06.wav"
+    },
+    {
+      "nome": "Pro Jr up_07.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33404,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr up_07.wav"
+    },
+    {
+      "nome": "Pro Jr up_08.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 34124,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr up_08.wav"
+    },
+    {
+      "nome": "Pro Jr up_09.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 34220,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr up_09.wav"
+    },
+    {
+      "nome": "Pro Jr up_10.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 34646,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr up_10.wav"
+    },
+    {
+      "nome": "Pro Jr up_11.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33506,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr up_11.wav"
+    },
+    {
+      "nome": "Pro Jr up_12.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 34148,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr up_12.wav"
+    },
+    {
+      "nome": "Pro Jr up_13.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 34904,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr up_13.wav"
+    },
+    {
+      "nome": "Pro Jr up_14.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 34014,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr up_14.wav"
+    },
+    {
+      "nome": "Pro Jr up_15.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 34596,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr up_15.wav"
+    },
+    {
+      "nome": "Pro Jr up_16.wav",
+      "grupo": "Fender Pro Junior",
+      "formato": "WAV",
+      "tamanho_bytes": 33612,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender Pro Junior/Pro Jr up_16.wav"
+    },
+    {
+      "nome": "01_Twin73_dome_edge_L19.wav",
+      "grupo": "Fender_Twin_73_IR_Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender_Twin_73_IR_Pack/01_Twin73_dome_edge_L19.wav"
+    },
+    {
+      "nome": "02_Twin73_dome_edge_e609.wav",
+      "grupo": "Fender_Twin_73_IR_Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender_Twin_73_IR_Pack/02_Twin73_dome_edge_e609.wav"
+    },
+    {
+      "nome": "03_Twin73_center_L19.wav",
+      "grupo": "Fender_Twin_73_IR_Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender_Twin_73_IR_Pack/03_Twin73_center_L19.wav"
+    },
+    {
+      "nome": "04_Twin73_center_e609.wav",
+      "grupo": "Fender_Twin_73_IR_Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender_Twin_73_IR_Pack/04_Twin73_center_e609.wav"
+    },
+    {
+      "nome": "05_Twin73_cone20_L19.wav",
+      "grupo": "Fender_Twin_73_IR_Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender_Twin_73_IR_Pack/05_Twin73_cone20_L19.wav"
+    },
+    {
+      "nome": "06_Twin73_cone20_e609.wav",
+      "grupo": "Fender_Twin_73_IR_Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender_Twin_73_IR_Pack/06_Twin73_cone20_e609.wav"
+    },
+    {
+      "nome": "07_Twin73_cone_L19.wav",
+      "grupo": "Fender_Twin_73_IR_Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender_Twin_73_IR_Pack/07_Twin73_cone_L19.wav"
+    },
+    {
+      "nome": "08_Twin73_cone_e609.wav",
+      "grupo": "Fender_Twin_73_IR_Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender_Twin_73_IR_Pack/08_Twin73_cone_e609.wav"
+    },
+    {
+      "nome": "09_Twin73_cab_plusback_L19.wav",
+      "grupo": "Fender_Twin_73_IR_Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender_Twin_73_IR_Pack/09_Twin73_cab_plusback_L19.wav"
+    },
+    {
+      "nome": "10_Twin73_dome_edge_plusback_e609.wav",
+      "grupo": "Fender_Twin_73_IR_Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Fender_Twin_73_IR_Pack/10_Twin73_dome_edge_plusback_e609.wav"
+    },
+    {
+      "nome": "Blackface Deluxe.wav",
+      "grupo": "POD / Black Panel (Fender Deluxe)",
+      "formato": "WAV",
+      "tamanho_bytes": 4764,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Black Panel (Fender Deluxe)/Blackface Deluxe.wav"
+    },
+    {
+      "nome": "Blackface Twin.wav",
+      "grupo": "POD / Black Panel (Fender Deluxe)",
+      "formato": "WAV",
+      "tamanho_bytes": 4948,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Black Panel (Fender Deluxe)/Blackface Twin.wav"
+    },
+    {
+      "nome": "Line6 Flextone.wav",
+      "grupo": "POD / Black Panel (Fender Deluxe)",
+      "formato": "WAV",
+      "tamanho_bytes": 4516,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Black Panel (Fender Deluxe)/Line6 Flextone.wav"
+    },
+    {
+      "nome": "Marshall Off Axis.wav",
+      "grupo": "POD / Black Panel (Fender Deluxe)",
+      "formato": "WAV",
+      "tamanho_bytes": 4484,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Black Panel (Fender Deluxe)/Marshall Off Axis.wav"
+    },
+    {
+      "nome": "Marshall Stock 70.wav",
+      "grupo": "POD / Black Panel (Fender Deluxe)",
+      "formato": "WAV",
+      "tamanho_bytes": 4732,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Black Panel (Fender Deluxe)/Marshall Stock 70.wav"
+    },
+    {
+      "nome": "Marshall Vintage 30.wav",
+      "grupo": "POD / Black Panel (Fender Deluxe)",
+      "formato": "WAV",
+      "tamanho_bytes": 4580,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Black Panel (Fender Deluxe)/Marshall Vintage 30.wav"
+    },
+    {
+      "nome": "Matchless Chieftain.wav",
+      "grupo": "POD / Black Panel (Fender Deluxe)",
+      "formato": "WAV",
+      "tamanho_bytes": 5168,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Black Panel (Fender Deluxe)/Matchless Chieftain.wav"
+    },
+    {
+      "nome": "No Cabinet.wav",
+      "grupo": "POD / Black Panel (Fender Deluxe)",
+      "formato": "WAV",
+      "tamanho_bytes": 4516,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Black Panel (Fender Deluxe)/No Cabinet.wav"
+    },
+    {
+      "nome": "Pod 2X12.wav",
+      "grupo": "POD / Black Panel (Fender Deluxe)",
+      "formato": "WAV",
+      "tamanho_bytes": 5072,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Black Panel (Fender Deluxe)/Pod 2X12.wav"
+    },
+    {
+      "nome": "Pod 4X10.wav",
+      "grupo": "POD / Black Panel (Fender Deluxe)",
+      "formato": "WAV",
+      "tamanho_bytes": 4900,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Black Panel (Fender Deluxe)/Pod 4X10.wav"
+    },
+    {
+      "nome": "Pod 4X12.wav",
+      "grupo": "POD / Black Panel (Fender Deluxe)",
+      "formato": "WAV",
+      "tamanho_bytes": 4680,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Black Panel (Fender Deluxe)/Pod 4X12.wav"
+    },
+    {
+      "nome": "Tweed Champ.wav",
+      "grupo": "POD / Black Panel (Fender Deluxe)",
+      "formato": "WAV",
+      "tamanho_bytes": 4760,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Black Panel (Fender Deluxe)/Tweed Champ.wav"
+    },
+    {
+      "nome": "Tweed Deluxe.wav",
+      "grupo": "POD / Black Panel (Fender Deluxe)",
+      "formato": "WAV",
+      "tamanho_bytes": 5504,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Black Panel (Fender Deluxe)/Tweed Deluxe.wav"
+    },
+    {
+      "nome": "Vox AC15.wav",
+      "grupo": "POD / Black Panel (Fender Deluxe)",
+      "formato": "WAV",
+      "tamanho_bytes": 4700,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Black Panel (Fender Deluxe)/Vox AC15.wav"
+    },
+    {
+      "nome": "Fender Bassman.wav",
+      "grupo": "POD / Tube Preamp",
+      "formato": "WAV",
+      "tamanho_bytes": 4396,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tube Preamp/Fender Bassman.wav"
+    },
+    {
+      "nome": "Tweed Champ.wav",
+      "grupo": "POD / Tube Preamp",
+      "formato": "WAV",
+      "tamanho_bytes": 4456,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tube Preamp/Tweed Champ.wav"
+    },
+    {
+      "nome": "Blackface Deluxe.wav",
+      "grupo": "POD / Tweed Blues (Fender Bassman)",
+      "formato": "WAV",
+      "tamanho_bytes": 4556,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tweed Blues (Fender Bassman)/Blackface Deluxe.wav"
+    },
+    {
+      "nome": "Blackface Twin.wav",
+      "grupo": "POD / Tweed Blues (Fender Bassman)",
+      "formato": "WAV",
+      "tamanho_bytes": 4700,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tweed Blues (Fender Bassman)/Blackface Twin.wav"
+    },
+    {
+      "nome": "Fender Bassman.wav",
+      "grupo": "POD / Tweed Blues (Fender Bassman)",
+      "formato": "WAV",
+      "tamanho_bytes": 4476,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tweed Blues (Fender Bassman)/Fender Bassman.wav"
+    },
+    {
+      "nome": "Line6 Flextone.wav",
+      "grupo": "POD / Tweed Blues (Fender Bassman)",
+      "formato": "WAV",
+      "tamanho_bytes": 4604,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tweed Blues (Fender Bassman)/Line6 Flextone.wav"
+    },
+    {
+      "nome": "Marshall off axis.wav",
+      "grupo": "POD / Tweed Blues (Fender Bassman)",
+      "formato": "WAV",
+      "tamanho_bytes": 4952,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tweed Blues (Fender Bassman)/Marshall off axis.wav"
+    },
+    {
+      "nome": "Marshall Stock 70.wav",
+      "grupo": "POD / Tweed Blues (Fender Bassman)",
+      "formato": "WAV",
+      "tamanho_bytes": 4616,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tweed Blues (Fender Bassman)/Marshall Stock 70.wav"
+    },
+    {
+      "nome": "Marshall Vintage 30.wav",
+      "grupo": "POD / Tweed Blues (Fender Bassman)",
+      "formato": "WAV",
+      "tamanho_bytes": 4648,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tweed Blues (Fender Bassman)/Marshall Vintage 30.wav"
+    },
+    {
+      "nome": "Matchless Chieftain.wav",
+      "grupo": "POD / Tweed Blues (Fender Bassman)",
+      "formato": "WAV",
+      "tamanho_bytes": 4756,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tweed Blues (Fender Bassman)/Matchless Chieftain.wav"
+    },
+    {
+      "nome": "No Cabinet.wav",
+      "grupo": "POD / Tweed Blues (Fender Bassman)",
+      "formato": "WAV",
+      "tamanho_bytes": 4472,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tweed Blues (Fender Bassman)/No Cabinet.wav"
+    },
+    {
+      "nome": "Pod 4x10.wav",
+      "grupo": "POD / Tweed Blues (Fender Bassman)",
+      "formato": "WAV",
+      "tamanho_bytes": 4852,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tweed Blues (Fender Bassman)/Pod 4x10.wav"
+    },
+    {
+      "nome": "Pod 4x12.wav",
+      "grupo": "POD / Tweed Blues (Fender Bassman)",
+      "formato": "WAV",
+      "tamanho_bytes": 4428,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tweed Blues (Fender Bassman)/Pod 4x12.wav"
+    },
+    {
+      "nome": "Tweed Blues (pod 2x12) imp.wav",
+      "grupo": "POD / Tweed Blues (Fender Bassman)",
+      "formato": "WAV",
+      "tamanho_bytes": 4712,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tweed Blues (Fender Bassman)/Tweed Blues (pod 2x12) imp.wav"
+    },
+    {
+      "nome": "Tweed Champ.wav",
+      "grupo": "POD / Tweed Blues (Fender Bassman)",
+      "formato": "WAV",
+      "tamanho_bytes": 4888,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tweed Blues (Fender Bassman)/Tweed Champ.wav"
+    },
+    {
+      "nome": "Tweed Deluxe.wav",
+      "grupo": "POD / Tweed Blues (Fender Bassman)",
+      "formato": "WAV",
+      "tamanho_bytes": 4676,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tweed Blues (Fender Bassman)/Tweed Deluxe.wav"
+    },
+    {
+      "nome": "Vox AC15.wav",
+      "grupo": "POD / Tweed Blues (Fender Bassman)",
+      "formato": "WAV",
+      "tamanho_bytes": 4820,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/POD/Tweed Blues (Fender Bassman)/Vox AC15.wav"
+    },
+    {
+      "nome": "princeton 2x12.wav",
+      "grupo": "Princeton",
+      "formato": "WAV",
+      "tamanho_bytes": 5780,
+      "arquivo": "individuais/Por modelo/Guitarra/Fender/Combos e gabinetes Fender/Princeton/princeton 2x12.wav"
+    }
+  ]
+}

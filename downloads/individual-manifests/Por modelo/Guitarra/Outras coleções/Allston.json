@@ -1,0 +1,25 @@
+{
+  "arquivos": [
+    {
+      "nome": "allston 2x10.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 7060,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Allston/allston 2x10.wav"
+    },
+    {
+      "nome": "allston 2x12.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 7060,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Allston/allston 2x12.wav"
+    },
+    {
+      "nome": "allston classic.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 7060,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Allston/allston classic.wav"
+    }
+  ]
+}

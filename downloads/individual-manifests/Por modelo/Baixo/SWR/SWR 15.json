@@ -1,0 +1,25 @@
+{
+  "arquivos": [
+    {
+      "nome": "SWR 15 4050 48.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 53238,
+      "arquivo": "individuais/Por modelo/Baixo/SWR/SWR 15/SWR 15 4050 48.wav"
+    },
+    {
+      "nome": "SWR 15 441 Cent 48s.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 143028,
+      "arquivo": "individuais/Por modelo/Baixo/SWR/SWR 15/SWR 15 441 Cent 48s.wav"
+    },
+    {
+      "nome": "SWR 15 441 edge - 6dB.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 50922,
+      "arquivo": "individuais/Por modelo/Baixo/SWR/SWR 15/SWR 15 441 edge - 6dB.wav"
+    }
+  ]
+}

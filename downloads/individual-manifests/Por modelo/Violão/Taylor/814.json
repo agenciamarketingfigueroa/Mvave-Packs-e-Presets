@@ -1,0 +1,32 @@
+{
+  "arquivos": [
+    {
+      "nome": "Taylor 814 - DPA 4011.wav",
+      "grupo": "Acoustic Impulses / Taylor 814",
+      "formato": "WAV",
+      "tamanho_bytes": 4144,
+      "arquivo": "individuais/Por modelo/Violão/Taylor/814/Acoustic Impulses/Taylor 814/Taylor 814 - DPA 4011.wav"
+    },
+    {
+      "nome": "Taylor 814 - Neumann KM84.wav",
+      "grupo": "Acoustic Impulses / Taylor 814",
+      "formato": "WAV",
+      "tamanho_bytes": 4170,
+      "arquivo": "individuais/Por modelo/Violão/Taylor/814/Acoustic Impulses/Taylor 814/Taylor 814 - Neumann KM84.wav"
+    },
+    {
+      "nome": "Taylor 814 - Neumann U87.wav",
+      "grupo": "Acoustic Impulses / Taylor 814",
+      "formato": "WAV",
+      "tamanho_bytes": 4172,
+      "arquivo": "individuais/Por modelo/Violão/Taylor/814/Acoustic Impulses/Taylor 814/Taylor 814 - Neumann U87.wav"
+    },
+    {
+      "nome": "Taylor 814 - Shure SM57.wav",
+      "grupo": "Acoustic Impulses / Taylor 814",
+      "formato": "WAV",
+      "tamanho_bytes": 4172,
+      "arquivo": "individuais/Por modelo/Violão/Taylor/814/Acoustic Impulses/Taylor 814/Taylor 814 - Shure SM57.wav"
+    }
+  ]
+}

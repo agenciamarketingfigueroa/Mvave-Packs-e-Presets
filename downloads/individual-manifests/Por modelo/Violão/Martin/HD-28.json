@@ -1,0 +1,46 @@
+{
+  "arquivos": [
+    {
+      "nome": "HD28 - AKG C414B-XLS.wav",
+      "grupo": "Acoustic Impulses / HD28",
+      "formato": "WAV",
+      "tamanho_bytes": 2702,
+      "arquivo": "individuais/Por modelo/Violão/Martin/HD-28/Acoustic Impulses/HD28/HD28 - AKG C414B-XLS.wav"
+    },
+    {
+      "nome": "HD28 - Neumann U47.wav",
+      "grupo": "Acoustic Impulses / HD28",
+      "formato": "WAV",
+      "tamanho_bytes": 4170,
+      "arquivo": "individuais/Por modelo/Violão/Martin/HD-28/Acoustic Impulses/HD28/HD28 - Neumann U47.wav"
+    },
+    {
+      "nome": "HD28 - Neumann U87.wav",
+      "grupo": "Acoustic Impulses / HD28",
+      "formato": "WAV",
+      "tamanho_bytes": 2512,
+      "arquivo": "individuais/Por modelo/Violão/Martin/HD-28/Acoustic Impulses/HD28/HD28 - Neumann U87.wav"
+    },
+    {
+      "nome": "HD28 - Schoeps CMC64G.wav",
+      "grupo": "Acoustic Impulses / HD28",
+      "formato": "WAV",
+      "tamanho_bytes": 4166,
+      "arquivo": "individuais/Por modelo/Violão/Martin/HD-28/Acoustic Impulses/HD28/HD28 - Schoeps CMC64G.wav"
+    },
+    {
+      "nome": "HD28 - Soundelux E47.wav",
+      "grupo": "Acoustic Impulses / HD28",
+      "formato": "WAV",
+      "tamanho_bytes": 4170,
+      "arquivo": "individuais/Por modelo/Violão/Martin/HD-28/Acoustic Impulses/HD28/HD28 - Soundelux E47.wav"
+    },
+    {
+      "nome": "02 - MARTIN ACOUSTIC GUITAR DRG.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 4170,
+      "arquivo": "individuais/Por modelo/Violão/Martin/HD-28/02 - MARTIN ACOUSTIC GUITAR DRG.wav"
+    }
+  ]
+}

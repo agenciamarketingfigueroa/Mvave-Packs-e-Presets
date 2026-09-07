@@ -1,0 +1,4295 @@
+{
+  "arquivos": [
+    {
+      "nome": "02_Hartke_XL410_by_Shift_Line.wav",
+      "grupo": "AFX",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/AFX/02_Hartke_XL410_by_Shift_Line.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cap-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 14164,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cap-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 13836,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 14112,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cap-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 14112,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cap-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 11046,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cap-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 8070,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cap-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 7920,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cap-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 6978,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 8652,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-CapEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 11052,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-CapEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 14430,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-CapEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 12300,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-CapEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 10504,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-CapEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 12684,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-CapEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 8070,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-CapEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 6672,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-CapEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 7818,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-CapEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 11040,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-CapEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cone-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 13896,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cone-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 14448,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cone-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 12300,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cone-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 13824,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cone-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 12684,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cone-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 12618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cone-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 10452,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cone-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 10488,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-Cone-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 12180,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-Cone-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-ConeEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 14116,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-ConeEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 14448,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-ConeEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 11730,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-ConeEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 13024,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-ConeEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 17814,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-ConeEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 12618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-ConeEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 12618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-ConeEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 11442,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D112-ConeEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D112",
+      "formato": "WAV",
+      "tamanho_bytes": 11580,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D112/Hartke45XL-D112-ConeEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cap-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 10552,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cap-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 10566,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 10942,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cap-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 10552,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cap-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 10552,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cap-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 10572,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cap-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 11608,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cap-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 10680,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 7852,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-CapEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 10570,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-CapEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 10482,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-CapEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 12696,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-CapEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 11262,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-CapEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 10566,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-CapEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 10482,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-CapEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 7854,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-CapEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 8514,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-CapEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 9342,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-CapEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cone-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 10522,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cone-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 6180,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cone-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 11760,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cone-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 9348,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cone-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 9348,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cone-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 10756,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cone-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 12766,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cone-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 12732,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-Cone-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 12732,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-Cone-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-ConeEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 11832,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-ConeEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 6672,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-ConeEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 10626,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-ConeEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 11832,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-ConeEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 10908,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-ConeEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 13578,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-ConeEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 14112,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-ConeEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 14112,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D12-ConeEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / AKG D12",
+      "formato": "WAV",
+      "tamanho_bytes": 14110,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/AKG D12/Hartke45XL-D12-ConeEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cap-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cap-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18612,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cap-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 17238,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cap-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cap-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18600,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cap-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 17820,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cap-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 10494,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 16252,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-CapEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-CapEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 17700,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-CapEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18612,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-CapEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18600,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-CapEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-CapEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 14592,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-CapEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 10494,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-CapEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 16252,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-CapEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 17494,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-CapEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cone-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18606,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cone-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18612,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cone-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18210,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cone-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cone-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18606,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cone-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cone-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 17754,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cone-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 17754,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-Cone-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18600,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-Cone-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-ConeEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-ConeEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-ConeEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 8652,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-ConeEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-ConeEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-ConeEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 18486,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-ConeEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 17754,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-ConeEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 16324,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-D6-ConeEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Audix D6",
+      "formato": "WAV",
+      "tamanho_bytes": 14578,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Audix D6/Hartke45XL-D6-ConeEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cap-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 9972,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cap-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 9084,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 18604,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cap-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 15288,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cap-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 6522,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cap-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 9130,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cap-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 8748,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cap-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 11086,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 8778,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-CapEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 15330,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-CapEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 15336,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-CapEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 12150,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-CapEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 6090,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-CapEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 8634,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-CapEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 8760,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-CapEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 8592,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-CapEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 10488,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-CapEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 10944,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-CapEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cone-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 10510,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cone-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 16398,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cone-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 11238,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cone-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 9054,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cone-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 10452,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cone-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 15294,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cone-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 11550,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cone-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 11122,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-Cone-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 11496,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-Cone-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-ConeEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 15336,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-ConeEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 11538,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-ConeEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 11736,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-ConeEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 11856,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-ConeEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 18576,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-ConeEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 15294,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-ConeEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 11532,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-ConeEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 11118,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-M380-ConeEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Beyerdynamic M380",
+      "formato": "WAV",
+      "tamanho_bytes": 8778,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Beyerdynamic M380/Hartke45XL-M380-ConeEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 27408,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-Cap-24in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 12840,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cap-24in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-Cap-36in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 19242,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cap-36in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-Cap-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 8280,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cap-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 9018,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-CapEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 17112,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-CapEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-CapEdge-24in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 18610,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-CapEdge-24in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-CapEdge-36in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 22462,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-CapEdge-36in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-CapEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 10986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-CapEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-CapEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 27358,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-CapEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-Cone-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 11832,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cone-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-Cone-24in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 11616,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cone-24in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-Cone-36in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 13732,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cone-36in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-Cone-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 25938,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cone-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-Cone-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 27358,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Cone-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-ConeEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 10894,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-ConeEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-ConeEdge-24in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 12846,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-ConeEdge-24in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-ConeEdge-36in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 12832,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-ConeEdge-36in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-ConeEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 10990,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-ConeEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-ConeEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 11044,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-ConeEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-FF0d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 7266,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF0d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-FF0d-12inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF0d-12inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-FF0d-24inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF0d-24inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-FF15d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 10422,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF15d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-FF15d-12inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF15d-12inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-FF15d-24inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF15d-24inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-FF30d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 10452,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF30d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-FF30d-12inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF30d-12inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-FF30d-24inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF30d-24inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-FF45d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 15336,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF45d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-FF45d-12inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF45d-12inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-FF45d-24inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-FF45d-24inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-Room.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 14622,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-Room.wav"
+    },
+    {
+      "nome": "Hartke45XL-4038-RoomAway.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Coles 4038",
+      "formato": "WAV",
+      "tamanho_bytes": 12826,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Coles 4038/Hartke45XL-4038-RoomAway.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inC-TC30-Cap-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 4098,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inC-TC30-Cap-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inC-TC30-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 8394,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inC-TC30-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inC-TC30-Cap-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 4842,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inC-TC30-Cap-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inC-TC30-Cap-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 4692,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inC-TC30-Cap-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inC-TC30-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 5794,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inC-TC30-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inC-TC30-FF0d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 12072,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inC-TC30-FF0d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cap-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 12582,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cap-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 12576,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 13248,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cap-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 12336,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cap-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 12336,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cap-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 12126,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cap-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 9876,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cap-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 9876,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 12198,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-CapEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 12132,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-CapEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 12432,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-CapEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 11688,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-CapEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 11208,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-CapEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 9708,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-CapEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 9570,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-CapEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 8916,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-CapEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 9798,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-CapEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 8886,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-CapEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cone-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 10018,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cone-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 9790,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cone-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 11838,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cone-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 9642,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cone-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 9640,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cone-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 9096,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cone-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 8586,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cone-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 8892,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-Cone-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 8862,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-Cone-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-ConeEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 9120,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-ConeEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 9094,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-ConeEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 11832,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-ConeEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 9664,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-ConeEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 9108,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-ConeEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 9102,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-ConeEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 8596,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-ConeEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 9550,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-5inCBleed-TC30-ConeEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 10650,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-5inCBleed-TC30-ConeEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cap-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 10446,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cap-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 15306,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 18604,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cap-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 16606,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cap-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 16728,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cap-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 17860,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cap-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 17806,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cap-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 14580,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 10420,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-CapEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 17742,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-CapEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 17760,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-CapEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 27402,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-CapEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 17742,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-CapEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 16966,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-CapEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 10518,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-CapEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 12220,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-CapEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 10482,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-CapEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 14940,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-CapEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cone-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 27432,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cone-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 27382,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cone-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 12108,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cone-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 27432,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cone-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 27480,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cone-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 27480,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cone-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 27360,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cone-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 22672,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Cone-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 27354,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Cone-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-ConeEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 27504,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-ConeEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 27486,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-ConeEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 16672,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-ConeEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 27502,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-ConeEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 27480,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-ConeEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 10944,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-ConeEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 12258,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-ConeEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 12510,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-ConeEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 12666,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-ConeEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-FF0d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 7512,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF0d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-FF0d-12inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF0d-12inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-FF0d-24inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF0d-24inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-FF15d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 11604,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF15d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-FF15d-12inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF15d-12inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-FF15d-24inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF15d-24inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-FF30d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 11776,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF30d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-FF30d-12inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF30d-12inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-FF30d-24inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF30d-24inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-FF45d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 12180,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF45d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-FF45d-12inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF45d-12inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-FF45d-24inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-FF45d-24inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Port-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 15754,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Port-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-Room.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 14448,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-Room.wav"
+    },
+    {
+      "nome": "Hartke45XL-TC30-RoomAway.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Earthworks TC30",
+      "formato": "WAV",
+      "tamanho_bytes": 16626,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Earthworks TC30/Hartke45XL-TC30-RoomAway.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cap-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 10428,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cap-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 5250,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 10542,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cap-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 10482,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cap-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 10450,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cap-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 8448,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cap-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 5460,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cap-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 5458,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 6198,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-CapEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 10486,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-CapEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 6036,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-CapEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 10542,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-CapEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 5430,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-CapEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 10486,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-CapEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 6124,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-CapEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 5940,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-CapEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 6498,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-CapEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 6198,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-CapEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cone-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 10488,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cone-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 10488,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cone-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 11862,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cone-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 9138,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cone-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 10488,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cone-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 6120,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cone-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 10488,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cone-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 6498,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-Cone-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 7368,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-Cone-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-ConeEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 11604,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-ConeEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 10722,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-ConeEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 10470,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-ConeEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 10420,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-ConeEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 9132,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-ConeEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 9126,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-ConeEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 9120,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-ConeEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 8748,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-RE20-ConeEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 10578,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Electrovoice RE20/Hartke45XL-RE20-ConeEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cap-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cap-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cap-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 17688,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cap-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cap-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cap-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cap-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18604,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18166,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-CapEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-CapEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-CapEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 17736,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-CapEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 17688,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-CapEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18286,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-CapEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18288,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-CapEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-CapEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-CapEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18568,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-CapEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cone-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 15348,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cone-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 10488,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cone-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 15510,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cone-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cone-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 9990,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cone-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18288,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cone-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 15030,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cone-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18570,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-Cone-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18570,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-Cone-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-ConeEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18610,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-ConeEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18276,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-ConeEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 15510,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-ConeEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18120,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-ConeEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-ConeEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 18154,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-ConeEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 15048,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-ConeEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 17742,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-PR40-ConeEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Heil PR40",
+      "formato": "WAV",
+      "tamanho_bytes": 15582,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Heil PR40/Hartke45XL-PR40-ConeEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cap-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 10980,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cap-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 10536,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 12702,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cap-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 10486,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cap-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 10482,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cap-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 10948,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cap-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 10482,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cap-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 10482,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 5436,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-CapEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 10488,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-CapEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 12186,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-CapEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 13992,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-CapEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 10488,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-CapEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 10986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-CapEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 10950,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-CapEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 10944,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-CapEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 10416,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-CapEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 6538,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-CapEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cone-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 10488,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cone-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 12192,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cone-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 13992,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cone-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 12708,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cone-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 12742,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cone-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 10950,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cone-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 12702,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cone-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 10920,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Cone-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 12670,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Cone-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-ConeEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 12744,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-ConeEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 14140,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-ConeEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 12706,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-ConeEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 12798,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-ConeEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 13824,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-ConeEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 12708,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-ConeEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 12706,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-ConeEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 12672,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-ConeEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 12670,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-ConeEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-FF0d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 6372,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF0d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-FF0d-12inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF0d-12inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-FF0d-24inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF0d-24inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-FF15d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 11256,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF15d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-FF15d-12inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF15d-12inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-FF15d-24inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF15d-24inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-FF30d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 11382,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF30d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-FF30d-12inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF30d-12inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-FF30d-24inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF30d-24inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-FF45d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 11590,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF45d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-FF45d-12inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF45d-12inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-FF45d-24inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-FF45d-24inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-Room.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 12666,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-Room.wav"
+    },
+    {
+      "nome": "Hartke45XL-U47FET-RoomAway.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Neumann U47FET",
+      "formato": "WAV",
+      "tamanho_bytes": 18502,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Neumann U47FET/Hartke45XL-U47FET-RoomAway.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 19212,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-Cap-24in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 15378,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cap-24in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-Cap-36in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 12450,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cap-36in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-Cap-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 8742,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cap-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 8566,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-CapEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 10452,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-CapEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-CapEdge-24in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 14506,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-CapEdge-24in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-CapEdge-36in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 14568,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-CapEdge-36in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-CapEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 8880,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-CapEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-CapEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 9918,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-CapEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-Cone-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 10576,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cone-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-Cone-24in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 10980,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cone-24in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-Cone-36in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 12126,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cone-36in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-Cone-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 10488,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cone-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-Cone-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 10060,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Cone-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-ConeEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 11586,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-ConeEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-ConeEdge-24in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 15312,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-ConeEdge-24in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-ConeEdge-36in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 24192,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-ConeEdge-36in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-ConeEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 10800,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-ConeEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-ConeEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 10488,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-ConeEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-FF0d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 9390,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF0d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-FF0d-12inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF0d-12inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-FF0d-24inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF0d-24inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-FF15d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 8814,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF15d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-FF15d-12inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF15d-12inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-FF15d-24inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF15d-24inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-FF30d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 10314,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF30d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-FF30d-12inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF30d-12inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-FF30d-24inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF30d-24inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-FF45d-0inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 10416,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF45d-0inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-FF45d-12inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF45d-12inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-FF45d-24inUp.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-FF45d-24inUp.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-Room.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 14494,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-Room.wav"
+    },
+    {
+      "nome": "Hartke45XL-R121-RoomAway.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 12546,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Royer R121/Hartke45XL-R121-RoomAway.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cap-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cap-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cap-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cap-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cap-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cap-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cap-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-CapEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-CapEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-CapEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-CapEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-CapEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-CapEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-CapEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-CapEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-CapEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-CapEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cone-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cone-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cone-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cone-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cone-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cone-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cone-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cone-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-Cone-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-Cone-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-ConeEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-ConeEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-ConeEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-ConeEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-ConeEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-ConeEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-ConeEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-ConeEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-e602-ConeEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser e602",
+      "formato": "WAV",
+      "tamanho_bytes": 46986,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser e602/Hartke45XL-e602-ConeEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cap-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 14164,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cap-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 13834,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 17758,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cap-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 11034,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cap-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 10602,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cap-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 17826,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cap-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 14580,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cap-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 8070,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 8274,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-CapEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 14166,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-CapEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 13836,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-CapEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 13002,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-CapEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 12702,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-CapEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 10536,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-CapEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 10704,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-CapEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 10500,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-CapEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 10380,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-CapEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 10500,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-CapEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cone-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 12738,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cone-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 14118,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cone-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 12702,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cone-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 12756,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cone-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 12702,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cone-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 10452,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cone-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 10452,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cone-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 14112,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-Cone-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 14112,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-Cone-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-ConeEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 14190,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-ConeEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 14220,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-ConeEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 12738,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-ConeEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 12760,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-ConeEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 13098,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-ConeEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 8854,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-ConeEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 13342,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-ConeEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 14118,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-421-ConeEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 14184,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Sennheiser MD421/Hartke45XL-421-ConeEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cap-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 11892,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cap-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 11808,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cap-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 10518,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cap-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 18618,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cap-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 18568,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cap-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 18570,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cap-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 10452,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 10486,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-CapEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 12330,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-CapEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 14010,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-CapEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 11544,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-CapEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 11778,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-CapEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 11808,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-CapEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 11644,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-CapEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 11082,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-CapEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 10518,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-CapEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 11646,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-CapEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cone-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 10524,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cone-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 14434,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cone-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 11322,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cone-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 12184,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cone-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 12184,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cone-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 12232,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cone-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 14062,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cone-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 14040,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-Cone-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 14040,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-Cone-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-ConeEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 14166,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-ConeEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 14206,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-ConeEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 11550,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-ConeEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 14184,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-ConeEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 14346,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-ConeEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 12724,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-ConeEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 12228,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-ConeEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 8880,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-Beta52-ConeEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure Beta52",
+      "formato": "WAV",
+      "tamanho_bytes": 8496,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure Beta52/Hartke45XL-Beta52-ConeEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cap-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 10494,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cap-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 10494,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 18600,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cap-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 10494,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cap-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 18282,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cap-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 17686,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cap-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 18600,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cap-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 7878,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 6192,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-CapEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 14580,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-CapEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 14580,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-CapEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 19212,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-CapEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 10500,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-CapEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 10498,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-CapEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 18286,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-CapEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 18568,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-CapEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 18568,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-CapEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 7878,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-CapEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cone-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 27376,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cone-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 27376,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cone-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 8902,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cone-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 27372,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cone-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 19302,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cone-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 6432,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cone-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 6280,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cone-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 7816,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-Cone-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 8736,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-Cone-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-ConeEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 27430,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-ConeEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 27378,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-ConeEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 10548,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-ConeEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 27426,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-ConeEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 27358,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-ConeEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 8850,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-ConeEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 8898,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-ConeEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 8740,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM57-ConeEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 10614,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM57/Hartke45XL-SM57-ConeEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cap-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 17808,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cap-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 10378,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cap-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 17806,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cap-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 17880,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cap-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 17808,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cap-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 14580,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cap-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 5830,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cap-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 5352,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cap-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 8022,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cap-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-CapEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 14580,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-CapEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 17260,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-CapEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 18606,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-CapEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 10500,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-CapEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 17808,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-CapEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 10500,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-CapEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 10500,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-CapEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 10500,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-CapEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 8028,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-CapEdge-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cone-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 12706,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cone-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 18576,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cone-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 12666,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cone-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 12666,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cone-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 8832,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cone-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 14958,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cone-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 11070,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cone-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 17022,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-Cone-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 14586,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-Cone-6in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-ConeEdge-0_5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 12756,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-0_5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-ConeEdge-0in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 17832,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-0in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-ConeEdge-12in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 10902,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-12in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-ConeEdge-1in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 12706,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-1in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-ConeEdge-2in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 10506,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-2in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-ConeEdge-3in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 10506,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-3in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-ConeEdge-4in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 16702,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-4in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-ConeEdge-5in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 17322,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-5in.wav"
+    },
+    {
+      "nome": "Hartke45XL-SM7-ConeEdge-6in.wav",
+      "grupo": "Bass 48 KHz-24bit / Hartke45XL / Shure SM7",
+      "formato": "WAV",
+      "tamanho_bytes": 18606,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass 48 KHz-24bit/Hartke45XL/Shure SM7/Hartke45XL-SM7-ConeEdge-6in.wav"
+    },
+    {
+      "nome": "1x15 AKG Center.wav",
+      "grupo": "Bass Hartke",
+      "formato": "WAV",
+      "tamanho_bytes": 51308,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass Hartke/1x15 AKG Center.wav"
+    },
+    {
+      "nome": "1x15 AKG Edge .wav",
+      "grupo": "Bass Hartke",
+      "formato": "WAV",
+      "tamanho_bytes": 51812,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass Hartke/1x15 AKG Edge .wav"
+    },
+    {
+      "nome": "1x15 Neumann Center - 6dB.wav",
+      "grupo": "Bass Hartke",
+      "formato": "WAV",
+      "tamanho_bytes": 50922,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass Hartke/1x15 Neumann Center - 6dB.wav"
+    },
+    {
+      "nome": "1x15 Neumann Edge Off ax 48s.wav",
+      "grupo": "Bass Hartke",
+      "formato": "WAV",
+      "tamanho_bytes": 58182,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass Hartke/1x15 Neumann Edge Off ax 48s.wav"
+    },
+    {
+      "nome": "1x15 Neumann Edge off Ax louder.wav",
+      "grupo": "Bass Hartke",
+      "formato": "WAV",
+      "tamanho_bytes": 80636,
+      "arquivo": "individuais/Por modelo/Baixo/Hartke/45XL/Bass Hartke/1x15 Neumann Edge off Ax louder.wav"
+    }
+  ]
+}

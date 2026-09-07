@@ -1,0 +1,508 @@
+{
+  "arquivos": [
+    {
+      "nome": "BETA52 9100A 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / Beta 52",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/Beta 52/BETA52 9100A 1960A P1_dc.wav"
+    },
+    {
+      "nome": "BETA52 9100A 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / Beta 52",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/Beta 52/BETA52 9100A 1960A P2_dc.wav"
+    },
+    {
+      "nome": "BETA52 9100A 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / Beta 52",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/Beta 52/BETA52 9100A 1960A P3_dc.wav"
+    },
+    {
+      "nome": "BETA52 9100B 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / Beta 52",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/Beta 52/BETA52 9100B 1960A P1_dc.wav"
+    },
+    {
+      "nome": "BETA52 9100B 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / Beta 52",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/Beta 52/BETA52 9100B 1960A P2_dc.wav"
+    },
+    {
+      "nome": "BETA52 9100B 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / Beta 52",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/Beta 52/BETA52 9100B 1960A P3_dc.wav"
+    },
+    {
+      "nome": "BBIRD 9100A 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / Bluebird",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/Bluebird/BBIRD 9100A 1960A P1_dc.wav"
+    },
+    {
+      "nome": "BBIRD 9100A 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / Bluebird",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/Bluebird/BBIRD 9100A 1960A P2_dc.wav"
+    },
+    {
+      "nome": "BBIRD 9100A 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / Bluebird",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/Bluebird/BBIRD 9100A 1960A P3_dc.wav"
+    },
+    {
+      "nome": "BBIRD 9100B 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / Bluebird",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/Bluebird/BBIRD 9100B 1960A P1_dc.wav"
+    },
+    {
+      "nome": "BBIRD 9100B 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / Bluebird",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/Bluebird/BBIRD 9100B 1960A P2_dc.wav"
+    },
+    {
+      "nome": "BBIRD 9100B 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / Bluebird",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/Bluebird/BBIRD 9100B 1960A P3_dc.wav"
+    },
+    {
+      "nome": "C214 9100A 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / C214",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/C214/C214 9100A 1960A P1_dc.wav"
+    },
+    {
+      "nome": "C214 9100A 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / C214",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/C214/C214 9100A 1960A P2_dc.wav"
+    },
+    {
+      "nome": "C214 9100A 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / C214",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/C214/C214 9100A 1960A P3_dc.wav"
+    },
+    {
+      "nome": "C214 9100B 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / C214",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/C214/C214 9100B 1960A P1_dc.wav"
+    },
+    {
+      "nome": "C214 9100B 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / C214",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/C214/C214 9100B 1960A P2_dc.wav"
+    },
+    {
+      "nome": "C214 9100B 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / C214",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/C214/C214 9100B 1960A P3_dc.wav"
+    },
+    {
+      "nome": "E906Mode1 9100A 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / E906",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/E906/E906Mode1 9100A 1960A P1_dc.wav"
+    },
+    {
+      "nome": "E906Mode1 9100A 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / E906",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/E906/E906Mode1 9100A 1960A P2_dc.wav"
+    },
+    {
+      "nome": "E906Mode1 9100A 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / E906",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/E906/E906Mode1 9100A 1960A P3_dc.wav"
+    },
+    {
+      "nome": "E906Mode1 9100A 1960A P4_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / E906",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/E906/E906Mode1 9100A 1960A P4_dc.wav"
+    },
+    {
+      "nome": "E906Mode2 9100A 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / E906",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/E906/E906Mode2 9100A 1960A P1_dc.wav"
+    },
+    {
+      "nome": "E906Mode2 9100A 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / E906",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/E906/E906Mode2 9100A 1960A P2_dc.wav"
+    },
+    {
+      "nome": "E906Mode2 9100A 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / E906",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/E906/E906Mode2 9100A 1960A P3_dc.wav"
+    },
+    {
+      "nome": "E906Mode2 9100A 1960A P4_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / E906",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/E906/E906Mode2 9100A 1960A P4_dc.wav"
+    },
+    {
+      "nome": "E906Mode3 9100A 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / E906",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/E906/E906Mode3 9100A 1960A P1_dc.wav"
+    },
+    {
+      "nome": "E906Mode3 9100A 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / E906",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/E906/E906Mode3 9100A 1960A P2_dc.wav"
+    },
+    {
+      "nome": "E906Mode3 9100A 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / E906",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/E906/E906Mode3 9100A 1960A P3_dc.wav"
+    },
+    {
+      "nome": "E906Mode3 9100A 1960A P4_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / E906",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/E906/E906Mode3 9100A 1960A P4_dc.wav"
+    },
+    {
+      "nome": "I5 9100A 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / I5",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/I5/I5 9100A 1960A P1_dc.wav"
+    },
+    {
+      "nome": "I5 9100A 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / I5",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/I5/I5 9100A 1960A P2_dc.wav"
+    },
+    {
+      "nome": "I5 9100A 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / I5",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/I5/I5 9100A 1960A P3_dc.wav"
+    },
+    {
+      "nome": "I5 9100B 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / I5",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/I5/I5 9100B 1960A P1_dc.wav"
+    },
+    {
+      "nome": "I5 9100B 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / I5",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/I5/I5 9100B 1960A P2_dc.wav"
+    },
+    {
+      "nome": "I5 9100B 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / I5",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/I5/I5 9100B 1960A P3_dc.wav"
+    },
+    {
+      "nome": "MD421 9100A 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / MD421 MKII",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/MD421 MKII/MD421 9100A 1960A P1_dc.wav"
+    },
+    {
+      "nome": "MD421 9100A 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / MD421 MKII",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/MD421 MKII/MD421 9100A 1960A P2_dc.wav"
+    },
+    {
+      "nome": "MD421 9100A 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / MD421 MKII",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/MD421 MKII/MD421 9100A 1960A P3_dc.wav"
+    },
+    {
+      "nome": "OM5 9100A 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / OM5",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/OM5/OM5 9100A 1960A P1_dc.wav"
+    },
+    {
+      "nome": "OM5 9100A 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / OM5",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/OM5/OM5 9100A 1960A P2_dc.wav"
+    },
+    {
+      "nome": "OM5 9100A 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / OM5",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/OM5/OM5 9100A 1960A P3_dc.wav"
+    },
+    {
+      "nome": "SM81 9100A 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / SM81",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/SM81/SM81 9100A 1960A P1_dc.wav"
+    },
+    {
+      "nome": "SM81 9100A 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / SM81",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/SM81/SM81 9100A 1960A P2_dc.wav"
+    },
+    {
+      "nome": "SM81 9100A 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / SM81",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/SM81/SM81 9100A 1960A P3_dc.wav"
+    },
+    {
+      "nome": "SM81 9100B 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / SM81",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/SM81/SM81 9100B 1960A P1_dc.wav"
+    },
+    {
+      "nome": "SM81 9100B 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / SM81",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/SM81/SM81 9100B 1960A P2_dc.wav"
+    },
+    {
+      "nome": "SM81 9100B 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / SM81",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/SM81/SM81 9100B 1960A P3_dc.wav"
+    },
+    {
+      "nome": "SPUT-C 9100A 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / Sputnik",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/Sputnik/SPUT-C 9100A 1960A P1_dc.wav"
+    },
+    {
+      "nome": "SPUT-C 9100A 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / Sputnik",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/Sputnik/SPUT-C 9100A 1960A P2_dc.wav"
+    },
+    {
+      "nome": "SPUT-C 9100A 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / Sputnik",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/Sputnik/SPUT-C 9100A 1960A P3_dc.wav"
+    },
+    {
+      "nome": "ST59-C 9100A 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / ST59",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/ST59/ST59-C 9100A 1960A P1_dc.wav"
+    },
+    {
+      "nome": "ST59-C 9100A 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / ST59",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/ST59/ST59-C 9100A 1960A P2_dc.wav"
+    },
+    {
+      "nome": "ST59-C 9100A 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / ST59",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/ST59/ST59-C 9100A 1960A P3_dc.wav"
+    },
+    {
+      "nome": "ST59-F8 9100A 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / ST59",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/ST59/ST59-F8 9100A 1960A P1_dc.wav"
+    },
+    {
+      "nome": "ST59-F8 9100A 1960A P2 WHAAAT_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / ST59",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/ST59/ST59-F8 9100A 1960A P2 WHAAAT_dc.wav"
+    },
+    {
+      "nome": "ST59-F8 9100A 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / ST59",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/ST59/ST59-F8 9100A 1960A P2_dc.wav"
+    },
+    {
+      "nome": "ST59-F8 9100A 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / ST59",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/ST59/ST59-F8 9100A 1960A P3_dc.wav"
+    },
+    {
+      "nome": "ST59-O 9100A 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / ST59",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/ST59/ST59-O 9100A 1960A P1_dc.wav"
+    },
+    {
+      "nome": "ST59-O 9100A 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / ST59",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/ST59/ST59-O 9100A 1960A P2_dc.wav"
+    },
+    {
+      "nome": "ST59-O 9100A 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / ST59",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/ST59/ST59-O 9100A 1960A P3_dc.wav"
+    },
+    {
+      "nome": "TLM103 9100A 1960A P10_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / TLM103",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P10_dc.wav"
+    },
+    {
+      "nome": "TLM103 9100A 1960A P1_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / TLM103",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P1_dc.wav"
+    },
+    {
+      "nome": "TLM103 9100A 1960A P2_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / TLM103",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P2_dc.wav"
+    },
+    {
+      "nome": "TLM103 9100A 1960A P3_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / TLM103",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P3_dc.wav"
+    },
+    {
+      "nome": "TLM103 9100A 1960A P4_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / TLM103",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P4_dc.wav"
+    },
+    {
+      "nome": "TLM103 9100A 1960A P5_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / TLM103",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P5_dc.wav"
+    },
+    {
+      "nome": "TLM103 9100A 1960A P6_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / TLM103",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P6_dc.wav"
+    },
+    {
+      "nome": "TLM103 9100A 1960A P7_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / TLM103",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P7_dc.wav"
+    },
+    {
+      "nome": "TLM103 9100A 1960A P8_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / TLM103",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P8_dc.wav"
+    },
+    {
+      "nome": "TLM103 9100A 1960A P9_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / TLM103",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A P9_dc.wav"
+    },
+    {
+      "nome": "TLM103 9100A 1960A Way Far Back_dc.wav",
+      "grupo": "AEmpulses_v1 / AEmpulses v1 / TLM103",
+      "formato": "WAV",
+      "tamanho_bytes": 132380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/Outras coleções 1960A/AEmpulses_v1/AEmpulses v1/TLM103/TLM103 9100A 1960A Way Far Back_dc.wav"
+    }
+  ]
+}

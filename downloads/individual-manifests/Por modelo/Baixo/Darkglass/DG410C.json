@@ -1,0 +1,4379 @@
+{
+  "arquivos": [
+    {
+      "nome": "DC410C_API_SKRM100.wav",
+      "grupo": "API",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/DC410C_API_SKRM100.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-A0.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-A0.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-A1.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-A1.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-A10.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-A10.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-A2.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-A2.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-A3.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-A3.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-A4.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-A4.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-A5.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-A5.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-A6.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-A6.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-A7.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-A7.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-A8.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-A8.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-A9.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-A9.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-B0.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-B0.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-B1.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-B1.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-B10.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-B10.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-B2.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-B2.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-B3.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-B3.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-B4.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-B4.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-B5.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-B5.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-B6.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-B6.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-B7.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-B7.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-B8.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-B8.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-B9.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-B9.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-C0.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-C0.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-C1.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-C1.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-C10.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-C10.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-C2.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-C2.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-C3.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-C3.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-C4.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-C4.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-C5.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-C5.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-C6.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-C6.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-C7.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-C7.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-C8.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-C8.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-C9.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-C9.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-R1.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-R1.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-R2.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-R2.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-R3.wav",
+      "grupo": "API / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Beyerdynamic M160/DC410C_API_M160-R3.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-A0.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-A0.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-A1.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-A1.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-A10.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-A10.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-A2.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-A2.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-A3.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-A3.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-A4.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-A4.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-A5.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-A5.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-A6.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-A6.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-A7.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-A7.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-A8.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-A8.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-A9.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-A9.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-B0.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-B0.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-B1.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-B1.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-B10.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-B10.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-B2.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-B2.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-B3.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-B3.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-B4.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-B4.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-B5.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-B5.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-B6.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-B6.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-B7.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-B7.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-B8.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-B8.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-B9.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-B9.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-C0.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-C0.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-C1.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-C1.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-C10.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-C10.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-C2.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-C2.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-C3.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-C3.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-C4.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-C4.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-C5.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-C5.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-C6.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-C6.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-C7.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-C7.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-C8.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-C8.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-C9.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-C9.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-R1.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-R1.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-R2.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-R2.wav"
+    },
+    {
+      "nome": "DC410C_API_DragFly-R3.wav",
+      "grupo": "API / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/BLUE Dragonfly/DC410C_API_DragFly-R3.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-A0.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-A0.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-A1.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-A1.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-A10.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-A10.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-A2.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-A2.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-A3.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-A3.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-A4.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-A4.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-A5.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-A5.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-A6.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-A6.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-A7.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-A7.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-A8.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-A8.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-A9.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-A9.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-B0.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-B0.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-B1.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-B1.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-B10.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-B10.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-B2.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-B2.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-B3.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-B3.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-B4.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-B4.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-B5.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-B5.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-B6.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-B6.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-B7.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-B7.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-B8.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-B8.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-B9.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-B9.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-C0.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-C0.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-C1.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-C1.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-C10.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-C10.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-C2.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-C2.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-C3.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-C3.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-C4.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-C4.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-C5.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-C5.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-C6.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-C6.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-C7.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-C7.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-C8.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-C8.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-C9.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-C9.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-R1.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-R1.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-R2.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-R2.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-R3.wav",
+      "grupo": "API / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Electrovoice RE20/DC410C_API_RE20-R3.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-A0.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-A0.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-A1.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-A1.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-A10.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-A10.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-A2.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-A2.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-A3.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-A3.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-A4.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-A4.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-A5.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-A5.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-A6.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-A6.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-A7.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-A7.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-A8.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-A8.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-A9.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-A9.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-B0.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-B0.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-B1.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-B1.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-B10.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-B10.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-B2.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-B2.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-B3.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-B3.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-B4.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-B4.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-B5.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-B5.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-B6.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-B6.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-B7.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-B7.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-B8.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-B8.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-B9.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-B9.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-C0.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-C0.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-C1.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-C1.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-C10.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-C10.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-C2.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-C2.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-C3.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-C3.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-C4.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-C4.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-C5.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-C5.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-C6.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-C6.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-C7.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-C7.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-C8.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-C8.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-C9.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-C9.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-R1.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-R1.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-R2.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-R2.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-R3.wav",
+      "grupo": "API / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Neumann U87/DC410C_API_U87-R3.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-A0.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-A0.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-A1.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-A1.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-A10.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-A10.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-A2.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-A2.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-A3.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-A3.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-A4.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-A4.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-A5.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-A5.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-A6.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-A6.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-A7.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-A7.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-A8.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-A8.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-A9.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-A9.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-B0.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-B0.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-B1.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-B1.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-B10.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-B10.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-B2.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-B2.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-B3.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-B3.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-B4.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-B4.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-B5.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-B5.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-B6.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-B6.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-B7.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-B7.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-B8.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-B8.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-B9.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-B9.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-C0.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-C0.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-C1.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-C1.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-C10.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-C10.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-C2.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-C2.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-C3.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-C3.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-C4.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-C4.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-C5.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-C5.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-C6.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-C6.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-C7.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-C7.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-C8.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-C8.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-C9.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-C9.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-R1.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-R1.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-R2.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-R2.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-R3.wav",
+      "grupo": "API / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Royer R121/DC410C_API_R121-R3.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-A0.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-A0.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-A1.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-A1.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-A10.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-A10.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-A2.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-A2.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-A3.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-A3.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-A4.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-A4.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-A5.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-A5.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-A6.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-A6.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-A7.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-A7.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-A8.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-A8.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-A9.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-A9.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-B0.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-B0.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-B1.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-B1.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-B10.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-B10.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-B2.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-B2.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-B3.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-B3.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-B4.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-B4.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-B5.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-B5.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-B6.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-B6.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-B7.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-B7.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-B8.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-B8.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-B9.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-B9.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-C0.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-C0.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-C1.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-C1.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-C10.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-C10.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-C2.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-C2.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-C3.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-C3.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-C4.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-C4.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-C5.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-C5.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-C6.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-C6.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-C7.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-C7.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-C8.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-C8.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-C9.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-C9.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-R1.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-R1.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-R2.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-R2.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-R3.wav",
+      "grupo": "API / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Sennheiser MD421/DC410C_API_MD421-R3.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-A0.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-A0.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-A1.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-A1.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-A10.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-A10.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-A2.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-A2.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-A3.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-A3.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-A4.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-A4.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-A5.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-A5.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-A6.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-A6.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-A7.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-A7.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-A8.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-A8.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-A9.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-A9.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-B0.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-B0.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-B1.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-B1.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-B10.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-B10.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-B2.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-B2.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-B3.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-B3.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-B4.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-B4.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-B5.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-B5.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-B6.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-B6.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-B7.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-B7.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-B8.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-B8.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-B9.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-B9.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-C0.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-C0.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-C1.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-C1.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-C10.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-C10.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-C2.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-C2.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-C3.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-C3.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-C4.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-C4.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-C5.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-C5.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-C6.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-C6.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-C7.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-C7.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-C8.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-C8.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-C9.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-C9.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-R1.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-R1.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-R2.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-R2.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-R3.wav",
+      "grupo": "API / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure BETA52a/DC410C_API_Beta52-R3.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-A0.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-A0.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-A1.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-A1.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-A10.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-A10.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-A2.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-A2.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-A3.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-A3.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-A4.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-A4.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-A5.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-A5.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-A6.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-A6.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-A7.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-A7.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-A8.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-A8.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-A9.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-A9.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-B0.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-B0.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-B1.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-B1.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-B10.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-B10.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-B2.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-B2.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-B3.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-B3.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-B4.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-B4.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-B5.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-B5.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-B6.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-B6.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-B7.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-B7.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-B8.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-B8.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-B9.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-B9.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-C0.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-C0.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-C1.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-C1.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-C10.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-C10.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-C2.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-C2.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-C3.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-C3.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-C4.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-C4.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-C5.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-C5.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-C6.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-C6.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-C7.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-C7.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-C8.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-C8.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-C9.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-C9.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-R1.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-R1.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-R2.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-R2.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-R3.wav",
+      "grupo": "API / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Shure SM57/DC410C_API_SM57-R3.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-Mix A.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_Beta52-Mix A.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-Mix B.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_Beta52-Mix B.wav"
+    },
+    {
+      "nome": "DC410C_API_Beta52-Mix C.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_Beta52-Mix C.wav"
+    },
+    {
+      "nome": "DC410C_API_DraFly-Mix A.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_DraFly-Mix A.wav"
+    },
+    {
+      "nome": "DC410C_API_DraFly-Mix B.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_DraFly-Mix B.wav"
+    },
+    {
+      "nome": "DC410C_API_DraFly-Mix C.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_DraFly-Mix C.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-Mix A.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_M160-Mix A.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-Mix B.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_M160-Mix B.wav"
+    },
+    {
+      "nome": "DC410C_API_M160-Mix C.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_M160-Mix C.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-Mix A.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_MD421-Mix A.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-Mix B.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_MD421-Mix B.wav"
+    },
+    {
+      "nome": "DC410C_API_MD421-Mix C.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_MD421-Mix C.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-Mix A.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_R121-Mix A.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-Mix B.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_R121-Mix B.wav"
+    },
+    {
+      "nome": "DC410C_API_R121-Mix C.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_R121-Mix C.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-Mix A.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_RE20-Mix A.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-Mix B.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_RE20-Mix B.wav"
+    },
+    {
+      "nome": "DC410C_API_RE20-Mix C.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_RE20-Mix C.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-Mix A.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_SM57-Mix A.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-Mix B.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_SM57-Mix B.wav"
+    },
+    {
+      "nome": "DC410C_API_SM57-Mix C.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_SM57-Mix C.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-Mix A.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_U87-Mix A.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-Mix B.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_U87-Mix B.wav"
+    },
+    {
+      "nome": "DC410C_API_U87-Mix C.wav",
+      "grupo": "API / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/API/Single Mic Mixes/DC410C_API_U87-Mix C.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SKRM100.wav",
+      "grupo": "Neve",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/DC410C_NEV_SKRM100.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-A0.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-A0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-A1.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-A1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-A10.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-A10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-A2.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-A2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-A3.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-A3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-A4.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-A4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-A5.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-A5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-A6.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-A6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-A7.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-A7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-A8.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-A8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-A9.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-A9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-B0.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-B0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-B1.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-B1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-B10.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-B10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-B2.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-B2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-B3.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-B3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-B4.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-B4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-B5.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-B5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-B6.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-B6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-B7.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-B7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-B8.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-B8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-B9.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-B9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-C0.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-C0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-C1.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-C1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-C10.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-C10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-C2.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-C2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-C3.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-C3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-C4.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-C4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-C5.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-C5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-C6.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-C6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-C7.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-C7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-C8.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-C8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-C9.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-C9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-R1.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-R1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-R2.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-R2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-R3.wav",
+      "grupo": "Neve / Beyerdynamic M160",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Beyerdynamic M160/DC410C_NEV_M160-R3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-A0.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-A1.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-A10.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-A2.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-A3.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-A4.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-A5.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-A6.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-A7.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-A8.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-A9.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-A9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-B0.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-B1.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-B10.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-B2.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-B3.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-B4.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-B5.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-B6.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-B7.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-B8.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-B9.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-B9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-C0.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-C1.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-C10.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-C2.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-C3.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-C4.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-C5.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-C6.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-C7.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-C8.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-C9.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-C9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-R1.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-R1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-R2.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-R2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-R3.wav",
+      "grupo": "Neve / BLUE Dragonfly",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/BLUE Dragonfly/DC410C_NEV_DraFly-R3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-A0.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-A0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-A1.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-A1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-A10.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-A10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-A2.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-A2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-A3.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-A3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-A4.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-A4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-A5.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-A5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-A6.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-A6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-A7.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-A7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-A8.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-A8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-A9.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-A9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-B0.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-B0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-B1.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-B1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-B10.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-B10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-B2.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-B2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-B3.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-B3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-B4.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-B4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-B5.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-B5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-B6.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-B6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-B7.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-B7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-B8.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-B8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-B9.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-B9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-C0.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-C0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-C1.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-C1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-C10.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-C10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-C2.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-C2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-C3.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-C3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-C4.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-C4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-C5.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-C5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-C6.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-C6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-C7.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-C7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-C8.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-C8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-C9.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-C9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-R1.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-R1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-R2.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-R2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-R3.wav",
+      "grupo": "Neve / Electrovoice RE20",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Electrovoice RE20/DC410C_NEV_RE20-R3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-A0.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-A0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-A1.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-A1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-A10.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-A10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-A2.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-A2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-A3.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-A3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-A4.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-A4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-A5.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-A5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-A6.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-A6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-A7.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-A7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-A8.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-A8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-A9.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-A9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-B0.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-B0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-B1.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-B1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-B10.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-B10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-B2.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-B2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-B3.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-B3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-B4.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-B4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-B5.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-B5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-B6.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-B6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-B7.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-B7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-B8.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-B8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-B9.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-B9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-C0.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-C0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-C1.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-C1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-C10.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-C10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-C2.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-C2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-C3.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-C3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-C4.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-C4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-C5.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-C5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-C6.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-C6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-C7.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-C7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-C8.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-C8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-C9.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-C9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-R1.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-R1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-R2.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-R2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-R3.wav",
+      "grupo": "Neve / Neumann U87",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Neumann U87/DC410C_NEV_U87-R3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-A0.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-A0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-A1.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-A1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-A10.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-A10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-A2.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-A2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-A3.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-A3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-A4.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-A4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-A5.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-A5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-A6.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-A6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-A7.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-A7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-A8.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-A8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-A9.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-A9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-B0.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-B0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-B1.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-B1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-B10.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-B10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-B2.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-B2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-B3.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-B3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-B4.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-B4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-B5.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-B5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-B6.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-B6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-B7.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-B7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-B8.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-B8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-B9.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-B9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-C0.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-C0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-C1.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-C1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-C10.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-C10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-C2.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-C2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-C3.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-C3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-C4.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-C4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-C5.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-C5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-C6.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-C6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-C7.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-C7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-C9.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-C9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-R1.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-R1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-R2.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-R2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-R3.wav",
+      "grupo": "Neve / Royer R121",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Royer R121/DC410C_NEV_R121-R3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-A0.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-A0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-A1.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-A1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-A10.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-A10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-A2.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-A2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-A3.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-A3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-A4.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-A4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-A5.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-A5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-A6.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-A6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-A7.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-A7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-A8.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-A8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-A9.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-A9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-B0.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-B0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-B1.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-B1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-B10.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-B10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-B2.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-B2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-B3.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-B3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-B4.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-B4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-B5.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-B5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-B6.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-B6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-B7.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-B7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-B8.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-B8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-B9.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-B9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-C0.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-C0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-C1.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-C1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-C10.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-C10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-C2.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-C2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-C3.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-C3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-C4.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-C4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-C5.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-C5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-C6.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-C6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-C7.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-C7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-C8.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-C8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-C9.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-C9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-R1.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-R1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-R2.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-R2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-R3.wav",
+      "grupo": "Neve / Sennheiser MD421",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Sennheiser MD421/DC410C_NEV_MD421-R3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-A0.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-A0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-A1.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-A1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-A10.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-A10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-A2.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-A2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-A3.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-A3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-A4.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-A4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-A5.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-A5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-A6.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-A6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-A7.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-A7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-A8.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-A8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-A9.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-A9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-B0.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-B0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-B1.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-B1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-B10.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-B10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-B2.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-B2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-B3.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-B3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-B4.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-B4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-B5.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-B5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-B6.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-B6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-B7.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-B7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-B8.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-B8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-B9.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-B9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-C0.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-C0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-C1.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-C1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-C10.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-C10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-C2.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-C2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-C3.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-C3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-C4.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-C4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-C5.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-C5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-C6.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-C6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-C7.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-C7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-C8.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-C8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-C9.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-C9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-R1.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-R1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-R2.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-R2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-R3.wav",
+      "grupo": "Neve / Shure BETA52a",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure BETA52a/DC410C_NEV_Beta52-R3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-A0.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-A0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-A1.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-A1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-A10.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-A10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-A2.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-A2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-A3.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-A3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-A4.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-A4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-A5.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-A5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-A6.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-A6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-A7.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-A7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-A8.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-A8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-A9.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-A9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-B0.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-B0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-B1.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-B1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-B10.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-B10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-B2.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-B2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-B3.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-B3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-B4.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-B4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-B5.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-B5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-B6.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-B6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-B7.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-B7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-B8.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-B8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-B9.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-B9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-C0.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-C0.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-C1.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-C1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-C10.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-C10.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-C2.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-C2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-C3.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-C3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-C4.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-C4.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-C5.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-C5.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-C6.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-C6.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-C7.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-C7.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-C8.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-C8.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-C9.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-C9.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-R1.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-R1.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-R2.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-R2.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-R3.wav",
+      "grupo": "Neve / Shure SM57",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Shure SM57/DC410C_NEV_SM57-R3.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-Mix A.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_Beta52-Mix A.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-Mix B.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_Beta52-Mix B.wav"
+    },
+    {
+      "nome": "DC410C_NEV_Beta52-Mix C.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_Beta52-Mix C.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-Mix A.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_DraFly-Mix A.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-Mix B.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_DraFly-Mix B.wav"
+    },
+    {
+      "nome": "DC410C_NEV_DraFly-Mix C.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_DraFly-Mix C.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-Mix A.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_M160-Mix A.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-Mix B.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_M160-Mix B.wav"
+    },
+    {
+      "nome": "DC410C_NEV_M160-Mix C.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_M160-Mix C.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-Mix A.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_MD421-Mix A.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-Mix B.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_MD421-Mix B.wav"
+    },
+    {
+      "nome": "DC410C_NEV_MD421-Mix C.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_MD421-Mix C.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-Mix A.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_R121-Mix A.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-Mix B.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_R121-Mix B.wav"
+    },
+    {
+      "nome": "DC410C_NEV_R121-Mix C.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_R121-Mix C.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-Mix A.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_RE20-Mix A.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-Mix B.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_RE20-Mix B.wav"
+    },
+    {
+      "nome": "DC410C_NEV_RE20-Mix C.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_RE20-Mix C.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-Mix A.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_SM57-Mix A.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-Mix B.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_SM57-Mix B.wav"
+    },
+    {
+      "nome": "DC410C_NEV_SM57-Mix C.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_SM57-Mix C.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-Mix A.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_U87-Mix A.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-Mix B.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_U87-Mix B.wav"
+    },
+    {
+      "nome": "DC410C_NEV_U87-Mix C.wav",
+      "grupo": "Neve / Single Mic Mixes",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Darkglass/DG410C/Neve/Single Mic Mixes/DC410C_NEV_U87-Mix C.wav"
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+[
+  {
+    "arquivo_zip": "Por modelo/Baixo/Ampeg/Outros modelos Ampeg.zip",
+    "total": 106,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Ampeg/Outros modelos Ampeg.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Ampeg/SVT 810.zip",
+    "total": 581,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Ampeg/SVT 810.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Ampeg/V4B Custom.zip",
+    "total": 12,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Ampeg/V4B Custom.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Ashdown/ABM BP150.zip",
+    "total": 12,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Ashdown/ABM BP150.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Darkglass/DG410C.zip",
+    "total": 625,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Darkglass/DG410C.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Eden/Eden e Nemesis 4x10.zip",
+    "total": 17,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Eden/Eden e Nemesis 4x10.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Gallien-Krueger/GK Collection.zip",
+    "total": 18,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Gallien-Krueger/GK Collection.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Hartke/45XL.zip",
+    "total": 613,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Hartke/45XL.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Markbass/Markbass Collection.zip",
+    "total": 21,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Markbass/Markbass Collection.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Mesa-Boogie/PowerHouse.zip",
+    "total": 12,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Mesa-Boogie/PowerHouse.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Orange/Orange Bass Setup.zip",
+    "total": 5,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Orange/Orange Bass Setup.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Outras coleções/AFX.zip",
+    "total": 6,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Outras coleções/AFX.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Outras coleções/Bass Classics.zip",
+    "total": 1,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Outras coleções/Bass Classics.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Outras coleções/Bass Grafton.zip",
+    "total": 3,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Outras coleções/Bass Grafton.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Outras coleções/Bass Hannover.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Outras coleções/Bass Hannover.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Outras coleções/Bass Oakdale 2x12.zip",
+    "total": 4,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Outras coleções/Bass Oakdale 2x12.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Outras coleções/Bass Peavey 4x10.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Outras coleções/Bass Peavey 4x10.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Outras coleções/Bass Setup_dr_norton.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Outras coleções/Bass Setup_dr_norton.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Outras coleções/Bass Setup_Zuhause_Hiwatt.zip",
+    "total": 7,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Outras coleções/Bass Setup_Zuhause_Hiwatt.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Outras coleções/Laney LV412A.zip",
+    "total": 8,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Outras coleções/Laney LV412A.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Peavey/115BX.zip",
+    "total": 12,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Peavey/115BX.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Science Amplification/Science Amps.zip",
+    "total": 51,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Science Amplification/Science Amps.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/SWR/SWR 15.zip",
+    "total": 3,
+    "manifesto": "individual-manifests/Por modelo/Baixo/SWR/SWR 15.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Baixo/Vox/T-25.zip",
+    "total": 12,
+    "manifesto": "individual-manifests/Por modelo/Baixo/Vox/T-25.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Allure/'59 Tweed e coleção Allure.zip",
+    "total": 7,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Allure/'59 Tweed e coleção Allure.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Bogner/Bogner 2x12.zip",
+    "total": 14,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Bogner/Bogner 2x12.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Coleção independente/God's Cab 1.4.zip",
+    "total": 3584,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Coleção independente/God's Cab 1.4.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Diezel/Diezel 4x12.zip",
+    "total": 9,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Diezel/Diezel 4x12.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/faIR/Modern Rock.zip",
+    "total": 10,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/faIR/Modern Rock.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/faIR/Post Grunge.zip",
+    "total": 27,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/faIR/Post Grunge.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Fender/Combos e gabinetes Fender.zip",
+    "total": 117,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Fender/Combos e gabinetes Fender.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Line 6/Vetta Cabinet.zip",
+    "total": 35,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Line 6/Vetta Cabinet.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Marshall/1960A G12M - Fractal.zip",
+    "total": 749,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Marshall/1960A G12M - Fractal.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Marshall/JCM2000.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Marshall/JCM2000.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Marshall/JCM900.zip",
+    "total": 9,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Marshall/JCM900.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Marshall/Outras coleções 1960A.zip",
+    "total": 72,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Marshall/Outras coleções 1960A.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Marshall/Plexi 1960A T75.zip",
+    "total": 35,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Marshall/Plexi 1960A T75.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30.zip",
+    "total": 126,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/1- Top 8 IR Pack.zip",
+    "total": 3,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/1- Top 8 IR Pack.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/2- Top 7 IR Pack.zip",
+    "total": 3,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/2- Top 7 IR Pack.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/AEmpulses_v1.zip",
+    "total": 47,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/AEmpulses_v1.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Allston.zip",
+    "total": 3,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Allston.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Bachatta IR.zip",
+    "total": 1,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Bachatta IR.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Behringer Ultra-G.zip",
+    "total": 1,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Behringer Ultra-G.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1.zip",
+    "total": 44,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/BestpluginsIrPack2.zip",
+    "total": 17,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack2.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/BestpluginsIRPack3.zip",
+    "total": 26,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/BestpluginsIRPack3.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/BestpluginsIRPack4.zip",
+    "total": 34,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/BestpluginsIRPack4.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/BestpluginsIRPack5.zip",
+    "total": 32,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/BestpluginsIRPack5.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Boxboro.zip",
+    "total": 3,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Boxboro.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Brighton.zip",
+    "total": 1,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Brighton.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Brockton.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Brockton.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Cambridge.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Cambridge.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Canton.zip",
+    "total": 1,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Canton.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Catharsis Fredman Impulses.zip",
+    "total": 9,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Catharsis Fredman Impulses.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Chelsea.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Chelsea.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Electrovoice 12.zip",
+    "total": 3,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Electrovoice 12.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Electrovoice 4x12.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Electrovoice 4x12.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Fearcomplexmusic Impulses.zip",
+    "total": 3,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Fearcomplexmusic Impulses.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Fredman-Impulses.zip",
+    "total": 3,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Fredman-Impulses.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Grafton.zip",
+    "total": 3,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Grafton.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Guitarhack Impulses.zip",
+    "total": 3,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Guitarhack Impulses.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/GuitarHacksImpulses.zip",
+    "total": 18,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/GuitarHacksImpulses.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Hannover.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Hannover.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Harvard.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Harvard.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/IR Clean forró.zip",
+    "total": 1,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/IR Clean forró.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Jensen 10 inch.zip",
+    "total": 4,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Jensen 10 inch.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Kalthallen IRs.zip",
+    "total": 48,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Kalthallen IRs.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Leicester.zip",
+    "total": 3,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Leicester.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Lincoln.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Lincoln.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Mansfield.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Mansfield.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Marshall 4x12.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Marshall 4x12.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Marshall G15R.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Marshall G15R.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Northbridge.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Northbridge.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Oakdale.zip",
+    "total": 4,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Oakdale.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Oxford.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Oxford.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/POD.zip",
+    "total": 13,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/POD.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Rockport.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Rockport.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Roslindale.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Roslindale.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Rutland.zip",
+    "total": 1,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Rutland.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Sterling.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Sterling.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Supermart.zip",
+    "total": 1,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Supermart.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Waltham.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Waltham.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/Worcester.zip",
+    "total": 5,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/Worcester.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Outras coleções/ZETA IR PACK.zip",
+    "total": 4,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Outras coleções/ZETA IR PACK.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Peavey/Peavey 4x10.zip",
+    "total": 2,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Peavey/Peavey 4x10.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Randall/Randall Cabinet.zip",
+    "total": 17,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Randall/Randall Cabinet.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Soldano/4x12B.zip",
+    "total": 25,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Soldano/4x12B.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Vox/AC30 Bright Channel.zip",
+    "total": 45,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Vox/AC30 Bright Channel.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Vox/AC30 Normal Channel.zip",
+    "total": 38,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Vox/AC30 Normal Channel.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Guitarra/Vox/AC30.zip",
+    "total": 5,
+    "manifesto": "individual-manifests/Por modelo/Guitarra/Vox/AC30.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Violão/Alvarez/ABT-60 Baritone.zip",
+    "total": 6,
+    "manifesto": "individual-manifests/Por modelo/Violão/Alvarez/ABT-60 Baritone.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Violão/Coleção D-TAR/Acoustic Shapes.zip",
+    "total": 16,
+    "manifesto": "individual-manifests/Por modelo/Violão/Coleção D-TAR/Acoustic Shapes.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Violão/Collings/D2H e OM2HA.zip",
+    "total": 10,
+    "manifesto": "individual-manifests/Por modelo/Violão/Collings/D2H e OM2HA.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Violão/Gibson/Hummingbird.zip",
+    "total": 5,
+    "manifesto": "individual-manifests/Por modelo/Violão/Gibson/Hummingbird.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Violão/Gibson/J-200 Jumbo.zip",
+    "total": 10,
+    "manifesto": "individual-manifests/Por modelo/Violão/Gibson/J-200 Jumbo.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Violão/Gibson/J-45.zip",
+    "total": 4,
+    "manifesto": "individual-manifests/Por modelo/Violão/Gibson/J-45.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Violão/Gibson/Wayne Benson Mandolin.zip",
+    "total": 3,
+    "manifesto": "individual-manifests/Por modelo/Violão/Gibson/Wayne Benson Mandolin.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Violão/LAVA/LAVA Nylon.zip",
+    "total": 4,
+    "manifesto": "individual-manifests/Por modelo/Violão/LAVA/LAVA Nylon.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Violão/Martin/HD-28.zip",
+    "total": 6,
+    "manifesto": "individual-manifests/Por modelo/Violão/Martin/HD-28.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Violão/Nylon/Violão clássico e Nylon Essentials.zip",
+    "total": 6,
+    "manifesto": "individual-manifests/Por modelo/Violão/Nylon/Violão clássico e Nylon Essentials.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Violão/Samick/JZ4.zip",
+    "total": 15,
+    "manifesto": "individual-manifests/Por modelo/Violão/Samick/JZ4.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Violão/Taylor/314ce.zip",
+    "total": 8,
+    "manifesto": "individual-manifests/Por modelo/Violão/Taylor/314ce.json"
+  },
+  {
+    "arquivo_zip": "Por modelo/Violão/Taylor/814.zip",
+    "total": 4,
+    "manifesto": "individual-manifests/Por modelo/Violão/Taylor/814.json"
+  }
+]

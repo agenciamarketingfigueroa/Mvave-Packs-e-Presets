@@ -1,0 +1,46 @@
+{
+  "arquivos": [
+    {
+      "nome": "01_EBS_PL_410_by_Shift_Line.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Baixo/Outras coleções/AFX/01_EBS_PL_410_by_Shift_Line.wav"
+    },
+    {
+      "nome": "03_TC_Electronic_BC410_by_Shift_Line.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Baixo/Outras coleções/AFX/03_TC_Electronic_BC410_by_Shift_Line.wav"
+    },
+    {
+      "nome": "05_Sunn_200s_by_Shift_Line.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Baixo/Outras coleções/AFX/05_Sunn_200s_by_Shift_Line.wav"
+    },
+    {
+      "nome": "06_Mesa_RR215_by_Shift_Line.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Baixo/Outras coleções/AFX/06_Mesa_RR215_by_Shift_Line.wav"
+    },
+    {
+      "nome": "08_ElectroVoice_EVM12L_by_Shift_Line.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Baixo/Outras coleções/AFX/08_ElectroVoice_EVM12L_by_Shift_Line.wav"
+    },
+    {
+      "nome": "10_Celestion_V30_bass_edition_by_Shift_Line.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Baixo/Outras coleções/AFX/10_Celestion_V30_bass_edition_by_Shift_Line.wav"
+    }
+  ]
+}

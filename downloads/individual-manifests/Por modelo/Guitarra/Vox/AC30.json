@@ -1,0 +1,39 @@
+{
+  "arquivos": [
+    {
+      "nome": "1 - VOX AC30 brilliant+bass BX44 neve close_dc.wav",
+      "grupo": "1- Top 8 IR Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 47140,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30/1- Top 8 IR Pack/1 - VOX AC30 brilliant+bass BX44 neve close_dc.wav"
+    },
+    {
+      "nome": "AC30.wav",
+      "grupo": "2- Top 7 IR Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 533296,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30/2- Top 7 IR Pack/AC30.wav"
+    },
+    {
+      "nome": "Vox AC30.wav",
+      "grupo": "POD / Black Panel (Fender Deluxe)",
+      "formato": "WAV",
+      "tamanho_bytes": 4728,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30/POD/Black Panel (Fender Deluxe)/Vox AC30.wav"
+    },
+    {
+      "nome": "Vox AC30.wav",
+      "grupo": "POD / Tube Preamp",
+      "formato": "WAV",
+      "tamanho_bytes": 4720,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30/POD/Tube Preamp/Vox AC30.wav"
+    },
+    {
+      "nome": "Vox AC30.wav",
+      "grupo": "POD / Tweed Blues (Fender Bassman)",
+      "formato": "WAV",
+      "tamanho_bytes": 4568,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30/POD/Tweed Blues (Fender Bassman)/Vox AC30.wav"
+    }
+  ]
+}

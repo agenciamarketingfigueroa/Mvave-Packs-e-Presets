@@ -1,0 +1,25 @@
+{
+  "arquivos": [
+    {
+      "nome": "grafton bass deluxe.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 8556,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Grafton/grafton bass deluxe.wav"
+    },
+    {
+      "nome": "grafton bass.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 7572,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Grafton/grafton bass.wav"
+    },
+    {
+      "nome": "grafton standard.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 8124,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Grafton/grafton standard.wav"
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "arquivos": [
+    {
+      "nome": "ArchEnemyDoomsdayMachine.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 32456,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/ArchEnemyDoomsdayMachine.wav"
+    },
+    {
+      "nome": "AsILayDyingAwakened.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 12458,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/AsILayDyingAwakened.wav"
+    },
+    {
+      "nome": "AskingAlexandriaStandUpAndScream.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 11164,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/AskingAlexandriaStandUpAndScream.wav"
+    },
+    {
+      "nome": "AvengedSevenfoldNightmare.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 21214,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/AvengedSevenfoldNightmare.wav"
+    },
+    {
+      "nome": "BelphegorBondageGoatZombie.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 13828,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/BelphegorBondageGoatZombie.wav"
+    },
+    {
+      "nome": "BulletForMyValentineTemperTemper.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 15154,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/BulletForMyValentineTemperTemper.wav"
+    },
+    {
+      "nome": "CannibalCorpseVile.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 38632,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/CannibalCorpseVile.wav"
+    },
+    {
+      "nome": "CarnifexUntilIFeelNothing.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 24160,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/CarnifexUntilIFeelNothing.wav"
+    },
+    {
+      "nome": "ChimairaRessurrection.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 23138,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/ChimairaRessurrection.wav"
+    },
+    {
+      "nome": "DaathTheHinderers.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 16846,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/DaathTheHinderers.wav"
+    },
+    {
+      "nome": "DarkTranquilityCharacter.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 9958,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/DarkTranquilityCharacter.wav"
+    },
+    {
+      "nome": "DeicideTheStenchOfRedemption.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 29720,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/DeicideTheStenchOfRedemption.wav"
+    },
+    {
+      "nome": "DevildriverTheLastKindWords.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 45626,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/DevildriverTheLastKindWords.wav"
+    },
+    {
+      "nome": "DimmuBorgirEnthroneDarknessTriumphant.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 39290,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/DimmuBorgirEnthroneDarknessTriumphant.wav"
+    },
+    {
+      "nome": "DisturbedIndestructible.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 19268,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/DisturbedIndestructible.wav"
+    },
+    {
+      "nome": "DivineHeresyBringerOfPlagues.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 30416,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/DivineHeresyBringerOfPlagues.wav"
+    },
+    {
+      "nome": "DownNola.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 22396,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/DownNola.wav"
+    },
+    {
+      "nome": "DreamTheaterBlackCloudsSilverLinings.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 20810,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/DreamTheaterBlackCloudsSilverLinings.wav"
+    },
+    {
+      "nome": "DyingFetusWarOfAttrition.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 15752,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/DyingFetusWarOfAttrition.wav"
+    },
+    {
+      "nome": "EvileFiveSerpentsTeeth.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 7468,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/EvileFiveSerpentsTeeth.wav"
+    },
+    {
+      "nome": "ExodusExhibitBTheHumanCondition.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 7894,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/ExodusExhibitBTheHumanCondition.wav"
+    },
+    {
+      "nome": "FearFactoryDemanufacture.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 30506,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/FearFactoryDemanufacture.wav"
+    },
+    {
+      "nome": "FirewindDaysOfDefiance.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 15470,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/FirewindDaysOfDefiance.wav"
+    },
+    {
+      "nome": "GodsmackTheOracle.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 19124,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/GodsmackTheOracle.wav"
+    },
+    {
+      "nome": "GreenDayDookie.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 18742,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/GreenDayDookie.wav"
+    },
+    {
+      "nome": "HamletAmnesia.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 14356,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/HamletAmnesia.wav"
+    },
+    {
+      "nome": "HexenBeingAndNothingness.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 29164,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/HexenBeingAndNothingness.wav"
+    },
+    {
+      "nome": "HoraZuluSiempreSoSaberSobreNadieNegNuncaNada.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 19124,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/HoraZuluSiempreSoSaberSobreNadieNegNuncaNada.wav"
+    },
+    {
+      "nome": "InFlamesWhoracle.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 2372,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/InFlamesWhoracle.wav"
+    },
+    {
+      "nome": "KillswitchEngageAsDaylightDies.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 8228,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/KillswitchEngageAsDaylightDies.wav"
+    },
+    {
+      "nome": "KreatorViolentRevolution.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 15866,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/KreatorViolentRevolution.wav"
+    },
+    {
+      "nome": "LegionOfTheDamnedDescentIntoChaos.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 7070,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/LegionOfTheDamnedDescentIntoChaos.wav"
+    },
+    {
+      "nome": "MachineHeadThroughTheAshesOfEmpires.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 11870,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/MachineHeadThroughTheAshesOfEmpires.wav"
+    },
+    {
+      "nome": "ManowarBattleHymnsMmxi.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 21904,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/ManowarBattleHymnsMmxi.wav"
+    },
+    {
+      "nome": "MastodonCurlOfTheBurl.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 49322,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/MastodonCurlOfTheBurl.wav"
+    },
+    {
+      "nome": "MegadethYouthtanasia.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 51514,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/MegadethYouthtanasia.wav"
+    },
+    {
+      "nome": "NapalmDeathTimeWaitsForNoSlave.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 7342,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/NapalmDeathTimeWaitsForNoSlave.wav"
+    },
+    {
+      "nome": "PanteraVulgarDisplayOfPower.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 4048,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/PanteraVulgarDisplayOfPower.wav"
+    },
+    {
+      "nome": "ParadiseLostTragicIdol.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 11536,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/ParadiseLostTragicIdol.wav"
+    },
+    {
+      "nome": "SepulturaArise.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 18454,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/SepulturaArise.wav"
+    },
+    {
+      "nome": "SlayerChristIllusion.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 17006,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/SlayerChristIllusion.wav"
+    },
+    {
+      "nome": "StoneSourHouseOfGoldAndBones.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 37234,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/StoneSourHouseOfGoldAndBones.wav"
+    },
+    {
+      "nome": "TheSorrowMiseryEscape.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 21574,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/TheSorrowMiseryEscape.wav"
+    },
+    {
+      "nome": "WarcryRevolucion.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 9124,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/BestpluginsIrPack1/WarcryRevolucion.wav"
+    }
+  ]
+}

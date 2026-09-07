@@ -1,0 +1,746 @@
+{
+  "arquivos": [
+    {
+      "nome": "04_Ampeg_Heritage_B15_by_Shift_Line.wav",
+      "grupo": "AFX",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AFX/04_Ampeg_Heritage_B15_by_Shift_Line.wav"
+    },
+    {
+      "nome": "07_Ampeg_SVT-810E_by_Shift_Line.wav",
+      "grupo": "AFX",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AFX/07_Ampeg_SVT-810E_by_Shift_Line.wav"
+    },
+    {
+      "nome": "AMPGBT25-API_MD421-1.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGBT25-API_MD421-1.wav"
+    },
+    {
+      "nome": "AMPGBT25-API_MD421-2.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGBT25-API_MD421-2.wav"
+    },
+    {
+      "nome": "AMPGBT25-API_MD421-3.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGBT25-API_MD421-3.wav"
+    },
+    {
+      "nome": "AMPGBT25-API_R121-1.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGBT25-API_R121-1.wav"
+    },
+    {
+      "nome": "AMPGBT25-API_R121-2.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGBT25-API_R121-2.wav"
+    },
+    {
+      "nome": "AMPGBT25-API_R121-3.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGBT25-API_R121-3.wav"
+    },
+    {
+      "nome": "AMPGBT25-API_SM57-1.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGBT25-API_SM57-1.wav"
+    },
+    {
+      "nome": "AMPGBT25-API_SM57-2.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGBT25-API_SM57-2.wav"
+    },
+    {
+      "nome": "AMPGBT25-API_SM57-3.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGBT25-API_SM57-3.wav"
+    },
+    {
+      "nome": "AMPGSVT410-API_MD421-1.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGSVT410-API_MD421-1.wav"
+    },
+    {
+      "nome": "AMPGSVT410-API_MD421-2.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGSVT410-API_MD421-2.wav"
+    },
+    {
+      "nome": "AMPGSVT410-API_MD421-3.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGSVT410-API_MD421-3.wav"
+    },
+    {
+      "nome": "AMPGSVT410-API_R121-1.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGSVT410-API_R121-1.wav"
+    },
+    {
+      "nome": "AMPGSVT410-API_R121-2.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGSVT410-API_R121-2.wav"
+    },
+    {
+      "nome": "AMPGSVT410-API_R121-3.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGSVT410-API_R121-3.wav"
+    },
+    {
+      "nome": "AMPGV9-API_MD421-1.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGV9-API_MD421-1.wav"
+    },
+    {
+      "nome": "AMPGV9-API_MD421-2.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGV9-API_MD421-2.wav"
+    },
+    {
+      "nome": "AMPGV9-API_MD421-3.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGV9-API_MD421-3.wav"
+    },
+    {
+      "nome": "AMPGV9-API_R121-1.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGV9-API_R121-1.wav"
+    },
+    {
+      "nome": "AMPGV9-API_R121-2.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGV9-API_R121-2.wav"
+    },
+    {
+      "nome": "AMPGV9-API_R121-3.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGV9-API_R121-3.wav"
+    },
+    {
+      "nome": "AMPGV9-API_SM57-1.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGV9-API_SM57-1.wav"
+    },
+    {
+      "nome": "AMPGV9-API_SM57-2.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGV9-API_SM57-2.wav"
+    },
+    {
+      "nome": "AMPGV9-API_SM57-3.wav",
+      "grupo": "AMPEG American",
+      "formato": "WAV",
+      "tamanho_bytes": 28880,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/AMPEG American/AMPGV9-API_SM57-3.wav"
+    },
+    {
+      "nome": "B15N-C15N-Neve_MD421-1.wav",
+      "grupo": "Ampeg British / B15N",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B15N/B15N-C15N-Neve_MD421-1.wav"
+    },
+    {
+      "nome": "B15N-C15N-Neve_MD421-2.wav",
+      "grupo": "Ampeg British / B15N",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B15N/B15N-C15N-Neve_MD421-2.wav"
+    },
+    {
+      "nome": "B15N-C15N-Neve_MD421-3.wav",
+      "grupo": "Ampeg British / B15N",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B15N/B15N-C15N-Neve_MD421-3.wav"
+    },
+    {
+      "nome": "B15N-C15N-Neve_R121-1.wav",
+      "grupo": "Ampeg British / B15N",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B15N/B15N-C15N-Neve_R121-1.wav"
+    },
+    {
+      "nome": "B15N-C15N-Neve_R121-2.wav",
+      "grupo": "Ampeg British / B15N",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B15N/B15N-C15N-Neve_R121-2.wav"
+    },
+    {
+      "nome": "B15N-C15N-Neve_R121-3.wav",
+      "grupo": "Ampeg British / B15N",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B15N/B15N-C15N-Neve_R121-3.wav"
+    },
+    {
+      "nome": "B15N-C15N-Neve_SM57-1.wav",
+      "grupo": "Ampeg British / B15N",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B15N/B15N-C15N-Neve_SM57-1.wav"
+    },
+    {
+      "nome": "B15N-C15N-Neve_SM57-2.wav",
+      "grupo": "Ampeg British / B15N",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B15N/B15N-C15N-Neve_SM57-2.wav"
+    },
+    {
+      "nome": "B15N-C15N-Neve_SM57-3.wav",
+      "grupo": "Ampeg British / B15N",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B15N/B15N-C15N-Neve_SM57-3.wav"
+    },
+    {
+      "nome": "BT25-Neve_MD421-1.wav",
+      "grupo": "Ampeg British / B25B",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B25B/BT25-Neve_MD421-1.wav"
+    },
+    {
+      "nome": "BT25-Neve_MD421-2.wav",
+      "grupo": "Ampeg British / B25B",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B25B/BT25-Neve_MD421-2.wav"
+    },
+    {
+      "nome": "BT25-Neve_MD421-3.wav",
+      "grupo": "Ampeg British / B25B",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B25B/BT25-Neve_MD421-3.wav"
+    },
+    {
+      "nome": "BT25-Neve_R121-1.wav",
+      "grupo": "Ampeg British / B25B",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B25B/BT25-Neve_R121-1.wav"
+    },
+    {
+      "nome": "BT25-Neve_R121-2.wav",
+      "grupo": "Ampeg British / B25B",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B25B/BT25-Neve_R121-2.wav"
+    },
+    {
+      "nome": "BT25-Neve_R121-3.wav",
+      "grupo": "Ampeg British / B25B",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B25B/BT25-Neve_R121-3.wav"
+    },
+    {
+      "nome": "BT25-Neve_SM57-1.wav",
+      "grupo": "Ampeg British / B25B",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B25B/BT25-Neve_SM57-1.wav"
+    },
+    {
+      "nome": "BT25-Neve_SM57-2.wav",
+      "grupo": "Ampeg British / B25B",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B25B/BT25-Neve_SM57-2.wav"
+    },
+    {
+      "nome": "BT25-Neve_SM57-3.wav",
+      "grupo": "Ampeg British / B25B",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/B25B/BT25-Neve_SM57-3.wav"
+    },
+    {
+      "nome": "SVT410HE-Neve_MD421-1.wav",
+      "grupo": "Ampeg British / SVT410HE",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT410HE/SVT410HE-Neve_MD421-1.wav"
+    },
+    {
+      "nome": "SVT410HE-Neve_MD421-2.wav",
+      "grupo": "Ampeg British / SVT410HE",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT410HE/SVT410HE-Neve_MD421-2.wav"
+    },
+    {
+      "nome": "SVT410HE-Neve_MD421-3.wav",
+      "grupo": "Ampeg British / SVT410HE",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT410HE/SVT410HE-Neve_MD421-3.wav"
+    },
+    {
+      "nome": "SVT410HE-Neve_R121-1.wav",
+      "grupo": "Ampeg British / SVT410HE",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT410HE/SVT410HE-Neve_R121-1.wav"
+    },
+    {
+      "nome": "SVT410HE-Neve_R121-2.wav",
+      "grupo": "Ampeg British / SVT410HE",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT410HE/SVT410HE-Neve_R121-2.wav"
+    },
+    {
+      "nome": "SVT410HE-Neve_R121-3.wav",
+      "grupo": "Ampeg British / SVT410HE",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT410HE/SVT410HE-Neve_R121-3.wav"
+    },
+    {
+      "nome": "SVT410HE-Neve_SM57-1.wav",
+      "grupo": "Ampeg British / SVT410HE",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT410HE/SVT410HE-Neve_SM57-1.wav"
+    },
+    {
+      "nome": "SVT410HE-Neve_SM57-2.wav",
+      "grupo": "Ampeg British / SVT410HE",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT410HE/SVT410HE-Neve_SM57-2.wav"
+    },
+    {
+      "nome": "SVT410HE-Neve_SM57-3.wav",
+      "grupo": "Ampeg British / SVT410HE",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT410HE/SVT410HE-Neve_SM57-3.wav"
+    },
+    {
+      "nome": "SVT8E-Neve_MD421-1.wav",
+      "grupo": "Ampeg British / SVT8E",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT8E/SVT8E-Neve_MD421-1.wav"
+    },
+    {
+      "nome": "SVT8E-Neve_MD421-2.wav",
+      "grupo": "Ampeg British / SVT8E",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT8E/SVT8E-Neve_MD421-2.wav"
+    },
+    {
+      "nome": "SVT8E-Neve_MD421-3.wav",
+      "grupo": "Ampeg British / SVT8E",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT8E/SVT8E-Neve_MD421-3.wav"
+    },
+    {
+      "nome": "SVT8E-Neve_R121-1.wav",
+      "grupo": "Ampeg British / SVT8E",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT8E/SVT8E-Neve_R121-1.wav"
+    },
+    {
+      "nome": "SVT8E-Neve_R121-2.wav",
+      "grupo": "Ampeg British / SVT8E",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT8E/SVT8E-Neve_R121-2.wav"
+    },
+    {
+      "nome": "SVT8E-Neve_R121-3.wav",
+      "grupo": "Ampeg British / SVT8E",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT8E/SVT8E-Neve_R121-3.wav"
+    },
+    {
+      "nome": "SVT8E-Neve_SM57-1.wav",
+      "grupo": "Ampeg British / SVT8E",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT8E/SVT8E-Neve_SM57-1.wav"
+    },
+    {
+      "nome": "SVT8E-Neve_SM57-2.wav",
+      "grupo": "Ampeg British / SVT8E",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT8E/SVT8E-Neve_SM57-2.wav"
+    },
+    {
+      "nome": "SVT8E-Neve_SM57-3.wav",
+      "grupo": "Ampeg British / SVT8E",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg British/SVT8E/SVT8E-Neve_SM57-3.wav"
+    },
+    {
+      "nome": "Ampeg Classic B5 Left A 230 200 320.wav",
+      "grupo": "Ampeg Classic",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg Classic/Ampeg Classic B5 Left A 230 200 320.wav"
+    },
+    {
+      "nome": "Ampeg Classic B5 Right A 230 200 320.wav",
+      "grupo": "Ampeg Classic",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg Classic/Ampeg Classic B5 Right A 230 200 320.wav"
+    },
+    {
+      "nome": "Ampeg Classic BD300 B 22 32 -61.wav",
+      "grupo": "Ampeg Classic",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg Classic/Ampeg Classic BD300 B 22 32 -61.wav"
+    },
+    {
+      "nome": "Ampeg Classic D11L HL A 1 42 24.wav",
+      "grupo": "Ampeg Classic",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg Classic/Ampeg Classic D11L HL A 1 42 24.wav"
+    },
+    {
+      "nome": "Ampeg Classic D6 B 24 30 -61.wav",
+      "grupo": "Ampeg Classic",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg Classic/Ampeg Classic D6 B 24 30 -61.wav"
+    },
+    {
+      "nome": "Ampeg Classic Gemini 5 A 0 95 123.wav",
+      "grupo": "Ampeg Classic",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg Classic/Ampeg Classic Gemini 5 A 0 95 123.wav"
+    },
+    {
+      "nome": "Ampeg Classic NT1-A A 22 5 16.wav",
+      "grupo": "Ampeg Classic",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg Classic/Ampeg Classic NT1-A A 22 5 16.wav"
+    },
+    {
+      "nome": "Ampeg Classic SE4400a B 0 20 7.wav",
+      "grupo": "Ampeg Classic",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg Classic/Ampeg Classic SE4400a B 0 20 7.wav"
+    },
+    {
+      "nome": "Ampeg Classic SM57 A 0 0 0 45.wav",
+      "grupo": "Ampeg Classic",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg Classic/Ampeg Classic SM57 A 0 0 0 45.wav"
+    },
+    {
+      "nome": "Ampeg Classic SM57 A 0 0 0.wav",
+      "grupo": "Ampeg Classic",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg Classic/Ampeg Classic SM57 A 0 0 0.wav"
+    },
+    {
+      "nome": "Ampeg Classic SM57 A 0 20 1.wav",
+      "grupo": "Ampeg Classic",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg Classic/Ampeg Classic SM57 A 0 20 1.wav"
+    },
+    {
+      "nome": "Ampeg Classic SM57 A 0 30 1.wav",
+      "grupo": "Ampeg Classic",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Ampeg Classic/Ampeg Classic SM57 A 0 30 1.wav"
+    },
+    {
+      "nome": "ampeg combo 421-a_K.wav",
+      "grupo": "Bass Ampeg Combo",
+      "formato": "WAV",
+      "tamanho_bytes": 100264,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg Combo/ampeg combo 421-a_K.wav"
+    },
+    {
+      "nome": "ampeg combo 421-b_K.wav",
+      "grupo": "Bass Ampeg Combo",
+      "formato": "WAV",
+      "tamanho_bytes": 100264,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg Combo/ampeg combo 421-b_K.wav"
+    },
+    {
+      "nome": "ampeg combo m16-a_K.wav",
+      "grupo": "Bass Ampeg Combo",
+      "formato": "WAV",
+      "tamanho_bytes": 102364,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg Combo/ampeg combo m16-a_K.wav"
+    },
+    {
+      "nome": "ampeg combo m16-b_K.wav",
+      "grupo": "Bass Ampeg Combo",
+      "formato": "WAV",
+      "tamanho_bytes": 105316,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg Combo/ampeg combo m16-b_K.wav"
+    },
+    {
+      "nome": "Ampeg SVT Beta52.wav",
+      "grupo": "Bass Ampeg SVT",
+      "formato": "WAV",
+      "tamanho_bytes": 524552,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg SVT/Ampeg SVT Beta52.wav"
+    },
+    {
+      "nome": "Ampeg SVT Bright Beta52.wav",
+      "grupo": "Bass Ampeg SVT",
+      "formato": "WAV",
+      "tamanho_bytes": 524578,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg SVT/Ampeg SVT Bright Beta52.wav"
+    },
+    {
+      "nome": "Ampeg SVT Bright Neumann.wav",
+      "grupo": "Bass Ampeg SVT",
+      "formato": "WAV",
+      "tamanho_bytes": 524586,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg SVT/Ampeg SVT Bright Neumann.wav"
+    },
+    {
+      "nome": "Ampeg SVT D-I-Out Hot.wav",
+      "grupo": "Bass Ampeg SVT",
+      "formato": "WAV",
+      "tamanho_bytes": 524574,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg SVT/Ampeg SVT D-I-Out Hot.wav"
+    },
+    {
+      "nome": "Ampeg SVT D-I-Out.wav",
+      "grupo": "Bass Ampeg SVT",
+      "formato": "WAV",
+      "tamanho_bytes": 524566,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg SVT/Ampeg SVT D-I-Out.wav"
+    },
+    {
+      "nome": "Ampeg SVT Neumann.wav",
+      "grupo": "Bass Ampeg SVT",
+      "formato": "WAV",
+      "tamanho_bytes": 524568,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg SVT/Ampeg SVT Neumann.wav"
+    },
+    {
+      "nome": "Ampeg SVT SM57 off Axis.wav",
+      "grupo": "Bass Ampeg SVT",
+      "formato": "WAV",
+      "tamanho_bytes": 524572,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg SVT/Ampeg SVT SM57 off Axis.wav"
+    },
+    {
+      "nome": "Ampeg 8x10 4033 A107.wav",
+      "grupo": "Bass Ampeg SVT 8x10",
+      "formato": "WAV",
+      "tamanho_bytes": 241560,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg SVT 8x10/Ampeg 8x10 4033 A107.wav"
+    },
+    {
+      "nome": "Ampeg 8x10 4033 AH.wav",
+      "grupo": "Bass Ampeg SVT 8x10",
+      "formato": "WAV",
+      "tamanho_bytes": 196844,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg SVT 8x10/Ampeg 8x10 4033 AH.wav"
+    },
+    {
+      "nome": "Ampeg 8x10 57 A107.wav",
+      "grupo": "Bass Ampeg SVT 8x10",
+      "formato": "WAV",
+      "tamanho_bytes": 127284,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg SVT 8x10/Ampeg 8x10 57 A107.wav"
+    },
+    {
+      "nome": "Ampeg 8x10 57 AH.wav",
+      "grupo": "Bass Ampeg SVT 8x10",
+      "formato": "WAV",
+      "tamanho_bytes": 96968,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg SVT 8x10/Ampeg 8x10 57 AH.wav"
+    },
+    {
+      "nome": "Ampeg 8x10 D6 A107.wav",
+      "grupo": "Bass Ampeg SVT 8x10",
+      "formato": "WAV",
+      "tamanho_bytes": 123552,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg SVT 8x10/Ampeg 8x10 D6 A107.wav"
+    },
+    {
+      "nome": "Ampeg 8x10 D6 AH.wav",
+      "grupo": "Bass Ampeg SVT 8x10",
+      "formato": "WAV",
+      "tamanho_bytes": 97104,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg SVT 8x10/Ampeg 8x10 D6 AH.wav"
+    },
+    {
+      "nome": "Ampeg 8x10 e602 A107.wav",
+      "grupo": "Bass Ampeg SVT 8x10",
+      "formato": "WAV",
+      "tamanho_bytes": 186612,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg SVT 8x10/Ampeg 8x10 e602 A107.wav"
+    },
+    {
+      "nome": "Ampeg 8x10 e602 AH.wav",
+      "grupo": "Bass Ampeg SVT 8x10",
+      "formato": "WAV",
+      "tamanho_bytes": 146932,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg SVT 8x10/Ampeg 8x10 e602 AH.wav"
+    },
+    {
+      "nome": "Sound 2.wav",
+      "grupo": "Bass Ampeg SVT II",
+      "formato": "WAV",
+      "tamanho_bytes": 1048620,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg SVT II/Sound 2.wav"
+    },
+    {
+      "nome": "Ampeg V4-B_marshal_beta52.wav",
+      "grupo": "Bass Ampeg_V4B_Marshall_4x12",
+      "formato": "WAV",
+      "tamanho_bytes": 16344,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg_V4B_Marshall_4x12/Ampeg V4-B_marshal_beta52.wav"
+    },
+    {
+      "nome": "Ampeg V4-B_marshal_M69N.wav",
+      "grupo": "Bass Ampeg_V4B_Marshall_4x12",
+      "formato": "WAV",
+      "tamanho_bytes": 15966,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg_V4B_Marshall_4x12/Ampeg V4-B_marshal_M69N.wav"
+    },
+    {
+      "nome": "Ampeg V4-B_marshal_MD441.wav",
+      "grupo": "Bass Ampeg_V4B_Marshall_4x12",
+      "formato": "WAV",
+      "tamanho_bytes": 15546,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg_V4B_Marshall_4x12/Ampeg V4-B_marshal_MD441.wav"
+    },
+    {
+      "nome": "Ampeg V4-B_marshal_mtg.wav",
+      "grupo": "Bass Ampeg_V4B_Marshall_4x12",
+      "formato": "WAV",
+      "tamanho_bytes": 16288,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg_V4B_Marshall_4x12/Ampeg V4-B_marshal_mtg.wav"
+    },
+    {
+      "nome": "Ampeg V4-B_marshal_sm7.wav",
+      "grupo": "Bass Ampeg_V4B_Marshall_4x12",
+      "formato": "WAV",
+      "tamanho_bytes": 16332,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg_V4B_Marshall_4x12/Ampeg V4-B_marshal_sm7.wav"
+    },
+    {
+      "nome": "Ampeg V4-B_marshal_tlm170-1.wav",
+      "grupo": "Bass Ampeg_V4B_Marshall_4x12",
+      "formato": "WAV",
+      "tamanho_bytes": 16126,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg_V4B_Marshall_4x12/Ampeg V4-B_marshal_tlm170-1.wav"
+    },
+    {
+      "nome": "Ampeg V4-B_marshal_tlm170-2.wav",
+      "grupo": "Bass Ampeg_V4B_Marshall_4x12",
+      "formato": "WAV",
+      "tamanho_bytes": 16240,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg_V4B_Marshall_4x12/Ampeg V4-B_marshal_tlm170-2.wav"
+    },
+    {
+      "nome": "Ampeg V4-B_marshal_u87.wav",
+      "grupo": "Bass Ampeg_V4B_Marshall_4x12",
+      "formato": "WAV",
+      "tamanho_bytes": 16254,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg_V4B_Marshall_4x12/Ampeg V4-B_marshal_u87.wav"
+    },
+    {
+      "nome": "Ampeg V4-B_TE-1.wav",
+      "grupo": "Bass Ampeg_V4B_Trace_Elliot",
+      "formato": "WAV",
+      "tamanho_bytes": 16354,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg_V4B_Trace_Elliot/Ampeg V4-B_TE-1.wav"
+    },
+    {
+      "nome": "Ampeg V4-B_TE_sm7.wav",
+      "grupo": "Bass Ampeg_V4B_Trace_Elliot",
+      "formato": "WAV",
+      "tamanho_bytes": 14946,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg_V4B_Trace_Elliot/Ampeg V4-B_TE_sm7.wav"
+    },
+    {
+      "nome": "Ampeg V4-B_TE_u87.wav",
+      "grupo": "Bass Ampeg_V4B_Trace_Elliot",
+      "formato": "WAV",
+      "tamanho_bytes": 15766,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Ampeg_V4B_Trace_Elliot/Ampeg V4-B_TE_u87.wav"
+    },
+    {
+      "nome": "12_Ampeg_SVT-810E_Olympic_MkIIIS_edition2.wav",
+      "grupo": "Bass Classics",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Baixo/Ampeg/Outros modelos Ampeg/Bass Classics/12_Ampeg_SVT-810E_Olympic_MkIIIS_edition2.wav"
+    }
+  ]
+}

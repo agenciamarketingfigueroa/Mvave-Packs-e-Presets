@@ -1,0 +1,886 @@
+{
+  "arquivos": [
+    {
+      "nome": "6 - Brohymn-Mesa-4x12-SM57-V30-5.wav",
+      "grupo": "1- Top 8 IR Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 384048,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/1- Top 8 IR Pack/6 - Brohymn-Mesa-4x12-SM57-V30-5.wav"
+    },
+    {
+      "nome": "Celestion V30.wav",
+      "grupo": "2- Top 7 IR Pack",
+      "formato": "WAV",
+      "tamanho_bytes": 4488,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/2- Top 7 IR Pack/Celestion V30.wav"
+    },
+    {
+      "nome": "Mesa Boogie Mark V.wav",
+      "grupo": "BestpluginsIrPack2",
+      "formato": "WAV",
+      "tamanho_bytes": 10012,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/BestpluginsIrPack2/Mesa Boogie Mark V.wav"
+    },
+    {
+      "nome": "RKH 4x12 V30 SHR SM57 Center.wav",
+      "grupo": "Emissary",
+      "formato": "WAV",
+      "tamanho_bytes": 18140,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Emissary/RKH 4x12 V30 SHR SM57 Center.wav"
+    },
+    {
+      "nome": "RKH 4x12 V30 SHR SM57 Off axis 2.wav",
+      "grupo": "Emissary",
+      "formato": "WAV",
+      "tamanho_bytes": 17806,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Emissary/RKH 4x12 V30 SHR SM57 Off axis 2.wav"
+    },
+    {
+      "nome": "RKH 4x12 V30 SNH 441U Center.wav",
+      "grupo": "Emissary",
+      "formato": "WAV",
+      "tamanho_bytes": 18036,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Emissary/RKH 4x12 V30 SNH 441U Center.wav"
+    },
+    {
+      "nome": "RKH 4x12 V30 SNH 441U Off axis.wav",
+      "grupo": "Emissary",
+      "formato": "WAV",
+      "tamanho_bytes": 17776,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Emissary/RKH 4x12 V30 SNH 441U Off axis.wav"
+    },
+    {
+      "nome": "RKH 4x12 V30 SNH MD421W 45 deg.wav",
+      "grupo": "Emissary",
+      "formato": "WAV",
+      "tamanho_bytes": 17850,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Emissary/RKH 4x12 V30 SNH MD421W 45 deg.wav"
+    },
+    {
+      "nome": "RKH 4x12 V30 SNH MD421W Center.wav",
+      "grupo": "Emissary",
+      "formato": "WAV",
+      "tamanho_bytes": 18080,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Emissary/RKH 4x12 V30 SNH MD421W Center.wav"
+    },
+    {
+      "nome": "07 - Mesa 4x12 SPKR 2 position 1.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 102526,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/07 - Mesa 4x12 SPKR 2 position 1.wav"
+    },
+    {
+      "nome": "08 - Mesa 4x12 SPKR 2 position 2.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 102200,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/08 - Mesa 4x12 SPKR 2 position 2.wav"
+    },
+    {
+      "nome": "001a-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 40114,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/001a-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "001b-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 46656,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/001b-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "001c-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 80640,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/001c-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "001d-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 40954,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/001d-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "002a-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 39798,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/002a-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "002b-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 75648,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/002b-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "002c-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 79872,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/002c-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "002d-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 41164,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/002d-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "003a-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 37384,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/003a-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "003b-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 77568,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/003b-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "003c-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 77568,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/003c-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "003d-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 40324,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/003d-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "004a-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 38118,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/004a-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "004b-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 72192,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/004b-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "004c-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 76416,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/004c-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "004d-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 38644,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/004d-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "005a-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 39274,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/005a-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "005b-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 77856,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/005b-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "005c-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 76224,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/005c-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "005d-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 33498,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/005d-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "006a-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 35074,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/006a-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "006b-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 78336,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/006b-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "006c-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 79680,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/006c-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "006d-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 38854,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/006d-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "007a-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 39484,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/007a-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "007b-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 74880,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/007b-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "007c-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 74496,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/007c-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "007d-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 38748,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/007d-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "008a-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 40324,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/008a-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "008b-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 72384,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/008b-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "008c-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 75072,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/008c-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "008d-SM57-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 38328,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/008d-SM57-V30-4x12.wav"
+    },
+    {
+      "nome": "013a-MD421-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 40080,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/013a-MD421-V30-4x12.wav"
+    },
+    {
+      "nome": "013b-MD421-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 63936,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/013b-MD421-V30-4x12.wav"
+    },
+    {
+      "nome": "013c-MD421-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 66240,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/013c-MD421-V30-4x12.wav"
+    },
+    {
+      "nome": "013d-MD421-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 35284,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/013d-MD421-V30-4x12.wav"
+    },
+    {
+      "nome": "014a-MD421-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 35388,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/014a-MD421-V30-4x12.wav"
+    },
+    {
+      "nome": "014b-MD421-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 53808,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/014b-MD421-V30-4x12.wav"
+    },
+    {
+      "nome": "014c-MD421-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 57984,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/014c-MD421-V30-4x12.wav"
+    },
+    {
+      "nome": "014d-MD421-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 33120,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/014d-MD421-V30-4x12.wav"
+    },
+    {
+      "nome": "015a-MD421-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 33600,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/015a-MD421-V30-4x12.wav"
+    },
+    {
+      "nome": "015b-MD421-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 68064,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/015b-MD421-V30-4x12.wav"
+    },
+    {
+      "nome": "015c-MD421-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 77664,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/015c-MD421-V30-4x12.wav"
+    },
+    {
+      "nome": "015d-MD421-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 28984,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/015d-MD421-V30-4x12.wav"
+    },
+    {
+      "nome": "018a-AT4050-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 34758,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/018a-AT4050-V30-4x12.wav"
+    },
+    {
+      "nome": "018b-AT4050-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 61152,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/018b-AT4050-V30-4x12.wav"
+    },
+    {
+      "nome": "018c-AT4050-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 52992,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/018c-AT4050-V30-4x12.wav"
+    },
+    {
+      "nome": "018d-AT4050-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 30558,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/018d-AT4050-V30-4x12.wav"
+    },
+    {
+      "nome": "019a-AT4050-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 28878,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/019a-AT4050-V30-4x12.wav"
+    },
+    {
+      "nome": "019b-AT4050-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 59136,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/019b-AT4050-V30-4x12.wav"
+    },
+    {
+      "nome": "019c-AT4050-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 42816,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/019c-AT4050-V30-4x12.wav"
+    },
+    {
+      "nome": "019d-AT4050-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 28774,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/019d-AT4050-V30-4x12.wav"
+    },
+    {
+      "nome": "020a-AT4050-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 35136,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/020a-AT4050-V30-4x12.wav"
+    },
+    {
+      "nome": "020b-AT4050-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 60672,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/020b-AT4050-V30-4x12.wav"
+    },
+    {
+      "nome": "020c-AT4050-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 66240,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/020c-AT4050-V30-4x12.wav"
+    },
+    {
+      "nome": "020d-AT4050-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 31188,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/020d-AT4050-V30-4x12.wav"
+    },
+    {
+      "nome": "022a-MD21-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 39274,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/022a-MD21-V30-4x12.wav"
+    },
+    {
+      "nome": "022b-MD21-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 78144,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/022b-MD21-V30-4x12.wav"
+    },
+    {
+      "nome": "022c-MD21-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 79104,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/022c-MD21-V30-4x12.wav"
+    },
+    {
+      "nome": "022d-MD21-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 42634,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/022d-MD21-V30-4x12.wav"
+    },
+    {
+      "nome": "023a-MD21-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 40638,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/023a-MD21-V30-4x12.wav"
+    },
+    {
+      "nome": "023b-MD21-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 78144,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/023b-MD21-V30-4x12.wav"
+    },
+    {
+      "nome": "023c-MD21-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 83328,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/023c-MD21-V30-4x12.wav"
+    },
+    {
+      "nome": "023d-MD21-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 43264,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/023d-MD21-V30-4x12.wav"
+    },
+    {
+      "nome": "027a-i5-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 43054,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/027a-i5-V30-4x12.wav"
+    },
+    {
+      "nome": "027b-i5-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 74304,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/027b-i5-V30-4x12.wav"
+    },
+    {
+      "nome": "027c-i5-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 80064,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/027c-i5-V30-4x12.wav"
+    },
+    {
+      "nome": "027d-i5-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 43054,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/027d-i5-V30-4x12.wav"
+    },
+    {
+      "nome": "028a-SM7-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 41268,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/028a-SM7-V30-4x12.wav"
+    },
+    {
+      "nome": "028b-SM7-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 79680,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/028b-SM7-V30-4x12.wav"
+    },
+    {
+      "nome": "028c-SM7-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 74496,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/028c-SM7-V30-4x12.wav"
+    },
+    {
+      "nome": "028d-SM7-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 26232,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/028d-SM7-V30-4x12.wav"
+    },
+    {
+      "nome": "029a-SM7-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 34440,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/029a-SM7-V30-4x12.wav"
+    },
+    {
+      "nome": "029b-SM7-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 57408,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/029b-SM7-V30-4x12.wav"
+    },
+    {
+      "nome": "029c-SM7-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 51168,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/029c-SM7-V30-4x12.wav"
+    },
+    {
+      "nome": "029d-SM7-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 29232,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/029d-SM7-V30-4x12.wav"
+    },
+    {
+      "nome": "030a-SM7-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 34654,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/030a-SM7-V30-4x12.wav"
+    },
+    {
+      "nome": "030b-SM7-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 62016,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/030b-SM7-V30-4x12.wav"
+    },
+    {
+      "nome": "030c-SM7-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 60624,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/030c-SM7-V30-4x12.wav"
+    },
+    {
+      "nome": "030d-SM7-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 31584,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/030d-SM7-V30-4x12.wav"
+    },
+    {
+      "nome": "031a-SM7-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 34968,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/031a-SM7-V30-4x12.wav"
+    },
+    {
+      "nome": "031b-SM7-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 54240,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/031b-SM7-V30-4x12.wav"
+    },
+    {
+      "nome": "031c-SM7-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 39936,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/031c-SM7-V30-4x12.wav"
+    },
+    {
+      "nome": "031d-SM7-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 26464,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/031d-SM7-V30-4x12.wav"
+    },
+    {
+      "nome": "034a-SM58-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 43474,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/034a-SM58-V30-4x12.wav"
+    },
+    {
+      "nome": "034b-SM58-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 83904,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/034b-SM58-V30-4x12.wav"
+    },
+    {
+      "nome": "034c-SM58-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 83136,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/034c-SM58-V30-4x12.wav"
+    },
+    {
+      "nome": "034d-SM58-V30-4x12.wav",
+      "grupo": "Kalthallen IRs",
+      "formato": "WAV",
+      "tamanho_bytes": 41268,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Kalthallen IRs/034d-SM58-V30-4x12.wav"
+    },
+    {
+      "nome": "Holy Grail ll 4x12 44.1 Khz Mesaboogie 4x12 Oversized SM57 V30 off.wav",
+      "grupo": "Mesa Boogie 4x12 v30 / Fora do Eixo",
+      "formato": "WAV",
+      "tamanho_bytes": 73728,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Boogie 4x12 v30/Fora do Eixo/Holy Grail ll 4x12 44.1 Khz Mesaboogie 4x12 Oversized SM57 V30 off.wav"
+    },
+    {
+      "nome": "Holy Grail ll 4x12 Mesaboogie 4x12 Oversized SM57 V30 off.wav",
+      "grupo": "Mesa Boogie 4x12 v30 / Fora do Eixo",
+      "formato": "WAV",
+      "tamanho_bytes": 72080,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Boogie 4x12 v30/Fora do Eixo/Holy Grail ll 4x12 Mesaboogie 4x12 Oversized SM57 V30 off.wav"
+    },
+    {
+      "nome": "Holy Grail 4x12 Mesaboogie 4x12 Oversized SM57 V30.wav",
+      "grupo": "Mesa Boogie 4x12 v30 / No Eixo",
+      "formato": "WAV",
+      "tamanho_bytes": 288080,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Boogie 4x12 v30/No Eixo/Holy Grail 4x12 Mesaboogie 4x12 Oversized SM57 V30.wav"
+    },
+    {
+      "nome": "Holy Grayl 4x12 44.1 Khz Mesaboogie 4x12 Oversized V30 SM57.wav",
+      "grupo": "Mesa Boogie 4x12 v30 / No Eixo",
+      "formato": "WAV",
+      "tamanho_bytes": 270336,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Boogie 4x12 v30/No Eixo/Holy Grayl 4x12 44.1 Khz Mesaboogie 4x12 Oversized V30 SM57.wav"
+    },
+    {
+      "nome": "Mesa_00.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 34082,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_00.wav"
+    },
+    {
+      "nome": "Mesa_01.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 33564,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_01.wav"
+    },
+    {
+      "nome": "Mesa_02.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 33888,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_02.wav"
+    },
+    {
+      "nome": "Mesa_03.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 33554,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_03.wav"
+    },
+    {
+      "nome": "Mesa_04.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 33822,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_04.wav"
+    },
+    {
+      "nome": "Mesa_05.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 33402,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_05.wav"
+    },
+    {
+      "nome": "Mesa_06.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 34274,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_06.wav"
+    },
+    {
+      "nome": "Mesa_07.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 34596,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_07.wav"
+    },
+    {
+      "nome": "Mesa_08.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 34830,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_08.wav"
+    },
+    {
+      "nome": "Mesa_09.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 34254,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_09.wav"
+    },
+    {
+      "nome": "Mesa_10.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 33608,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_10.wav"
+    },
+    {
+      "nome": "Mesa_11.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 33906,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_11.wav"
+    },
+    {
+      "nome": "Mesa_12.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 33924,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_12.wav"
+    },
+    {
+      "nome": "Mesa_13.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 34100,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_13.wav"
+    },
+    {
+      "nome": "Mesa_14.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 34962,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_14.wav"
+    },
+    {
+      "nome": "Mesa_15.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 33516,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_15.wav"
+    },
+    {
+      "nome": "Mesa_16.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 33774,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_16.wav"
+    },
+    {
+      "nome": "Mesa_17.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 34044,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_17.wav"
+    },
+    {
+      "nome": "Mesa_18.wav",
+      "grupo": "Mesa Nomad 55",
+      "formato": "WAV",
+      "tamanho_bytes": 34620,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/Mesa Nomad 55/Mesa_18.wav"
+    },
+    {
+      "nome": "Mesa 4x12 SPKR 1 position 1.wav",
+      "grupo": "ZETA IR PACK",
+      "formato": "WAV",
+      "tamanho_bytes": 101732,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/ZETA IR PACK/Mesa 4x12 SPKR 1 position 1.wav"
+    },
+    {
+      "nome": "Mesa 4x12 SPKR 1 position 2.wav",
+      "grupo": "ZETA IR PACK",
+      "formato": "WAV",
+      "tamanho_bytes": 101650,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/ZETA IR PACK/Mesa 4x12 SPKR 1 position 2.wav"
+    },
+    {
+      "nome": "Mesa 4x12 SPKR 2 position 1.wav",
+      "grupo": "ZETA IR PACK",
+      "formato": "WAV",
+      "tamanho_bytes": 102526,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/ZETA IR PACK/Mesa 4x12 SPKR 2 position 1.wav"
+    },
+    {
+      "nome": "Mesa 4x12 SPKR 2 position 2.wav",
+      "grupo": "ZETA IR PACK",
+      "formato": "WAV",
+      "tamanho_bytes": 102200,
+      "arquivo": "individuais/Por modelo/Guitarra/Mesa-Boogie/Rectifier e V30/ZETA IR PACK/Mesa 4x12 SPKR 2 position 2.wav"
+    }
+  ]
+}

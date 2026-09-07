@@ -1,0 +1,270 @@
+{
+  "arquivos": [
+    {
+      "nome": "AC30 normal AT4033a neve_dc.wav",
+      "grupo": "AC30 NORMAL SNB",
+      "formato": "WAV",
+      "tamanho_bytes": 66836,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30 NORMAL SNB/AC30 normal AT4033a neve_dc.wav"
+    },
+    {
+      "nome": "AC30 normal AT4033a stalevel_dc.wav",
+      "grupo": "AC30 NORMAL SNB",
+      "formato": "WAV",
+      "tamanho_bytes": 64916,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30 NORMAL SNB/AC30 normal AT4033a stalevel_dc.wav"
+    },
+    {
+      "nome": "AC30 normal BX44 neve close_dc.wav",
+      "grupo": "AC30 NORMAL SNB",
+      "formato": "WAV",
+      "tamanho_bytes": 59516,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30 NORMAL SNB/AC30 normal BX44 neve close_dc.wav"
+    },
+    {
+      "nome": "AC30 normal bx44 neve far_dc.wav",
+      "grupo": "AC30 NORMAL SNB",
+      "formato": "WAV",
+      "tamanho_bytes": 90580,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30 NORMAL SNB/AC30 normal bx44 neve far_dc.wav"
+    },
+    {
+      "nome": "AC30 normal BX44 stalevel close_dc.wav",
+      "grupo": "AC30 NORMAL SNB",
+      "formato": "WAV",
+      "tamanho_bytes": 92074,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30 NORMAL SNB/AC30 normal BX44 stalevel close_dc.wav"
+    },
+    {
+      "nome": "AC30 normal bx44 stalevel far_dc.wav",
+      "grupo": "AC30 NORMAL SNB",
+      "formato": "WAV",
+      "tamanho_bytes": 62728,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30 NORMAL SNB/AC30 normal bx44 stalevel far_dc.wav"
+    },
+    {
+      "nome": "AC30 normal sm57 neve close_dc.wav",
+      "grupo": "AC30 NORMAL SNB",
+      "formato": "WAV",
+      "tamanho_bytes": 67556,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30 NORMAL SNB/AC30 normal sm57 neve close_dc.wav"
+    },
+    {
+      "nome": "AC30 normal sm57 neve closer_dc.wav",
+      "grupo": "AC30 NORMAL SNB",
+      "formato": "WAV",
+      "tamanho_bytes": 53576,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30 NORMAL SNB/AC30 normal sm57 neve closer_dc.wav"
+    },
+    {
+      "nome": "AC30 normal sm57 stalevel close_dc.wav",
+      "grupo": "AC30 NORMAL SNB",
+      "formato": "WAV",
+      "tamanho_bytes": 64076,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30 NORMAL SNB/AC30 normal sm57 stalevel close_dc.wav"
+    },
+    {
+      "nome": "AC30 normal sm57 stalevel closer_dc.wav",
+      "grupo": "AC30 NORMAL SNB",
+      "formato": "WAV",
+      "tamanho_bytes": 60860,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30 NORMAL SNB/AC30 normal sm57 stalevel closer_dc.wav"
+    },
+    {
+      "nome": "AC30 normal U67 neve_dc.wav",
+      "grupo": "AC30 NORMAL SNB",
+      "formato": "WAV",
+      "tamanho_bytes": 67850,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30 NORMAL SNB/AC30 normal U67 neve_dc.wav"
+    },
+    {
+      "nome": "AC30 normal U67 stalevel_dc.wav",
+      "grupo": "AC30 NORMAL SNB",
+      "formato": "WAV",
+      "tamanho_bytes": 68140,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30 NORMAL SNB/AC30 normal U67 stalevel_dc.wav"
+    },
+    {
+      "nome": "vox custom _normal m930 on axis.wav",
+      "grupo": "AC30_Custom_4x12_normal",
+      "formato": "WAV",
+      "tamanho_bytes": 20194,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30_Custom_4x12_normal/vox custom _normal m930 on axis.wav"
+    },
+    {
+      "nome": "vox custom _normal m930 rm.wav",
+      "grupo": "AC30_Custom_4x12_normal",
+      "formato": "WAV",
+      "tamanho_bytes": 23412,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30_Custom_4x12_normal/vox custom _normal m930 rm.wav"
+    },
+    {
+      "nome": "vox custom normal_u87 1.wav",
+      "grupo": "AC30_Custom_4x12_normal",
+      "formato": "WAV",
+      "tamanho_bytes": 32124,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30_Custom_4x12_normal/vox custom normal_u87 1.wav"
+    },
+    {
+      "nome": "vox custom normal_u87 2.wav",
+      "grupo": "AC30_Custom_4x12_normal",
+      "formato": "WAV",
+      "tamanho_bytes": 20674,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30_Custom_4x12_normal/vox custom normal_u87 2.wav"
+    },
+    {
+      "nome": "vox normal raum the big bang.wav",
+      "grupo": "AC30_Custom_4x12_normal",
+      "formato": "WAV",
+      "tamanho_bytes": 54438,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30_Custom_4x12_normal/vox normal raum the big bang.wav"
+    },
+    {
+      "nome": "vox normal the big bang.wav",
+      "grupo": "AC30_Custom_4x12_normal",
+      "formato": "WAV",
+      "tamanho_bytes": 30706,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30_Custom_4x12_normal/vox normal the big bang.wav"
+    },
+    {
+      "nome": "vox intern normal_441 on axis.wav",
+      "grupo": "AC30_normal_channel",
+      "formato": "WAV",
+      "tamanho_bytes": 17806,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30_normal_channel/vox intern normal_441 on axis.wav"
+    },
+    {
+      "nome": "vox intern normal_ed911 on axis.wav",
+      "grupo": "AC30_normal_channel",
+      "formato": "WAV",
+      "tamanho_bytes": 15852,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30_normal_channel/vox intern normal_ed911 on axis.wav"
+    },
+    {
+      "nome": "vox intern normal_m930 on axis1.wav",
+      "grupo": "AC30_normal_channel",
+      "formato": "WAV",
+      "tamanho_bytes": 18498,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30_normal_channel/vox intern normal_m930 on axis1.wav"
+    },
+    {
+      "nome": "vox intern normal_m930 on axis2.wav",
+      "grupo": "AC30_normal_channel",
+      "formato": "WAV",
+      "tamanho_bytes": 18700,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30_normal_channel/vox intern normal_m930 on axis2.wav"
+    },
+    {
+      "nome": "vox intern normal_m930 rm.wav",
+      "grupo": "AC30_normal_channel",
+      "formato": "WAV",
+      "tamanho_bytes": 28744,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30_normal_channel/vox intern normal_m930 rm.wav"
+    },
+    {
+      "nome": "vox intern normal_m930 von hinten.wav",
+      "grupo": "AC30_normal_channel",
+      "formato": "WAV",
+      "tamanho_bytes": 23698,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30_normal_channel/vox intern normal_m930 von hinten.wav"
+    },
+    {
+      "nome": "vox intern normal_sm57 on axis.wav",
+      "grupo": "AC30_normal_channel",
+      "formato": "WAV",
+      "tamanho_bytes": 15430,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30_normal_channel/vox intern normal_sm57 on axis.wav"
+    },
+    {
+      "nome": "vox intern normal_u87.wav",
+      "grupo": "AC30_normal_channel",
+      "formato": "WAV",
+      "tamanho_bytes": 18274,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/AC30_normal_channel/vox intern normal_u87.wav"
+    },
+    {
+      "nome": "Cópia de AC30 normal AT4033a neve_dc.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 66836,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/Cópia de AC30 normal AT4033a neve_dc.wav"
+    },
+    {
+      "nome": "Cópia de AC30 normal AT4033a stalevel_dc.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 64916,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/Cópia de AC30 normal AT4033a stalevel_dc.wav"
+    },
+    {
+      "nome": "Cópia de AC30 normal BX44 neve close_dc.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 59516,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/Cópia de AC30 normal BX44 neve close_dc.wav"
+    },
+    {
+      "nome": "Cópia de AC30 normal bx44 neve far_dc.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 90580,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/Cópia de AC30 normal bx44 neve far_dc.wav"
+    },
+    {
+      "nome": "Cópia de AC30 normal BX44 stalevel close_dc.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 92074,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/Cópia de AC30 normal BX44 stalevel close_dc.wav"
+    },
+    {
+      "nome": "Cópia de AC30 normal bx44 stalevel far_dc.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 62728,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/Cópia de AC30 normal bx44 stalevel far_dc.wav"
+    },
+    {
+      "nome": "Cópia de AC30 normal sm57 neve close_dc.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 67556,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/Cópia de AC30 normal sm57 neve close_dc.wav"
+    },
+    {
+      "nome": "Cópia de AC30 normal sm57 neve closer_dc.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 53576,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/Cópia de AC30 normal sm57 neve closer_dc.wav"
+    },
+    {
+      "nome": "Cópia de AC30 normal sm57 stalevel close_dc.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 64076,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/Cópia de AC30 normal sm57 stalevel close_dc.wav"
+    },
+    {
+      "nome": "Cópia de AC30 normal sm57 stalevel closer_dc.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 60860,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/Cópia de AC30 normal sm57 stalevel closer_dc.wav"
+    },
+    {
+      "nome": "Cópia de AC30 normal U67 neve_dc.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 67850,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/Cópia de AC30 normal U67 neve_dc.wav"
+    },
+    {
+      "nome": "Cópia de AC30 normal U67 stalevel_dc.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 68140,
+      "arquivo": "individuais/Por modelo/Guitarra/Vox/AC30 Normal Channel/Cópia de AC30 normal U67 stalevel_dc.wav"
+    }
+  ]
+}

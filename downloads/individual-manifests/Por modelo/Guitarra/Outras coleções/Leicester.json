@@ -1,0 +1,25 @@
+{
+  "arquivos": [
+    {
+      "nome": "leicester boutique.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 4860,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Leicester/leicester boutique.wav"
+    },
+    {
+      "nome": "leicester combo.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 5244,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Leicester/leicester combo.wav"
+    },
+    {
+      "nome": "leicester stack.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 8460,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Leicester/leicester stack.wav"
+    }
+  ]
+}

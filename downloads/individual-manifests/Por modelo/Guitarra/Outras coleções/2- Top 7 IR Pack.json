@@ -1,0 +1,25 @@
+{
+  "arquivos": [
+    {
+      "nome": "AC15.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 14480,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/2- Top 7 IR Pack/AC15.wav"
+    },
+    {
+      "nome": "Celestion H30.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 4488,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/2- Top 7 IR Pack/Celestion H30.wav"
+    },
+    {
+      "nome": "Marshall G12.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 10900,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/2- Top 7 IR Pack/Marshall G12.wav"
+    }
+  ]
+}

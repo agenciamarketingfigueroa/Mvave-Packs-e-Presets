@@ -1,0 +1,67 @@
+{
+  "arquivos": [
+    {
+      "nome": "1on-pres5.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 1424,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Catharsis Fredman Impulses/1on-pres5.wav"
+    },
+    {
+      "nome": "1on-pres8.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 5562,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Catharsis Fredman Impulses/1on-pres8.wav"
+    },
+    {
+      "nome": "1on-preshigh.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 2804,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Catharsis Fredman Impulses/1on-preshigh.wav"
+    },
+    {
+      "nome": "2off-pres5.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 1424,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Catharsis Fredman Impulses/2off-pres5.wav"
+    },
+    {
+      "nome": "2off-pres8.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 5562,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Catharsis Fredman Impulses/2off-pres8.wav"
+    },
+    {
+      "nome": "2off-preshigh.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 2804,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Catharsis Fredman Impulses/2off-preshigh.wav"
+    },
+    {
+      "nome": "s-pres5.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 1424,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Catharsis Fredman Impulses/s-pres5.wav"
+    },
+    {
+      "nome": "s-pres8.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 5562,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Catharsis Fredman Impulses/s-pres8.wav"
+    },
+    {
+      "nome": "s-preshigh.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 2804,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Catharsis Fredman Impulses/s-preshigh.wav"
+    }
+  ]
+}

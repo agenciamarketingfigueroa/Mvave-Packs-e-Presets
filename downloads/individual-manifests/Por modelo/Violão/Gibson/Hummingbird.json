@@ -1,0 +1,39 @@
+{
+  "arquivos": [
+    {
+      "nome": "Hummingbird - DPA 4011-44k.wav",
+      "grupo": "Acoustic Impulses / Hummingbird",
+      "formato": "WAV",
+      "tamanho_bytes": 3866,
+      "arquivo": "individuais/Por modelo/Violão/Gibson/Hummingbird/Acoustic Impulses/Hummingbird/Hummingbird - DPA 4011-44k.wav"
+    },
+    {
+      "nome": "Hummingbird - DPA 4011.wav",
+      "grupo": "Acoustic Impulses / Hummingbird",
+      "formato": "WAV",
+      "tamanho_bytes": 4164,
+      "arquivo": "individuais/Por modelo/Violão/Gibson/Hummingbird/Acoustic Impulses/Hummingbird/Hummingbird - DPA 4011.wav"
+    },
+    {
+      "nome": "Hummingbird - Neumann M147.wav",
+      "grupo": "Acoustic Impulses / Hummingbird",
+      "formato": "WAV",
+      "tamanho_bytes": 3578,
+      "arquivo": "individuais/Por modelo/Violão/Gibson/Hummingbird/Acoustic Impulses/Hummingbird/Hummingbird - Neumann M147.wav"
+    },
+    {
+      "nome": "Hummingbird - Shure Beta 58A.wav",
+      "grupo": "Acoustic Impulses / Hummingbird",
+      "formato": "WAV",
+      "tamanho_bytes": 4164,
+      "arquivo": "individuais/Por modelo/Violão/Gibson/Hummingbird/Acoustic Impulses/Hummingbird/Hummingbird - Shure Beta 58A.wav"
+    },
+    {
+      "nome": "Hummingbird - Soundelux E47.wav",
+      "grupo": "Acoustic Impulses / Hummingbird",
+      "formato": "WAV",
+      "tamanho_bytes": 4166,
+      "arquivo": "individuais/Por modelo/Violão/Gibson/Hummingbird/Acoustic Impulses/Hummingbird/Hummingbird - Soundelux E47.wav"
+    }
+  ]
+}

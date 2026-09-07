@@ -1,0 +1,39 @@
+{
+  "arquivos": [
+    {
+      "nome": "worcester bright.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 7692,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Worcester/worcester bright.wav"
+    },
+    {
+      "nome": "worcester modified.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 6660,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Worcester/worcester modified.wav"
+    },
+    {
+      "nome": "worcester reissue.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 6836,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Worcester/worcester reissue.wav"
+    },
+    {
+      "nome": "worcester stack.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 6444,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Worcester/worcester stack.wav"
+    },
+    {
+      "nome": "worcester standard.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 6780,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Worcester/worcester standard.wav"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "arquivos": [
+    {
+      "nome": "Classical - AmBu2F - AKG CS1000.wav",
+      "grupo": "Acoustic Impulses / Classical",
+      "formato": "WAV",
+      "tamanho_bytes": 3272,
+      "arquivo": "individuais/Por modelo/Violão/Nylon/Violão clássico e Nylon Essentials/Acoustic Impulses/Classical/Classical - AmBu2F - AKG CS1000.wav"
+    },
+    {
+      "nome": "Classical - AmBu2F - DPA 4011.wav",
+      "grupo": "Acoustic Impulses / Classical",
+      "formato": "WAV",
+      "tamanho_bytes": 3672,
+      "arquivo": "individuais/Por modelo/Violão/Nylon/Violão clássico e Nylon Essentials/Acoustic Impulses/Classical/Classical - AmBu2F - DPA 4011.wav"
+    },
+    {
+      "nome": "Classical - AmBu2F - Neumann M147.wav",
+      "grupo": "Acoustic Impulses / Classical",
+      "formato": "WAV",
+      "tamanho_bytes": 3336,
+      "arquivo": "individuais/Por modelo/Violão/Nylon/Violão clássico e Nylon Essentials/Acoustic Impulses/Classical/Classical - AmBu2F - Neumann M147.wav"
+    },
+    {
+      "nome": "Nylon 1.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 3336,
+      "arquivo": "individuais/Por modelo/Violão/Nylon/Violão clássico e Nylon Essentials/Nylon 1.wav"
+    },
+    {
+      "nome": "Nylon 2.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 3672,
+      "arquivo": "individuais/Por modelo/Violão/Nylon/Violão clássico e Nylon Essentials/Nylon 2.wav"
+    },
+    {
+      "nome": "Nylon 3.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 3272,
+      "arquivo": "individuais/Por modelo/Violão/Nylon/Violão clássico e Nylon Essentials/Nylon 3.wav"
+    }
+  ]
+}

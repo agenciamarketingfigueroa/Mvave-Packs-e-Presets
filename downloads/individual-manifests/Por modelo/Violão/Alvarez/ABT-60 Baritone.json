@@ -1,0 +1,46 @@
+{
+  "arquivos": [
+    {
+      "nome": "IR_Alvarez_ABT_60_Baritone_BB44100.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 6188,
+      "arquivo": "individuais/Por modelo/Violão/Alvarez/ABT-60 Baritone/IR_Alvarez_ABT_60_Baritone_BB44100.wav"
+    },
+    {
+      "nome": "IR_Alvarez_ABT_60_Baritone_BB44100_Match1.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 6188,
+      "arquivo": "individuais/Por modelo/Violão/Alvarez/ABT-60 Baritone/IR_Alvarez_ABT_60_Baritone_BB44100_Match1.wav"
+    },
+    {
+      "nome": "IR_Alvarez_ABT_60_Baritone_BB44100_Match2.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 6188,
+      "arquivo": "individuais/Por modelo/Violão/Alvarez/ABT-60 Baritone/IR_Alvarez_ABT_60_Baritone_BB44100_Match2.wav"
+    },
+    {
+      "nome": "IR_Alvarez_ABT_60_Baritone_SM44100.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 6188,
+      "arquivo": "individuais/Por modelo/Violão/Alvarez/ABT-60 Baritone/IR_Alvarez_ABT_60_Baritone_SM44100.wav"
+    },
+    {
+      "nome": "IR_Alvarez_ABT_60_Baritone_SM44100_Match1.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 6188,
+      "arquivo": "individuais/Por modelo/Violão/Alvarez/ABT-60 Baritone/IR_Alvarez_ABT_60_Baritone_SM44100_Match1.wav"
+    },
+    {
+      "nome": "IR_Alvarez_ABT_60_Baritone_SM44100_Match2.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 6188,
+      "arquivo": "individuais/Por modelo/Violão/Alvarez/ABT-60 Baritone/IR_Alvarez_ABT_60_Baritone_SM44100_Match2.wav"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "arquivos": [
+    {
+      "nome": "ACC JZ4 01 MONO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 24098,
+      "arquivo": "individuais/Por modelo/Violão/Samick/JZ4/ACC JZ4 01 MONO.wav"
+    },
+    {
+      "nome": "ACC JZ4 01 STEREO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 24098,
+      "arquivo": "individuais/Por modelo/Violão/Samick/JZ4/ACC JZ4 01 STEREO.wav"
+    },
+    {
+      "nome": "ACC JZ4 02 MONO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 12214,
+      "arquivo": "individuais/Por modelo/Violão/Samick/JZ4/ACC JZ4 02 MONO.wav"
+    },
+    {
+      "nome": "ACC JZ4 02 STEREO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 24178,
+      "arquivo": "individuais/Por modelo/Violão/Samick/JZ4/ACC JZ4 02 STEREO.wav"
+    },
+    {
+      "nome": "ACC JZ4 03 STEREO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 24130,
+      "arquivo": "individuais/Por modelo/Violão/Samick/JZ4/ACC JZ4 03 STEREO.wav"
+    },
+    {
+      "nome": "ACC JZ4 04 MONO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 12078,
+      "arquivo": "individuais/Por modelo/Violão/Samick/JZ4/ACC JZ4 04 MONO.wav"
+    },
+    {
+      "nome": "ACC JZ4 04 STEREO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 23890,
+      "arquivo": "individuais/Por modelo/Violão/Samick/JZ4/ACC JZ4 04 STEREO.wav"
+    },
+    {
+      "nome": "ACC JZ4 05 MONO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 12214,
+      "arquivo": "individuais/Por modelo/Violão/Samick/JZ4/ACC JZ4 05 MONO.wav"
+    },
+    {
+      "nome": "ACC JZ4 05 STEREO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 24178,
+      "arquivo": "individuais/Por modelo/Violão/Samick/JZ4/ACC JZ4 05 STEREO.wav"
+    },
+    {
+      "nome": "ACC JZ4 06 MONO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 12174,
+      "arquivo": "individuais/Por modelo/Violão/Samick/JZ4/ACC JZ4 06 MONO.wav"
+    },
+    {
+      "nome": "ACC JZ4 06 STEREO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 24098,
+      "arquivo": "individuais/Por modelo/Violão/Samick/JZ4/ACC JZ4 06 STEREO.wav"
+    },
+    {
+      "nome": "ACC JZ4 07 MONO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 24178,
+      "arquivo": "individuais/Por modelo/Violão/Samick/JZ4/ACC JZ4 07 MONO.wav"
+    },
+    {
+      "nome": "ACC JZ4 07 STEREO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 24178,
+      "arquivo": "individuais/Por modelo/Violão/Samick/JZ4/ACC JZ4 07 STEREO.wav"
+    },
+    {
+      "nome": "ACC JZ4 08 MONO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 12206,
+      "arquivo": "individuais/Por modelo/Violão/Samick/JZ4/ACC JZ4 08 MONO.wav"
+    },
+    {
+      "nome": "ACC JZ4 08 STEREO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 24162,
+      "arquivo": "individuais/Por modelo/Violão/Samick/JZ4/ACC JZ4 08 STEREO.wav"
+    }
+  ]
+}

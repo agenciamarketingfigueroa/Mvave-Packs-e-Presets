@@ -1,0 +1,32 @@
+{
+  "arquivos": [
+    {
+      "nome": "oakdale 2x12.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 4292,
+      "arquivo": "individuais/Por modelo/Baixo/Outras coleções/Bass Oakdale 2x12/oakdale 2x12.wav"
+    },
+    {
+      "nome": "oakdale bass.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 11532,
+      "arquivo": "individuais/Por modelo/Baixo/Outras coleções/Bass Oakdale 2x12/oakdale bass.wav"
+    },
+    {
+      "nome": "oakdale modified.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 5812,
+      "arquivo": "individuais/Por modelo/Baixo/Outras coleções/Bass Oakdale 2x12/oakdale modified.wav"
+    },
+    {
+      "nome": "oakdale vintage.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 5812,
+      "arquivo": "individuais/Por modelo/Baixo/Outras coleções/Bass Oakdale 2x12/oakdale vintage.wav"
+    }
+  ]
+}

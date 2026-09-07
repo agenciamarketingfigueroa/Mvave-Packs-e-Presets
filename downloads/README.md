@@ -4,6 +4,18 @@ Os quatro packs principais usam as pastas permanentes do Google Drive informadas
 
 O arquivo `download-data.json` alimenta os filtros e os 108 botões. Para trocar uma pasta do Drive sem alterar o código, atualize somente o campo `url` do pack correspondente. A central e suas quatro páginas usam `noindex,nofollow,noarchive`, não aparecem no menu principal e não foram incluídas no sitemap.
 
+## Downloads individuais sem ZIP
+
+Os downloads sem compactação atendem todas as famílias de IR nas páginas `/downloads/guitarra/`, `/downloads/baixo/`, `/downloads/violao/` e `/downloads/completo/`. O código e o estilo ficam isolados em `individual-downloads.js` e `individual-downloads.css`; as páginas comerciais do site não carregam esses arquivos.
+
+O manifesto `individual-files.json` relaciona cada ZIP aos arquivos WAV e SYX publicados em `arquivos/individuais/`. O script `scripts/gerar-downloads-individuais.py` recebe, depois dos três caminhos principais, a lista de ZIPs por modelo que devem ser publicados.
+
+```bash
+python scripts/gerar-downloads-individuais.py downloads/arquivos downloads/arquivos/individuais downloads/individual-files.json "Por modelo/Guitarra/Vox/AC30.zip"
+```
+
+Se o manifesto individual não puder ser carregado, o botão original continua apontando para o ZIP do modelo. Assim, a nova camada não interrompe os downloads existentes.
+
 ## Software M-VAVE para Windows e macOS
 
 A rota `/downloads/software/` reúne seis pacotes oficiais revisados em 31/08/2026. CubeSuite, MidiSuite e M-UPGRADE são aplicativos portáteis: o usuário deve extrair o ZIP inteiro e manter o EXE junto das DLLs e subpastas. Sinco Connector é fornecido como EXE único. ANNlab V2.0 atende à linha ANN; o executável interno informa versão de produto 1.1.0.

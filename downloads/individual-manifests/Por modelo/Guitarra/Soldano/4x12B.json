@@ -1,0 +1,179 @@
+{
+  "arquivos": [
+    {
+      "nome": "HR-412-SM58-angle45-close-edge.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 6584,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/HR-412-SM58-angle45-close-edge.wav"
+    },
+    {
+      "nome": "HR-412-SM58-angle45-close.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 4256,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/HR-412-SM58-angle45-close.wav"
+    },
+    {
+      "nome": "HR-412-SM58-angle45-far-edge.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 24288,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/HR-412-SM58-angle45-far-edge.wav"
+    },
+    {
+      "nome": "HR-412-SM58-angle45-far.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 29996,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/HR-412-SM58-angle45-far.wav"
+    },
+    {
+      "nome": "HR-412-SM58-center-close.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 12356,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/HR-412-SM58-center-close.wav"
+    },
+    {
+      "nome": "HR-412-SM58-center-far.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 17884,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/HR-412-SM58-center-far.wav"
+    },
+    {
+      "nome": "HR-412-SM58-straigth-close-edge.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 18464,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/HR-412-SM58-straigth-close-edge.wav"
+    },
+    {
+      "nome": "HR-412-SM58-straigth-far-edge.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 18296,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/HR-412-SM58-straigth-far-edge.wav"
+    },
+    {
+      "nome": "IR1.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 5476,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/IR1.wav"
+    },
+    {
+      "nome": "IR10.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 5192,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/IR10.wav"
+    },
+    {
+      "nome": "IR11.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 4688,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/IR11.wav"
+    },
+    {
+      "nome": "IR12.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 5848,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/IR12.wav"
+    },
+    {
+      "nome": "IR13.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 4992,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/IR13.wav"
+    },
+    {
+      "nome": "IR14.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 10576,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/IR14.wav"
+    },
+    {
+      "nome": "IR15.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 6144,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/IR15.wav"
+    },
+    {
+      "nome": "IR2.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 6312,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/IR2.wav"
+    },
+    {
+      "nome": "IR3.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 4820,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/IR3.wav"
+    },
+    {
+      "nome": "IR4.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 4196,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/IR4.wav"
+    },
+    {
+      "nome": "IR5.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 2984,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/IR5.wav"
+    },
+    {
+      "nome": "IR6.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 2552,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/IR6.wav"
+    },
+    {
+      "nome": "IR7.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 1424,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/IR7.wav"
+    },
+    {
+      "nome": "IR8.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 2884,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/IR8.wav"
+    },
+    {
+      "nome": "IR9.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 6140,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/IR9.wav"
+    },
+    {
+      "nome": "VS-412-SM58-angle45-close.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 18464,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/VS-412-SM58-angle45-close.wav"
+    },
+    {
+      "nome": "VS-412-SM58-center-close.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 9304,
+      "arquivo": "individuais/Por modelo/Guitarra/Soldano/4x12B/VS-412-SM58-center-close.wav"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "arquivos": [
+    {
+      "nome": "JCM900 1-nt2.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 19120,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/JCM900/JCM900 1-nt2.wav"
+    },
+    {
+      "nome": "JCM900 1-rm.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 48996,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/JCM900/JCM900 1-rm.wav"
+    },
+    {
+      "nome": "JCM900 1-sm57.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 16008,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/JCM900/JCM900 1-sm57.wav"
+    },
+    {
+      "nome": "JCM900 2-nt2.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 14758,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/JCM900/JCM900 2-nt2.wav"
+    },
+    {
+      "nome": "JCM900 2-rm.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 49954,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/JCM900/JCM900 2-rm.wav"
+    },
+    {
+      "nome": "JCM900 2-sm57.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 15204,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/JCM900/JCM900 2-sm57.wav"
+    },
+    {
+      "nome": "JCM900 3-nt2.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 20322,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/JCM900/JCM900 3-nt2.wav"
+    },
+    {
+      "nome": "JCM900 3-rm.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 47380,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/JCM900/JCM900 3-rm.wav"
+    },
+    {
+      "nome": "JCM900 3-sm57.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 15126,
+      "arquivo": "individuais/Por modelo/Guitarra/Marshall/JCM900/JCM900 3-sm57.wav"
+    }
+  ]
+}

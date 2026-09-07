@@ -1,0 +1,39 @@
+{
+  "arquivos": [
+    {
+      "nome": "09_Orange_PPC212_bass_edition_by_Shift_Line.wav",
+      "grupo": "AFX",
+      "formato": "WAV",
+      "tamanho_bytes": 3044,
+      "arquivo": "individuais/Por modelo/Baixo/Orange/Orange Bass Setup/AFX/09_Orange_PPC212_bass_edition_by_Shift_Line.wav"
+    },
+    {
+      "nome": "Orange NT2 drive1.wav",
+      "grupo": "Bass Setup_Zuhause_orange",
+      "formato": "WAV",
+      "tamanho_bytes": 29542,
+      "arquivo": "individuais/Por modelo/Baixo/Orange/Orange Bass Setup/Bass Setup_Zuhause_orange/Orange NT2 drive1.wav"
+    },
+    {
+      "nome": "Orange NT2 drive2.wav",
+      "grupo": "Bass Setup_Zuhause_orange",
+      "formato": "WAV",
+      "tamanho_bytes": 19386,
+      "arquivo": "individuais/Por modelo/Baixo/Orange/Orange Bass Setup/Bass Setup_Zuhause_orange/Orange NT2 drive2.wav"
+    },
+    {
+      "nome": "Orange NT2 drive3.wav",
+      "grupo": "Bass Setup_Zuhause_orange",
+      "formato": "WAV",
+      "tamanho_bytes": 23248,
+      "arquivo": "individuais/Por modelo/Baixo/Orange/Orange Bass Setup/Bass Setup_Zuhause_orange/Orange NT2 drive3.wav"
+    },
+    {
+      "nome": "Orange NT2 drive4.wav",
+      "grupo": "Bass Setup_Zuhause_orange",
+      "formato": "WAV",
+      "tamanho_bytes": 18406,
+      "arquivo": "individuais/Por modelo/Baixo/Orange/Orange Bass Setup/Bass Setup_Zuhause_orange/Orange NT2 drive4.wav"
+    }
+  ]
+}

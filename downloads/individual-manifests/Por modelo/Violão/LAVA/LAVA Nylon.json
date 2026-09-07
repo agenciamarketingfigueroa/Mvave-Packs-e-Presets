@@ -1,0 +1,32 @@
+{
+  "arquivos": [
+    {
+      "nome": "ACC LAVA NYLON 01 MONO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 12026,
+      "arquivo": "individuais/Por modelo/Violão/LAVA/LAVA Nylon/ACC LAVA NYLON 01 MONO.wav"
+    },
+    {
+      "nome": "ACC LAVA NYLON 01 STEREO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 23802,
+      "arquivo": "individuais/Por modelo/Violão/LAVA/LAVA Nylon/ACC LAVA NYLON 01 STEREO.wav"
+    },
+    {
+      "nome": "ACC LAVA NYLON 02 MONO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 12026,
+      "arquivo": "individuais/Por modelo/Violão/LAVA/LAVA Nylon/ACC LAVA NYLON 02 MONO.wav"
+    },
+    {
+      "nome": "ACC LAVA NYLON 02 STEREO.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 23802,
+      "arquivo": "individuais/Por modelo/Violão/LAVA/LAVA Nylon/ACC LAVA NYLON 02 STEREO.wav"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "arquivos": [
+    {
+      "nome": "J45 - AKG CS1000.wav",
+      "grupo": "Acoustic Impulses / J45",
+      "formato": "WAV",
+      "tamanho_bytes": 3232,
+      "arquivo": "individuais/Por modelo/Violão/Gibson/J-45/Acoustic Impulses/J45/J45 - AKG CS1000.wav"
+    },
+    {
+      "nome": "J45 - DPA 4011.wav",
+      "grupo": "Acoustic Impulses / J45",
+      "formato": "WAV",
+      "tamanho_bytes": 2642,
+      "arquivo": "individuais/Por modelo/Violão/Gibson/J-45/Acoustic Impulses/J45/J45 - DPA 4011.wav"
+    },
+    {
+      "nome": "J45 - Neumann M147.wav",
+      "grupo": "Acoustic Impulses / J45",
+      "formato": "WAV",
+      "tamanho_bytes": 2384,
+      "arquivo": "individuais/Por modelo/Violão/Gibson/J-45/Acoustic Impulses/J45/J45 - Neumann M147.wav"
+    },
+    {
+      "nome": "J45 - Soundelux E47.wav",
+      "grupo": "Acoustic Impulses / J45",
+      "formato": "WAV",
+      "tamanho_bytes": 3256,
+      "arquivo": "individuais/Por modelo/Violão/Gibson/J-45/Acoustic Impulses/J45/J45 - Soundelux E47.wav"
+    }
+  ]
+}

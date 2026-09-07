@@ -1,0 +1,25 @@
+{
+  "arquivos": [
+    {
+      "nome": "boxboro 4x10.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 6796,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Boxboro/boxboro 4x10.wav"
+    },
+    {
+      "nome": "boxboro combo.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 5372,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Boxboro/boxboro combo.wav"
+    },
+    {
+      "nome": "boxboro jazz.wav",
+      "grupo": "IRs principais",
+      "formato": "WAV",
+      "tamanho_bytes": 4660,
+      "arquivo": "individuais/Por modelo/Guitarra/Outras coleções/Boxboro/boxboro jazz.wav"
+    }
+  ]
+}
