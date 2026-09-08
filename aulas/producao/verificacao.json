@@ -1,0 +1,287 @@
+[
+  {
+    "file": "01-aula-01.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 6,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Seus IRs.\nProntos para tocar."
+  },
+  {
+    "file": "02-aula-01.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 9,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Prepare-se antes de baixar"
+  },
+  {
+    "file": "03-aula-01.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 5,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Ficou com dúvida?"
+  },
+  {
+    "file": "04-aula-01.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 10,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Me mostre onde você travou"
+  },
+  {
+    "file": "05-aula-02.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 10,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "CubeSuite"
+  },
+  {
+    "file": "06-aula-02.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 11,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Conecte e confira o modelo"
+  },
+  {
+    "file": "07-aula-02.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 11,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Carregue um IR de cada vez"
+  },
+  {
+    "file": "08-aula-02.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 6,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Selecione o IR\nque você enviou"
+  },
+  {
+    "file": "09-aula-03.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 11,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "M-EFCS"
+  },
+  {
+    "file": "10-aula-03.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 10,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Abra o editor e conecte"
+  },
+  {
+    "file": "11-aula-03.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 10,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Use a área de IR / CAB"
+  },
+  {
+    "file": "12-aula-03.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 6,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Ative o IR\nno seu som"
+  },
+  {
+    "file": "13-aula-04.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 6,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Baixe seu pack.\nOu apenas um IR."
+  },
+  {
+    "file": "14-aula-04.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 10,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Use os dados do seu pack"
+  },
+  {
+    "file": "15-aula-04.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 9,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Baixe uma coleção em ZIP"
+  },
+  {
+    "file": "16-aula-04.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 10,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Comece com um único IR"
+  },
+  {
+    "file": "17-aula-04.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 6,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Não conseguiu\nbaixar pelo site?"
+  },
+  {
+    "file": "18-aula-04.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 9,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Escolha uma das opções"
+  },
+  {
+    "file": "19-aula-04.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "text_boxes": 9,
+    "pip": [
+      1344,
+      726,
+      1824,
+      996
+    ],
+    "title": "Extraia antes de importar"
+  }
+]

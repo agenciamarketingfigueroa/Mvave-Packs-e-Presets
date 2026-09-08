@@ -1,0 +1,37 @@
+AULA 05 — INSTALE SEUS IRs PELO M-EFCS
+Duração: 6–9 minutos. Slides 16–19 + gravação de tela e pedal.
+Escopo: versão de computador e conexão USB. Usar M-EFCS como grafia nos slides.
+
+PREPARAÇÃO DO APRESENTADOR
+Registrar [MODELO DEMONSTRADO], [SISTEMA], [VERSÃO M-EFCS], [FIRMWARE].
+Ensaiar importação no modelo real. Confirmar rótulos e necessidade de salvar tanto a biblioteca de IRs quanto o preset. Não tratar importação de AMP/ANN como importação de IR.
+Lista oficial de computador: TANK-G, TANK-B, BLACKBOX, STATION-G, STATION-B, Tank Mini, Pocket Amp, SP100, MK300, MK20. SP100 é amplificador; ficará em nota própria no slide. A página de app móvel lista ANNBLACKBOX, mas não presumir equivalência de revisões e firmwares sem conferir o modelo.
+
+00:00–00:45 | SLIDE 16
+“Esta aula mostra a instalação pelo M-EFCS no computador. Confira seu modelo na lista. Vou usar o [MODELO DEMONSTRADO], então alguns nomes e posições da tela podem ser diferentes no seu equipamento.”
+
+00:45–02:00 | SLIDE 17 + TELA
+“Acesse o centro de downloads da fabricante e procure M-EFCS para o seu sistema. Abra o software e conecte o equipamento ligado com um cabo USB de dados. Confira o modelo reconhecido antes de continuar.”
+AÇÃO: mostrar https://www.m-vave.com/download, escolher o sistema e abrir o editor. Selecionar dispositivo se a interface pedir. Demonstrar o indicador de conexão. Não apresentar o app de celular como idêntico à versão de computador.
+
+02:00–02:45 | TELA: ÁREA DE IR
+“Vamos procurar a área de IR ou gabinete. Este pack será importado na área de IRs. Se o programa também tiver importação de amplificadores ou presets completos, são recursos diferentes.”
+AÇÃO: apontar o bloco real CAB/IR e o gerenciador correspondente, conforme o modelo. Mostrar posição de usuário disponível. Fazer backup do que será substituído quando houver essa função.
+
+02:45–05:00 | SLIDE 18 + TELA: ENVIO
+“Escolha a posição que vai receber o arquivo. Vou importar o WAV que separei, confirmar o envio e aguardar terminar. Se houver um aviso de substituição, confira a posição antes de aceitar.”
+AÇÃO: executar importação pelo comando real da versão; não presumir arrastar e soltar. Mostrar nome do arquivo e conclusão. Se formato for recusado, verificar especificações do modelo; não renomear extensão nem supor conversão automática.
+
+05:00–06:30 | SLIDE 19 + TELA/PEDAL
+“Agora, no som que vamos usar, selecione esse IR no bloco de gabinete e confira se o bloco está ativo. Salve o preset quando o equipamento exigir. Enviar o arquivo para a biblioteca não significa que todos os seus sons já passaram a usar esse IR.”
+AÇÃO: selecionar IR importado, ativar CAB/IR, salvar pelo comando disponível e testar uma frase. Mudar e voltar ao preset para conferir persistência. Manter o restante dos ajustes igual na comparação e evitar diferença grande de volume.
+
+06:30–07:15 | CÂMERA
+“Com o arquivo importado, o IR selecionado e o preset salvo, você já pode começar a testar. Se algo ficou diferente na sua tela, me mande o modelo do equipamento, o arquivo usado e uma imagem ou vídeo curto pelo WhatsApp.”
+
+CRITÉRIO DE CONCLUSÃO
+Dispositivo correto reconhecido; envio concluído; IR selecionado no bloco; bloco ativo; preset salvo e áudio demonstrado.
+[Sources]
+https://www.cuvave.com/download — lista oficial M-EFCS de computador e app, consultada em 08/09/2026.
+https://www.m-vave.com/product?id=mk-300 — M-EFCS e suporte a carregamento de IR de terceiros.
+[/Sources]

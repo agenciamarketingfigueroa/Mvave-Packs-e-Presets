@@ -1,0 +1,37 @@
+AULA 04 — INSTALE SEUS IRs PELO CUBESUITE
+Duração: 6–9 minutos. Slides 12–15 + gravação de tela e pedal.
+Escopo: computador com cabo USB de dados; gravar um modelo real como exemplo.
+
+PREPARAÇÃO DO APRESENTADOR
+Registrar [MODELO DEMONSTRADO], [SISTEMA], [VERSÃO CUBESUITE], [FIRMWARE].
+Ensaiar os nomes e a sequência dos comandos de importação na versão instalada. O roteiro descreve ações, sem inventar botões comuns a todos os modelos.
+Modelos listados pela fabricante no CubeSuite de computador relevantes à aula: Cube Baby, Cube Baby AC, Cube Baby Bass, H8, Cube Sugar, IR Box e IMPULSE-R. O suporte do editor não valida qualquer WAV do pack.
+
+00:00–00:45 | SLIDE 12
+“Esta aula é para os modelos da lista que usam o CubeSuite no computador. Vou mostrar no [MODELO DEMONSTRADO]. A tela e a quantidade de posições podem mudar conforme o seu pedal, mas vamos acompanhar as etapas de carregar e selecionar o IR.”
+
+00:45–02:00 | SLIDE 13 + TELA
+“Baixe o CubeSuite pelo centro de downloads da fabricante, escolhendo o seu sistema. No Windows, extraia a pasta completa antes de abrir o programa. Conecte o pedal ligado usando um cabo USB que transmita dados.”
+AÇÃO: abrir https://www.m-vave.com/download e localizar CubeSuite. Mostrar o pacote adequado ao sistema. No Windows, manter executável e arquivos auxiliares juntos. Abrir editor e confirmar que reconheceu o modelo. Não orientar modo de atualização ou firmware como requisito normal de importação.
+
+02:00–02:45 | TELA: CONEXÃO
+“Confira se o equipamento foi reconhecido. Se não apareceu, verifique o cabo de dados, a porta USB e o software escolhido. Não continue a transferência enquanto o pedal não estiver conectado.”
+AÇÃO: mostrar indicador real de conexão. Não confundir Bluetooth de áudio com comunicação do editor.
+
+02:45–05:00 | SLIDE 14 + TELA: IMPORTAÇÃO
+“Agora localize a área de IRs ou gabinetes. Escolha uma posição que você pode substituir. Antes, guarde uma cópia do conteúdo que deseja manter, quando o editor permitir. A importação pode sobrescrever o IR dessa posição.”
+AÇÃO: abrir a área correspondente ao modelo; apontar a posição escolhida. Acionar o comando real de importar/carregar; selecionar WAV validado; confirmar a gravação ou envio exigido pela interface; aguardar concluir sem desconectar.
+“Vou selecionar o WAV que baixamos e aguardar a conclusão. Observe o nome ou a confirmação que apareceu na tela.”
+
+05:00–06:30 | SLIDE 15 + PEDAL
+“Importar o arquivo e selecionar o IR no som que você usa são etapas diferentes. Agora vou escolher essa posição de IR no meu equipamento e salvar a configuração, se o modelo exigir.”
+AÇÃO: mostrar somente o controle necessário para selecionar/ativar IR; sem aula geral de knobs. Tocar uma frase curta em volume confortável; alternar entre duas posições com o restante igual. Confirmar que o IR permanece selecionado após mudar e retornar ao preset, quando aplicável.
+
+06:30–07:15 | ENCERRAMENTO
+“Pronto: o arquivo foi enviado e selecionado. Para testar outro, repita com uma posição que você possa substituir. Se o programa não aceitar o arquivo, me mande no WhatsApp o modelo, o nome do arquivo e uma imagem da mensagem.”
+
+CRITÉRIO DE CONCLUSÃO
+Editor conectado; envio concluído; posição identificada; IR ativo/selecionado e configuração persistida conforme o modelo; áudio demonstrado.
+[Sources]
+https://www.cuvave.com/download — lista oficial de suporte do CubeSuite para computador; consultada em 08/09/2026.
+[/Sources]

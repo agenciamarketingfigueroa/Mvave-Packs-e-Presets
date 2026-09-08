@@ -1,0 +1,28 @@
+SLIDES JPG — IDENTIDADE VISUAL DO SITE
+
+19 imagens em aulas/jpg, numeradas na ordem dos roteiros.
+Resolução: 1920 × 1080 pixels (16:9). JPEG de alta qualidade.
+As fontes são Manrope e DM Sans, como no site. Logo original, fundos preto e claro, azul e detalhes amarelos da identidade existente.
+
+CÂMERA EM PIP
+A área preta no canto inferior direito foi reservada para a câmera.
+Tamanho: 480 × 270 pixels (16:9).
+Posição na tela de 1920 × 1080: X = 1344; Y = 726.
+Use alinhamento superior esquerdo para essas coordenadas.
+A moldura externa já está na imagem. Não há texto atrás da câmera.
+O JPG é opaco: coloque a fonte da câmera ACIMA da fonte do slide.
+Se a câmera não estiver em 16:9, recorte para essa proporção antes de encaixar; evite esticar o rosto.
+
+ORGANIZAÇÃO
+01–04: boas-vindas e suporte.
+05–08: aula 02, CubeSuite; modelos no slide 05.
+09–12: aula 03, M-EFCS; modelos no slide 09.
+13–19: aula 04 (última), acesso e download pelo site, Hotmart e Drive.
+
+Você pode adicionar os JPGs como imagens ou como uma apresentação de imagens com avanço manual. Importe somente a pasta jpg; a grade de revisão fica separada em producao.
+
+O arquivo slides-obs-jpg.zip reúne os 19 JPGs e este guia.
+Os quatro roteiros atuais estão na pasta aulas. O HTML permite visualizar os JPGs na ordem atual. Não importe arquivos de producao/ordem-anterior.
+
+Fontes da identidade: styles.css, index.html e assets/img/Logo Home (somente leitura).
+Compatibilidade e roteiro: publicacao-e-fontes.txt.

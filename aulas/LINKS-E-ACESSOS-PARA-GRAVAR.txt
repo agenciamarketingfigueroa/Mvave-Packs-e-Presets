@@ -1,0 +1,269 @@
+LINKS, ACESSOS E PREPARAÇÃO DAS AULAS
+M-VAVE BR — material de consulta do Felipe
+Organizado em 08/09/2026. Abra este arquivo no Bloco de Notas.
+
+STATUS
+Links reunidos a partir dos arquivos atuais do projeto e do portal da fabricante.
+As quatro senhas foram recuperadas da conversa de 07/09/2026 e conferidas contra os hashes atuais de download-auth.js: todas correspondem.
+WhatsApp confirmado por Felipe nesta conversa.
+RARs, links específicos das aulas Hotmart, permissões do Drive e testes no pedal ainda precisam ser concluídos.
+
+ORDEM DO CURSO
+01. Boas-vindas e suporte.
+02. Instalação pelo CubeSuite.
+03. Instalação pelo M-EFCS.
+04. Acesso e download dos IRs — ÚLTIMA AULA.
+
+Colocar links dos IRs, senhas, RARs e Drive somente na última aula de cada pack. Nas anteriores, usar suporte e links dos softwares. Este arquivo reúne todos os packs para preparação; na descrição de cada curso, copiar apenas o bloco do pack correspondente.
+
+============================================================
+1. SUPORTE — AULA 01 E DESCRIÇÕES DAS AULAS
+============================================================
+
+WhatsApp cadastrado no site:
+(31) 99942-7901
+https://api.whatsapp.com/send?phone=5531999427901
+
+Link curto equivalente:
+https://wa.me/5531999427901
+
+Status: número extraído de app.js e confirmado por Felipe para as aulas. Nenhuma mensagem foi enviada.
+
+Central de suporte do site:
+https://mvave.com.br/suporte/
+
+Área de compras do aluno na Hotmart:
+https://consumer.hotmart.com/
+O aluno usa sua própria conta e senha da Hotmart. Essa senha não é a senha dos IRs.
+
+============================================================
+2. PACK GUITARRA — COPIAR SOMENTE NA ÚLTIMA AULA DE GUITARRA
+============================================================
+
+Página de download:
+https://mvave.com.br/downloads/guitarra/
+
+Login: o próprio nome do aluno (campo obrigatório).
+Senha dos IRs: wuxrum-Gysmad-5xopne
+
+Google Drive já cadastrado para este pack:
+https://drive.google.com/drive/folders/1D5GSVIDNe285TQZUvcuDvxSGMcPHo-qE?usp=sharing
+
+Nome do arquivo principal registrado no catálogo:
+Pack-Guitarra-M-Vave-BR.zip
+
+Nome sugerido para o novo anexo Hotmart, ainda não criado:
+Pack-Guitarra-M-Vave-BR.rar
+
+Link da última aula na Hotmart: [COLAR APÓS CRIAR/PUBLICAR A AULA]
+Local onde a senha será exibida: descrição da última aula deste pack.
+Senha de extração do RAR: [INFORMAR SE EXISTIR; SENÃO, ESCREVER “SEM SENHA”]
+
+============================================================
+3. PACK BAIXO — COPIAR SOMENTE NA ÚLTIMA AULA DE BAIXO
+============================================================
+
+Página de download:
+https://mvave.com.br/downloads/baixo/
+
+Login: o próprio nome do aluno (campo obrigatório).
+Senha dos IRs: vyvqyc-diqko3-Pydkiv
+
+Google Drive já cadastrado para este pack:
+https://drive.google.com/drive/folders/108re7RzxOJwDScPz4knaai29nxQo2cyb?usp=sharing
+
+Nome do arquivo principal registrado no catálogo:
+Pack-Baixo-M-Vave-BR.zip
+
+Nome sugerido para o novo anexo Hotmart, ainda não criado:
+Pack-Baixo-M-Vave-BR.rar
+
+Link da última aula na Hotmart: [COLAR APÓS CRIAR/PUBLICAR A AULA]
+Local onde a senha será exibida: descrição da última aula deste pack.
+Senha de extração do RAR: [INFORMAR SE EXISTIR; SENÃO, ESCREVER “SEM SENHA”]
+
+============================================================
+4. PACK VIOLÃO — COPIAR SOMENTE NA ÚLTIMA AULA DE VIOLÃO
+============================================================
+
+Página de download:
+https://mvave.com.br/downloads/violao/
+
+Login: o próprio nome do aluno (campo obrigatório).
+Senha dos IRs: pykhog-vyszo0-gaCjyk
+
+Google Drive já cadastrado para este pack:
+https://drive.google.com/drive/folders/1VYz9k2VTeQmCFO7Cnq6eVkAo3lKrq0xE?usp=sharing
+
+Nome do arquivo principal registrado no catálogo:
+Pack-Violão-M-Vave-BR.zip
+
+Nome sugerido para o novo anexo Hotmart, ainda não criado:
+Pack-Violao-M-Vave-BR.rar
+
+Link da última aula na Hotmart: [COLAR APÓS CRIAR/PUBLICAR A AULA]
+Local onde a senha será exibida: descrição da última aula deste pack.
+Senha de extração do RAR: [INFORMAR SE EXISTIR; SENÃO, ESCREVER “SEM SENHA”]
+
+============================================================
+5. PACK COMPLETO — COPIAR SOMENTE NA ÚLTIMA AULA DO COMPLETO
+============================================================
+
+Página de download:
+https://mvave.com.br/downloads/completo/
+
+Login: o próprio nome do aluno (campo obrigatório).
+Senha dos IRs: gusqax-xUcfiv-buqfy1
+
+Google Drive já cadastrado para este pack:
+https://drive.google.com/drive/folders/1-dYRbuSVopYgjjEHROYHKYWYGmmqXkeC?usp=sharing
+
+Nome do arquivo principal registrado no catálogo:
+Pack-Completo-M-Vave-BR.zip
+
+Nome sugerido para o novo anexo Hotmart, ainda não criado:
+Pack-Completo-M-Vave-BR.rar
+
+Link da última aula na Hotmart: [COLAR APÓS CRIAR/PUBLICAR A AULA]
+Local onde a senha será exibida: descrição da última aula deste pack.
+Senha de extração do RAR: [INFORMAR SE EXISTIR; SENÃO, ESCREVER “SEM SENHA”]
+
+============================================================
+6. COMO EXPLICAR LOGIN E SENHA NA GRAVAÇÃO
+============================================================
+
+Fala pronta:
+“Abra o link deste pack na descrição desta última aula. No campo Login, digite seu nome. No campo Senha, copie a senha dos downloads que deixei aqui na descrição. Depois, clique em entrar.”
+
+O comportamento “Login = nome do aluno” foi conferido em download-auth.js: para o acesso por senha do pack, o campo precisa estar preenchido; a senha é validada por pack. Confirmar também na versão publicada durante o ensaio.
+
+Não confundir:
+• Senha da Hotmart: pertence à conta individual do aluno.
+• Senha dos IRs: é a senha do pack na página específica de downloads.
+• Senha do RAR: só existe se você proteger o pacote ao criá-lo; deve ser informada separadamente.
+
+Referência da central geral, apenas para preparação:
+https://mvave.com.br/downloads/
+Essa central usa acesso universal/amigos; as senhas restritas dos packs não liberam a central. Para os alunos, usar as quatro páginas específicas acima. Não é necessário usar ou fornecer credenciais universais nestas aulas.
+
+============================================================
+7. SOFTWARES — AULAS 02 E 03
+============================================================
+
+Página de softwares do nosso site:
+https://mvave.com.br/downloads/software/
+
+Centro oficial da fabricante — referência principal:
+https://www.m-vave.com/download
+
+Endereço alternativo cadastrado no projeto:
+https://www.m-vave.com/appdownload
+
+CUBESUITE — AULA 02
+Windows, link oficial cadastrado:
+https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/pc/CubeSuite.zip?x-oss-traffic-limit=5192000
+
+macOS, link oficial cadastrado:
+https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/pc/CubeSuite.dmg?x-oss-traffic-limit=5192000
+
+Cópias registradas no nosso site:
+Windows:
+https://mvave.com.br/downloads/arquivos/Software%20M-VAVE/Windows/CubeSuite-oficial.zip
+macOS:
+https://mvave.com.br/downloads/arquivos/Software%20M-VAVE/Mac%20OS/CubeSuite-oficial.dmg
+
+Preparar: baixar a versão do sistema usado na gravação, extrair o pacote completo quando for ZIP, abrir e testar a conexão USB. Registrar a versão efetivamente usada, sem presumir que a versão cadastrada é a mais recente.
+
+M-EFCS — AULA 03
+Windows, link oficial cadastrado:
+https://yms-file-store.oss-cn-hongkong.aliyuncs.com/software/pc/M-EFCS.zip?x-oss-traffic-limit=5192000
+
+macOS, App Store:
+https://apps.apple.com/br/app/m-efcs/id6470352068
+
+Preparar: abrir o editor, reconhecer o modelo, importar um WAV compatível, selecionar o IR e conferir se o preset foi salvo.
+
+Se um link direto de software mudar ou falhar, localizar o programa pelo centro oficial da fabricante acima.
+As aulas atuais são de computador. Não é necessário acrescentar downloads de apps móveis ou atualizações de firmware para seguir este roteiro.
+
+============================================================
+8. MATERIAIS LOCAIS PARA A GRAVAÇÃO
+============================================================
+
+Pasta de trabalho:
+C:\Users\Felipe\Documents\GitHub\Mvave-Packs-e-Presets\aulas
+
+JPGs para o OBS:
+jpg\
+
+Pacote pronto com os 19 JPGs:
+slides-obs-jpg.zip
+
+Roteiros:
+01-boas-vindas-e-suporte.txt
+02-instalacao-cubesuite.txt
+03-instalacao-mefcs.txt
+04-acesso-e-download-dos-irs.txt
+
+Textos das descrições e fontes:
+publicacao-e-fontes.txt
+
+Guia OBS:
+USAR-NO-OBS.txt
+Tela: 1920 × 1080.
+Câmera PIP: 480 × 270, posição X=1344 / Y=726, alinhamento superior esquerdo.
+Colocar a câmera acima da imagem do slide na composição.
+
+Um WAV de demonstração aceito pelo modelo:
+[ANOTAR NOME E CAMINHO DO ARQUIVO QUE FELIPE USARÁ]
+Usar esse arquivo já separado nas aulas dos softwares; mostrar o acesso ao pack só na última aula.
+
+============================================================
+9. CHECKLIST PARA DEIXAR AS AULAS PRONTAS
+============================================================
+
+ACESSOS
+[x] Recuperar e conferir as quatro senhas contra o código atual.
+[x] Confirmar o WhatsApp das aulas com Felipe.
+[ ] Entrar em cada página com nome de aluno e senha daquele pack.
+[ ] Confirmar que o aluno acessa o conteúdo correspondente à compra.
+[ ] Conferir cada pasta do Drive com uma conta de aluno e testar o download.
+
+ARQUIVOS
+[ ] Escolher o conteúdo final de cada pack.
+[ ] Criar um RAR real de cada pack; não apenas renomear um ZIP para RAR.
+[ ] Testar a extração de cada RAR e informar senha de extração se existir.
+[ ] Anexar o RAR somente na última aula do curso correspondente.
+[ ] Confirmar a extensão real dos arquivos do Drive (ZIP/RAR).
+[ ] Demonstrar um download individual WAV e um download de coleção.
+
+INSTALAÇÃO E GRAVAÇÃO
+[ ] Separar pedal, cabo USB de dados e um WAV compatível.
+[ ] Registrar modelo, sistema, software e firmware usados.
+[ ] Ensaiar importação, seleção do IR, salvamento e teste de áudio.
+[ ] Gravar as quatro aulas na nova ordem, com voz e tela legíveis.
+[ ] Conferir o espaço do PIP e o áudio do instrumento.
+
+HOTMART
+[ ] Criar/ordenar as aulas e importar os vídeos revisados.
+[ ] Preencher as descrições de publicacao-e-fontes.txt.
+[ ] Concentrar links de IRs, senha, RAR e Drive apenas na aula 04.
+[ ] Colar aqui o link real da última aula de cada curso.
+[ ] Abrir o curso como aluno e testar vídeos, anexos e links.
+[ ] Conferir como a plataforma permite navegar entre aulas: apenas ordenar não configura bloqueio de progressão.
+
+============================================================
+10. CONFERÊNCIA E FONTES
+============================================================
+
+Páginas de packs e links do Drive: CNAME e downloads/download-data.json.
+Comportamento do login: download-auth.js.
+Senhas: mensagens de Felipe na conversa local de 07/09/2026; validação SHA-256 das quatro senhas contra download-auth.js realizada em 08/09/2026. Esta conferência não substitui o teste de login na versão publicada.
+WhatsApp: função gatedContactUrl de app.js.
+Softwares: catalog-data.js e https://www.m-vave.com/download.
+Hotmart do aluno: support-data.js e https://consumer.hotmart.com/.
+
+O portal oficial de softwares, a página do M-EFCS na App Store e a página de entrada da Hotmart foram acessados nesta consulta. Os instaladores não foram baixados/testados nesta etapa.
+A ferramenta de consulta não conseguiu abrir as páginas mvave.com.br/downloads nesta sessão; seus endereços foram conferidos no projeto, sem confirmação de funcionamento online. Isso não comprova que estejam fora do ar.
+Os links do Drive foram copiados do cadastro atual, sem teste de permissões nesta etapa.
+Nenhuma página do site, senha, arquivo de IR, configuração Hotmart ou pasta do Drive foi alterada.

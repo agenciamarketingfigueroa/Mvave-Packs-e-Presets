@@ -1,0 +1,26 @@
+AULA 03 — DOWNLOAD ALTERNATIVO: HOTMART E GOOGLE DRIVE
+Duração: 3–4 minutos. Slides 9–11 + captura de tela.
+Resultado: aluno baixa por uma rota alternativa e extrai o pacote antes de importar.
+
+ANTES DE GRAVAR
+Esta aula pressupõe que os RARs e links já foram publicados. Ainda é necessário preparar os arquivos reais, anexar por pack e testar como aluno. Não dizer “já deixei aqui” antes dessa etapa.
+Usar [NOME DO RAR DESTE PACK] e [LINK DRIVE DESTE PACK]. Não anexar o Pack Completo em um curso que só concede acesso a um instrumento.
+
+00:00–00:35 | SLIDE 9
+“Se você não conseguiu baixar pelo site, pode usar uma destas alternativas: o arquivo nos materiais desta aula ou o link do Google Drive. Escolha a opção que funcionar melhor para você.”
+
+00:35–01:30 | SLIDE 10 + TELA HOTMART
+“Aqui nos materiais da aula está o arquivo [NOME DO RAR DESTE PACK]. Clique para baixar e aguarde terminar. Agora vou abrir a pasta em que ele foi salvo.”
+AÇÃO: mostrar a posição real do anexo na interface usada pelo aluno. Baixar o arquivo e confirmar que terminou. Se houver várias partes, demonstrar o download de todas e a extração a partir da primeira; preferir um pacote único quando possível.
+
+01:30–02:15 | TELA DRIVE
+“Se preferir, use o link do Google Drive na descrição desta aula. Abra o link e baixe o arquivo do seu pack. A aparência pode mudar um pouco entre computador e celular.”
+AÇÃO: demonstrar o link com permissão de leitura e download testada. Não presumir que a pasta atual do Drive contém RAR: mostrar a extensão real. Se baixar uma pasta, o Drive pode gerar ZIP.
+“Se o Drive pedir uma permissão que você não tem ou o download estiver indisponível, tente o anexo da aula. Se ainda precisar, fale comigo no WhatsApp.”
+
+02:15–03:15 | SLIDE 11 + TELA: EXTRAÇÃO
+“O RAR ou ZIP é o pacote que guarda os arquivos. Primeiro, extraia para uma pasta. O que vamos selecionar no software é o IR dentro dessa pasta, no formato aceito pelo seu pedal, e não o arquivo compactado.”
+AÇÃO: extrair com um aplicativo que suporte o formato no sistema usado. Abrir a pasta extraída e localizar um WAV compatível. Se o arquivo estiver incompleto, baixar novamente. Não usar a senha do site para a extração, a menos que o pacote tenha uma senha própria explicitamente informada.
+
+03:15–03:40 | CÂMERA
+“Com os arquivos extraídos, escolha a aula do seu software: CubeSuite ou M-EFCS. Se tiver dúvida sobre qual usar, confira a lista de modelos na abertura de cada aula ou me chame.”

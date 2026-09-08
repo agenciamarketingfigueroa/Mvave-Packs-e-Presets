@@ -1,0 +1,47 @@
+AULA 02 — COMO BAIXAR SEUS IRs PELO SITE
+Duração: 6–8 minutos. Slides 5–8 + captura de tela.
+Resultado: aluno entra na página do pack, baixa uma coleção e um WAV individual e encontra o arquivo no computador.
+
+PREPARAÇÃO
+Abrir a página específica do pack comprado, não a central /downloads/.
+Guitarra: https://mvave.com.br/downloads/guitarra/
+Baixo: https://mvave.com.br/downloads/baixo/
+Violão: https://mvave.com.br/downloads/violao/
+Completo: https://mvave.com.br/downloads/completo/
+Confirmar [LOCAL DO LOGIN E SENHA] e preparar uma demonstração com credenciais de aluno desse pack. A senha não está disponível em texto no código consultado; não foi inventada nem recuperada.
+O roteiro foi conferido no código local; conferir a interface publicada no ensaio.
+
+00:00–00:35 | SLIDE 5
+“Agora vamos baixar os IRs. Você pode baixar uma coleção para organizar no computador ou escolher só os arquivos que quer testar. Vou te mostrar os dois caminhos.”
+
+00:35–01:20 | TELA: LOCAL DE ENTREGA DO ACESSO
+“Abra o link do pack que você comprou, disponível em [LOCAL DO LINK]. Os dados para entrar estão em [LOCAL DO LOGIN E SENHA]. Aqui, use o login e a senha de acesso aos downloads desse pack. Não confunda com a senha que você usa para entrar na sua conta da Hotmart.”
+AÇÃO: mostrar de onde copiar o login e a senha; abrir o link específico. Em um curso reutilizado entre packs, mostrar a localização dos dados e não narrar uma senha fixa.
+
+01:20–02:05 | SLIDE 6 + TELA: FORMULÁRIO
+“Vou preencher o login e a senha exatamente como foram informados. Confira se não ficou um espaço ao copiar e colar. Se não entrar, confira também se abriu a página do pack certo.”
+AÇÃO: entrar com acesso restrito do pack. Não usar credencial universal na gravação. Se for mostrar erro, usar uma tentativa demonstrativa e depois corrigir.
+“Se você perdeu os dados de acesso, me chame no WhatsApp indicado na primeira aula.”
+
+02:05–03:10 | SLIDE 7 + TELA: COLEÇÃO
+“Agora que entrei, vou localizar uma coleção. Os nomes aqui identificam o conteúdo do pack, como o gabinete ou o instrumento; não são uma lista dos pedais compatíveis.”
+AÇÃO: usar busca/filtros existentes; abrir um modelo que tenha WAV. No layout atual, “Ver IRs” abre a lista individual e “Baixar todos (.zip)” baixa a coleção desse modelo.
+“Se quiser essa coleção inteira, use ‘Baixar todos (.zip)’. Depois de terminar, abra a pasta Downloads e extraia os arquivos.”
+AÇÃO: baixar e extrair um ZIP pequeno. Mostrar a pasta resultante e um WAV. Se mostrar o pack completo, explicar que o botão atual pode abrir a pasta do Google Drive; não afirmar que ele baixa diretamente um RAR.
+
+03:10–04:45 | SLIDE 8 + TELA: INDIVIDUAL
+“Se quiser começar com apenas um IR, clique em ‘Ver IRs’. Nesta janela, você pode buscar pelo nome, pela pasta ou pelo formato. Vou localizar um WAV e clicar em ‘Baixar IR’ ao lado dele.”
+AÇÃO: buscar WAV, baixar um arquivo, mostrar o nome e a extensão na pasta Downloads. Demonstrar “Mostrar mais IRs” apenas se estiver visível.
+“Esse arquivo individual já veio sem compactação. Você não precisa extrair um ZIP ou RAR. Se o navegador abrir outra visualização em vez de salvar, use a opção de download disponível nessa tela.”
+
+04:45–05:50 | TELA: ARQUIVO NO COMPUTADOR
+“Para a instalação que vou mostrar, vamos usar um WAV compatível com o equipamento. Pode haver outros formatos na coleção. Um arquivo SYX não vira WAV só porque você muda o nome. Se o seu programa recusar o arquivo, me envie o nome dele e o modelo do pedal para eu te orientar.”
+AÇÃO: conferir extensão real, mostrar a pasta onde salvou e deixar um único arquivo de teste separado. Não ensinar conversão universal nem prometer suporte a todas as taxas, durações ou canais.
+
+05:50–06:40 | CÂMERA | RESUMO PRÁTICO
+“Pronto: você já sabe entrar com os dados do seu pack, baixar uma coleção e escolher um IR individual. Agora, siga para a aula do software do seu pedal. Se o download não funcionou, a próxima aula mostra a alternativa pela Hotmart e pelo Drive.”
+
+SE OCORRER UM PROBLEMA NA DEMONSTRAÇÃO
+Lista individual não carrega: mostrar o ZIP como alternativa ou seguir para aula 03.
+Arquivo não aparece: verificar conclusão do download e pasta escolhida.
+Acesso negado: verificar página do pack e credenciais; procurar o suporte se persistir.
