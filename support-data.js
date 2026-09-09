@@ -216,7 +216,7 @@ export const SUPPORT_ENTRIES = [
   },
   {
     id: "atualizar-cube-baby", type: "Equipamento eletrônico", title: "Devo atualizar o firmware da Cube Baby, Cube Baby AC ou Bass?",
-    keywords: "atualizar firmware update cube baby cubebaby ac bass cubesuite flashloader flash loader 2.6 2.7 a b c footswitch c power",
+    keywords: "como atualizar cubebaby atualizar cubebaby como atualizar cube baby atualizar cube baby atualizar cube baby ac atualizar cube baby bass firmware update ac bass cubesuite flashloader flash loader 2.6 2.7 a b c footswitch c power",
     answer: "Não há uma atualização de firmware a fazer enquanto o centro oficial não publicar um arquivo específico para o nome exato do seu modelo. A fabricante lista o CubeSuite atual como editor de Cube Baby, Cube Baby AC e Cube Baby Bass, mas não lista firmware avulso para esses pedais. Atualizar o CubeSuite no computador não atualiza o pedal.",
     steps: ["Baixe o CubeSuite atual somente no centro oficial.", "Ligue o pedal normalmente e use o programa para editar presets, parâmetros ou IRs.", "Não entre no antigo modo de firmware segurando o footswitch C.", "Não use CubeSuite 2.6.x/2.7.x, FlashLoader, pacotes de recuperação ou firmware de outro modelo."],
     notice: "Tutoriais antigos mostravam seleção de variantes A, B ou C e ferramentas que já não fazem parte do fluxo oficial atual. Sem uma publicação específica para o seu modelo, pare após atualizar o programa no computador.",

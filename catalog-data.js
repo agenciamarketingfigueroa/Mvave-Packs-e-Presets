@@ -371,7 +371,7 @@ function cubeBabyFirmwareGuide(id, name, useCase) {
     version: "",
     firmware: "",
     official: OFFICIAL_DOWNLOADS,
-    reviewed: "04/09/2026",
+    reviewed: "09/09/2026",
     prepareLabel: "Antes de usar o CubeSuite",
     stepsIntro: "Neste modelo, as etapas abaixo servem para evitar uma gravação indevida. Sem firmware oficial específico, não há processo de atualização a executar.",
     warning: "O centro oficial lista o CubeSuite como editor deste modelo, mas não publica um firmware separado para ele. Atualizar o CubeSuite no computador não atualiza o pedal.",
