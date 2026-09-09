@@ -1,0 +1,79 @@
+PUBLICAÇÃO E FONTES — MATERIAL DO APRESENTADOR
+
+NOVA SEQUÊNCIA
+01 — Boas-vindas e suporte.
+02 — Instalação pelo CubeSuite.
+03 — Instalação pelo M-EFCS.
+04 — Acesso e download dos IRs (última aula, incluindo todas as alternativas).
+O aluno acompanha a instalação do software do seu modelo antes de baixar.
+
+ORGANIZAÇÃO DOS ACESSOS
+Concentrar os links dos packs, login, senha, RARs e links do Drive apenas na aula 04 e em seus materiais. Nas aulas anteriores, manter somente suporte e links dos softwares oficiais. Demonstrar instalação com um arquivo local previamente separado pelo apresentador.
+Não repetir atalhos para os IRs nas descrições iniciais ou materiais gerais do curso.
+Esta alteração reorganiza o material local. Nenhum bloqueio de progressão foi configurado na Hotmart: a ordem das aulas, por si só, não impede que o aluno pule para a última. Conferir a experiência de aluno ao publicar.
+
+PENDÊNCIAS
+Confirmar [LINK WHATSAPP], [LINK DO PACK], [LOCAL DOS DADOS NESTA ÚLTIMA AULA], [NOME DO RAR DESTE PACK] e [LINK DRIVE DESTE PACK]. Preparar os RARs e testar acesso, download, extração e importação no hardware. Não foram criados anexos nem publicadas alterações na Hotmart ou Drive.
+
+TEXTOS PARA A DESCRIÇÃO NA HOTMART
+
+AULA 01
+Bem-vindo! Veja as orientações e como pedir ajuda. Depois, acompanhe a aula do software do seu pedal. O acesso aos IRs e todas as opções de download estão na última aula.
+Suporte direto comigo: [LINK WHATSAPP]. Envie o pack, modelo do pedal, sistema e a etapa em que travou.
+
+AULA 02
+Aprenda a importar e selecionar seus IRs pelo CubeSuite no computador. Acompanhe a demonstração; depois de baixar os arquivos na última aula, repita os passos no seu pedal.
+Modelos: Cube Baby, Cube Baby AC, Cube Baby Bass, H8, Cube Sugar, IR Box e IMPULSE-R.
+Software oficial: https://www.m-vave.com/download
+Confira o formato aceito pelo seu modelo. Suporte: [LINK WHATSAPP].
+
+AULA 03
+Aprenda a importar e selecionar seus IRs pelo M-EFCS no computador. Acompanhe a demonstração; os arquivos ficam na última aula.
+Modelos: TANK-G, TANK-B, BLACKBOX, Tank Mini, Pocket Amp, MK300, MK20, STATION-G e STATION-B; também SP100 (amplificador).
+Software oficial: https://www.m-vave.com/download
+Confira modelo, firmware e formato aceito. Suporte: [LINK WHATSAPP].
+
+AULA 04 — ÚLTIMA AULA
+Agora que você já viu as orientações e a instalação do seu software, acesse e baixe seus arquivos.
+Site do pack: [LINK DO PACK].
+Login e senha dos downloads: [LOCAL DOS DADOS NESTA ÚLTIMA AULA].
+Baixe uma coleção em ZIP ou use “Ver IRs” para baixar um arquivo individual.
+Alternativas: [NOME DO RAR DESTE PACK], nos materiais desta aula, e [LINK DRIVE DESTE PACK].
+Extraia o RAR ou ZIP e repita a instalação da aula do seu software.
+Suporte direto comigo: [LINK WHATSAPP].
+
+CHECKLIST
+• Conferir sequência e descrições como aluno antes de publicar.
+• Anexos e credenciais somente na última aula e somente do pack comprado.
+• Demonstrar a instalação nas aulas 02 e 03 com arquivo local do apresentador.
+• Demonstrar downloads e extração na aula 04.
+• Conferir voz, instrumento e legibilidade; encaixar o PIP conforme USAR-NO-OBS.txt.
+
+BASE DE COMPATIBILIDADE — CONSULTA 08/09/2026
+[Sources]
+https://www.cuvave.com/download
+Fonte primária da fabricante: listas de softwares para computador e de apps móveis.
+CubeSuite: os sete modelos de IR selecionados aparecem na lista oficial. Loopers e controladores também suportados pelo editor não foram incluídos nesta aula de IRs.
+M-EFCS para computador: os dez modelos da lista constam na fonte. A lista móvel não é idêntica. Não presumir suporte de futuros produtos nem equivalência entre nomes/revisões BLACKBOX e ANNBLACKBOX sem conferir.
+https://www.m-vave.com/download
+Centro de downloads oficial e identificação dos programas; também lista ANNlab para produtos ANN. Por isso, “M-EFCS para todo o restante da marca” não é uma regra geral segura para o roteiro.
+https://www.m-vave.com/product?id=mk-300
+Página oficial MK-300: M-EFCS e carregamento de IR de terceiros.
+[/Sources]
+
+FONTES LOCAIS CONSULTADAS SOMENTE PARA LEITURA
+CNAME — domínio mvave.com.br.
+downloads/README.md — escopo de acesso por pack, formatos e softwares.
+downloads/download-data.json — links existentes dos packs; atualmente identificados como ZIP.
+downloads/individual-downloads.js — “Ver IRs”, “Baixar IR”, “Baixar todos (.zip)” e “Mostrar mais IRs”.
+download-auth.js — login e senha; permissões por pack; central não aceita acesso restrito de um único instrumento.
+catalog-data.js — catálogo com WAV, SYX e taxas diversas; lista local de softwares.
+
+LIMITES DA VERIFICAÇÃO
+O código local fundamenta o roteiro de download, mas não substitui ensaio autenticado no site publicado. A lista oficial confirma suporte de software, não a importação de cada arquivo vendido. A instalação não foi executada em hardware nesta sessão.
+
+LINKS DO DRIVE JÁ CADASTRADOS — CONFERIR ANTES DE PUBLICAR
+Pack-Completo-M-Vave-BR.zip — https://drive.google.com/drive/folders/1-dYRbuSVopYgjjEHROYHKYWYGmmqXkeC?usp=sharing
+Pack-Guitarra-M-Vave-BR.zip — https://drive.google.com/drive/folders/1D5GSVIDNe285TQZUvcuDvxSGMcPHo-qE?usp=sharing
+Pack-Baixo-M-Vave-BR.zip — https://drive.google.com/drive/folders/108re7RzxOJwDScPz4knaai29nxQo2cyb?usp=sharing
+Pack-Violão-M-Vave-BR.zip — https://drive.google.com/drive/folders/1VYz9k2VTeQmCFO7Cnq6eVkAo3lKrq0xE?usp=sharing

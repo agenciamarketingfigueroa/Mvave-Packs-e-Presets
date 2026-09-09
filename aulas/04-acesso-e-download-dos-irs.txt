@@ -1,0 +1,74 @@
+AULA 04 — ACESSO E DOWNLOAD DOS IRs (ÚLTIMA AULA)
+Duração: 10–12 minutos. Slides 13–19 + captura de tela.
+Uma única aula: acesso, site, download individual e alternativas.
+
+BLOCO 1 — ACESSO E DOWNLOAD PELO SITE (00:00–06:40)
+Resultado: aluno entra na página do pack, baixa uma coleção e um WAV individual e encontra o arquivo no computador.
+
+PREPARAÇÃO
+Abrir a página específica do pack comprado, não a central /downloads/.
+Guitarra: https://mvave.com.br/downloads/guitarra/
+Baixo: https://mvave.com.br/downloads/baixo/
+Violão: https://mvave.com.br/downloads/violao/
+Completo: https://mvave.com.br/downloads/completo/
+Confirmar [LOCAL DOS DADOS NESTA ÚLTIMA AULA] e preparar uma demonstração com credenciais de aluno desse pack. A senha não está disponível em texto no código consultado; não foi inventada nem recuperada.
+O roteiro foi conferido no código local; conferir a interface publicada no ensaio.
+
+00:00–00:35 | SLIDE 13
+“Agora que você já viu as orientações e a instalação do seu software, vamos acessar e baixar os IRs. Você pode baixar uma coleção para organizar no computador ou escolher só os arquivos que quer testar. Vou te mostrar os dois caminhos.”
+
+00:35–01:20 | TELA: LOCAL DE ENTREGA DO ACESSO
+“Abra o link do pack que você comprou, disponível na descrição desta última aula. Os dados para entrar estão em [LOCAL DOS DADOS NESTA ÚLTIMA AULA]. Aqui, use o login e a senha de acesso aos downloads desse pack. Não confunda com a senha que você usa para entrar na sua conta da Hotmart.”
+AÇÃO: mostrar de onde copiar o login e a senha; abrir o link específico. Em um curso reutilizado entre packs, mostrar a localização dos dados e não narrar uma senha fixa.
+
+01:20–02:05 | SLIDE 14 + TELA: FORMULÁRIO
+“Vou preencher o login e a senha exatamente como foram informados. Confira se não ficou um espaço ao copiar e colar. Se não entrar, confira também se abriu a página do pack certo.”
+AÇÃO: entrar com acesso restrito do pack. Não usar credencial universal na gravação. Se for mostrar erro, usar uma tentativa demonstrativa e depois corrigir.
+“Se você perdeu os dados de acesso, me chame no WhatsApp indicado na primeira aula.”
+
+02:05–03:10 | SLIDE 15 + TELA: COLEÇÃO
+“Agora que entrei, vou localizar uma coleção. Os nomes aqui identificam o conteúdo do pack, como o gabinete ou o instrumento; não são uma lista dos pedais compatíveis.”
+AÇÃO: usar busca/filtros existentes; abrir um modelo que tenha WAV. No layout atual, “Ver IRs” abre a lista individual e “Baixar todos (.zip)” baixa a coleção desse modelo.
+“Se quiser essa coleção inteira, use ‘Baixar todos (.zip)’. Depois de terminar, abra a pasta Downloads e extraia os arquivos.”
+AÇÃO: baixar e extrair um ZIP pequeno. Mostrar a pasta resultante e um WAV. Se mostrar o pack completo, explicar que o botão atual pode abrir a pasta do Google Drive; não afirmar que ele baixa diretamente um RAR.
+
+03:10–04:45 | SLIDE 16 + TELA: INDIVIDUAL
+“Se quiser começar com apenas um IR, clique em ‘Ver IRs’. Nesta janela, você pode buscar pelo nome, pela pasta ou pelo formato. Vou localizar um WAV e clicar em ‘Baixar IR’ ao lado dele.”
+AÇÃO: buscar WAV, baixar um arquivo, mostrar o nome e a extensão na pasta Downloads. Demonstrar “Mostrar mais IRs” apenas se estiver visível.
+“Esse arquivo individual já veio sem compactação. Você não precisa extrair um ZIP ou RAR. Se o navegador abrir outra visualização em vez de salvar, use a opção de download disponível nessa tela.”
+
+04:45–05:50 | TELA: ARQUIVO NO COMPUTADOR
+“Para repetir a instalação que você já assistiu, vamos usar um WAV compatível com o equipamento. Pode haver outros formatos na coleção. Um arquivo SYX não vira WAV só porque você muda o nome. Se o seu programa recusar o arquivo, me envie o nome dele e o modelo do pedal para eu te orientar.”
+AÇÃO: conferir extensão real, mostrar a pasta onde salvou e deixar um único arquivo de teste separado. Não ensinar conversão universal nem prometer suporte a todas as taxas, durações ou canais.
+
+05:50–06:40 | CÂMERA | RESUMO PRÁTICO
+“Pronto: você já sabe entrar com os dados do seu pack, baixar uma coleção e escolher um IR individual. Se o download não funcionou, vou mostrar agora, nesta mesma aula, as alternativas pela Hotmart e pelo Drive. Depois, você pode repetir a instalação que já assistiu.”
+
+SE OCORRER UM PROBLEMA NA DEMONSTRAÇÃO
+Lista individual não carrega: mostrar o ZIP como alternativa ou seguir para o bloco de alternativas desta mesma aula.
+Arquivo não aparece: verificar conclusão do download e pasta escolhida.
+Acesso negado: verificar página do pack e credenciais; procurar o suporte se persistir.
+
+BLOCO 2 — HOTMART, DRIVE E EXTRAÇÃO (06:40–10:20)
+ANTES DE GRAVAR
+Esta aula pressupõe que os RARs e links já foram publicados. Ainda é necessário preparar os arquivos reais, anexar por pack e testar como aluno. Não dizer “já deixei aqui” antes dessa etapa.
+Usar [NOME DO RAR DESTE PACK] e [LINK DRIVE DESTE PACK]. Não anexar o Pack Completo em um curso que só concede acesso a um instrumento.
+
+06:40–07:15 | SLIDE 17
+“Se você não conseguiu baixar pelo site, pode usar uma destas alternativas: o arquivo nos materiais desta aula ou o link do Google Drive. Escolha a opção que funcionar melhor para você.”
+
+07:15–08:10 | SLIDE 18 + TELA HOTMART
+“Aqui nos materiais da aula está o arquivo [NOME DO RAR DESTE PACK]. Clique para baixar e aguarde terminar. Agora vou abrir a pasta em que ele foi salvo.”
+AÇÃO: mostrar a posição real do anexo na interface usada pelo aluno. Baixar o arquivo e confirmar que terminou. Se houver várias partes, demonstrar o download de todas e a extração a partir da primeira; preferir um pacote único quando possível.
+
+08:10–08:55 | TELA DRIVE
+“Se preferir, use o link do Google Drive na descrição desta aula. Abra o link e baixe o arquivo do seu pack. A aparência pode mudar um pouco entre computador e celular.”
+AÇÃO: demonstrar o link com permissão de leitura e download testada. Não presumir que a pasta atual do Drive contém RAR: mostrar a extensão real. Se baixar uma pasta, o Drive pode gerar ZIP.
+“Se o Drive pedir uma permissão que você não tem ou o download estiver indisponível, tente o anexo da aula. Se ainda precisar, fale comigo no WhatsApp.”
+
+08:55–09:55 | SLIDE 19 + TELA: EXTRAÇÃO
+“O RAR ou ZIP é o pacote que guarda os arquivos. Primeiro, extraia para uma pasta. O que vamos selecionar no software é o IR dentro dessa pasta, no formato aceito pelo seu pedal, e não o arquivo compactado.”
+AÇÃO: extrair com um aplicativo que suporte o formato no sistema usado. Abrir a pasta extraída e localizar um WAV compatível. Se o arquivo estiver incompleto, baixar novamente. Não usar a senha do site para a extração, a menos que o pacote tenha uma senha própria explicitamente informada.
+
+09:55–10:20 | CÂMERA
+“Agora você já tem os arquivos e sabe como instalar. Com o IR extraído, repita a demonstração da aula do seu software: CubeSuite ou M-EFCS. Se precisar rever algum passo, volte àquela aula. Ficou com dúvida? Fale diretamente comigo pelo WhatsApp da primeira aula.”

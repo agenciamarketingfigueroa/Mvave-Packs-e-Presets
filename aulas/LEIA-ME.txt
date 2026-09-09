@@ -1,0 +1,31 @@
+AULAS DOS PACKS — ORDEM ATUAL PARA GRAVAÇÃO
+
+01 — Boas-vindas e suporte: 2–3 min; slides 01–04.
+02 — Instalação pelo CubeSuite: 6–9 min; slides 05–08.
+03 — Instalação pelo M-EFCS: 6–9 min; slides 09–12.
+04 — Acesso e download dos IRs: 10–12 min; slides 13–19.
+
+A última aula reúne acesso, login e senha, download pelo site, arquivo individual, Hotmart, Google Drive e extração. O aluno acompanha antes as orientações e a demonstração do software do seu pedal; após baixar, repete o procedimento.
+Nas aulas de instalação, o apresentador usa um WAV previamente separado. Os links dos IRs, credenciais e anexos ficam somente na última aula. Os links dos softwares oficiais continuam nas aulas correspondentes.
+
+ARQUIVOS ATUAIS
+LINKS-E-ACESSOS-PARA-GRAVAR.txt — links por pack, softwares, suporte, campos de senha e checklist completo para o Bloco de Notas.
+01-boas-vindas-e-suporte.txt
+02-instalacao-cubesuite.txt
+03-instalacao-mefcs.txt
+04-acesso-e-download-dos-irs.txt
+jpg/ — 19 slides em 1920 × 1080 com identidade visual do site.
+slides-obs-jpg.zip — JPGs atuais e guia de uso no OBS.
+USAR-NO-OBS.txt — medidas e posição da câmera.
+publicacao-e-fontes.txt — descrições para a Hotmart, pendências e fontes.
+slides.html — visualizador local dos JPGs na ordem atual.
+
+PIP: 480 × 270, X=1344 e Y=726. A posição é igual em todos os slides.
+Compatibilidade: slide 05 para CubeSuite; slide 09 para M-EFCS.
+
+ANTES DE GRAVAR
+Confirmar WhatsApp e os dados da última aula; preparar RARs; testar links e permissões como aluno; ensaiar importação com arquivo real no equipamento e conferir versões dos softwares.
+
+ESCOPO
+Alterações apenas em aulas. A organização da Hotmart e seus controles de progressão não foram alterados; a ordem do material não é um bloqueio técnico. As páginas do site e de tráfego não foram modificadas.
+Os materiais substituídos estão em producao/ordem-anterior e não devem ser importados no OBS nem publicados.

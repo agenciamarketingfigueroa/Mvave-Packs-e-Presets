@@ -1,0 +1,27 @@
+MOLDURA PARA COMPARTILHAR A TELA + CÂMERA
+
+Arquivo: moldura-tela-e-camera.jpg
+Resolução da cena: 1920 × 1080.
+Identidade do site: fundo preto, moldura azul para a tela, detalhe amarelo para a câmera e logo original. Sem títulos, instruções ou textos de aula.
+
+POSIÇÃO E TAMANHO DAS FONTES
+Compartilhamento de tela/janela:
+X = 48; Y = 156
+Largura = 1408; altura = 792
+
+Câmera:
+X = 1488; Y = 732
+Largura = 384; altura = 216
+
+As duas áreas têm proporção 16:9 e não se sobrepõem.
+Coordenadas a partir do canto superior esquerdo, com alinhamento superior esquerdo.
+Esta cena tem medidas diferentes do PIP dos slides de conteúdo.
+
+ORDEM DAS CAMADAS, DE CIMA PARA BAIXO
+1. Câmera.
+2. Captura de tela ou janela.
+3. Imagem moldura-tela-e-camera.jpg.
+
+O JPG é opaco: as duas capturas devem ficar acima dele. Encaixe cada captura dentro da respectiva moldura, mantendo a proporção. Para uma fonte com outra proporção, ajuste ou recorte antes de encaixar, sem esticar.
+
+Use a moldura como cena de demonstração; não é necessário incluí-la na sequência dos 19 slides das aulas.
