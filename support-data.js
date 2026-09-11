@@ -1,4 +1,5 @@
 import { MANUAL_SUPPORT_ENTRIES } from "./manual-support-data.js";
+import { MANUAL_ANSWER_ENTRIES } from "./manual-answers-data.js";
 
 const BASE_SUPPORT_ENTRIES = [
   {
@@ -326,4 +327,4 @@ const BASE_SUPPORT_ENTRIES = [
   }
 ];
 
-export const SUPPORT_ENTRIES = BASE_SUPPORT_ENTRIES.concat(MANUAL_SUPPORT_ENTRIES);
+export const SUPPORT_ENTRIES = BASE_SUPPORT_ENTRIES.concat(MANUAL_ANSWER_ENTRIES, MANUAL_SUPPORT_ENTRIES);
