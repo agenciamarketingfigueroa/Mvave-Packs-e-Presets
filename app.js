@@ -1470,8 +1470,9 @@ function normalizeSupportText(value) {
 
 function supportTokens(value) {
   const ignored = new Set(["a", "ao", "aos", "as", "da", "das", "de", "do", "dos", "e", "em", "eu", "me", "meu", "minha", "o", "os", "para", "por", "que", "um", "uma"]);
+  const shortModelTokens = new Set(["ac", "b", "g", "ir", "mk", "wp"]);
   return normalizeSupportText(value).split(/\s+/).filter(function(token) {
-    return token && !ignored.has(token) && (token === "ir" || token.length > 2);
+    return token && !ignored.has(token) && (token.length > 2 || shortModelTokens.has(token) || /\d/.test(token));
   });
 }
 

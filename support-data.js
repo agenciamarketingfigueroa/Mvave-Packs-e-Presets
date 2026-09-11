@@ -1,4 +1,6 @@
-export const SUPPORT_ENTRIES = [
+import { MANUAL_SUPPORT_ENTRIES } from "./manual-support-data.js";
+
+const BASE_SUPPORT_ENTRIES = [
   {
     id: "o-que-sao-irs", type: "Packs de IR", title: "O que são Impulse Responses e o que eles mudam no som?",
     keywords: "o que e ir impulse response serve efeito gabinete caixa falante microfone timbre som",
@@ -285,5 +287,43 @@ export const SUPPORT_ENTRIES = [
     answer: "O Chocolate é um controlador MIDI de pé compacto que também pode virar páginas em aplicativos compatíveis. Cube Turner Pro e Plus são focados em avançar ou voltar partituras, letras e apresentações sem tirar as mãos do instrumento.",
     steps: ["Confirme se o aplicativo aceita comandos de teclado, MIDI ou page turner.", "Escolha o modo correto no app oficial.", "Teste avançar e voltar antes da apresentação."],
     links: [["Ver Chocolate", "/equipamentos/chocolate/"], ["Ver Cube Turner Pro", "/equipamentos/cube-turner-pro/"], ["Comparar controladores", "/comparar/?a=chocolate"]]
+  },
+  {
+    id: "manual-sem-audio", type: "Diagnóstico pelo manual", title: "O equipamento está sem áudio, com volume baixo ou distorcendo.",
+    keywords: "sem audio sem som volume baixo fraco distorcido entrada input output phone fone saida preset gain ganho sinal manual mvave",
+    answer: "Comece pelo diagrama de conexões do manual do modelo exato. Teste instrumento, cabo, fone ou amplificador separadamente; depois confira INPUT, OUTPUT, PHONE, ganho de entrada, volume do preset e volume global. Compare com um preset de fábrica antes de concluir que existe defeito.",
+    steps: ["Desconecte os itens que não são necessários para o teste.", "Confirme no manual qual saída deve ser usada e se ela é mono ou estéreo.", "Desligue os blocos de efeito e reative um por vez.", "Se o problema continuar, registre as conexões e o comportamento em vídeo."],
+    notice: "Cheiro, líquido, aquecimento anormal ou conector solto: desligue o equipamento e procure o vendedor ou a assistência.",
+    links: [["Pesquisar o manual do modelo", "/suporte/?q=manual+M-VAVE"], ["Suporte oficial M-Vave", "https://www.m-vave.com/contact"]]
+  },
+  {
+    id: "manual-midi-nao-responde", type: "Diagnóstico pelo manual", title: "O controlador MIDI não responde ou envia o comando errado.",
+    keywords: "midi nao responde comando errado canal channel cc pc note nota valor mapping mapear momentary toggle press release usb trs din bluetooth daw teclado controlador smk smc chocolate",
+    answer: "Confira no manual o tipo de conexão MIDI suportado e revise canal, mensagem, número e valor do comando. CC, PC e Note não são equivalentes. Em controladores configuráveis, confirme também os comportamentos momentary, toggle, press e release.",
+    steps: ["Teste primeiro por USB, sem adaptadores ou MIDI sem fio.", "Use um monitor MIDI para confirmar qual mensagem realmente sai do controlador.", "Remova mapeamentos duplicados na DAW ou no aplicativo.", "Depois do teste básico, refaça a conexão Bluetooth MIDI ou TRS/DIN conforme o manual."],
+    links: [["Pesquisar o manual do controlador", "/suporte/?q=manual+controlador+MIDI"], ["Baixar MidiSuite oficial", "https://www.m-vave.com/download"]]
+  },
+  {
+    id: "manual-looper-sincronismo", type: "Diagnóstico pelo manual", title: "O looper ou a bateria perde o sincronismo.",
+    keywords: "looper bateria drum ritmo fora tempo sincronismo sync bpm clock midi quantizacao compasso overdub gravar reproduzir apagar loop",
+    answer: "A ordem dos comandos de gravar, reproduzir, overdub e apagar varia entre os modelos. Consulte a seção de operação do looper no manual e faça primeiro um loop curto, sem bateria nem MIDI externo. Depois confira BPM, compasso, quantização e origem de clock quando esses recursos existirem.",
+    steps: ["Restaure um cenário simples, sem sincronismo externo.", "Grave um compasso curto seguindo exatamente a sequência do manual.", "Adicione bateria ou MIDI somente depois que o loop básico funcionar.", "Confirme se o equipamento é mestre ou escravo do clock."],
+    links: [["Pesquisar o manual do looper", "/suporte/?q=manual+looper"], ["Downloads oficiais", "https://www.m-vave.com/download"]]
+  },
+  {
+    id: "manual-wireless-cortes", type: "Diagnóstico pelo manual", title: "O sistema sem fio apresenta cortes, atraso ou ruído.",
+    keywords: "wireless sem fio transmissor receptor cortes falha sinal atraso latencia ruido interferencia canal distancia wp sws bateria carga parear",
+    answer: "Carregue transmissor e receptor completamente e teste em curta distância, com linha de visão. Afaste roteadores, hubs USB 3, celulares e outros transmissores. Se o modelo permitir troca de canal, siga o procedimento descrito no manual.",
+    steps: ["Confirme que transmissor e receptor pertencem ao mesmo conjunto e faixa de frequência.", "Teste sem outros sistemas sem fio próximos.", "Mude de canal apenas conforme o manual do modelo.", "Persistindo a falha em curta distância, registre o teste e procure o vendedor ou suporte oficial."],
+    links: [["Pesquisar o manual do sistema sem fio", "/suporte/?q=manual+sistema+sem+fio"], ["Suporte oficial M-Vave", "https://www.m-vave.com/contact"]]
+  },
+  {
+    id: "manual-garantia-mvave", type: "Documento oficial", title: "Onde encontro as condições de garantia publicadas pela M-VAVE?",
+    keywords: "manual garantia mvave warranty prazo condicoes cobertura defeito troca reparo vendedor fabricante documento oficial pdf",
+    answer: "Arquivamos o documento geral de garantia publicado pela fabricante. Use-o como referência e confirme também a política da loja, do marketplace e a legislação aplicável à sua compra.",
+    notice: "A M-Vave BR é uma curadoria independente e não autoriza garantia, troca ou reparo de equipamentos.",
+    links: [["Abrir manual de garantia em PDF", "/downloads/manuais-mvave/documentos-gerais/M-VAVE-WARRANTY.pdf"], ["Contato oficial M-Vave", "https://www.m-vave.com/contact"]]
   }
 ];
+
+export const SUPPORT_ENTRIES = BASE_SUPPORT_ENTRIES.concat(MANUAL_SUPPORT_ENTRIES);
