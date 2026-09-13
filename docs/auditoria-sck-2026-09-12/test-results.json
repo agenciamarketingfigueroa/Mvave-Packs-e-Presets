@@ -1,0 +1,723 @@
+{
+  "mode": "offline VM; real modules; mocked DOM/storage; no real clicks or external requests",
+  "results": [
+    {
+      "name": "Baseline: reproduzir placeholder sobrescrevendo SCK e chegando à URL",
+      "status": "PASS"
+    },
+    {
+      "name": "A: baixo individual",
+      "status": "PASS"
+    },
+    {
+      "name": "B: baixo para completo",
+      "status": "PASS"
+    },
+    {
+      "name": "C: violão individual",
+      "status": "PASS"
+    },
+    {
+      "name": "D: violão para completo",
+      "status": "PASS"
+    },
+    {
+      "name": "E: /guitar/ todos os checkouts e âncoras",
+      "status": "PASS"
+    },
+    {
+      "name": "CTAs: /bass/ todos os checkouts e âncoras",
+      "status": "PASS"
+    },
+    {
+      "name": "CTAs: /violao/ todos os checkouts e âncoras",
+      "status": "PASS"
+    },
+    {
+      "name": "CTAs: /completo/ todos os checkouts e âncoras",
+      "status": "PASS"
+    },
+    {
+      "name": "F: bass -> violao -> completo em documentos independentes",
+      "status": "PASS"
+    },
+    {
+      "name": "G: acesso direto preserva registro e validade de 30 dias",
+      "status": "PASS"
+    },
+    {
+      "name": "H: placeholder novo não substitui TESTE123 nem renova sua validade",
+      "status": "PASS"
+    },
+    {
+      "name": "I: novo clique válido assume atribuição",
+      "status": "PASS"
+    },
+    {
+      "name": "Rejeitar placeholder bruto/codificado: \"{{ad.id}}\"",
+      "status": "PASS"
+    },
+    {
+      "name": "Rejeitar placeholder bruto/codificado: \"{{campaign.id}}\"",
+      "status": "PASS"
+    },
+    {
+      "name": "Rejeitar placeholder bruto/codificado: \"{{anything}}\"",
+      "status": "PASS"
+    },
+    {
+      "name": "Rejeitar placeholder bruto/codificado: \"prefix_{{ad.id}}_suffix\"",
+      "status": "PASS"
+    },
+    {
+      "name": "Rejeitar placeholder bruto/codificado: \"{{\\nanything\\n}}\"",
+      "status": "PASS"
+    },
+    {
+      "name": "Placeholder + novas UTMs preserva SCK anterior e atualiza demais campos como antes",
+      "status": "PASS"
+    },
+    {
+      "name": "Placeholder sem SCK anterior mantém novas UTMs e não inventa atribuição",
+      "status": "PASS"
+    },
+    {
+      "name": "Registro legado contaminado não repassa placeholder; preserva demais campos",
+      "status": "PASS"
+    },
+    {
+      "name": "Registro legado apenas com placeholder é descartado",
+      "status": "PASS"
+    },
+    {
+      "name": "Oferta, checkoutMode, bid, src, fragmento e parâmetros repetidos preservados",
+      "status": "PASS"
+    },
+    {
+      "name": "Defesa final remove SCK placeholder da URL base e aceita substituto válido",
+      "status": "PASS"
+    },
+    {
+      "name": "Regressão diferencial: valores válidos e todos os parâmetros existentes",
+      "status": "PASS"
+    },
+    {
+      "name": "Regressão diferencial: HTML completo idêntico com tracking válido/ausente",
+      "status": "PASS"
+    },
+    {
+      "name": "Expiração, JSON corrompido e novos registros mantêm comportamento anterior",
+      "status": "PASS"
+    },
+    {
+      "name": "Storage indisponível: fallback em memória funciona e rejeita placeholder",
+      "status": "PASS"
+    },
+    {
+      "name": "Sem window: inicialização e montagem não exigem navegador",
+      "status": "PASS"
+    }
+  ],
+  "inventory": [
+    {
+      "route": "/guitar/",
+      "checkouts": [
+        {
+          "href": "https://pay.hotmart.com/G83013604X?off=2bbwth7u&checkoutMode=10&sck=TESTE123",
+          "label": "Comprar com segurança"
+        },
+        {
+          "href": "https://pay.hotmart.com/J76211442I?checkoutMode=10&off=kb7vzng1&sck=TESTE123",
+          "label": "Comprar com segurança"
+        },
+        {
+          "href": "https://pay.hotmart.com/G83013604X?off=2bbwth7u&checkoutMode=10&sck=TESTE123",
+          "label": "Acessar o pack"
+        },
+        {
+          "href": "https://pay.hotmart.com/G83013604X?off=2bbwth7u&checkoutMode=10&sck=TESTE123",
+          "label": "Comprar por R$ 29,90"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "/",
+          "label": ""
+        },
+        {
+          "href": "/",
+          "label": "Início"
+        },
+        {
+          "href": "/#packs",
+          "label": "Packs"
+        },
+        {
+          "href": "/equipamentos/",
+          "label": "Equipamentos"
+        },
+        {
+          "href": "/loja/",
+          "label": "Loja"
+        },
+        {
+          "href": "/conteudos/",
+          "label": "Central do Timbre"
+        },
+        {
+          "href": "/suporte/",
+          "label": "Suporte"
+        },
+        {
+          "href": "/#packs",
+          "label": "Ver packs de IR"
+        },
+        {
+          "href": "#oferta",
+          "label": "Quero acessar agora"
+        },
+        {
+          "href": "#incluso",
+          "label": "Ver o que está incluso"
+        },
+        {
+          "href": "/catalogo/guitarra/",
+          "label": "Explorar o catálogo deste pack"
+        },
+        {
+          "href": "/assets/img/banner-principal-completo.png",
+          "label": "Ver em tamanho completo ↗"
+        },
+        {
+          "href": "/compatibilidade/",
+          "label": "Testar compatibilidade"
+        },
+        {
+          "href": "/suporte/",
+          "label": "Abrir Central de Suporte"
+        },
+        {
+          "href": "/completo/",
+          "label": "Pack completo"
+        },
+        {
+          "href": "/guitar/",
+          "label": "Guitarra"
+        },
+        {
+          "href": "/bass/",
+          "label": "Baixo"
+        },
+        {
+          "href": "/violao/",
+          "label": "Violão"
+        },
+        {
+          "href": "/loja/",
+          "label": "Loja e ofertas"
+        },
+        {
+          "href": "/equipamentos/",
+          "label": "Central de equipamentos"
+        },
+        {
+          "href": "/encontre-seu-setup/",
+          "label": "Encontrar meu setup"
+        },
+        {
+          "href": "/comparar/",
+          "label": "Comparador"
+        },
+        {
+          "href": "/ferramentas/",
+          "label": "Software e diagnóstico"
+        },
+        {
+          "href": "/compatibilidade/",
+          "label": "Compatibilidade com IR"
+        },
+        {
+          "href": "/conteudos/",
+          "label": "Central do Timbre"
+        },
+        {
+          "href": "/catalogo/completo/",
+          "label": "Catálogo de IRs"
+        },
+        {
+          "href": "/atualizacoes/",
+          "label": "Softwares e atualizações"
+        },
+        {
+          "href": "/presets/",
+          "label": "Presets"
+        },
+        {
+          "href": "/sobre/",
+          "label": "Sobre nós"
+        },
+        {
+          "href": "/suporte/",
+          "label": "Central de Suporte"
+        },
+        {
+          "href": "/contato/",
+          "label": "Contato"
+        },
+        {
+          "href": "/politica-privacidade/",
+          "label": "Política de privacidade"
+        }
+      ]
+    },
+    {
+      "route": "/bass/",
+      "checkouts": [
+        {
+          "href": "https://pay.hotmart.com/Q83013351D?checkoutMode=10&sck=TESTE123",
+          "label": "Comprar com segurança"
+        },
+        {
+          "href": "https://pay.hotmart.com/J76211442I?checkoutMode=10&off=kb7vzng1&sck=TESTE123",
+          "label": "Comprar com segurança"
+        },
+        {
+          "href": "https://pay.hotmart.com/Q83013351D?checkoutMode=10&sck=TESTE123",
+          "label": "Acessar o pack"
+        },
+        {
+          "href": "https://pay.hotmart.com/Q83013351D?checkoutMode=10&sck=TESTE123",
+          "label": "Comprar por R$ 29,90"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "/",
+          "label": ""
+        },
+        {
+          "href": "/",
+          "label": "Início"
+        },
+        {
+          "href": "/#packs",
+          "label": "Packs"
+        },
+        {
+          "href": "/equipamentos/",
+          "label": "Equipamentos"
+        },
+        {
+          "href": "/loja/",
+          "label": "Loja"
+        },
+        {
+          "href": "/conteudos/",
+          "label": "Central do Timbre"
+        },
+        {
+          "href": "/suporte/",
+          "label": "Suporte"
+        },
+        {
+          "href": "/#packs",
+          "label": "Ver packs de IR"
+        },
+        {
+          "href": "#oferta",
+          "label": "Quero acessar agora"
+        },
+        {
+          "href": "#incluso",
+          "label": "Ver o que está incluso"
+        },
+        {
+          "href": "/catalogo/baixo/",
+          "label": "Explorar o catálogo deste pack"
+        },
+        {
+          "href": "/assets/img/banner-principal-completo.png",
+          "label": "Ver em tamanho completo ↗"
+        },
+        {
+          "href": "/compatibilidade/",
+          "label": "Testar compatibilidade"
+        },
+        {
+          "href": "/suporte/",
+          "label": "Abrir Central de Suporte"
+        },
+        {
+          "href": "/completo/",
+          "label": "Pack completo"
+        },
+        {
+          "href": "/guitar/",
+          "label": "Guitarra"
+        },
+        {
+          "href": "/bass/",
+          "label": "Baixo"
+        },
+        {
+          "href": "/violao/",
+          "label": "Violão"
+        },
+        {
+          "href": "/loja/",
+          "label": "Loja e ofertas"
+        },
+        {
+          "href": "/equipamentos/",
+          "label": "Central de equipamentos"
+        },
+        {
+          "href": "/encontre-seu-setup/",
+          "label": "Encontrar meu setup"
+        },
+        {
+          "href": "/comparar/",
+          "label": "Comparador"
+        },
+        {
+          "href": "/ferramentas/",
+          "label": "Software e diagnóstico"
+        },
+        {
+          "href": "/compatibilidade/",
+          "label": "Compatibilidade com IR"
+        },
+        {
+          "href": "/conteudos/",
+          "label": "Central do Timbre"
+        },
+        {
+          "href": "/catalogo/completo/",
+          "label": "Catálogo de IRs"
+        },
+        {
+          "href": "/atualizacoes/",
+          "label": "Softwares e atualizações"
+        },
+        {
+          "href": "/presets/",
+          "label": "Presets"
+        },
+        {
+          "href": "/sobre/",
+          "label": "Sobre nós"
+        },
+        {
+          "href": "/suporte/",
+          "label": "Central de Suporte"
+        },
+        {
+          "href": "/contato/",
+          "label": "Contato"
+        },
+        {
+          "href": "/politica-privacidade/",
+          "label": "Política de privacidade"
+        }
+      ]
+    },
+    {
+      "route": "/violao/",
+      "checkouts": [
+        {
+          "href": "https://pay.hotmart.com/G83013838I?checkoutMode=10&off=flkvbzsf&sck=TESTE123",
+          "label": "Comprar com segurança"
+        },
+        {
+          "href": "https://pay.hotmart.com/J76211442I?checkoutMode=10&off=kb7vzng1&sck=TESTE123",
+          "label": "Comprar com segurança"
+        },
+        {
+          "href": "https://pay.hotmart.com/G83013838I?checkoutMode=10&off=flkvbzsf&sck=TESTE123",
+          "label": "Acessar o pack"
+        },
+        {
+          "href": "https://pay.hotmart.com/G83013838I?checkoutMode=10&off=flkvbzsf&sck=TESTE123",
+          "label": "Comprar por R$ 29,90"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "/",
+          "label": ""
+        },
+        {
+          "href": "/",
+          "label": "Início"
+        },
+        {
+          "href": "/#packs",
+          "label": "Packs"
+        },
+        {
+          "href": "/equipamentos/",
+          "label": "Equipamentos"
+        },
+        {
+          "href": "/loja/",
+          "label": "Loja"
+        },
+        {
+          "href": "/conteudos/",
+          "label": "Central do Timbre"
+        },
+        {
+          "href": "/suporte/",
+          "label": "Suporte"
+        },
+        {
+          "href": "/#packs",
+          "label": "Ver packs de IR"
+        },
+        {
+          "href": "#oferta",
+          "label": "Quero acessar agora"
+        },
+        {
+          "href": "#incluso",
+          "label": "Ver o que está incluso"
+        },
+        {
+          "href": "/catalogo/violao/",
+          "label": "Explorar o catálogo deste pack"
+        },
+        {
+          "href": "/assets/img/banner-principal-completo.png",
+          "label": "Ver em tamanho completo ↗"
+        },
+        {
+          "href": "/compatibilidade/",
+          "label": "Testar compatibilidade"
+        },
+        {
+          "href": "/suporte/",
+          "label": "Abrir Central de Suporte"
+        },
+        {
+          "href": "/completo/",
+          "label": "Pack completo"
+        },
+        {
+          "href": "/guitar/",
+          "label": "Guitarra"
+        },
+        {
+          "href": "/bass/",
+          "label": "Baixo"
+        },
+        {
+          "href": "/violao/",
+          "label": "Violão"
+        },
+        {
+          "href": "/loja/",
+          "label": "Loja e ofertas"
+        },
+        {
+          "href": "/equipamentos/",
+          "label": "Central de equipamentos"
+        },
+        {
+          "href": "/encontre-seu-setup/",
+          "label": "Encontrar meu setup"
+        },
+        {
+          "href": "/comparar/",
+          "label": "Comparador"
+        },
+        {
+          "href": "/ferramentas/",
+          "label": "Software e diagnóstico"
+        },
+        {
+          "href": "/compatibilidade/",
+          "label": "Compatibilidade com IR"
+        },
+        {
+          "href": "/conteudos/",
+          "label": "Central do Timbre"
+        },
+        {
+          "href": "/catalogo/completo/",
+          "label": "Catálogo de IRs"
+        },
+        {
+          "href": "/atualizacoes/",
+          "label": "Softwares e atualizações"
+        },
+        {
+          "href": "/presets/",
+          "label": "Presets"
+        },
+        {
+          "href": "/sobre/",
+          "label": "Sobre nós"
+        },
+        {
+          "href": "/suporte/",
+          "label": "Central de Suporte"
+        },
+        {
+          "href": "/contato/",
+          "label": "Contato"
+        },
+        {
+          "href": "/politica-privacidade/",
+          "label": "Política de privacidade"
+        }
+      ]
+    },
+    {
+      "route": "/completo/",
+      "checkouts": [
+        {
+          "href": "https://pay.hotmart.com/J76211442I?checkoutMode=10&off=kb7vzng1&sck=TESTE123",
+          "label": "Comprar com segurança"
+        },
+        {
+          "href": "https://pay.hotmart.com/J76211442I?checkoutMode=10&off=kb7vzng1&sck=TESTE123",
+          "label": "Acessar o pack"
+        },
+        {
+          "href": "https://pay.hotmart.com/J76211442I?checkoutMode=10&off=kb7vzng1&sck=TESTE123",
+          "label": "Comprar por R$ 49,90"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "/",
+          "label": ""
+        },
+        {
+          "href": "/",
+          "label": "Início"
+        },
+        {
+          "href": "/#packs",
+          "label": "Packs"
+        },
+        {
+          "href": "/equipamentos/",
+          "label": "Equipamentos"
+        },
+        {
+          "href": "/loja/",
+          "label": "Loja"
+        },
+        {
+          "href": "/conteudos/",
+          "label": "Central do Timbre"
+        },
+        {
+          "href": "/suporte/",
+          "label": "Suporte"
+        },
+        {
+          "href": "/#packs",
+          "label": "Ver packs de IR"
+        },
+        {
+          "href": "#oferta",
+          "label": "Quero acessar agora"
+        },
+        {
+          "href": "#incluso",
+          "label": "Ver o que está incluso"
+        },
+        {
+          "href": "/catalogo/completo/",
+          "label": "Explorar o catálogo deste pack"
+        },
+        {
+          "href": "/assets/img/banner-principal-completo.png",
+          "label": "Ver em tamanho completo ↗"
+        },
+        {
+          "href": "/compatibilidade/",
+          "label": "Testar compatibilidade"
+        },
+        {
+          "href": "/suporte/",
+          "label": "Abrir Central de Suporte"
+        },
+        {
+          "href": "/completo/",
+          "label": "Pack completo"
+        },
+        {
+          "href": "/guitar/",
+          "label": "Guitarra"
+        },
+        {
+          "href": "/bass/",
+          "label": "Baixo"
+        },
+        {
+          "href": "/violao/",
+          "label": "Violão"
+        },
+        {
+          "href": "/loja/",
+          "label": "Loja e ofertas"
+        },
+        {
+          "href": "/equipamentos/",
+          "label": "Central de equipamentos"
+        },
+        {
+          "href": "/encontre-seu-setup/",
+          "label": "Encontrar meu setup"
+        },
+        {
+          "href": "/comparar/",
+          "label": "Comparador"
+        },
+        {
+          "href": "/ferramentas/",
+          "label": "Software e diagnóstico"
+        },
+        {
+          "href": "/compatibilidade/",
+          "label": "Compatibilidade com IR"
+        },
+        {
+          "href": "/conteudos/",
+          "label": "Central do Timbre"
+        },
+        {
+          "href": "/catalogo/completo/",
+          "label": "Catálogo de IRs"
+        },
+        {
+          "href": "/atualizacoes/",
+          "label": "Softwares e atualizações"
+        },
+        {
+          "href": "/presets/",
+          "label": "Presets"
+        },
+        {
+          "href": "/sobre/",
+          "label": "Sobre nós"
+        },
+        {
+          "href": "/suporte/",
+          "label": "Central de Suporte"
+        },
+        {
+          "href": "/contato/",
+          "label": "Contato"
+        },
+        {
+          "href": "/politica-privacidade/",
+          "label": "Política de privacidade"
+        }
+      ]
+    }
+  ]
+}

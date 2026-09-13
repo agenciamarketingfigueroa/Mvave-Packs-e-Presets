@@ -1,0 +1,67 @@
+{
+  "date": "2026-09-13T02:21:44.019Z",
+  "baseCommit": "63cd490ffa5d9d036466bb0670409a27fdb5c888",
+  "productionFileChanged": "campaign-tracking.js",
+  "addedLines": 14,
+  "removedLines": 0,
+  "sha256": {
+    "original": "16848588f1da2e2dc5feaf7984b299c4c45c1404afe9941f04f5fb0a65fc1464",
+    "patched": "4efe48fd29d8622c711046998531fc6d8b3f6da554d5887f58b4024ddc721d3f"
+  },
+  "productionComparisons": [
+    {
+      "local": "campaign-tracking.before.txt",
+      "publicSnapshot": "production-campaign-tracking.js.txt",
+      "byteIdentical": true,
+      "equalIgnoringLineEndings": true
+    },
+    {
+      "local": "../../app.js",
+      "publicSnapshot": "production-app.js.txt",
+      "byteIdentical": false,
+      "equalIgnoringLineEndings": true
+    },
+    {
+      "local": "../../guitar/index.html",
+      "publicSnapshot": "production-guitar.html.txt",
+      "byteIdentical": false,
+      "equalIgnoringLineEndings": true
+    },
+    {
+      "local": "../../bass/index.html",
+      "publicSnapshot": "production-bass.html.txt",
+      "byteIdentical": false,
+      "equalIgnoringLineEndings": true
+    },
+    {
+      "local": "../../violao/index.html",
+      "publicSnapshot": "production-violao.html.txt",
+      "byteIdentical": false,
+      "equalIgnoringLineEndings": true
+    },
+    {
+      "local": "../../completo/index.html",
+      "publicSnapshot": "production-completo.html.txt",
+      "byteIdentical": false,
+      "equalIgnoringLineEndings": true
+    }
+  ],
+  "automatedTests": {
+    "passed": 29,
+    "failed": 0
+  },
+  "browser": {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "interceptedClicks": 19,
+    "allClicksLocal": true,
+    "allDestinationsHotmart": true,
+    "expectedSckOnEveryClick": true,
+    "serverStopped": true,
+    "tabClosed": true,
+    "viewportRestored": true
+  },
+  "deployPerformed": false
+}

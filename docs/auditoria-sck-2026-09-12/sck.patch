@@ -1,0 +1,50 @@
+diff --git a/campaign-tracking.js b/campaign-tracking.js
+index a40eb19..7dba5d7 100644
+--- a/campaign-tracking.js
++++ b/campaign-tracking.js
+@@ -26,10 +26,15 @@ function currentSearch() {
+   return typeof window !== "undefined" && window.location ? window.location.search : "";
+ }
+ 
++function isUnresolvedSck(value) {
++  return typeof value === "string" && /\{\{[\s\S]*?\}\}/.test(value);
++}
++
+ function sanitizeParameters(parameters) {
+   const clean = {};
+   CAMPAIGN_PARAMETER_NAMES.forEach(function(name) {
+     const value = parameters && parameters[name];
++    if (name === "sck" && isUnresolvedSck(value)) return;
+     if (typeof value === "string" && value.length > 0) clean[name] = value;
+   });
+   return clean;
+@@ -90,6 +95,8 @@ export function captureCampaignParameters(search, options) {
+   const storage = Object.prototype.hasOwnProperty.call(settings, "storage") ? settings.storage : browserStorage();
+   const now = typeof settings.now === "number" ? settings.now : Date.now();
+   const parameters = parametersFromSearch(search);
++  const unresolvedSck = isUnresolvedSck(parameters.sck);
++  if (unresolvedSck) delete parameters.sck;
+ 
+   // A URL without campaign data is an internal/organic navigation and must not
+   // erase the last tracked click. A URL with campaign data becomes the new click.
+@@ -97,6 +104,12 @@ export function captureCampaignParameters(search, options) {
+     return readCampaignParameters({ storage: storage, now: now });
+   }
+ 
++  // An unresolved SCK must not replace a valid stored SCK, even with new UTMs.
++  if (unresolvedSck) {
++    const previous = readCampaignParameters({ storage: storage, now: now });
++    if (previous.sck) parameters.sck = previous.sck;
++  }
++
+   const record = { parameters: parameters, expiresAt: now + STORAGE_MAX_AGE_MS };
+   volatileRecord = record;
+   if (storage) {
+@@ -111,6 +124,7 @@ export function captureCampaignParameters(search, options) {
+ 
+ export function buildTrackedCheckoutUrl(checkoutUrl, parameters) {
+   const url = new URL(checkoutUrl);
++  if (url.searchParams.getAll("sck").some(isUnresolvedSck)) url.searchParams.delete("sck");
+   const campaign = sanitizeParameters(parameters);
+   CAMPAIGN_PARAMETER_NAMES.forEach(function(name) {
+     if (campaign[name]) url.searchParams.set(name, campaign[name]);

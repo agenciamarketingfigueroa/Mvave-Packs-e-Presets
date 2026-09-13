@@ -1,0 +1,97 @@
+[
+  {
+    "page": "http://127.0.0.1:8765/bass/?sck=TESTE123",
+    "label": "Comprar com segurança",
+    "checkout": "https://pay.hotmart.com/Q83013351D?checkoutMode=10&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/bass/?sck=TESTE123",
+    "label": "Comprar com segurança",
+    "checkout": "https://pay.hotmart.com/J76211442I?checkoutMode=10&off=kb7vzng1&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/bass/?sck=TESTE123",
+    "label": "Acessar o pack",
+    "checkout": "https://pay.hotmart.com/Q83013351D?checkoutMode=10&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/bass/?sck=TESTE123",
+    "label": "Comprar por R$ 29,90",
+    "checkout": "https://pay.hotmart.com/Q83013351D?checkoutMode=10&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/violao/",
+    "label": "Comprar com segurança",
+    "checkout": "https://pay.hotmart.com/G83013838I?checkoutMode=10&off=flkvbzsf&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/violao/?sck=TESTE123",
+    "label": "Comprar com segurança",
+    "checkout": "https://pay.hotmart.com/G83013838I?checkoutMode=10&off=flkvbzsf&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/violao/?sck=TESTE123",
+    "label": "Comprar com segurança",
+    "checkout": "https://pay.hotmart.com/J76211442I?checkoutMode=10&off=kb7vzng1&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/violao/?sck=TESTE123",
+    "label": "Acessar o pack",
+    "checkout": "https://pay.hotmart.com/G83013838I?checkoutMode=10&off=flkvbzsf&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/violao/?sck=TESTE123",
+    "label": "Comprar por R$ 29,90",
+    "checkout": "https://pay.hotmart.com/G83013838I?checkoutMode=10&off=flkvbzsf&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/guitar/?sck=TESTE123#oferta",
+    "label": "Comprar com segurança",
+    "checkout": "https://pay.hotmart.com/G83013604X?off=2bbwth7u&checkoutMode=10&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/guitar/?sck=TESTE123#oferta",
+    "label": "Comprar com segurança",
+    "checkout": "https://pay.hotmart.com/J76211442I?checkoutMode=10&off=kb7vzng1&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/guitar/?sck=TESTE123#oferta",
+    "label": "Acessar o pack",
+    "checkout": "https://pay.hotmart.com/G83013604X?off=2bbwth7u&checkoutMode=10&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/guitar/?sck=TESTE123#oferta",
+    "label": "Comprar por R$ 29,90",
+    "checkout": "https://pay.hotmart.com/G83013604X?off=2bbwth7u&checkoutMode=10&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/completo/?sck=TESTE123",
+    "label": "Comprar com segurança",
+    "checkout": "https://pay.hotmart.com/J76211442I?checkoutMode=10&off=kb7vzng1&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/completo/?sck=TESTE123",
+    "label": "Acessar o pack",
+    "checkout": "https://pay.hotmart.com/J76211442I?checkoutMode=10&off=kb7vzng1&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/completo/?sck=TESTE123",
+    "label": "Comprar por R$ 49,90",
+    "checkout": "https://pay.hotmart.com/J76211442I?checkoutMode=10&off=kb7vzng1&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/bass/",
+    "label": "Comprar com segurança",
+    "checkout": "https://pay.hotmart.com/Q83013351D?checkoutMode=10&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/bass/?sck=%7B%7Bad.id%7D%7D",
+    "label": "Comprar com segurança",
+    "checkout": "https://pay.hotmart.com/Q83013351D?checkoutMode=10&sck=TESTE123"
+  },
+  {
+    "page": "http://127.0.0.1:8765/bass/?sck=NOVO456",
+    "label": "Comprar com segurança",
+    "checkout": "https://pay.hotmart.com/Q83013351D?checkoutMode=10&sck=NOVO456"
+  }
+]

@@ -1,0 +1,13 @@
+﻿{
+    "capturedAt":  "2026-09-12T23:09:18.9073228-03:00",
+    "branch":  "main",
+    "commit":  "63cd490ffa5d9d036466bb0670409a27fdb5c888",
+    "status":  [
+                   "?? docs/auditoria-sck-2026-09-12/"
+               ],
+    "intendedProductionChanges":  [
+                                      "campaign-tracking.js"
+                                  ],
+    "originalSha256":  "16848588F1DA2E2DC5FEAF7984B299C4C45C1404AFE9941F04F5FB0A65FC1464",
+    "checkpoint":  "campaign-tracking.before.txt"
+}
