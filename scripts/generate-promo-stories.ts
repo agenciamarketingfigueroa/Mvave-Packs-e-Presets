@@ -37,6 +37,10 @@ const campaigns = [
   ["mini-x", "#41d6c3", "AMPLIFICADOR DE FONES", BUDGET_BACKGROUND],
   ["smc-pad", "#ff6db2", "CONTROLADOR DE PADS", BUDGET_BACKGROUND],
   ["smk25-mini", "#9b78ff", "TECLADO MIDI COMPACTO", BUDGET_BACKGROUND],
+  ["tank-g", "#2c83ff", "PEDALEIRA PARA GUITARRA"],
+  ["tank-b", "#646cff", "PEDALEIRA PARA BAIXO"],
+  ["tank-mini", "#26d6c8", "MULTIEFEITOS COMPACTO"],
+  ["annblack-box", "#ff8f3d", "MODELADOR COMPACTO"],
 ] as const;
 
 function escapeXml(value: string) {
@@ -95,7 +99,7 @@ function storySvg(id: string, accent: string, category: string, background = BAC
     <text x="0" y="304" fill="${accent}" font-family="${FONT}" font-size="112" font-weight="900" letter-spacing="-5">${offer}</text>
     <rect x="0" y="352" width="936" height="92" rx="46" fill="#fff"/>
     <text x="468" y="410" fill="#080b10" text-anchor="middle" font-family="${FONT}" font-size="27" font-weight="900" letter-spacing="3">CONFIRA A OFERTA NO LINK</text>
-    <text x="468" y="498" fill="#8f99a7" text-anchor="middle" font-family="${FONT}" font-size="16">Preço consultado em 13/08/2026. Estoque, frete e valor podem mudar.</text>
+    <text x="468" y="498" fill="#8f99a7" text-anchor="middle" font-family="${FONT}" font-size="16">${["tank-g", "tank-b", "tank-mini", "annblack-box"].includes(id) ? "Preço cadastrado na loja. Confira valor, frete e estoque no link." : "Preço consultado em 13/08/2026. Estoque, frete e valor podem mudar."}</text>
   </g>
 </svg>`;
 }

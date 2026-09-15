@@ -1,6 +1,8 @@
 # Stories de promoções
 
-Os 18 PNGs desta pasta têm `1080 × 1920 px` e estão prontos para Stories. Os SVGs com o mesmo nome são as versões editáveis.
+Os 22 PNGs desta pasta têm `1080 × 1920 px` e estão prontos para Stories. Os SVGs com o mesmo nome são as versões editáveis.
+
+As peças 19–22 são TANK-G, TANK-B, TANK MINI e ANNBLACK BOX. Usam os preços cadastrados na loja, sem nova consulta de preço ao vendedor.
 
 Os nomes e preços vêm de `equipment-data.js`. Antes de publicar, abra o link da oferta, confirme preço, estoque e frete e, se necessário, atualize `offerPrice` e `referencePrice`.
 
