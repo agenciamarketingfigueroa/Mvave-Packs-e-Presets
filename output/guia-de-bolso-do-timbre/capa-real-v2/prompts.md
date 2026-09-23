@@ -1,0 +1,12 @@
+# Edição da capa v2
+
+Ferramenta utilizada: image_gen integrada, apenas para editar o fundo e adaptar o formato. As imagens dos sete produtos foram inseridas diretamente dos arquivos originais em uma composição PDF, sem redesenho por IA. PNG/JPG exportados da composição.
+
+## Fundo vertical
+
+Use case: precise-object-edit. Edit the attached ebook cover into a production-ready empty photographic background plate for a real-photo composite. Keep portrait 2:3 dimensions and the existing elegant dark navy/black, amber and blue identity. Remove the top text "M-VAVE BR" completely, including its top blue underline. Preserve the exact headline "Guia de Bolso do Timbre", the subtitle "Efeitos, estilos, checklists" and the footer phrase "Tudo o que precisa para extrair o melhor som do seu instrumento." Keep their premium typography, colors and general positions. Remove ALL pedals, the multi-effects processor, cables, guitar, amplifier and plectrum. The whole central product area must be EMPTY with only a subtle seamless near-black studio background/surface, subdued blue waveform behind, and very restrained blue and amber studio light. This empty middle area will receive actual manufacturer product photographs later; DO NOT draw, invent or insert any hardware. Preserve the cover's overall atmosphere and good text legibility. Headline can start slightly higher after removing top brand to enlarge usable central area. No new text, no new logo, no devices.
+
+## Fundo quadrado
+
+Use case: precise-object-edit. Adapt the provided empty ebook cover background into a SQUARE 1:1 Hotmart product cover background, 1536x1536 if possible. Preserve the same premium navy-black studio surface, tiny amber and blue light, strong Manrope-like typography, white text and amber "Timbre". Keep text EXACTLY: title "Guia de Bolso do Timbre"; subtitle "Efeitos, estilos, checklists"; footer "Tudo o que precisa para extrair o melhor som do seu instrumento." Arrange title large in TWO lines in the TOP 25% with top margin 4%, subtitle immediately below at about 29%. Put footer in two readable lines at the BOTTOM 9%, with only a small blue line above. Leave the middle from 35% to 86% empty, near-black softly lit studio surface, to receive a direct collage of real manufacturer product photos later. Subdued waveform may appear behind the empty product region. NO devices, no pedals, no guitar, no amp, no cables, NO brand at top, no extra words. The central region must remain empty. Final aspect ratio MUST be 1:1, not portrait.
+

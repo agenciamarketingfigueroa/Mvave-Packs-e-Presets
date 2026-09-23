@@ -1,0 +1,132 @@
+{
+  "vertical": [
+    {
+      "product": "tank-b",
+      "source": "assets\\img\\equipment\\originals\\tank-b.webp",
+      "x": 62,
+      "top": 585,
+      "width": 417,
+      "height": 90.25,
+      "rotation": 2
+    },
+    {
+      "product": "tank-g",
+      "source": "assets\\img\\equipment\\originals\\tank-g.webp",
+      "x": 547,
+      "top": 585,
+      "width": 417,
+      "height": 89.45,
+      "rotation": -2
+    },
+    {
+      "product": "mk-300",
+      "source": "assets\\img\\equipment\\originals\\mk-300.webp",
+      "x": 63,
+      "top": 753,
+      "width": 430,
+      "height": 223.75,
+      "rotation": 2
+    },
+    {
+      "product": "ampero-ii",
+      "source": "output\\guia-de-bolso-do-timbre\\capa-real-v2\\fontes\\ampero-ii.png",
+      "x": 547,
+      "top": 759,
+      "width": 421,
+      "height": 193.37,
+      "rotation": -2
+    },
+    {
+      "product": "cube-baby",
+      "source": "assets\\img\\equipment\\originals\\cube-baby.webp",
+      "x": 58,
+      "top": 1080,
+      "width": 310,
+      "height": 113.47,
+      "rotation": 2
+    },
+    {
+      "product": "annblack-box",
+      "source": "assets\\img\\equipment\\originals\\annblack-box.webp",
+      "x": 422,
+      "top": 1037,
+      "width": 158,
+      "height": 159.94,
+      "rotation": 0
+    },
+    {
+      "product": "quad-cortex",
+      "source": "output\\guia-de-bolso-do-timbre\\capa-real-v2\\fontes\\quad-cortex.png",
+      "x": 637,
+      "top": 1006,
+      "width": 328,
+      "height": 223.85,
+      "rotation": -2
+    }
+  ],
+  "hotmart-1x1": [
+    {
+      "product": "tank-b",
+      "source": "assets\\img\\equipment\\originals\\tank-b.webp",
+      "x": 154,
+      "top": 475,
+      "width": 543,
+      "height": 117.51,
+      "rotation": 2
+    },
+    {
+      "product": "tank-g",
+      "source": "assets\\img\\equipment\\originals\\tank-g.webp",
+      "x": 840,
+      "top": 475,
+      "width": 543,
+      "height": 116.48,
+      "rotation": -2
+    },
+    {
+      "product": "mk-300",
+      "source": "assets\\img\\equipment\\originals\\mk-300.webp",
+      "x": 107,
+      "top": 687,
+      "width": 598,
+      "height": 311.17,
+      "rotation": 2
+    },
+    {
+      "product": "ampero-ii",
+      "source": "output\\guia-de-bolso-do-timbre\\capa-real-v2\\fontes\\ampero-ii.png",
+      "x": 829,
+      "top": 696,
+      "width": 598,
+      "height": 274.67,
+      "rotation": -2
+    },
+    {
+      "product": "cube-baby",
+      "source": "assets\\img\\equipment\\originals\\cube-baby.webp",
+      "x": 112,
+      "top": 1103,
+      "width": 424,
+      "height": 155.19,
+      "rotation": 2
+    },
+    {
+      "product": "annblack-box",
+      "source": "assets\\img\\equipment\\originals\\annblack-box.webp",
+      "x": 656,
+      "top": 1041,
+      "width": 224,
+      "height": 226.75,
+      "rotation": 0
+    },
+    {
+      "product": "quad-cortex",
+      "source": "output\\guia-de-bolso-do-timbre\\capa-real-v2\\fontes\\quad-cortex.png",
+      "x": 1005,
+      "top": 1024,
+      "width": 422,
+      "height": 288.0,
+      "rotation": -2
+    }
+  ]
+}

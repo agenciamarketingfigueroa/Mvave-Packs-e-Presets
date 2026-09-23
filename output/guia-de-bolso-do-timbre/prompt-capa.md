@@ -1,0 +1,8 @@
+# Prompt da capa
+
+Ferramenta: image_gen integrada (sem CLI/API).
+Imagem final: capa-guia-de-bolso-do-timbre.png — 1024 × 1536 px.
+
+Use case: ads-marketing. Create a finished premium Portuguese ebook front cover, portrait 2:3, high resolution. Brand M-Vave BR existing website visual identity: deep near black #080a0f, dark panels #151a24, warm white #f3f1ea, bold amber #f3c94f and small electric blue #3677ff / #74a0ff accents. Clean editorial typography resembling Manrope extra bold headlines and DM Sans body. Strong clear hierarchy, generous negative space, beautiful professional music education product.
+Exact main title arranged in deliberate large lines: "Guia de Bolso" then "do Timbre", with Timbre the strongest amber word. Exact subtitle: "Efeitos, estilos, checklists". Exact phrase: "Tudo o que precisa para extrair o melhor som do seu instrumento." Small top brand text "M-VAVE BR". No other words required.
+Lower middle visual: sophisticated photographic 3D studio render of a generic compact black guitar multi-effects processor, precise metal knobs and 3 footswitches, subtle blue LCD waveform, beside two restrained stompboxes with amber and blue details, neatly connected signal cable. Suggest a clean signal chain with fine blue paths and delicate waveform lines; minimal atmospheric studio illumination, realistic materials, tiny amber indicator lights. Title occupies upper half, hardware lower half, phrase readable near bottom with ample margin. No people, no clutter, no loud explosion, no fake logos on hardware, no book perspective mockup, no spine. Flat full-bleed finished rectangular ebook cover, elegant and polished. Render Portuguese accents and text exactly.

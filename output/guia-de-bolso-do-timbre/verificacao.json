@@ -1,0 +1,204 @@
+{
+  "pages": 41,
+  "body_font_min": 12,
+  "layout": [
+    {
+      "page": 2,
+      "min_body_size": 12,
+      "content_bottom": 542.6
+    },
+    {
+      "page": 4,
+      "min_body_size": 12,
+      "content_bottom": 511.6
+    },
+    {
+      "page": 5,
+      "min_body_size": 12,
+      "content_bottom": 600.6
+    },
+    {
+      "page": 6,
+      "min_body_size": 12,
+      "content_bottom": 630.4
+    },
+    {
+      "page": 7,
+      "min_body_size": 12,
+      "content_bottom": 573.7
+    },
+    {
+      "page": 8,
+      "min_body_size": 12,
+      "content_bottom": 647.0
+    },
+    {
+      "page": 9,
+      "min_body_size": 12,
+      "content_bottom": 613.8
+    },
+    {
+      "page": 10,
+      "min_body_size": 12,
+      "content_bottom": 613.8
+    },
+    {
+      "page": 11,
+      "min_body_size": 12,
+      "content_bottom": 597.2
+    },
+    {
+      "page": 12,
+      "min_body_size": 12,
+      "content_bottom": 613.8
+    },
+    {
+      "page": 13,
+      "min_body_size": 12,
+      "content_bottom": 597.2
+    },
+    {
+      "page": 14,
+      "min_body_size": 12,
+      "content_bottom": 564.1
+    },
+    {
+      "page": 15,
+      "min_body_size": 12,
+      "content_bottom": 597.2
+    },
+    {
+      "page": 16,
+      "min_body_size": 12,
+      "content_bottom": 613.9
+    },
+    {
+      "page": 17,
+      "min_body_size": 12,
+      "content_bottom": 573.7
+    },
+    {
+      "page": 18,
+      "min_body_size": 12,
+      "content_bottom": 559.2
+    },
+    {
+      "page": 19,
+      "min_body_size": 12,
+      "content_bottom": 613.9
+    },
+    {
+      "page": 20,
+      "min_body_size": 12,
+      "content_bottom": 542.6
+    },
+    {
+      "page": 21,
+      "min_body_size": 12,
+      "content_bottom": 496.1
+    },
+    {
+      "page": 22,
+      "min_body_size": 12,
+      "content_bottom": 602.5
+    },
+    {
+      "page": 23,
+      "min_body_size": 12,
+      "content_bottom": 556.5
+    },
+    {
+      "page": 24,
+      "min_body_size": 12,
+      "content_bottom": 602.5
+    },
+    {
+      "page": 25,
+      "min_body_size": 12,
+      "content_bottom": 531.0
+    },
+    {
+      "page": 26,
+      "min_body_size": 12,
+      "content_bottom": 531.0
+    },
+    {
+      "page": 27,
+      "min_body_size": 12,
+      "content_bottom": 531.0
+    },
+    {
+      "page": 28,
+      "min_body_size": 12,
+      "content_bottom": 531.0
+    },
+    {
+      "page": 29,
+      "min_body_size": 12,
+      "content_bottom": 531.0
+    },
+    {
+      "page": 30,
+      "min_body_size": 12,
+      "content_bottom": 514.4
+    },
+    {
+      "page": 31,
+      "min_body_size": 12,
+      "content_bottom": 514.4
+    },
+    {
+      "page": 32,
+      "min_body_size": 12,
+      "content_bottom": 547.5
+    },
+    {
+      "page": 33,
+      "min_body_size": 12,
+      "content_bottom": 515.6
+    },
+    {
+      "page": 34,
+      "min_body_size": 12,
+      "content_bottom": 515.6
+    },
+    {
+      "page": 35,
+      "min_body_size": 12,
+      "content_bottom": 515.6
+    },
+    {
+      "page": 36,
+      "min_body_size": 12,
+      "content_bottom": 515.6
+    },
+    {
+      "page": 37,
+      "min_body_size": 12,
+      "content_bottom": 532.2
+    },
+    {
+      "page": 38,
+      "min_body_size": 12,
+      "content_bottom": 515.6
+    },
+    {
+      "page": 39,
+      "min_body_size": 12,
+      "content_bottom": 549.8
+    },
+    {
+      "page": 40,
+      "min_body_size": 12,
+      "content_bottom": 577.8
+    },
+    {
+      "page": 41,
+      "min_body_size": 12,
+      "content_bottom": 588.1
+    }
+  ],
+  "links": 17,
+  "protected_files_check": "PASS: git diff --exit-code, nenhum arquivo preexistente alterado",
+  "visual_review": "PASS: 41 páginas renderizadas e revisadas"
+}
