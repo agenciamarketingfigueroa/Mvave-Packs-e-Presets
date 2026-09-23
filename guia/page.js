@@ -3,6 +3,7 @@ import { trackedCheckoutUrl } from "/campaign-tracking.js";
 const offer = window.GUIDE_OFFER || {};
 const checkout = typeof offer.checkout === "string" ? offer.checkout.trim() : "";
 const price = typeof offer.price === "string" ? offer.price.trim() : "";
+const installments = typeof offer.installments === "string" ? offer.installments.trim() : "";
 
 if (checkout) {
   try {
@@ -19,6 +20,11 @@ if (checkout) {
       const priceElement = document.getElementById("offer-price");
       priceElement.textContent = price;
       priceElement.hidden = false;
+    }
+    if (installments) {
+      const installmentsElement = document.getElementById("offer-installments");
+      installmentsElement.textContent = installments;
+      installmentsElement.hidden = false;
     }
   } catch (_) {
     // A oferta permanece indisponível se a URL configurada não for um checkout Hotmart válido.
