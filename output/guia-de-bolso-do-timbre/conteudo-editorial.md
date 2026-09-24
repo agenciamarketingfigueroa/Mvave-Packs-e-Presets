@@ -1886,7 +1886,7 @@ Próximo teste: _____________________________
 
 
 
-Conheça os materiais e packs da M-Vave BR em [mvave.com.br](https://mvave.com.br). Use este guia para escolher e ajustar com mais intenção.
+Conheça os materiais e packs em [mvave.com.br](https://mvave.com.br). Use este guia para escolher e ajustar com mais intenção.
 
 
 
@@ -1936,4 +1936,4 @@ Exemplos de subdivisões e funcionamento de dois delays.
 
 
 
-Edição 1 • Setembro de 2026 • M-Vave BR, projeto independente, sem vínculo com a fabricante M-Vave. Capa criada com auxílio de IA. Consulte o manual do seu aparelho para conexões e recursos. Marcas citadas pertencem aos respectivos titulares.
+Edição 1 • Setembro de 2026 • Projeto independente, sem vínculo com a fabricante M-Vave. Capa criada com auxílio de IA. Consulte o manual do seu aparelho para conexões e recursos. Marcas citadas pertencem aos respectivos titulares.

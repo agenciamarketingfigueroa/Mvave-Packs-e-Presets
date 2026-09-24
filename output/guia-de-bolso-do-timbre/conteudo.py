@@ -165,11 +165,11 @@ page('10 / SEU PRÓXIMO PASSO','Ouça melhor.\nEscolha com intenção.',
      'Um bom timbre não depende de usar todos os efeitos. Depende de cada escolha ajudar a música.',[
 ('Seu treino de hoje','Escolha uma receita. Grave 20 segundos, ajuste apenas um parâmetro e grave de novo. Compare em volume semelhante. Guarde a versão que encaixa melhor no arranjo.'),
 ('Sua ficha de timbre','Instrumento / captador: ______________________<br/>Música / função: ___________________________<br/>Saída / monitor: ___________________________<br/>Amp / cab / IR: ____________________________<br/>Ajuste que mais ajudou: _____________________<br/>Próximo teste: _____________________________'),
-('Continue explorando','Conheça os materiais e packs da M-Vave BR em <link href="https://mvave.com.br" color="#3677ff">mvave.com.br</link>. Use este guia para escolher e ajustar com mais intenção.')],
+('Continue explorando','Conheça os materiais e packs em <link href="https://mvave.com.br" color="#3677ff">mvave.com.br</link>. Use este guia para escolher e ajustar com mais intenção.')],
 'Menos tentativa aleatória. Mais escuta, comparação e música.')
 
 page('REFERÊNCIAS E CRÉDITOS','Para consultar\nmais a fundo.', 'Referências técnicas de apoio. As receitas e os percursos de consulta são propostas editoriais deste guia.',[
 ('Ordem e interação dos efeitos','<link href="https://articles.boss.info/the-ultimate-guide-to-guitar-effects-pedal-order-and-signal-chain/" color="#3677ff">BOSS • Guitar Effects Pedal Order and Signal Chain</link><br/>Visão geral sobre posicionamento de efeitos e alternativas de ligação.'),
 ('Cab, IR e rotas modernas','<link href="https://manuals.line6.com/en/helix-stadium/live/cab-blocks" color="#3677ff">Line 6 • Cabs and Cab IRs</link><br/><link href="https://manuals.line6.com/en/helix-stadium/live/signal-path-routing" color="#3677ff">Line 6 • Signal Path Routing</link><br/>Referências de implementação; recursos e limites variam entre aparelhos.'),
 ('Divisões e combinações de delay','<link href="https://www.strymon.net/secondary-functions-dig-dual-digital-delay/" color="#3677ff">Strymon • Secondary Functions: DIG Dual Digital Delay</link><br/>Exemplos de subdivisões e funcionamento de dois delays.')],
-'Edição 1 • Setembro de 2026 • M-Vave BR, projeto independente, sem vínculo com a fabricante M-Vave. Capa criada com auxílio de IA. Consulte o manual do seu aparelho para conexões e recursos. Marcas citadas pertencem aos respectivos titulares.')
+'Edição 1 • Setembro de 2026 • Projeto independente, sem vínculo com a fabricante M-Vave. Capa criada com auxílio de IA. Consulte o manual do seu aparelho para conexões e recursos. Marcas citadas pertencem aos respectivos titulares.')

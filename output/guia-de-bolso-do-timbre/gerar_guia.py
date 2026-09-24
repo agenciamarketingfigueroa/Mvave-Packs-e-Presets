@@ -50,7 +50,7 @@ cover_pdf=OUT/'Guia de Bolso do Timbre - Capa.pdf'
 for target in [cover_pdf,pdf]:
     c=canvas.Canvas(str(target),pagesize=(W,H),pageCompression=1)
     c.setTitle('Guia de Bolso do Timbre'+(' - Capa' if target==cover_pdf else ''))
-    c.setAuthor('M-Vave BR'); c.setSubject('Efeitos, estilos, checklists')
+    c.setAuthor(''); c.setSubject('Efeitos, estilos, checklists')
     c.drawImage(str(cover),0,0,W,H)
     c.showPage()
     if target==cover_pdf:
@@ -63,7 +63,6 @@ for target in [cover_pdf,pdf]:
     for num,p in enumerate(pages,2):
         rect(c,0,0,W,H,PAPER)
         rect(c,0,0,W,8,INK)
-        para(c,'M-VAVE BR',36,27,180,10,INK,'Title')
         para(c,p['section'],210,28,234,8.3,BLUE,'BodyBold')
         c.bookmarkPage('p'+str(num))
         if any(n==num for _,n in sections): c.addOutlineEntry(p['section'],'p'+str(num),0)
@@ -107,6 +106,16 @@ for target in [cover_pdf,pdf]:
                 rect(c,36,top+2,408,note_h,'#f7e8b6',10)
                 para(c,note,52,top+14,376,10.5)
             metrics.append(dict(page=num,min_body_size=round(size,1),content_bottom=round(top+note_h+2,1)))
+        if num == 7:
+            para(c,'CONHEÇA OS PACKS DE IRs',36,596,408,10,INK,'BodyBold')
+            for x,label,url in [
+                (36,'Pack Violão','https://mvave.com.br/violao/'),
+                (175,'Pack Baixo','https://mvave.com.br/bass/'),
+                (314,'Pack Guitarra','https://mvave.com.br/guitar/')]:
+                rect(c,x,618,130,36,BLUE,8)
+                c.setFillColor(HexColor('#ffffff')); c.setFont('BodyBold',11)
+                c.drawCentredString(x+65,H-640,label)
+                c.linkURL(url,(x,H-654,x+130,H-618),relative=0,thickness=0)
         c.setStrokeColor(HexColor('#cdd0d4'));c.setLineWidth(.5);c.line(36,43,444,43)
         para(c,'GUIA DE BOLSO DO TIMBRE',36,688,330,8,MUTED,'BodyBold')
         para(c,str(num).zfill(2),418,686,26,10,INK,'Title')

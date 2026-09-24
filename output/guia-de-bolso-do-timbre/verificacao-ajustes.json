@@ -1,0 +1,268 @@
+{
+  "pages": 41,
+  "removed_headers": 40,
+  "buttons_page": 7,
+  "packs": {
+    "Pack Violão": "https://mvave.com.br/violao/",
+    "Pack Baixo": "https://mvave.com.br/bass/",
+    "Pack Guitarra": "https://mvave.com.br/guitar/"
+  },
+  "text_preserved": true,
+  "toc_preserved": true,
+  "pages_checked": [
+    {
+      "page": 1,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 2,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 3,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 4,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 5,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 6,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 7,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 8,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 9,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 10,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 11,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 12,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 13,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 14,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 15,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 16,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 17,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 18,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 19,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 20,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 21,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 22,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 23,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 24,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 25,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 26,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 27,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 28,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 29,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 30,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 31,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 32,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 33,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 34,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 35,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 36,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 37,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 38,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 39,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 40,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    },
+    {
+      "page": 41,
+      "text": true,
+      "links": true,
+      "unchanged_pixels_outside_edits": true
+    }
+  ],
+  "links": 20,
+  "reading_order_preserved": true,
+  "visual_review": "41 paginas revisadas; paginas 7, 40 e 41 conferidas em resolucao ampliada",
+  "pack_urls_http_status": {
+    "https://mvave.com.br/violao/": 200,
+    "https://mvave.com.br/bass/": 200,
+    "https://mvave.com.br/guitar/": 200
+  }
+}

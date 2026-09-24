@@ -2,6 +2,15 @@
 
 Produto completo, edição 1, setembro de 2026.
 
+## Atualização de 24/09/2026
+
+- Removido o nome M-Vave BR dos 40 cabeçalhos, do encerramento, dos créditos e dos metadados do guia.
+- Incluídos três botões na página 7: Pack Violão, Pack Baixo e Pack Guitarra, com links para as páginas dos packs.
+- Conteúdo didático, 41 páginas, capa, sumário e links anteriores preservados. Nenhum botão para o Pack Completo.
+- Todas as páginas foram renderizadas e revisadas. A comparação confirmou texto e ordem de leitura preservados, exceto as remoções solicitadas, e pixels idênticos fora das áreas editadas. O PDF agora contém 20 links.
+- `verificacao-ajustes.json` registra os resultados. `atualizar_links_e_marca.py` aplica a revisão diretamente ao PDF aprovado; o gerador e a fonte editorial também incluem os ajustes.
+- O ZIP de entrega foi atualizado com o PDF e o conteúdo editorial revisados.
+
 ## Entregáveis
 
 - `../pdf/Guia de Bolso do Timbre.pdf`: guia com 41 páginas, sumário clicável e referências.
