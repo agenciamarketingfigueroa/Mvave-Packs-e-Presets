@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1152" height="648" viewBox="0 0 1152 648" role="img" aria-label="Pack Completo de IRs: 14.064 arquivos para guitarra, baixo e violão">
+  <defs>
+    <linearGradient id="copyShade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#02070d" stop-opacity="0.78"/>
+      <stop offset="0.48" stop-color="#02070d" stop-opacity="0.67"/>
+      <stop offset="0.72" stop-color="#02070d" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#02070d" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff0a6"/>
+      <stop offset="0.45" stop-color="#ffc73d"/>
+      <stop offset="1" stop-color="#e99012"/>
+    </linearGradient>
+    <filter id="deviceShadow" x="-30%" y="-60%" width="160%" height="220%">
+      <feDropShadow dx="0" dy="17" stdDeviation="12" flood-color="#000000" flood-opacity="0.9"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#159ee9" flood-opacity="0.25"/>
+    </filter>
+    <filter id="titleShadow" x="-10%" y="-30%" width="125%" height="170%">
+      <feDropShadow dx="0" dy="4" stdDeviation="3" flood-color="#000000" flood-opacity="0.8"/>
+    </filter>
+  </defs>
+
+  <image href="background.png" x="0" y="0" width="1152" height="648" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1152" height="648" fill="url(#copyShade)"/>
+  <rect x="48" y="46" width="35" height="4" rx="2" fill="#ffc83f"/>
+  <text x="96" y="53" fill="#f3f7fb" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3">M-VAVE BR  /  BIBLIOTECA DIGITAL</text>
+
+  <g filter="url(#titleShadow)" font-family="Impact, 'Arial Narrow', sans-serif" font-weight="900" letter-spacing="1">
+    <text x="53" y="143" fill="#ffffff" font-size="81">PACK</text>
+    <text x="53" y="222" fill="#ffffff" font-size="81">COMPLETO</text>
+    <text x="53" y="344" fill="url(#gold)" font-size="126">14.064</text>
+  </g>
+
+  <text x="58" y="382" fill="#f8fbff" font-family="Impact, 'Arial Narrow', sans-serif" font-size="37" letter-spacing="1.5">ARQUIVOS DE IR</text>
+  <text x="59" y="418" fill="#f8fbff" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="1.5">GUITARRA  <tspan fill="#20acff">•</tspan>  BAIXO  <tspan fill="#ffbb2e">•</tspan>  VIOLÃO</text>
+  <path d="M58 449 H508" stroke="#ffbc2b" stroke-width="2" opacity="0.85"/>
+  <text x="58" y="497" fill="#ffffff" font-family="Impact, 'Arial Narrow', sans-serif" font-size="36" letter-spacing="0.5">ENCONTRE O TIMBRE</text>
+  <text x="58" y="535" fill="#ffca48" font-family="Impact, 'Arial Narrow', sans-serif" font-size="30" letter-spacing="0.3">QUE FAZ VOCÊ QUERER TOCAR MAIS.</text>
+  <text x="59" y="603" fill="#d8e2ea" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">PARA EQUIPAMENTOS COM SUPORTE A IR</text>
+
+  <g filter="url(#deviceShadow)">
+    <image href="tank-b.png" x="609" y="199" width="505" height="120" preserveAspectRatio="xMidYMid meet"/>
+    <image href="tank-g.png" x="571" y="311" width="557" height="135" preserveAspectRatio="xMidYMid meet"/>
+    <image href="cube-baby-ac.png" x="690" y="417" width="431" height="173" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+</svg>
