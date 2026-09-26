@@ -1,53 +1,73 @@
-# CAMPEOES-LABS — criativos no padrão das matrizes vencedoras
+# CAMPEOES-LABS — criativos clean para o Pack de IRs
 
-35 peças estáticas de feed, 1080 × 1080 px. O cenário, a luz, a textura e o equipamento fotografado vêm das matrizes históricas em `assets/creativos-instagram/finais/`. Headline, texto de apoio e CTA foram recompostos para os ângulos atuais. O produto anunciado é o pack digital de IRs.
+55 peças quadradas (1080 × 1080 px) em PNG e SVG. A quantidade de IRs e o pedal são os destaques. As cinco variações de cada modelo usam subtítulos diferentes; acesso imediato e videoaulas de configuração aparecem como apoio.
 
-Quantidades validadas: guitarra 11.658 arquivos (7.450 WAV + 4.208 SYX); baixo 2.179 IRs WAV; violão 227 IRs WAV.
+20 peças novas: MK-300 e Black Box para baixo e violão, cinco subtítulos por combinação.
 
-| PNG | Modelo | Headline | Matriz visual |
-|---|---|---|---|
-| [CCV-CBV-01.png](violao/cubebaby-violao/CCV-CBV-01.png) | CUBE BABY AC | MENOS PIEZO. MAIS VIOLÃO. | 26-violao-som-em-linha-cube-baby-ac.png |
-| [CCV-CBV-02.png](violao/cubebaby-violao/CCV-CBV-02.png) | CUBE BABY AC | AÇO E NYLON ORGANIZADOS. | 26-violao-som-em-linha-cube-baby-ac.png |
-| [CCV-CBV-03.png](violao/cubebaby-violao/CCV-CBV-03.png) | CUBE BABY AC | SOM EM LINHA MAIS NATURAL. | 26-violao-som-em-linha-cube-baby-ac.png |
-| [CCV-CBV-04.png](violao/cubebaby-violao/CCV-CBV-04.png) | CUBE BABY AC | ENCONTRE O TIMBRE SEM CONFUSÃO. | 26-violao-som-em-linha-cube-baby-ac.png |
-| [CCV-CBV-05.png](violao/cubebaby-violao/CCV-CBV-05.png) | CUBE BABY AC | MAIS CORPO E NATURALIDADE. | 26-violao-som-em-linha-cube-baby-ac.png |
-| [CCB-CBB-01.png](baixo/cubebaby-baixo/CCB-CBB-01.png) | CUBE BABY BASS | PESO, PRESENÇA E DEFINIÇÃO. | 12-baixo-definicao-cube-baby-bass.png |
-| [CCB-CBB-02.png](baixo/cubebaby-baixo/CCB-CBB-02.png) | CUBE BABY BASS | O GRAVE CERTO PARA A MIX. | 12-baixo-definicao-cube-baby-bass.png |
-| [CCB-CBB-03.png](baixo/cubebaby-baixo/CCB-CBB-03.png) | CUBE BABY BASS | MAIS PRESENÇA. NÃO SÓ VOLUME. | 12-baixo-definicao-cube-baby-bass.png |
-| [CCB-CBB-04.png](baixo/cubebaby-baixo/CCB-CBB-04.png) | CUBE BABY BASS | ATAQUE CLARO. GRAVE PRESENTE. | 12-baixo-definicao-cube-baby-bass.png |
-| [CCB-CBB-05.png](baixo/cubebaby-baixo/CCB-CBB-05.png) | CUBE BABY BASS | DEFINIÇÃO SEM PERDER PESO. | 12-baixo-definicao-cube-baby-bass.png |
-| [CCB-TB-01.png](baixo/tank-b/CCB-TB-01.png) | TANK B | NÃO DEIXE O BAIXO SUMIR NA MIX. | 11-baixo-quantidade-tank-b.png |
-| [CCB-TB-02.png](baixo/tank-b/CCB-TB-02.png) | TANK B | GRAVE FUNDAMENTAL COM LEITURA. | 11-baixo-quantidade-tank-b.png |
-| [CCB-TB-03.png](baixo/tank-b/CCB-TB-03.png) | TANK B | PESO, PRESENÇA E DEFINIÇÃO. | 11-baixo-quantidade-tank-b.png |
-| [CCB-TB-04.png](baixo/tank-b/CCB-TB-04.png) | TANK B | MAIS PRESENÇA. NÃO SÓ VOLUME. | 11-baixo-quantidade-tank-b.png |
-| [CCB-TB-05.png](baixo/tank-b/CCB-TB-05.png) | TANK B | ENCONTRE O GRAVE CERTO. | 11-baixo-quantidade-tank-b.png |
-| [CCG-CBG-01.png](guitarra/cubebaby-guitarra/CCG-CBG-01.png) | CUBE BABY GUITAR | DO CLEAN AO HIGH GAIN. | 02-guitarra-transformacao-cube-baby.png |
-| [CCG-CBG-02.png](guitarra/cubebaby-guitarra/CCG-CBG-02.png) | CUBE BABY GUITAR | CLEAN E CRUNCH COM CONTRASTE. | 02-guitarra-transformacao-cube-baby.png |
-| [CCG-CBG-03.png](guitarra/cubebaby-guitarra/CCG-CBG-03.png) | CUBE BABY GUITAR | PESO COM LEITURA DAS NOTAS. | 02-guitarra-transformacao-cube-baby.png |
-| [CCG-CBG-04.png](guitarra/cubebaby-guitarra/CCG-CBG-04.png) | CUBE BABY GUITAR | MAIS CAMINHOS PARA SEU TIMBRE. | 02-guitarra-transformacao-cube-baby.png |
-| [CCG-CBG-05.png](guitarra/cubebaby-guitarra/CCG-CBG-05.png) | CUBE BABY GUITAR | CRUNCH COM PERSONALIDADE. | 02-guitarra-transformacao-cube-baby.png |
-| [CCG-TG-01.png](guitarra/tank-g/CCG-TG-01.png) | TANK G | DO CLEAN AO HIGH GAIN. | 01-guitarra-quantidade-tank-g.png |
-| [CCG-TG-02.png](guitarra/tank-g/CCG-TG-02.png) | TANK G | HIGH GAIN COM DEFINIÇÃO. | 01-guitarra-quantidade-tank-g.png |
-| [CCG-TG-03.png](guitarra/tank-g/CCG-TG-03.png) | TANK G | CRUNCH COM PERSONALIDADE. | 01-guitarra-quantidade-tank-g.png |
-| [CCG-TG-04.png](guitarra/tank-g/CCG-TG-04.png) | TANK G | MAIS CONTRASTE ENTRE TIMBRES. | 01-guitarra-quantidade-tank-g.png |
-| [CCG-TG-05.png](guitarra/tank-g/CCG-TG-05.png) | TANK G | PESO SEM EMBOLAR. | 01-guitarra-quantidade-tank-g.png |
-| [CCG-MK-01.png](guitarra/mk300/CCG-MK-01.png) | MK300 | CRUNCH COM PERSONALIDADE. | 04-guitarra-universo-mk-300.png |
-| [CCG-MK-02.png](guitarra/mk300/CCG-MK-02.png) | MK300 | DO CLEAN AO HIGH GAIN. | 04-guitarra-universo-mk-300.png |
-| [CCG-MK-03.png](guitarra/mk300/CCG-MK-03.png) | MK300 | PESO COM LEITURA DAS NOTAS. | 04-guitarra-universo-mk-300.png |
-| [CCG-MK-04.png](guitarra/mk300/CCG-MK-04.png) | MK300 | MAIS VARIAÇÃO DE TIMBRES. | 04-guitarra-universo-mk-300.png |
-| [CCG-MK-05.png](guitarra/mk300/CCG-MK-05.png) | MK300 | CLEAN E CRUNCH COM CONTRASTE. | 04-guitarra-universo-mk-300.png |
-| [CCG-BB-01.png](guitarra/black-box/CCG-BB-01.png) | BLACK BOX | UM PEDAL. MUITOS ESTILOS. | 03-guitarra-organizacao-annblack-box.png |
-| [CCG-BB-02.png](guitarra/black-box/CCG-BB-02.png) | BLACK BOX | CLEAN E CRUNCH COM CONTRASTE. | 03-guitarra-organizacao-annblack-box.png |
-| [CCG-BB-03.png](guitarra/black-box/CCG-BB-03.png) | BLACK BOX | CRUNCH COM PERSONALIDADE. | 03-guitarra-organizacao-annblack-box.png |
-| [CCG-BB-04.png](guitarra/black-box/CCG-BB-04.png) | BLACK BOX | DO CLEAN AO HIGH GAIN. | 03-guitarra-organizacao-annblack-box.png |
-| [CCG-BB-05.png](guitarra/black-box/CCG-BB-05.png) | BLACK BOX | ESCOLHA A RESPOSTA CERTA. | 03-guitarra-organizacao-annblack-box.png |
+Quantidades: guitarra 11.658 IRs (7.450 WAV + 4.208 SYX); baixo 2.179 IRs WAV; violão 227 IRs WAV.
 
-## Cinco peças para começar
+| PNG | Pedal | Subtítulo |
+| --- | --- | --- |
+| [CCV-CBV-01.png](violao/cubebaby-violao/CCV-CBV-01.png) | CUBE BABY AC | Menos piezo, mais violão. |
+| [CCV-CBV-02.png](violao/cubebaby-violao/CCV-CBV-02.png) | CUBE BABY AC | Aço e nylon em novas respostas. |
+| [CCV-CBV-03.png](violao/cubebaby-violao/CCV-CBV-03.png) | CUBE BABY AC | Mais corpo para o som em linha. |
+| [CCV-CBV-04.png](violao/cubebaby-violao/CCV-CBV-04.png) | CUBE BABY AC | Encontre a resposta certa. |
+| [CCV-CBV-05.png](violao/cubebaby-violao/CCV-CBV-05.png) | CUBE BABY AC | Naturalidade em cada nota. |
+| [CCB-CBB-01.png](baixo/cubebaby-baixo/CCB-CBB-01.png) | CUBE BABY BASS | Peso e definição no grave. |
+| [CCB-CBB-02.png](baixo/cubebaby-baixo/CCB-CBB-02.png) | CUBE BABY BASS | Mais presença na mix. |
+| [CCB-CBB-03.png](baixo/cubebaby-baixo/CCB-CBB-03.png) | CUBE BABY BASS | Ataque claro, sem perder corpo. |
+| [CCB-CBB-04.png](baixo/cubebaby-baixo/CCB-CBB-04.png) | CUBE BABY BASS | O grave certo para cada música. |
+| [CCB-CBB-05.png](baixo/cubebaby-baixo/CCB-CBB-05.png) | CUBE BABY BASS | Compare caixas pelo ouvido. |
+| [CCB-TB-01.png](baixo/tank-b/CCB-TB-01.png) | TANK B | Grave com peso e leitura. |
+| [CCB-TB-02.png](baixo/tank-b/CCB-TB-02.png) | TANK B | Seu baixo com mais presença. |
+| [CCB-TB-03.png](baixo/tank-b/CCB-TB-03.png) | TANK B | Definição que aparece na mix. |
+| [CCB-TB-04.png](baixo/tank-b/CCB-TB-04.png) | TANK B | Mais opções para o grave. |
+| [CCB-TB-05.png](baixo/tank-b/CCB-TB-05.png) | TANK B | Encontre o encaixe do baixo. |
+| [CCG-CBG-01.png](guitarra/cubebaby-guitarra/CCG-CBG-01.png) | CUBE BABY GUITAR | Do clean ao high gain. |
+| [CCG-CBG-02.png](guitarra/cubebaby-guitarra/CCG-CBG-02.png) | CUBE BABY GUITAR | Caixas para cada estilo. |
+| [CCG-CBG-03.png](guitarra/cubebaby-guitarra/CCG-CBG-03.png) | CUBE BABY GUITAR | Mais definição nos riffs. |
+| [CCG-CBG-04.png](guitarra/cubebaby-guitarra/CCG-CBG-04.png) | CUBE BABY GUITAR | Troque o IR, mude o timbre. |
+| [CCG-CBG-05.png](guitarra/cubebaby-guitarra/CCG-CBG-05.png) | CUBE BABY GUITAR | Explore outros gabinetes. |
+| [CCG-TG-01.png](guitarra/tank-g/CCG-TG-01.png) | TANK G | Do clean ao high gain. |
+| [CCG-TG-02.png](guitarra/tank-g/CCG-TG-02.png) | TANK G | Mais contraste entre timbres. |
+| [CCG-TG-03.png](guitarra/tank-g/CCG-TG-03.png) | TANK G | Crunch com personalidade. |
+| [CCG-TG-04.png](guitarra/tank-g/CCG-TG-04.png) | TANK G | Peso sem embolar. |
+| [CCG-TG-05.png](guitarra/tank-g/CCG-TG-05.png) | TANK G | Escolha outra caixa. Compare. |
+| [CCG-MK-01.png](guitarra/mk300/CCG-MK-01.png) | MK-300 | Mais caminhos para seu som. |
+| [CCG-MK-02.png](guitarra/mk300/CCG-MK-02.png) | MK-300 | Do clean ao high gain. |
+| [CCG-MK-03.png](guitarra/mk300/CCG-MK-03.png) | MK-300 | Peso com leitura das notas. |
+| [CCG-MK-04.png](guitarra/mk300/CCG-MK-04.png) | MK-300 | Explore outras combinações. |
+| [CCG-MK-05.png](guitarra/mk300/CCG-MK-05.png) | MK-300 | Clean e crunch com contraste. |
+| [CCG-BB-01.png](guitarra/black-box/CCG-BB-01.png) | BLACK BOX | Um pedal. Muitos timbres. |
+| [CCG-BB-02.png](guitarra/black-box/CCG-BB-02.png) | BLACK BOX | Clean e crunch com contraste. |
+| [CCG-BB-03.png](guitarra/black-box/CCG-BB-03.png) | BLACK BOX | Crunch com personalidade. |
+| [CCG-BB-04.png](guitarra/black-box/CCG-BB-04.png) | BLACK BOX | Do clean ao high gain. |
+| [CCG-BB-05.png](guitarra/black-box/CCG-BB-05.png) | BLACK BOX | Escolha a resposta certa. |
+| [CCB-MK-01.png](baixo/mk300/CCB-MK-01.png) | MK-300 | Mais peso sem perder clareza. |
+| [CCB-MK-02.png](baixo/mk300/CCB-MK-02.png) | MK-300 | Grave presente em cada nota. |
+| [CCB-MK-03.png](baixo/mk300/CCB-MK-03.png) | MK-300 | Compare caixas para o baixo. |
+| [CCB-MK-04.png](baixo/mk300/CCB-MK-04.png) | MK-300 | Mais opções para sua mix. |
+| [CCB-MK-05.png](baixo/mk300/CCB-MK-05.png) | MK-300 | Encontre o grave certo. |
+| [CCB-BB-01.png](baixo/black-box/CCB-BB-01.png) | BLACK BOX | Seu baixo com mais corpo. |
+| [CCB-BB-02.png](baixo/black-box/CCB-BB-02.png) | BLACK BOX | Definição sem perder o peso. |
+| [CCB-BB-03.png](baixo/black-box/CCB-BB-03.png) | BLACK BOX | Mais presença no som em linha. |
+| [CCB-BB-04.png](baixo/black-box/CCB-BB-04.png) | BLACK BOX | Teste outra resposta de caixa. |
+| [CCB-BB-05.png](baixo/black-box/CCB-BB-05.png) | BLACK BOX | Encaixe o grave na música. |
+| [CCV-MK-01.png](violao/mk300/CCV-MK-01.png) | MK-300 | Mais corpo para o violão. |
+| [CCV-MK-02.png](violao/mk300/CCV-MK-02.png) | MK-300 | Aço e nylon em novas respostas. |
+| [CCV-MK-03.png](violao/mk300/CCV-MK-03.png) | MK-300 | Som em linha mais natural. |
+| [CCV-MK-04.png](violao/mk300/CCV-MK-04.png) | MK-300 | Explore outras captações. |
+| [CCV-MK-05.png](violao/mk300/CCV-MK-05.png) | MK-300 | Escolha pelo ouvido. |
+| [CCV-BB-01.png](violao/black-box/CCV-BB-01.png) | BLACK BOX | Menos piezo, mais madeira. |
+| [CCV-BB-02.png](violao/black-box/CCV-BB-02.png) | BLACK BOX | Mais naturalidade em linha. |
+| [CCV-BB-03.png](violao/black-box/CCV-BB-03.png) | BLACK BOX | Timbres para aço e nylon. |
+| [CCV-BB-04.png](violao/black-box/CCV-BB-04.png) | BLACK BOX | Mais corpo sem complicar. |
+| [CCV-BB-05.png](violao/black-box/CCV-BB-05.png) | BLACK BOX | Encontre a resposta certa. |
 
-- `CCG-TG-01`: do clean ao high gain.
-- `CCG-BB-01`: um equipamento, muitos estilos.
-- `CCB-TB-01`: baixo que some na mix.
-- `CCB-CBB-02`: grave certo para a mix.
-- `CCV-CBV-01`: menos piezo, mais violão.
+Prévia dos novos: [GRADE-20-NOVOS.png](GRADE-20-NOVOS.png).
 
-Pacote de upload: `CAMPEOES-LABS-35-PNG-Meta-Ads.zip` (somente PNGs).
+Prévia geral: [GRADE-55.png](GRADE-55.png).
+
+Pacotes para upload: `CAMPEOES-LABS-20-NOVOS-PNG-Meta-Ads.zip` e `CAMPEOES-LABS-55-PNG-Meta-Ads.zip` (somente PNGs). O pacote anterior de 35 peças continua disponível.
+
+Gerador: `scripts/redesign-campeoes-labs.py` (Pillow e PyMuPDF).
