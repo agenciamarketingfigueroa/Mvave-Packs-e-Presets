@@ -456,66 +456,79 @@
   },
   {
     "arquivo_zip": "Por modelo/Violão/Alvarez/ABT-60 Baritone.zip",
+    "cordas": "aco",
     "total": 6,
     "manifesto": "individual-manifests/Por modelo/Violão/Alvarez/ABT-60 Baritone.json"
   },
   {
     "arquivo_zip": "Por modelo/Violão/Coleção D-TAR/Acoustic Shapes.zip",
+    "cordas": "aco",
     "total": 16,
     "manifesto": "individual-manifests/Por modelo/Violão/Coleção D-TAR/Acoustic Shapes.json"
   },
   {
     "arquivo_zip": "Por modelo/Violão/Collings/D2H e OM2HA.zip",
+    "cordas": "aco",
     "total": 10,
     "manifesto": "individual-manifests/Por modelo/Violão/Collings/D2H e OM2HA.json"
   },
   {
     "arquivo_zip": "Por modelo/Violão/Gibson/Hummingbird.zip",
+    "cordas": "aco",
     "total": 5,
     "manifesto": "individual-manifests/Por modelo/Violão/Gibson/Hummingbird.json"
   },
   {
     "arquivo_zip": "Por modelo/Violão/Gibson/J-200 Jumbo.zip",
+    "cordas": "aco",
     "total": 10,
     "manifesto": "individual-manifests/Por modelo/Violão/Gibson/J-200 Jumbo.json"
   },
   {
     "arquivo_zip": "Por modelo/Violão/Gibson/J-45.zip",
+    "cordas": "aco",
     "total": 4,
     "manifesto": "individual-manifests/Por modelo/Violão/Gibson/J-45.json"
   },
   {
     "arquivo_zip": "Por modelo/Violão/Gibson/Wayne Benson Mandolin.zip",
+    "cordas": "aco",
     "total": 3,
     "manifesto": "individual-manifests/Por modelo/Violão/Gibson/Wayne Benson Mandolin.json"
   },
   {
     "arquivo_zip": "Por modelo/Violão/LAVA/LAVA Nylon.zip",
+    "cordas": "nylon",
     "total": 4,
     "manifesto": "individual-manifests/Por modelo/Violão/LAVA/LAVA Nylon.json"
   },
   {
     "arquivo_zip": "Por modelo/Violão/Martin/HD-28.zip",
+    "cordas": "aco",
     "total": 6,
     "manifesto": "individual-manifests/Por modelo/Violão/Martin/HD-28.json"
   },
   {
     "arquivo_zip": "Por modelo/Violão/Nylon/Violão clássico e Nylon Essentials.zip",
+    "cordas": "nylon",
     "total": 6,
     "manifesto": "individual-manifests/Por modelo/Violão/Nylon/Violão clássico e Nylon Essentials.json"
   },
   {
     "arquivo_zip": "Por modelo/Violão/Samick/JZ4.zip",
+    "cordas": "aco",
     "total": 15,
     "manifesto": "individual-manifests/Por modelo/Violão/Samick/JZ4.json"
   },
   {
     "arquivo_zip": "Por modelo/Violão/Taylor/314ce.zip",
+    "cordas": "aco",
     "total": 8,
     "manifesto": "individual-manifests/Por modelo/Violão/Taylor/314ce.json"
   },
   {
     "arquivo_zip": "Por modelo/Violão/Taylor/814.zip",
+    "cordas": "aco",
     "total": 4,
     "manifesto": "individual-manifests/Por modelo/Violão/Taylor/814.json"
   }

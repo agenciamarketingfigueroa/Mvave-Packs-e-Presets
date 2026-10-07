@@ -5,6 +5,12 @@ let catalogPromise;
 let activeModel;
 let visibleLimit = 150;
 
+function stringTag(model) {
+  if (!model.cordas) return "";
+  const nylon = model.cordas === "nylon";
+  return "<span class='download-string-tag download-string-" + (nylon ? "nylon" : "steel") + "'>Cordas de " + (nylon ? "nylon" : "aço") + "</span>";
+}
+
 function loadCatalog() {
   if (!catalogPromise) {
     catalogPromise = fetch(MANIFEST_URL, { cache: "no-cache" }).then(function(response) {
@@ -61,6 +67,7 @@ function ensureDialog() {
   dialog = document.createElement("dialog");
   dialog.id = "individual-ir-dialog";
   dialog.className = "individual-ir-dialog";
+  dialog.setAttribute("aria-labelledby", "individual-ir-title");
   dialog.innerHTML = "<div class='individual-ir-shell'><header><div><span class='eyebrow'>Downloads sem compactação</span><h2 id='individual-ir-title'>IRs individuais</h2><p id='individual-ir-summary'></p></div><button type='button' class='individual-ir-close' aria-label='Fechar'>×</button></header><div class='individual-ir-actions'><label><span>Buscar neste modelo</span><input type='search' id='individual-ir-search' placeholder='Nome, pasta ou formato…' autocomplete='off'></label><a id='individual-ir-zip' class='btn btn-dark' download>Baixar todos (.zip)</a></div><div id='individual-ir-count' class='individual-ir-count' aria-live='polite'></div><div id='individual-ir-groups' class='individual-ir-groups'></div><div id='individual-ir-empty' class='individual-ir-empty' hidden>Nenhum IR encontrado com esse termo.</div><button type='button' id='individual-ir-more' class='individual-ir-more' hidden>Mostrar mais IRs</button></div>";
   document.body.appendChild(dialog);
 
@@ -99,7 +106,7 @@ function renderFiles() {
     const group = entry[0];
     const files = entry[1];
     return "<details class='individual-ir-group'" + (index === 0 ? " open" : "") + "><summary><span>" + escapeHtml(group) + "</span><small>" + files.length + (files.length === 1 ? " arquivo" : " arquivos") + "</small></summary><div>" + files.map(function(file) {
-      return "<article class='individual-ir-file'><div><strong>" + escapeHtml(file.nome) + "</strong><small>" + escapeHtml(file.formato) + " · " + formatSize(file.tamanho_bytes) + "</small></div><a href='" + escapeHtml(fileUrl(file.arquivo)) + "' download>Baixar IR <span aria-hidden='true'>↓</span></a></article>";
+      return "<article class='individual-ir-file'><div><strong>" + escapeHtml(file.nome) + "</strong><small>" + escapeHtml(file.formato) + " · " + formatSize(file.tamanho_bytes) + "</small>" + stringTag(activeModel) + "</div><a href='" + escapeHtml(fileUrl(file.arquivo)) + "' download>Baixar IR <span aria-hidden='true'>↓</span></a></article>";
     }).join("") + "</div></details>";
   }).join("");
   dialog.querySelector("#individual-ir-count").textContent = filtered.length + (filtered.length === 1 ? " IR disponível" : " IRs disponíveis") + (visible.length < filtered.length ? " · exibindo " + visible.length : "");
@@ -126,7 +133,7 @@ function openModel(model, link) {
   loadModelFiles(model).then(function() {
     if (activeModel !== model) return;
     renderFiles();
-    dialog.querySelector("#individual-ir-search").focus();
+    if (!document.querySelector("#download-share-dialog[open]")) dialog.querySelector("#individual-ir-search").focus();
   }).catch(function() {
     dialog.querySelector("#individual-ir-count").textContent = "Não foi possível abrir a lista individual.";
     dialog.querySelector("#individual-ir-groups").innerHTML = "<div class='individual-ir-empty'>Use o botão “Baixar todos (.zip)” acima e tente novamente mais tarde.</div>";
@@ -138,6 +145,8 @@ function enhanceCards(catalog) {
   document.querySelectorAll(".download-model-card .download-model-action").forEach(function(link) {
     const model = available.get(archivePathFromLink(link));
     if (!model || link.dataset.individualReady) return;
+    const copy = link.closest(".download-model-card").querySelector(".download-model-copy");
+    if (model.cordas && !copy.querySelector(".download-string-tag")) copy.insertAdjacentHTML("beforeend", stringTag(model));
     link.dataset.individualReady = "true";
     link.setAttribute("aria-label", "Ver " + model.total + " IRs individuais");
     const label = Array.from(link.childNodes).find(function(node) { return node.nodeType === Node.TEXT_NODE; });

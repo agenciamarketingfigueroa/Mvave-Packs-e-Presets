@@ -43,3 +43,11 @@ O M-EFCS permanece apontando para o armazenamento oficial da M-VAVE porque seu Z
 Os executáveis oficiais verificados não possuem assinatura Authenticode. Na revisão de 31/08/2026, os pacotes não geraram detecções no Microsoft Defender (assinaturas 1.457.427.0). Isso não substitui nova verificação ao atualizar qualquer arquivo.
 
 O Pack Completo tem 112 MB e ultrapassa o limite de 100 MB por arquivo do GitHub. Por isso, os packs principais permanecem no Drive. Se no futuro os downloads individuais também forem transferidos para um storage/CDN, altere `DOWNLOAD_FILES_BASE` no início de `app.js`.
+
+## Convite nos downloads e tipos de corda
+
+As quatro páginas de packs carregam `download-experience.js`, que apresenta o convite para marcar @mvavebr antes de baixar um IR, o ZIP de um modelo ou abrir uma pasta do Drive. O botão de continuar preserva o endereço, o atributo de download e a abertura em nova aba do link original. Fechar o convite cancela apenas essa tentativa. A abertura da lista “Ver IRs” permanece direta.
+
+O campo opcional `cordas` em `individual-files.json` aceita `nylon` ou `aco` e alimenta as tags dos cartões e dos arquivos individuais, inclusive na coleção completa. Preserve esse campo ao regenerar o manifesto. Os grupos LAVA Nylon e Violão clássico e Nylon Essentials são de nylon; os demais grupos acústicos atuais são de aço.
+
+O estilo do convite, das tags e a correção do menu mobile ficam em `individual-downloads.css`. A central reservada também carrega esse CSS e o script de experiência para usar o menu corrigido. Esses arquivos não são incluídos nas páginas comerciais ou de campanha.
