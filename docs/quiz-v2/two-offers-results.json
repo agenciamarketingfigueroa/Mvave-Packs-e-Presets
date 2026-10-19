@@ -1,0 +1,245 @@
+{
+  "results": [
+    {
+      "route": "guitar",
+      "width": 375,
+      "recommendation": "guitarra",
+      "offers": [
+        "guitarra",
+        "completo"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "guitar",
+      "width": 375,
+      "recommendation": "completo",
+      "offers": [
+        "completo",
+        "guitarra"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "guitar",
+      "width": 390,
+      "recommendation": "guitarra",
+      "offers": [
+        "guitarra",
+        "completo"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "guitar",
+      "width": 390,
+      "recommendation": "completo",
+      "offers": [
+        "completo",
+        "guitarra"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "guitar",
+      "width": 414,
+      "recommendation": "guitarra",
+      "offers": [
+        "guitarra",
+        "completo"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "guitar",
+      "width": 414,
+      "recommendation": "completo",
+      "offers": [
+        "completo",
+        "guitarra"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "guitar",
+      "width": 1440,
+      "recommendation": "guitarra",
+      "offers": [
+        "guitarra",
+        "completo"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "guitar",
+      "width": 1440,
+      "recommendation": "completo",
+      "offers": [
+        "completo",
+        "guitarra"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "bass",
+      "width": 375,
+      "recommendation": "baixo",
+      "offers": [
+        "baixo",
+        "completo"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "bass",
+      "width": 375,
+      "recommendation": "completo",
+      "offers": [
+        "completo",
+        "baixo"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "bass",
+      "width": 390,
+      "recommendation": "baixo",
+      "offers": [
+        "baixo",
+        "completo"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "bass",
+      "width": 390,
+      "recommendation": "completo",
+      "offers": [
+        "completo",
+        "baixo"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "bass",
+      "width": 414,
+      "recommendation": "baixo",
+      "offers": [
+        "baixo",
+        "completo"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "bass",
+      "width": 414,
+      "recommendation": "completo",
+      "offers": [
+        "completo",
+        "baixo"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "bass",
+      "width": 1440,
+      "recommendation": "baixo",
+      "offers": [
+        "baixo",
+        "completo"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "bass",
+      "width": 1440,
+      "recommendation": "completo",
+      "offers": [
+        "completo",
+        "baixo"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "violao",
+      "width": 375,
+      "recommendation": "violao",
+      "offers": [
+        "violao",
+        "completo"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "violao",
+      "width": 375,
+      "recommendation": "completo",
+      "offers": [
+        "completo",
+        "violao"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "violao",
+      "width": 390,
+      "recommendation": "violao",
+      "offers": [
+        "violao",
+        "completo"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "violao",
+      "width": 390,
+      "recommendation": "completo",
+      "offers": [
+        "completo",
+        "violao"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "violao",
+      "width": 414,
+      "recommendation": "violao",
+      "offers": [
+        "violao",
+        "completo"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "violao",
+      "width": 414,
+      "recommendation": "completo",
+      "offers": [
+        "completo",
+        "violao"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "violao",
+      "width": 1440,
+      "recommendation": "violao",
+      "offers": [
+        "violao",
+        "completo"
+      ],
+      "status": "PASS"
+    },
+    {
+      "route": "violao",
+      "width": 1440,
+      "recommendation": "completo",
+      "offers": [
+        "completo",
+        "violao"
+      ],
+      "status": "PASS"
+    }
+  ],
+  "errors": []
+}

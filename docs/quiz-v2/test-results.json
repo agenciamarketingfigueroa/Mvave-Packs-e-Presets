@@ -1,0 +1,150 @@
+{
+  "mode": "Chrome headless local; analytics e fontes externas isolados; sem compra real",
+  "results": [
+    {
+      "test": "Auditoria: visita sem query, UTM parcial, macro não resolvida e encoding",
+      "status": "PASS"
+    },
+    {
+      "test": "guitar / 375px / jornada completa",
+      "status": "PASS",
+      "checkout": "https://pay.hotmart.com/G83013604X?off=2bbwth7u&checkoutMode=10&utm_source=facebook&utm_medium=paid_social&utm_campaign=TESTE&utm_term=CONJUNTO&utm_content=CRIATIVO&sck=987654321&utm_id=123"
+    },
+    {
+      "test": "guitar / 390px / jornada completa",
+      "status": "PASS",
+      "checkout": "https://pay.hotmart.com/G83013604X?off=2bbwth7u&checkoutMode=10&utm_source=facebook&utm_medium=paid_social&utm_campaign=TESTE&utm_term=CONJUNTO&utm_content=CRIATIVO&sck=987654321&utm_id=123"
+    },
+    {
+      "test": "guitar / 414px / jornada completa",
+      "status": "PASS",
+      "checkout": "https://pay.hotmart.com/G83013604X?off=2bbwth7u&checkoutMode=10&utm_source=facebook&utm_medium=paid_social&utm_campaign=TESTE&utm_term=CONJUNTO&utm_content=CRIATIVO&sck=987654321&utm_id=123"
+    },
+    {
+      "test": "guitar / 1440px / jornada completa",
+      "status": "PASS",
+      "checkout": "https://pay.hotmart.com/G83013604X?off=2bbwth7u&checkoutMode=10&utm_source=facebook&utm_medium=paid_social&utm_campaign=TESTE&utm_term=CONJUNTO&utm_content=CRIATIVO&sck=987654321&utm_id=123"
+    },
+    {
+      "test": "guitar / todas as opções, voltar e recomendações",
+      "status": "PASS"
+    },
+    {
+      "test": "guitar / experienced / completo e alternativa",
+      "status": "PASS"
+    },
+    {
+      "test": "guitar / learning / completo e alternativa",
+      "status": "PASS"
+    },
+    {
+      "test": "bass / 375px / jornada completa",
+      "status": "PASS",
+      "checkout": "https://pay.hotmart.com/Q83013351D?checkoutMode=10&utm_source=facebook&utm_medium=paid_social&utm_campaign=TESTE&utm_term=CONJUNTO&utm_content=CRIATIVO&sck=987654321&utm_id=123"
+    },
+    {
+      "test": "bass / 390px / jornada completa",
+      "status": "PASS",
+      "checkout": "https://pay.hotmart.com/Q83013351D?checkoutMode=10&utm_source=facebook&utm_medium=paid_social&utm_campaign=TESTE&utm_term=CONJUNTO&utm_content=CRIATIVO&sck=987654321&utm_id=123"
+    },
+    {
+      "test": "bass / 414px / jornada completa",
+      "status": "PASS",
+      "checkout": "https://pay.hotmart.com/Q83013351D?checkoutMode=10&utm_source=facebook&utm_medium=paid_social&utm_campaign=TESTE&utm_term=CONJUNTO&utm_content=CRIATIVO&sck=987654321&utm_id=123"
+    },
+    {
+      "test": "bass / 1440px / jornada completa",
+      "status": "PASS",
+      "checkout": "https://pay.hotmart.com/Q83013351D?checkoutMode=10&utm_source=facebook&utm_medium=paid_social&utm_campaign=TESTE&utm_term=CONJUNTO&utm_content=CRIATIVO&sck=987654321&utm_id=123"
+    },
+    {
+      "test": "bass / todas as opções, voltar e recomendações",
+      "status": "PASS"
+    },
+    {
+      "test": "bass / experienced / completo e alternativa",
+      "status": "PASS"
+    },
+    {
+      "test": "bass / learning / completo e alternativa",
+      "status": "PASS"
+    },
+    {
+      "test": "violao / 375px / jornada completa",
+      "status": "PASS",
+      "checkout": "https://pay.hotmart.com/G83013838I?checkoutMode=10&off=flkvbzsf&utm_source=facebook&utm_medium=paid_social&utm_campaign=TESTE&utm_term=CONJUNTO&utm_content=CRIATIVO&sck=987654321&utm_id=123"
+    },
+    {
+      "test": "violao / 390px / jornada completa",
+      "status": "PASS",
+      "checkout": "https://pay.hotmart.com/G83013838I?checkoutMode=10&off=flkvbzsf&utm_source=facebook&utm_medium=paid_social&utm_campaign=TESTE&utm_term=CONJUNTO&utm_content=CRIATIVO&sck=987654321&utm_id=123"
+    },
+    {
+      "test": "violao / 414px / jornada completa",
+      "status": "PASS",
+      "checkout": "https://pay.hotmart.com/G83013838I?checkoutMode=10&off=flkvbzsf&utm_source=facebook&utm_medium=paid_social&utm_campaign=TESTE&utm_term=CONJUNTO&utm_content=CRIATIVO&sck=987654321&utm_id=123"
+    },
+    {
+      "test": "violao / 1440px / jornada completa",
+      "status": "PASS",
+      "checkout": "https://pay.hotmart.com/G83013838I?checkoutMode=10&off=flkvbzsf&utm_source=facebook&utm_medium=paid_social&utm_campaign=TESTE&utm_term=CONJUNTO&utm_content=CRIATIVO&sck=987654321&utm_id=123"
+    },
+    {
+      "test": "violao / todas as opções, voltar e recomendações",
+      "status": "PASS"
+    },
+    {
+      "test": "violao / experienced / completo e alternativa",
+      "status": "PASS"
+    },
+    {
+      "test": "violao / learning / completo e alternativa",
+      "status": "PASS"
+    },
+    {
+      "test": "guitar / SCK 123, reload sem query e isolamento da aba",
+      "status": "PASS"
+    },
+    {
+      "test": "bass / SCK 456, reload sem query e isolamento da aba",
+      "status": "PASS"
+    },
+    {
+      "test": "violao / SCK 789, reload sem query e isolamento da aba",
+      "status": "PASS"
+    },
+    {
+      "test": "guitar / Visita nova sem tracking, nenhum SCK inventado",
+      "status": "PASS"
+    },
+    {
+      "test": "guitar / Storage bloqueado, atribuição em memória",
+      "status": "PASS"
+    },
+    {
+      "test": "bass / Visita nova sem tracking, nenhum SCK inventado",
+      "status": "PASS"
+    },
+    {
+      "test": "bass / Storage bloqueado, atribuição em memória",
+      "status": "PASS"
+    },
+    {
+      "test": "violao / Visita nova sem tracking, nenhum SCK inventado",
+      "status": "PASS"
+    },
+    {
+      "test": "violao / Storage bloqueado, atribuição em memória",
+      "status": "PASS"
+    },
+    {
+      "test": "Teclado, foco, privacidade visual e smoke V1",
+      "status": "PASS"
+    },
+    {
+      "test": "Contrato de ofertas e todos os arquivos preexistentes intactos",
+      "status": "PASS"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,77 @@
+{
+  "results": [
+    {
+      "route": "guitar",
+      "width": 375,
+      "equipmentRequestsBeforeStart": 0,
+      "status": "PASS"
+    },
+    {
+      "route": "guitar",
+      "width": 390,
+      "equipmentRequestsBeforeStart": 0,
+      "status": "PASS"
+    },
+    {
+      "route": "guitar",
+      "width": 414,
+      "equipmentRequestsBeforeStart": 0,
+      "status": "PASS"
+    },
+    {
+      "route": "guitar",
+      "width": 1440,
+      "equipmentRequestsBeforeStart": 0,
+      "status": "PASS"
+    },
+    {
+      "route": "bass",
+      "width": 375,
+      "equipmentRequestsBeforeStart": 0,
+      "status": "PASS"
+    },
+    {
+      "route": "bass",
+      "width": 390,
+      "equipmentRequestsBeforeStart": 0,
+      "status": "PASS"
+    },
+    {
+      "route": "bass",
+      "width": 414,
+      "equipmentRequestsBeforeStart": 0,
+      "status": "PASS"
+    },
+    {
+      "route": "bass",
+      "width": 1440,
+      "equipmentRequestsBeforeStart": 0,
+      "status": "PASS"
+    },
+    {
+      "route": "violao",
+      "width": 375,
+      "equipmentRequestsBeforeStart": 0,
+      "status": "PASS"
+    },
+    {
+      "route": "violao",
+      "width": 390,
+      "equipmentRequestsBeforeStart": 0,
+      "status": "PASS"
+    },
+    {
+      "route": "violao",
+      "width": 414,
+      "equipmentRequestsBeforeStart": 0,
+      "status": "PASS"
+    },
+    {
+      "route": "violao",
+      "width": 1440,
+      "equipmentRequestsBeforeStart": 0,
+      "status": "PASS"
+    }
+  ],
+  "errors": []
+}
