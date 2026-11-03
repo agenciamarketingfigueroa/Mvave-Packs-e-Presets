@@ -1,0 +1,18 @@
+{
+  "mode": "VM com DOM mínimo; sem navegador nem tráfego externo",
+  "results": [
+    "guitar: sete etapas, yes, storage disponível, ofertas e tracking OK",
+    "guitar: sete etapas, yes, storage bloqueado, ofertas e tracking OK",
+    "guitar: sete etapas, help, storage disponível, ofertas e tracking OK",
+    "guitar: sete etapas, help, storage bloqueado, ofertas e tracking OK",
+    "bass: sete etapas, yes, storage disponível, ofertas e tracking OK",
+    "bass: sete etapas, yes, storage bloqueado, ofertas e tracking OK",
+    "bass: sete etapas, help, storage disponível, ofertas e tracking OK",
+    "bass: sete etapas, help, storage bloqueado, ofertas e tracking OK",
+    "violao: sete etapas, yes, storage disponível, ofertas e tracking OK",
+    "violao: sete etapas, yes, storage bloqueado, ofertas e tracking OK",
+    "violao: sete etapas, help, storage disponível, ofertas e tracking OK",
+    "violao: sete etapas, help, storage bloqueado, ofertas e tracking OK",
+    "Reload sem query, isolamento entre abas, visita orgânica e macro SCK não resolvida OK"
+  ]
+}
