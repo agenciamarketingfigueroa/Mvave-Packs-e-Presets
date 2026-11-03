@@ -1,0 +1,313 @@
+{
+  "campaign": "Sorteio mensal M-Vave BR",
+  "possiblePrizes": [
+    "Tank G",
+    "Tank B",
+    "Blackbox"
+  ],
+  "firstDraw": "2026-12-01",
+  "size": "1:1",
+  "count": 30,
+  "files": [
+    {
+      "id": "BS00001",
+      "instrument": "baixo",
+      "irCount": 2179,
+      "file": "BS00001.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2009969,
+      "sha256": "dc82a153c4984933cdda96049c9780f5df9232e96dfb40550152f307c184c4a0"
+    },
+    {
+      "id": "BS00002",
+      "instrument": "baixo",
+      "irCount": 2179,
+      "file": "BS00002.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2247587,
+      "sha256": "d679fcfcc96620002a2c133b36fae9f41cb17a2c7fdf410661834e948ce42e00"
+    },
+    {
+      "id": "BS00003",
+      "instrument": "baixo",
+      "irCount": 2179,
+      "file": "BS00003.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1931285,
+      "sha256": "666f49e71b8fe8fb238ee3fd49bbe69d5b17c8204cb78ee36db79af22a4ac70e"
+    },
+    {
+      "id": "BS00004",
+      "instrument": "baixo",
+      "irCount": 2179,
+      "file": "BS00004.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2093838,
+      "sha256": "e36fa9e349312fa1576dd0f12e67503df34c52277d42cc9f667c66893c09beb3"
+    },
+    {
+      "id": "BS00005",
+      "instrument": "baixo",
+      "irCount": 2179,
+      "file": "BS00005.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2067259,
+      "sha256": "07e2077e6db10f23057b8a16d7d3519a86cec78ec49afa1baaa3f1eaef57f0fa"
+    },
+    {
+      "id": "BS00006",
+      "instrument": "baixo",
+      "irCount": 2179,
+      "file": "BS00006.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1948991,
+      "sha256": "3b97d667c33f174118aa67a09f2a6a8d6d62548ded561be870c95da53aaf9f45"
+    },
+    {
+      "id": "BS00007",
+      "instrument": "baixo",
+      "irCount": 2179,
+      "file": "BS00007.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2062351,
+      "sha256": "fd511ca792ff7ceb570129212cad18d734549b083fad9943013f5d000c7b4b2f"
+    },
+    {
+      "id": "BS00008",
+      "instrument": "baixo",
+      "irCount": 2179,
+      "file": "BS00008.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1922462,
+      "sha256": "6749d50a9386a25034d99e21a3b97c2d5cdc20f0e49b99e037fbf8f81089374d"
+    },
+    {
+      "id": "BS00009",
+      "instrument": "baixo",
+      "irCount": 2179,
+      "file": "BS00009.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2094192,
+      "sha256": "f7e75f653f8af1351347addeda04ea0a8b3c0083be2aa3394cca655b160af858"
+    },
+    {
+      "id": "BS00010",
+      "instrument": "baixo",
+      "irCount": 2179,
+      "file": "BS00010.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2014488,
+      "sha256": "0f1755dc248f18c147d39839ca418bbee72156b36a6ea2c33fba4dbef9cecdb1"
+    },
+    {
+      "id": "GS00001",
+      "instrument": "guitarra",
+      "irCount": 11658,
+      "file": "GS00001.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1978746,
+      "sha256": "490d0096e2210645db0fec80a4584df45df0781a471735bf02f802a73deb4dd3"
+    },
+    {
+      "id": "GS00002",
+      "instrument": "guitarra",
+      "irCount": 11658,
+      "file": "GS00002.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2081251,
+      "sha256": "3d9994760a2b5aef8487daddade078d4bc9b85a23690586d89cc87d7df294a98"
+    },
+    {
+      "id": "GS00003",
+      "instrument": "guitarra",
+      "irCount": 11658,
+      "file": "GS00003.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1977908,
+      "sha256": "af35886a7ffe768e780a7eb57b304f9875cab84cac8025fd799a0a7a471ce4b7"
+    },
+    {
+      "id": "GS00004",
+      "instrument": "guitarra",
+      "irCount": 11658,
+      "file": "GS00004.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2022495,
+      "sha256": "bf43d661655db608cae9317a0faf033c7a5131c1a749ee6355c72ef7b029e1c8"
+    },
+    {
+      "id": "GS00005",
+      "instrument": "guitarra",
+      "irCount": 11658,
+      "file": "GS00005.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2074980,
+      "sha256": "2be82e798b72074a61234cba4475a584230390411f12343e5d636a7a06d0064f"
+    },
+    {
+      "id": "GS00006",
+      "instrument": "guitarra",
+      "irCount": 11658,
+      "file": "GS00006.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2019749,
+      "sha256": "c6bddbf0af2030f0b3802be85f571417e5126633f2dfdbba46edd8ef3d390af8"
+    },
+    {
+      "id": "GS00007",
+      "instrument": "guitarra",
+      "irCount": 11658,
+      "file": "GS00007.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2056224,
+      "sha256": "42e125cb78161aca782351b8138a4debb786e6df3a9ab95c70d18d946c37b56c"
+    },
+    {
+      "id": "GS00008",
+      "instrument": "guitarra",
+      "irCount": 11658,
+      "file": "GS00008.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2059614,
+      "sha256": "e99696b497eb9b6a7616e0fc56716e703724e47e4439be5376886140116b7c5d"
+    },
+    {
+      "id": "GS00009",
+      "instrument": "guitarra",
+      "irCount": 11658,
+      "file": "GS00009.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1989460,
+      "sha256": "590b17ca2edd6c109d7ea814636d05e0f7c53560dc7dd323db576f08210a114b"
+    },
+    {
+      "id": "GS00010",
+      "instrument": "guitarra",
+      "irCount": 11658,
+      "file": "GS00010.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1991260,
+      "sha256": "48341764aae4e47a251a7d866d480bdaf2a98635535742c3d9e6d24366f1276f"
+    },
+    {
+      "id": "VS00001",
+      "instrument": "violão",
+      "irCount": 227,
+      "file": "VS00001.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1924023,
+      "sha256": "ea7dd3edd6a27ce8cad31328ac998ac860be9eb38816a6ad9cf3d75626981a59"
+    },
+    {
+      "id": "VS00002",
+      "instrument": "violão",
+      "irCount": 227,
+      "file": "VS00002.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2006793,
+      "sha256": "a96918f27dd16347c3e2d59878c24d25d3be502ea79de3a697a9f94b1237a2b9"
+    },
+    {
+      "id": "VS00003",
+      "instrument": "violão",
+      "irCount": 227,
+      "file": "VS00003.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1929233,
+      "sha256": "8420a098852161c826579805322ff02973fc5b90869e5d7e0eb432e1c88deacd"
+    },
+    {
+      "id": "VS00004",
+      "instrument": "violão",
+      "irCount": 227,
+      "file": "VS00004.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2012261,
+      "sha256": "366a52d36ecbf53b8e94141de2daf7e5b3f05d23e02371540b0e5ffde4ef5cac"
+    },
+    {
+      "id": "VS00005",
+      "instrument": "violão",
+      "irCount": 227,
+      "file": "VS00005.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1950975,
+      "sha256": "36bf2e36c29f6b4e33db7d236431a034bc1609c6454361d15c1b23cdd59f1c0e"
+    },
+    {
+      "id": "VS00006",
+      "instrument": "violão",
+      "irCount": 227,
+      "file": "VS00006.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2037961,
+      "sha256": "04f73aa79f14d1ff58ba980a1d881054e4f50d6e5604572167f9ac8990c10a00"
+    },
+    {
+      "id": "VS00007",
+      "instrument": "violão",
+      "irCount": 227,
+      "file": "VS00007.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2051454,
+      "sha256": "51555e525befd36742c854811a3012d490e943890418c0dd5244e980a1bf5033"
+    },
+    {
+      "id": "VS00008",
+      "instrument": "violão",
+      "irCount": 227,
+      "file": "VS00008.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1956554,
+      "sha256": "e76d91e4b069f351df5315a0f853f808f7dff2ea77f73df4dd006aad15eeb7a8"
+    },
+    {
+      "id": "VS00009",
+      "instrument": "violão",
+      "irCount": 227,
+      "file": "VS00009.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1922851,
+      "sha256": "fb6e226dc403274799e2df457f379b9077e6a76cb650c520b1640beb0781e619"
+    },
+    {
+      "id": "VS00010",
+      "instrument": "violão",
+      "irCount": 227,
+      "file": "VS00010.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1967017,
+      "sha256": "20f0466293bf605805b26f1b67470a9c2f85e2d0f856f4c8464ee2076824a8e0"
+    }
+  ]
+}
