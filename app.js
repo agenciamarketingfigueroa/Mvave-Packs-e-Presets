@@ -429,6 +429,7 @@ function header(active, solid) {
     ["equipamentos", "/equipamentos/", "Equipamentos"],
     ["loja", "/loja/", "Loja"],
     ["conteudos", "/conteudos/", "Central do Timbre"],
+    ["sorteios", "/sorteios/", "Sorteios"],
     ["suporte", "/suporte/", "Suporte"]
   ].filter(function(item) { return item[0] !== "loja" || STORE_LISTED; });
   const productActive = ["completo", "guitarra", "baixo", "violao"].includes(active);
