@@ -1,0 +1,86 @@
+[
+  {
+    "page": "guitar",
+    "width": 320,
+    "height": 4162,
+    "status": "PASS"
+  },
+  {
+    "page": "bass",
+    "width": 320,
+    "height": 4147,
+    "status": "PASS"
+  },
+  {
+    "page": "violao",
+    "width": 320,
+    "height": 4147,
+    "status": "PASS"
+  },
+  {
+    "page": "guitar",
+    "width": 390,
+    "height": 3997,
+    "status": "PASS"
+  },
+  {
+    "page": "bass",
+    "width": 390,
+    "height": 3973,
+    "status": "PASS"
+  },
+  {
+    "page": "violao",
+    "width": 390,
+    "height": 3973,
+    "status": "PASS"
+  },
+  {
+    "page": "guitar",
+    "width": 768,
+    "height": 2663,
+    "status": "PASS"
+  },
+  {
+    "page": "bass",
+    "width": 768,
+    "height": 2663,
+    "status": "PASS"
+  },
+  {
+    "page": "violao",
+    "width": 768,
+    "height": 2663,
+    "status": "PASS"
+  },
+  {
+    "page": "guitar",
+    "width": 1440,
+    "height": 2643,
+    "status": "PASS"
+  },
+  {
+    "page": "bass",
+    "width": 1440,
+    "height": 2643,
+    "status": "PASS"
+  },
+  {
+    "page": "violao",
+    "width": 1440,
+    "height": 2643,
+    "status": "PASS"
+  },
+  {
+    "test": "Reload, nova campanha, macro SCK, armazenamento legado e virada de Brasília",
+    "status": "PASS"
+  },
+  {
+    "test": "Storage bloqueado e conteúdo/checkout sem JavaScript",
+    "status": "PASS"
+  },
+  {
+    "test": "Remoção do banner sem alterar conteúdo, preços e tracking",
+    "status": "PASS"
+  }
+]
