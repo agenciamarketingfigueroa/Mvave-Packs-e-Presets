@@ -21,4 +21,16 @@
 @media(max-width:360px){.wrap{padding-inline:15px}.campaign-inner{gap:4px}.campaign-name{font-size:7px}.discount{font-size:12px}.countdown output{font-size:20px;min-width:100px}.campaign-whatsapp{padding:7px;gap:4px}.campaign-whatsapp svg{width:15px;height:15px}.hero h1{font-size:35px}.quantity{font-size:46px}.pack-summary{gap:10px;padding:20px 16px}.hero-cta{gap:9px}.hero-cta .button{padding-inline:14px;font-size:11px}.lesson-band{padding:25px 20px}.lesson-band h2{font-size:27px}.whatsapp{font-size:10px;padding-inline:10px}.lesson-guide{padding:16px}.price-line strong{font-size:33px}}
 .lesson-support{margin-top:22px;padding:17px 19px;border-left:3px solid var(--amber);border-radius:0 12px 12px 0;background:#f3c94f09}.lesson-support strong{display:block;color:var(--amber);font-size:14px;line-height:1.4}.lesson-support p{color:#bac4d3;font-size:12px;line-height:1.6;margin-top:7px}
 .price-anchor{margin:18px 0 5px;font-size:12px;color:#a7aeba}.price-anchor s{text-decoration-thickness:1px}.price-line{align-items:center;flex-wrap:wrap;gap:10px}.price-discount{padding:4px 9px;border:1px solid #f3c94f45;border-radius:999px;background:#f3c94f12;color:var(--amber);font-size:11px;font-weight:700;white-space:nowrap}.offer .installment{margin-top:3px;font-size:14px;color:#c7cfdd}.installment strong{font-weight:600;color:#edf1f8}
+@media(max-width:700px){
+body{text-align:center}
+.eyebrow,.hero-cta,.lesson-badge,.price-line{justify-content:center}
+.hero h1,.hero-copy>p,.lesson-band h2,.lesson-copy>p,details p{margin-inline:auto}
+.hero-cta small{display:none}
+.campaign-name{align-items:center}
+.offer-top{flex-direction:column;justify-content:center}
+.lesson-steps li{flex-direction:column;align-items:center}
+.lesson-steps li>div{width:100%}
+.faq summary{padding-inline:28px}
+.lesson-support{border-left:0;border-top:3px solid var(--amber);border-radius:12px}
+}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
