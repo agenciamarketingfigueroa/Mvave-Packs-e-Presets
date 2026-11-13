@@ -1,0 +1,43 @@
+40 CRIATIVOS — PACKS DE IRs E GUIA DE BOLSO DO TIMBRE
+Rodada: 13/11/2026
+Formato: imagens quadradas 1:1, PNG, resolução nativa de geração.
+
+Sequências:
+Guitarra CG21–CG30 — 7.450 IRs
+Baixo CB21–CB30 — 2.179 IRs
+Violão CV21–CV30 — 227 IRs
+Guia GG21–GG30 — 41 páginas
+
+Nos packs:
+21: pedal ambientado no palco
+22: mulher tocando no estúdio
+23: 70% OFF
+24: mulher tocando no palco + desconto
+25: pedal no pedestal
+26: detalhe do pedal + desconto
+27: mulher tocando em casa
+28: lembrete inspirado no iPhone
+29: conversa ilustrativa no estilo ChatGPT
+30: designer de férias, texto simples em fundo branco
+
+Guia:
+21: 41 páginas
+22: mulher tocando guitarra
+23: consulta no celular
+24: mulher tocando baixo
+25: cadeia de sinal
+26: checklist de palco
+27: mulher tocando violão
+28: lembrete
+29: conversa ilustrativa
+30: designer de férias
+
+Artes sem extensões de arquivos. O guia é anunciado como guia digital.
+O desconto de 70% é usado apenas nos packs.
+As 4.208 unidades extras do pack de guitarra não foram somadas à quantidade de IRs destacada.
+As conversas são peças publicitárias ilustrativas.
+Imagens produzidas com a ferramenta integrada Imagegen, usando referências de equipamentos e a capa existente do guia. Não foi usada API/CLI alternativa.
+manifesto.json contém os prompts finais, as referências e a correspondência de todos os arquivos.
+verificacao.json registra as dimensões e a conferência do formato quadrado.
+Abra index.html para visualizar a galeria local.
+

@@ -1,0 +1,242 @@
+﻿[
+    {
+        "file":  "guitarra/CG21-palco.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guitarra/CG22-musicista-estudio.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guitarra/CG23-70-off.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guitarra/CG24-musicista-palco.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guitarra/CG25-pedal-pedestal.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guitarra/CG26-pedal-close.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guitarra/CG27-musicista-casa.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guitarra/CG28-lembrete-iphone.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guitarra/CG29-chat-gpt.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guitarra/CG30-designer-ferias.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "baixo/CB21-palco.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "baixo/CB22-musicista-estudio.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "baixo/CB23-70-off.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "baixo/CB24-musicista-palco.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "baixo/CB25-pedal-pedestal.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "baixo/CB26-pedal-close.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "baixo/CB27-musicista-casa.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "baixo/CB28-lembrete-iphone.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "baixo/CB29-chat-gpt.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "baixo/CB30-designer-ferias.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "violao/CV21-palco.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "violao/CV22-musicista-estudio.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "violao/CV23-70-off.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "violao/CV24-musicista-palco.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "violao/CV25-pedal-pedestal.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "violao/CV26-pedal-close.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "violao/CV27-musicista-casa.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "violao/CV28-lembrete-iphone.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "violao/CV29-chat-gpt.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "violao/CV30-designer-ferias.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guia/GG21-41-paginas.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guia/GG22-musicista-guitarra.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guia/GG23-guia-no-celular.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guia/GG24-musicista-baixo.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guia/GG25-cadeia-sinal.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guia/GG26-checklist-palco.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guia/GG27-musicista-violao.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guia/GG28-lembrete-iphone.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guia/GG29-chat-gpt.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    },
+    {
+        "file":  "guia/GG30-designer-ferias.png",
+        "width":  1254,
+        "height":  1254,
+        "square":  true
+    }
+]
