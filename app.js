@@ -437,8 +437,8 @@ function header(active, solid) {
     "<header class='site-header " + (solid ? "is-solid" : "") + "'>" +
       "<div class='container nav-wrap'>" +
         "<a class='brand' href='/' aria-label='M-Vave BR - início'><img src='/assets/img/Logo%20Home/Logo%20Site%20Mvave%20Amarela%20e%20Branca.png' width='300' height='70' decoding='async' alt='M-Vave BR — Pack de IR e Presets'></a>" +
-        "<button class='menu-toggle' aria-label='Abrir menu' aria-expanded='false'><span>☰</span></button>" +
-        "<nav class='nav-links' aria-label='Navegação principal'>" +
+        "<button class='menu-toggle' type='button' aria-label='Abrir menu' aria-expanded='false' aria-controls='site-navigation'><span aria-hidden='true'>☰</span></button>" +
+        "<nav id='site-navigation' class='nav-links' aria-label='Navegação principal'>" +
           nav.map(function(item) {
             return "<a href='" + item[1] + "'" + (active === item[0] || (item[0] === "packs" && productActive) ? " aria-current='page'" : "") + ">" + item[2] + "</a>";
           }).join("") +
@@ -1810,16 +1810,43 @@ function bindContentHub() {
 function bindInteractions() {
   const toggle = document.querySelector(".menu-toggle");
   if (toggle) {
-    toggle.addEventListener("click", function() {
-      const open = document.body.classList.toggle("menu-open");
+    const navigation = document.getElementById("site-navigation");
+    const siteHeader = toggle.closest(".site-header");
+    const mobile = window.matchMedia("(max-width: 900px)");
+    // A non-modal disclosure: background scrolling and normal Tab order remain available.
+    function setMenuOpen(open, returnFocus) {
+      open = open && mobile.matches;
+      document.body.classList.toggle("menu-open", open);
       toggle.setAttribute("aria-expanded", String(open));
+      toggle.setAttribute("aria-label", open ? "Fechar menu" : "Abrir menu");
       toggle.querySelector("span").textContent = open ? "×" : "☰";
+      if (returnFocus) toggle.focus();
+    }
+    toggle.addEventListener("click", function() {
+      setMenuOpen(toggle.getAttribute("aria-expanded") !== "true", false);
     });
-    document.querySelectorAll(".nav-links a").forEach(function(link) {
+    navigation.querySelectorAll("a").forEach(function(link) {
       link.addEventListener("click", function() {
-        document.body.classList.remove("menu-open");
-        toggle.setAttribute("aria-expanded", "false");
+        setMenuOpen(false, mobile.matches);
       });
+    });
+    document.addEventListener("keydown", function(event) {
+      if (event.key === "Escape" && toggle.getAttribute("aria-expanded") === "true") {
+        event.preventDefault();
+        setMenuOpen(false, true);
+      }
+    });
+    document.addEventListener("click", function(event) {
+      if (!siteHeader.contains(event.target)) setMenuOpen(false, false);
+    });
+    siteHeader.addEventListener("focusout", function(event) {
+      if (event.relatedTarget && !siteHeader.contains(event.relatedTarget)) setMenuOpen(false, false);
+    });
+    mobile.addEventListener("change", function() {
+      const focusInNavigation = navigation.contains(document.activeElement);
+      const focusOnToggle = document.activeElement === toggle;
+      setMenuOpen(false, mobile.matches && focusInNavigation);
+      if (!mobile.matches && focusOnToggle) navigation.querySelector("a").focus();
     });
   }
   document.querySelectorAll("[data-year]").forEach(function(node) {
